@@ -2,11 +2,7 @@
   <img src="logo.png" alt="RAGPhoto Logo" width="200">
 </p>
 
-<h1 align="center">RAGPhoto</h1>
-
-<p align="center">
-  Agentic Retrieval-Augmented Generation for Traceable Organic Photovoltaic Literature Question Answering
-</p>
+<h1 align="center">RAGPhoto: Agentic RAG for Organic Photovoltaic Literature QA</h1>
 
 RAGPhoto is an agentic retrieval-augmented generation framework for traceable question answering over the organic photovoltaic (OPV) literature. It couples a **Milvus vector store** (64,343 section-aware chunks from 1,738 publications) with a **Neo4j domain knowledge graph** (76,520 entities, 363,948 relations) through **reflective multi-turn orchestration**, and serves answers with full source attribution via a Streamlit web interface.
 
