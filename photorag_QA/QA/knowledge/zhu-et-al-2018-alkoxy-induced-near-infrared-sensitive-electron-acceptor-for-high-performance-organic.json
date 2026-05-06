@@ -1,0 +1,158 @@
+{
+  "paper_id": "zhu-et-al-2018-alkoxy-induced-near-infrared-sensitive-electron-acceptor-for-high-performance-organic",
+  "paper_title": "Alkoxy-Induced Near-Infrared Sensitive Electron Acceptor for HighPerformance Organic Solar Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/zhu-et-al-2018-alkoxy-induced-near-infrared-sensitive-electron-acceptor-for-high-performance-organic-solar-cells/auto/zhu-et-al-2018-alkoxy-induced-near-infrared-sensitive-electron-acceptor-for-high-performance-organic-solar-cells.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "IOIC3 is a fused-ring electron acceptor (FREA) based on a naphtho[1,2-b:5,6-b']dithiophene (NDT) core substituted with hexyloxy side-chains, designed to extend absorption into the near-infrared region compared to its alkyl-substituted counterpart IOIC2.",
+      "evidence": "Here, to extend absorption of IOIC2 into the NIR region, we used hexyloxy groups to replace hexyl substituents on NDT and synthesized a new FREA, IOIC3 (Figure 1a).",
+      "complexity": "single-hop",
+      "keywords": [
+        "IOIC3",
+        "naphtho[1,2-b:5,6-b']dithiophene",
+        "alkoxy side-chains",
+        "molecular design"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The introduction of oxygen atoms in IOIC3 induces a π conjugative effect and a σ inductive effect, which upshifts the HOMO level to -5.38 eV and downshifts the LUMO level to -3.84 eV relative to IOIC2 (HOMO = -5.41 eV, LUMO = -3.78 eV).",
+      "evidence": "Because of π conjugative effect and σ inductive effect of the oxygen atoms, IOIC3 exhibits a slightly upshifted HOMO level (−5.38 eV) and a downshifted LUMO level (−3.84 eV) relative to IOIC2 (Δ' HOMO = −5.41 eV, LUMO = −3.78 eV)",
+      "complexity": "multi-hop",
+      "keywords": [
+        "energy level engineering",
+        "HOMO",
+        "LUMO",
+        "inductive effect",
+        "conjugative effect"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "IOIC3 exhibits a narrower optical bandgap of 1.45 eV (absorption edge at 855 nm) compared to IOIC2, which has a bandgap of 1.54 eV.",
+      "evidence": "leading to red-shifted absorption and smaller optical bandgap of 1.45 eV than that of IOIC2 (1.54 eV). ... The optical bandgap of IOIC3 film is 1.45 eV calculated from the absorption edge (855 nm)",
+      "complexity": "single-hop",
+      "keywords": [
+        "optical bandgap",
+        "absorption edge",
+        "near-infrared",
+        "IOIC3"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The electron mobility of neat IOIC3 measured by the space charge limited current (SCLC) method is 1.5 × 10⁻³ cm² V⁻¹ s⁻¹, which is higher than that of IOIC2 (1.0 × 10⁻³ cm² V⁻¹ s⁻¹).",
+      "evidence": "IOIC3 exhibits a higher electron mobility of 1.5 × 10⁻³ cm² V⁻¹ s⁻¹ than IOIC2 (1.0 × 10⁻³ cm² V⁻¹ s⁻¹).",
+      "complexity": "single-hop",
+      "keywords": [
+        "electron mobility",
+        "SCLC",
+        "charge transport",
+        "IOIC3"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Organic solar cells based on the PTB7-Th:IOIC3 blend achieved a peak power conversion efficiency (PCE) of 13.1%, with a short-circuit current (Jsc) of 22.9 mA cm⁻², an open-circuit voltage (Voc) of 0.762 V, and a fill factor (FF) of 74.9%.",
+      "evidence": "Organic solar cells (OSCs) based on PTB7-Th:IOIC3 exhibit power conversion efficiency (PCE) as high as 13.1%... the PTB7-Th:IOIC3-based device exhibits a lower Voc of 0.762 V, notably higher Jsc of 22.9 mA cm−2 and notably higher FF of 74.9%",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "PTB7-Th",
+        "IOIC3",
+        "Jsc",
+        "FF"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Semitransparent organic solar cells (ST-OSCs) using PTB7-Th:IOIC3 achieved a PCE of 10.8% with an average visible transmittance (AVT) of 16.4%, outperforming PTB7-Th:IOIC2 devices (7.32% PCE, 13.1% AVT).",
+      "evidence": "The semitransparent OSCs based on PTB7-Th:IOIC3 afford PCEs of up to 10.8% with an average visible transmittance (AVT) of 16.4% higher than those of PTB7-Th:IOIC2 (PCE = 7.32% AVT = 13.1%)",
+      "complexity": "multi-hop",
+      "keywords": [
+        "semitransparent organic solar cells",
+        "AVT",
+        "PCE",
+        "ST-OSC"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "For the semitransparent device architecture, an ultrathin Au (1 nm) layer is used as a seed layer before depositing Ag (20 nm) to form dense nucleation centers, improving Ag film uniformity and reducing electrical resistance.",
+      "evidence": "The ultrathin Au (1 nm) forms dense nucleation centers, which reduce percolation of Ag film and enhance the Ag film uniformity, leading to optimal transmittance and low electrical resistance.",
+      "complexity": "single-hop",
+      "keywords": [
+        "device architecture",
+        "top electrode",
+        "Au seed layer",
+        "Ag film"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The PTB7-Th:IOIC3 blend exhibits higher and more balanced charge mobilities (μh = 9.1 × 10⁻⁴, μe = 3.7 × 10⁻⁴ cm² V⁻¹ s⁻¹, ratio = 2.5) compared to the PTB7-Th:IOIC2 blend (ratio = 6.9), contributing to its higher fill factor.",
+      "evidence": "The PTB7-Th:IOIC3 blended film with 0.2% DIO exhibits higher and more balanced charge mobilities (μh = 9.1 × 10⁻⁴ cm² V⁻¹ s⁻¹, μe = 3.7 × 10⁻⁴ cm² V⁻¹ s⁻¹, μh/μe = 2.5). The higher and more balanced charge mobilities are responsible for the higher FF in the PTB7-Th:IOIC3-based devices.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "charge mobility",
+        "mobility balance",
+        "fill factor",
+        "PTB7-Th"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Grazing-incidence wide-angle X-ray scattering (GIWAXS) reveals that IOIC3 has a higher crystalline correlation length (CCL) of 2.5 nm compared to IOIC2 (2.3 nm), indicating higher crystallinity in the neat film.",
+      "evidence": "CCL of IOIC3 is 2.5 nm, while CCL of IOIC2 is 2.3 nm suggesting higher crystallinity of IOIC3, which partly contributes to the higher mobility of IOIC3.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "crystallinity",
+        "CCL",
+        "Scherrer's equation"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GISAXS measurements and fitting show that the average acceptor domain sizes in PTB7-Th:IOIC2 and PTB7-Th:IOIC3 blended films are 8.8 nm and 9.1 nm, respectively, which are suitable for efficient exciton dissociation.",
+      "evidence": "the average acceptor domain sizes are 8.8 and 9.1 nm (within a reasonable range for efficient exciton dissociation) for PTB7-Th:IOIC2 and PTB7-Th:IOIC3 blended films with 0.2% DIO, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GISAXS",
+        "phase separation",
+        "domain size",
+        "exciton dissociation"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Optimized device performance for both IOIC2 and IOIC3 based OSCs was achieved at a donor/acceptor (D/A) weight ratio of 1:1.5 with the addition of 0.2% 1,8-diiodooctane (DIO) as a solvent additive.",
+      "evidence": "Table 1 summarizes the Voc, Jsc, FF, and PCE of the OSC devices at optimized D/A weight ratio of 1:1.5, with 0.2% DIO additive.",
+      "complexity": "single-hop",
+      "keywords": [
+        "solvent additive",
+        "DIO",
+        "D/A ratio",
+        "device optimization"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "IOIC3 demonstrates high thermal stability with a 5% weight loss decomposition temperature (Td) of 397 °C, which is slightly higher than that of IOIC2 (384 °C).",
+      "evidence": "IOIC3 has excellent thermal stability with decomposition temperature (Td 5% weight loss) of 397 °C (Figure S1), which is slightly higher than that of IOIC2 (384 °C).",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "TGA",
+        "decomposition temperature",
+        "IOIC3"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 13857,
+    "completion_tokens": 4009,
+    "total_tokens": 17866
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "paper_id": "Aggregate_-_2022_-_Gao_-_A_generic_approach_yields_organic_solar_cells_with_enhanced_efficiency_and_",
+  "paper_title": "A generic approach yields organic solar cells with enhanced efficiency and thermal stability",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Aggregate - 2022 - Gao - A generic approach yields organic solar cells with enhanced efficiency and thermal stability/auto/Aggregate - 2022 - Gao - A generic approach yields organic solar cells with enhanced efficiency and thermal stability.md",
+  "knowledge_points": [
+    {
+      "category": "Characterization Methods",
+      "content": "Small-angle neutron scattering (SANS) requires a high scattering contrast (Δρ > 2 × 10⁻⁶ Å⁻²) between the polymer and solvent to accurately resolve solution-state structures, which is often unachievable with standard solvents like chloroform (CF) or o-dichlorobenzene (DCB).",
+      "evidence": "The Δρ values of these representative photovoltaic materials and common casting solvents are generally lower than 2 × 10−6 Å−2, which makes it challenging to analyze the SANS data... deuteration is a quite effective means to accurately reveal the solution structure of conjugated polymers.",
+      "complexity": "single-hop",
+      "keywords": [
+        "SANS",
+        "scattering contrast",
+        "deuteration",
+        "solution structure"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Deuterium substitution in organic solvents typically reduces the solubility parameter (δ) and increases the Flory-Huggins interaction parameter (χ), resulting in poorer miscibility between the polymer and the deuterated solvent compared to the protonated version.",
+      "evidence": "Deuterium substitution decreases the δ1, which in combination with the above equation yields an increase in the χ Thus, the deuterated solvent-polymer system is less miscible compared to the undeuterated solvent-polymer system.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "solubility parameter",
+        "Flory-Huggins parameter",
+        "miscibility",
+        "isotope effect"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The use of deuterated chloroform (CF-d) for PTVT-T films results in higher crystallization (Tc = 292.9 °C) and melting temperatures (Tm = 396.4 °C) compared to standard chloroform (Tc = 290.7 °C, Tm = 365.6 °C), indicating more stable crystalline forms.",
+      "evidence": "Figure 2A depicted that the thin film processed by CF-d has higher crystallization temperature (Tc = 292.9 °C) and melting temperature (Tm = 396.4 °C) compared with CF fabricated films (Tc = 290.7 °C, Tm = 365.6 °C).",
+      "complexity": "single-hop",
+      "keywords": [
+        "fast scanning calorimetry",
+        "crystallization temperature",
+        "melting temperature",
+        "PTVT-T"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Films processed with deuterated solvents exhibit enhanced π-π stacking and higher relative degree of crystallinity (rDoC); for PTVT-T, the π-π stacking peak area in the out-of-plane direction is approximately 1.7 times larger when processed with CF-d compared to CF.",
+      "evidence": "CF-d processed films had stronger π-π stacking of backbone and a higher degree of self-organization... the π-π stacking peak area of CF-d film is about 1.7 times that of CF film, as reflected in Figure 2D.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "π-π stacking",
+        "crystallinity",
+        "rDoC"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "PTVT-T:BTP-eC9 organic solar cells processed with CF-d achieved a power conversion efficiency (PCE) of 14.96%, surpassing the 14.03% achieved with standard CF, primarily due to improvements in fill factor (FF) and short-circuit current (JSC).",
+      "evidence": "the best performing device based on CF as the solvent delivered an optimized PCE of 14.03%... While the optimized photovoltaic devices processed with CF-d attained an enhanced PCE of 14.96% with an increased FF of 74.7% JSC of 24.73 mA cm−2.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "PTVT-T:BTP-eC9",
+        "fill factor",
+        "short-circuit current"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Processing the PTVT-T:BTP-eC9 active layer with CF-d increases the extrapolated T80 thermal stability lifetime at 85 °C to approximately 8000 hours, which is nearly nine times higher than the lifetime of devices processed with standard CF.",
+      "evidence": "the CF-d-based devices... exhibited an extrapolated T80 lifetime of up to 8000 h... By comparison, the T80 of CF-based devices under the same annealing conditions is about one-ninth of that of CF-d-based devices.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "T80 lifetime",
+        "device aging",
+        "CF-d"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The hole mobility (μh) of PTVT-T neat films increases from 7.3 × 10⁻⁴ cm² V⁻¹ s⁻¹ when processed with CF to 1.1 × 10⁻³ cm² V⁻¹ s⁻¹ when processed with CF-d.",
+      "evidence": "The μh of PTVT-T neat film prepared with CF and CF-d were 7.3 × 10−4 cm2 V−1 s−1, and 1.1 × 10−3 cm2 V−1 s−1 respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "hole mobility",
+        "charge transport",
+        "PTVT-T",
+        "SCLC"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Power spectral density (PSD) analysis of TEM images can be used to characterize phase purity in OSC blend films, with higher integrated intensity indicating higher purity and clearer phase interfaces.",
+      "evidence": "the integrated intensity from TEM PSD profiles could characterize the phase purity of the films to a certain extent... the blend film processed by CF-d had clear phase interfaces, slightly higher contrast, and integrated intensity from TEM PSD.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "TEM",
+        "Power Spectral Density",
+        "phase purity",
+        "morphology"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The P3HT:O-IDTBR system reached a record-high efficiency of 7.69% when processed using the deuterated solvent CF-d.",
+      "evidence": "We have also verified the effectiveness of deuterated solvents to enhance device performance in the classical P3HT:O-IDTBR system, which also yields a promising efficiency of over 7.69%... 7.69% is above the prior record for P3HT:O-IDTBR system.",
+      "complexity": "single-hop",
+      "keywords": [
+        "P3HT:O-IDTBR",
+        "PCE",
+        "record efficiency",
+        "CF-d"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Deuterated solvents promote a higher percentage of 'face-on' molecular orientation in blend films; for example, PTVT-T:BTP-eC9 films processed with CF-d showed 73% face-on orientation compared to 62% for CF-processed films.",
+      "evidence": "The film processed by CF-d exhibited a higher percentage of face-on orientation (73%) than CF-derived film (62%).",
+      "complexity": "single-hop",
+      "keywords": [
+        "molecular orientation",
+        "face-on",
+        "GIWAXS",
+        "PTVT-T:BTP-eC9"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The isotopic effect on device performance and morphology is not limited to chloroform; using deuterated o-dichlorobenzene (DCB-d) for PTVT-T:BTP-eC9 also resulted in higher JSC and a PCE of 15.75% compared to 14.89% for standard DCB.",
+      "evidence": "the PTVT-T:BTP-eC9 devices employing by DCB-d solvent afforded a higher JSC and PCE (Figure 7I)... DCB-d [PCE] (15.75%) [vs] DCB (14.89%).",
+      "complexity": "single-hop",
+      "keywords": [
+        "DCB-d",
+        "solvent selection",
+        "JSC",
+        "PCE"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 15488,
+    "completion_tokens": 3195,
+    "total_tokens": 18683
+  }
+}

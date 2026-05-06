@@ -1,0 +1,148 @@
+{
+  "paper_id": "Advanced_Materials_-_2018_-_Chen_-_NearInfrared_Electron_Acceptors_with_Fluorinated_Regioisomeric_Ba",
+  "paper_title": "Near-Infrared Electron Acceptors with Fluorinated Regioisomeric Backbone for Highly Efficient Polymer Solar Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Materials - 2018 - Chen - Near‐Infrared Electron Acceptors with Fluorinated Regioisomeric Backbone for Highly/auto/Advanced Materials - 2018 - Chen - Near‐Infrared Electron Acceptors with Fluorinated Regioisomeric Backbone for Highly.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The NIR nonfullerene acceptors T1-T4 utilize an A-Aπ-D-Aπ-A backbone structure where indacenodithiophene (IDT) serves as the donor core, 1,1-dicyanomethylene-3-indanone (IC) as the terminal acceptor, and fluorothieno[3,4-b]thiophene (FTT) as the regioisomeric bridge.",
+      "evidence": "four new NIR NFAs with fuorinated regioisomeric A-Aπ-D-Aπ-A backbone, including IFIC-i-2F (T1), IFIC-i-4F (T2), IFIC-i-6F (T3), and IFIC-o-4F (T4) are developed... indacenodithiophene (IDT, D) electron-donating core connects to electron-withdrawing 1,1-dicyanomethylene-3-indanone (IC, A), through an unsymmetrical fluorothieno[3,4-b]thiophene (FTT, Aπ) bridge.",
+      "complexity": "single-hop",
+      "keywords": [
+        "A-Aπ-D-Aπ-A",
+        "regioisomeric bridge",
+        "FTT",
+        "IDT",
+        "nonfullerene acceptor"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "A single-junction polymer solar cell based on the PTB7-Th:T2 blend achieved a power conversion efficiency (PCE) of 10.87% with a short-circuit current (JSC) of 24.85 mA cm⁻², an open-circuit voltage (VOC) of 0.65 V, and a fill factor (FF) of 0.67 after optimization with 1% 1-chloronaphthalene (CN).",
+      "evidence": "The optimal performance for T2:PTB7-Th-based PSCs can be further improved by proceeding with 1% 1-chloronaphthalene (CN) as the solvent additive, showing impressive PCE of 10.87% with high JSC of 24.85 mA cm⁻², VOC of 0.65 V, and FF of 0.67.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "PTB7-Th",
+        "T2",
+        "1-chloronaphthalene",
+        "JSC"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Proximal regioisomers (T1-T3), where the fluorine atom on the FTT bridge points toward the IDT core, exhibit higher backbone rigidity and planarity compared to the distal isomer (T4) due to intramolecular F-S and F-H interactions.",
+      "evidence": "The proximal (or distal) isomer refers to fluoro (F)-atom on FTT pointing to (or away) IDT in IFIC structure... the close junction of F-atom in FTT to IDT in proximal NFA promotes intramolecular F-S/F-H interaction. And thus the proximal NFA has a more rigid and planar molecular skeleton over distal NFA.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "regioisomer",
+        "proximal",
+        "distal",
+        "planarity",
+        "noncovalent interactions"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The proximal NFA T2 possesses an upshifted LUMO level (-3.96 eV) compared to the distal NFA T4 (-4.01 eV) because the proximal arrangement avoids extended conjugation with the electron-withdrawing ester and double bond of the FTT bridge.",
+      "evidence": "the proximal T2 (-3.96 eV) has an upshifted LUMO than that of distal T4 (-4.01 eV). It can be ascribed to the proximal bridge isomer avoiding further conjugating electron-withdrawing ester and double bond on FTT with terminal IC unit.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "LUMO",
+        "energy level engineering",
+        "conjugation",
+        "regioisomer"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Tandem polymer solar cells integrating a PBDB-T:ITIC front subcell and a PTB7-Th:T2 rear subcell achieved a power conversion efficiency of 14.64% with a VOC of 1.56 V.",
+      "evidence": "efficient tandem solar cells can be constructed by integrating NIR-absorbed IFIC-4F (T2): PTB7-Th subcell with mediate bandgap ITIC:PBDB-T subcell... high PCE of 14.64% is achieved... VOC of 1.56 V.",
+      "complexity": "single-hop",
+      "keywords": [
+        "tandem solar cell",
+        "PCE",
+        "PBDB-T:ITIC",
+        "PTB7-Th:T2"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The use of 1% v/v 1-chloronaphthalene (CN) as a solvent additive in PTB7-Th:T2 blends optimizes morphology by inducing proper phase separation with an average domain size of approximately 20 nm, as confirmed by photoinduced force microscopy (PiFM).",
+      "evidence": "proper phase separation in PTB7-Th:T2 blend is gauged from PiFM measurements that exhibit an average domain size ≈20 nm at top surface of blend film when processed with 1% v/v CN additive.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "solvent additive",
+        "1-chloronaphthalene",
+        "phase separation",
+        "domain size",
+        "PiFM"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis reveals that both T2 and T4 NFAs adopt a predominantly face-on orientation, but the proximal isomer T2 shows a shorter π-π stacking distance of 3.49 Å compared to 3.55 Å for the distal isomer T4.",
+      "evidence": "T2 (IFIC-i-4F) and T4 (IFIC-o-4F) samples... take predominantly face-on orientation... reflection (010) peak could be observed at 1.80 Å⁻¹ for T2, which corresponds to the d-spacing for π-π stacking of 3.49 Å. However, T4 shows... d-spacing of 3.55 Å.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "GIWAXS",
+        "face-on orientation",
+        "π-π stacking",
+        "d-spacing"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The tandem device employs a functional interconnecting layer (ICL) consisting of MoO3/ultrathin Ag (7 nm)/ZnO-NP/PFN-Br to ensure efficient charge recombination and quasi-ohmic contact between the subcells.",
+      "evidence": "A functional interconnecting layer (ICL) is fabricated in the structure of MoO3/ultrathin Ag/zinc oxide nanoparticle (ZnO-NP)/poly[(9,9-bis(3-(N,N-dimethylammonium)-propyl)-2,7-fluorene)-alt-2,7-(9,9-dioctyl-fluorene)] Bromide (PFN-Br)... highest performance... under 7 nm silver layer in the ICL.",
+      "complexity": "single-hop",
+      "keywords": [
+        "interconnecting layer",
+        "ICL",
+        "tandem",
+        "charge recombination"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The electron mobility of proximal NFA blends (T1-T3) is roughly one order of magnitude higher than that of the distal NFA blend (T4), with T3 reaching a value of 7.88 × 10⁻⁴ cm² V⁻¹ s⁻¹.",
+      "evidence": "the proximal T1-T3 blends (2.26 × 10⁻⁴, 4.68 × 10⁻⁴, and 7.88 × 10⁻⁴ cm² V⁻¹ s⁻¹, respectively) show one order of magnitude higher electron mobility than the distal T4 (0.34 × 10⁻⁴ cm² V⁻¹ s⁻¹).",
+      "complexity": "single-hop",
+      "keywords": [
+        "electron mobility",
+        "SCLC",
+        "proximal",
+        "distal"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "DFT calculations show that the dihedral angle between the terminal IC and the FTT bridge is significantly smaller in proximal NFAs (0.22°) than in distal NFAs (5.84°), contributing to a more planar backbone.",
+      "evidence": "The dihedral angles between terminal IC and FTT are 0.22° (proximal IFIC-i-2F) and 5.84° (distal IFIC-o-2F), respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DFT",
+        "dihedral angle",
+        "planarity",
+        "molecular conformation"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Increasing the fluorine content on the NFA backbone (from T1 to T3) results in a consistent downshift of LUMO levels from -3.91 eV to -4.00 eV and a reduction in the optical bandgap from 1.34 eV to 1.27 eV.",
+      "evidence": "LUMOs (-3.91 eV of T1, -3.96 eV of T2, -4.00 eV of T3... are downshifted with the increase of F-contents... film absorption onsets of T1, T2, T3... corresponding to the Eg of 1.34, 1.30, 1.27... eV.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "fluorination",
+        "LUMO",
+        "bandgap",
+        "energy levels"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 13376,
+    "completion_tokens": 3603,
+    "total_tokens": 16979
+  }
+}

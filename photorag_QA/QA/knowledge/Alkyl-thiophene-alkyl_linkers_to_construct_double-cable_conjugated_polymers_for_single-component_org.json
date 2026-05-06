@@ -1,0 +1,154 @@
+{
+  "paper_id": "Alkyl-thiophene-alkyl_linkers_to_construct_double-cable_conjugated_polymers_for_single-component_org",
+  "paper_title": "Alkyl-thiophene-alkyl linkers to construct double-cable conjugated polymers for single-component organic solar cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Alkyl-thiophene-alkyl linkers to construct double-cable conjugated polymers for single-component organic solar cells/auto/Alkyl-thiophene-alkyl linkers to construct double-cable conjugated polymers for single-component organic solar cells.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "A semirigid linker strategy using 2,5-disubstituted alkyl-thiophene-alkyl structures was developed to incorporate long alkyl chains into double-cable polymers while maintaining solubility in organic solvents.",
+      "evidence": "In this work, semirigid linkers of the alkyl-thiophene-alkyl structure are developed to construct doublecable polymers... This molecular design provided a route to realize long linkers with improved solubility in common organic solvents.",
+      "complexity": "single-hop",
+      "keywords": [
+        "semirigid linkers",
+        "alkyl-thiophene-alkyl",
+        "double-cable polymers",
+        "solubility"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The double-cable polymer PBC12-T, featuring a hexyl-thiophene-hexyl linker, achieved a maximum power conversion efficiency (PCE) of 5.56% with a short-circuit current density (JSC) of 9.78 mA/cm² and a fill factor (FF) of 0.61.",
+      "evidence": "PBC12-T which uses C6H12-thiophene-C6H12 linkers is found to exhibit the best device efficiency of 5.56% while PBC6-T and PBC24-T... yield device efficiencies of only 2.65% and 1.09%... PBC12-T-based SCOSCs exhibited a higher JSC of 9.78 mA/cm2 and FF of 0.61.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "PBC12-T",
+        "JSC",
+        "Fill Factor"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Intermediate linker lengths in double-cable polymers (like the hexyl-thiophene-hexyl in PBC12-T) promote higher crystallinity and improved charge transport compared to shorter (propyl) or longer (dodecyl) linkers.",
+      "evidence": "PBC12-T is found to exhibit the best device efficiency... Further studies reveal that PBC12-T exhibits higher crystallinity and improved charge transport, resulting in better efficiencies.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "linker length",
+        "crystallinity",
+        "charge transport",
+        "structure-property relationship"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The hole mobilities of the double-cable polymers follow the order of PBC12-T (5.1 × 10⁻³ cm² V⁻¹ s⁻¹) > PBC6-T (2.3 × 10⁻³ cm² V⁻¹ s⁻¹) > PBC24-T (6.4 × 10⁻⁵ cm² V⁻¹ s⁻¹).",
+      "evidence": "The calculated hole mobilities (μh) are plotted in Fig. 2d and summarized also in Table 2. The OFET based on PBC6-T showed a relatively high μh of 2.3 × 10-3 cm2 V-1 s-1, which was enhanced to 5.1 × 10-3 cm2 V-1 s-1 for PBC12-T based devices and decreased to 6.4 × 10-5 cm2 V-1 s-1 for PBC24-T.",
+      "complexity": "single-hop",
+      "keywords": [
+        "hole mobility",
+        "OFET",
+        "PBC12-T",
+        "PBC24-T"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIMAXS measurements show that the lamellar d-spacing in the alkyl chain direction increases from 37.0 Å for PBC6-T to 45.5 Å for PBC12-T and 58.2 Å for PBC24-T as the linker length increases.",
+      "evidence": "the calculated lamellar d-spacing in the alkyl chain direction increased significantly from 37.0 Å for PBC6-T to 45.5 Å for PBC12-T and to 58.2 Å for PBC24-T, respectively, as a consequence of the increased linker lengths.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIMAXS",
+        "d-spacing",
+        "lamellar packing",
+        "linker length"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "In SCOSCs based on these double-cable polymers, charge generation is typically concluded within 20–30 ps, regardless of the linker length used.",
+      "evidence": "However, in all samples, the charge generation is concluded within ~20-30 ps.",
+      "complexity": "single-hop",
+      "keywords": [
+        "charge generation",
+        "transient absorption",
+        "exciton dynamics"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Excessively long linkers (e.g., dodecyl-thiophene-dodecyl in PBC24-T) disrupt the interaction between the donor and acceptor segments and result in a significantly lower coherence length (3.16 nm) compared to PBC12-T (10.5 nm).",
+      "evidence": "The PBC12-T-based films exhibited the largest coherence length (CL) value of 10.5 nm compared to PBC6-T (7.84 nm) and PBC24-T (3.16 nm)... excessively long linkers corrupt the interaction between the donor and acceptor parts.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "coherence length",
+        "PBC24-T",
+        "molecular packing",
+        "GIWAXS"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The optimal processing conditions for the SCOSC active layers involved using toluene as the solvent with 0.5 vol% 1,8-diiodooctane (DIO) additive and thermal annealing at 150 °C for 10 minutes.",
+      "evidence": "the highest performance SCOSCs were obtained from toluene solution with 0.5 vol% 1,8-diiodooctane (DIO) as an additive and thermal annealing at 150 °C for 10 min.",
+      "complexity": "single-hop",
+      "keywords": [
+        "processing additive",
+        "DIO",
+        "thermal annealing",
+        "toluene"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The double-cable polymers exhibit high thermal stability with a 5% weight loss temperature exceeding 400 °C as determined by thermal gravimetric analysis (TGA).",
+      "evidence": "The excellent thermal stability of these polymers was demonstrated by thermal gravimetric analysis (TGA) measurements with only 5% weight loss at above 400 °C.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "TGA",
+        "decomposition temperature"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis revealed that all three double-cable polymers (PBC6-T, PBC12-T, PBC24-T) preferentially adopt a 'face-on' orientation in thin films.",
+      "evidence": "From the GIWAXS patterns in Figs. 4a-c, it appears that all three polymers preferentially show a “face-on” orientation with inplane (IP) lamellar (h00) peaks and out-of-plane (OOP) π-π stacking (010) peak.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "face-on orientation",
+        "molecular orientation",
+        "π-π stacking"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Transient absorption spectroscopy indicates that the PBC24-T polymer and bulk-heterojunction (BHJ) films suffer from faster charge carrier recombination compared to PBC12-T, which limits their photovoltaic performance.",
+      "evidence": "Clearly, the decay of the charge-induced absorption is slower for PB12-T than for PBC6-T. The charge carrier decay is even faster in PBC24-T and BHJ films.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "charge recombination",
+        "transient absorption",
+        "PBC24-T",
+        "recombination kinetics"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Atomic force microscopy (AFM) images show that PBC12-T films possess larger fiber-like grains and a higher root-mean-square (RMS) roughness of 0.82 nm compared to PBC6-T (0.58 nm) and PBC24-T (0.50 nm).",
+      "evidence": "the fibers in PBC6-T and PBC24-T films were significantly smaller with low root-meansquare (RMS) roughness of 0.58 nm and 0.50 nm... PBC12-T... showed larger microfibers in films with a higher RMS value of 0.82 nm.",
+      "complexity": "single-hop",
+      "keywords": [
+        "AFM",
+        "RMS roughness",
+        "morphology",
+        "microfibers"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 9513,
+    "completion_tokens": 3571,
+    "total_tokens": 13084
+  }
+}

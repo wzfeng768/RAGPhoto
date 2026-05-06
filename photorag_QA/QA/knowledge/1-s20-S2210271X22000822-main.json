@@ -1,0 +1,132 @@
+{
+  "paper_id": "1-s20-S2210271X22000822-main",
+  "paper_title": "Depicting the role of end-capped acceptors to amplify the photovoltaic properties of benzothiadiazole core-based molecules for high-performance organic solar cell applications",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/1-s2.0-S2210271X22000822-main/auto/1-s2.0-S2210271X22000822-main.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The study designs five new small molecules (T1-T5) using an A2-D-A1-D-A2 symmetry, where the central core (A1) is 5,6-Difluoro-benzo[1,2,5]thiadiazole and the donors (D) are alkyl-substituted bithiophenyl groups.",
+      "evidence": "The designed molecules possess core of fluorinated benzothiadiazole linked with thiophene donors, which are further linked with some influential acceptors, forming asymmetry of A2·D·A1·D·A2 molecule.",
+      "complexity": "single-hop",
+      "keywords": [
+        "benzothiadiazole",
+        "A-D-A structure",
+        "small molecule acceptors",
+        "molecular design"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "The CAM-B3LYP functional with the 6-31G (d, p) basis set was selected for calculations because it yielded a theoretical absorption maximum (475 nm) closest to the experimental value (520 nm) for the reference molecule.",
+      "evidence": "The CAM-B3LYP functional with 6-31G (d, p) basis set was considered as the most reliable method for more investigation because it has the λmax of 475 nm, which is the closest one to the experimentally performed value of 520 nm.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DFT",
+        "CAM-B3LYP",
+        "basis set validation",
+        "absorption spectrum"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The introduction of strong electron-withdrawing end-groups in the designed molecules results in a bathochromic shift of the absorption spectra, with T3 showing the largest redshift of 66 nm in chloroform compared to the reference molecule.",
+      "evidence": "Amongst all the altered molecules, T3 possesses the maximum redshift of 55 nm in the gaseous and 66 nm in the solvent phase.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "bathochromic shift",
+        "redshift",
+        "absorption spectrum",
+        "end-group engineering"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The T3 molecule, containing a 2-(1-Chloro-5-methylene-6-oxo-5,6-dihydro-cyclopenta[c]thiophen-4-ylidene)-malononitrile end-group, exhibits the smallest bandgap of 4.21 eV among all investigated molecules.",
+      "evidence": "Here, the existence of strong electron-withdrawing group 2-(1-Chloro-5-methylene-6-oxo-5,6-dihydro-cyclopenta[c]thiophen-4-ylidene)-malononitrile at the terminal site of the T3 molecule can be credited for its smallest bandgap (4.21 eV) amongst all.",
+      "complexity": "single-hop",
+      "keywords": [
+        "bandgap",
+        "T3 molecule",
+        "electron-withdrawing group",
+        "FMO"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The T1 molecule demonstrates the highest potential for charge carrier mobility due to having the lowest reorganization energy for both holes (0.01594 eV) and electrons (0.01723 eV).",
+      "evidence": "T1 with the least hole (λh = 0.01594) and electron (λe = 0.01723) reorganization energy values possesses better hole as well as electron mobility when compared with all other designed molecules.",
+      "complexity": "single-hop",
+      "keywords": [
+        "reorganization energy",
+        "charge mobility",
+        "T1 molecule",
+        "Marcus theory"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The T2 molecule achieves the highest light-harvesting efficiency (LHE) of 0.9996, which correlates to its maximum oscillator strength of 3.51.",
+      "evidence": "While, T2 molecule has the maximum oscillator strength f = (3.51) with the most efficient light-harvesting efficiency (LHE = 0.9996).",
+      "complexity": "single-hop",
+      "keywords": [
+        "light-harvesting efficiency",
+        "LHE",
+        "oscillator strength",
+        "T2 molecule"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Exciton binding energy (Eb) in the solvent phase is minimized at 1.92 eV for molecules T2, T3, and T4, suggesting these materials facilitate easier exciton dissociation compared to the reference molecule (1.98 eV).",
+      "evidence": "T2, T3, and T4 all have the lowest Eb values in solvent phase... T2 and T3 exhibit the smallest Eb values, so can be utilized as a proficient charge carrier specie for the achievement of high Voc, easiness in the generation and better dissociation of the exciton.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "exciton binding energy",
+        "exciton dissociation",
+        "Coulombic forces",
+        "solvent phase"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Density of States (DOS) analysis reveals that while the donor fragments primarily contribute to the HOMO, the contribution to the LUMO shifts from the central core (Acceptor 1) in the reference molecule to the end-groups (Acceptor 2) in molecules like T2 and T3.",
+      "evidence": "In the LUMO of T2 and T3 molecules, there was a greater contribution of Acceptor2 than the Acceptor1, while the HOMO was majorly contributed by the donor.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Density of States",
+        "DOS",
+        "fragmentation analysis",
+        "charge distribution"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The theoretical open-circuit voltage (Voc) of the designed molecules, when calculated with a PTB7-Th donor, ranges from 2.27 eV to 2.69 eV, with T4 providing the highest Voc.",
+      "evidence": "Additionally, the T4 molecule has a maximum open-circuit voltage (VOC) of 2.69 eV... theoretically calculated VOC for R molecule is 3.22 eV and for T1-T5 molecules 2.36, 2.27, 2.27, 2.69, and 2.65 eV respectively.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "open-circuit voltage",
+        "Voc",
+        "PTB7-Th",
+        "T4 molecule"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The interaction coefficient derived from the Transition Density Matrix (TDM) is lowest for the T3 molecule (0.5877), indicating the most effective charge mobility among the designed set.",
+      "evidence": "According to the abovementioned decreasing order, T3 has the smallest interaction coefficient (0.5877), hence it exhibits the best charge mobility amongst all the investigated molecules.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Transition Density Matrix",
+        "TDM",
+        "interaction coefficient",
+        "charge mobility"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 14640,
+    "completion_tokens": 3369,
+    "total_tokens": 18009
+  }
+}

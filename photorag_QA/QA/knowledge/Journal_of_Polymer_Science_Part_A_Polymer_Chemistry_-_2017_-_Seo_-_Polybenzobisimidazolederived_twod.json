@@ -1,0 +1,119 @@
+{
+  "paper_id": "Journal_of_Polymer_Science_Part_A_Polymer_Chemistry_-_2017_-_Seo_-_Polybenzobisimidazolederived_twod",
+  "paper_title": "Polybenzobisimidazole-Derived Two-Dimensional Supramolecular Polymer",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Journal of Polymer Science Part A  Polymer Chemistry - 2017 - Seo - Polybenzobisimidazole‐derived two‐dimensional/auto/Journal of Polymer Science Part A  Polymer Chemistry - 2017 - Seo - Polybenzobisimidazole‐derived two‐dimensional.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Supramolecular polybenzobisimidazole (SP-PBBI) is synthesized via a one-step condensation/precipitation polymerization of 2,3-dihydroxybenzene-1,4-dicarbaldehyde (monomer 1) and 3,6-diimino-1,4-cyclohexadiene-1,4-diamine (monomer 3) in N,N-dimethylformamide (DMF).",
+      "evidence": "Condensation of 1 and 3 allowed formation of two imine bonds and subsequent cyclization to a benzobisimidazole moiety... The reaction afforded a brown powder of as-synthesized 2DSP-PBBI in 89% yield.",
+      "complexity": "single-hop",
+      "keywords": [
+        "polybenzobisimidazole",
+        "precipitation polymerization",
+        "imine condensation",
+        "DMF"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The two-dimensional structure of SP-PBBI is stabilized by a combination of rigid linear polybenzobisimidazole (PBBI) chains, interchain hydrogen bonding, and interlayer π-π stacking.",
+      "evidence": "SP-PBBI features a regular arrangement of rigid linear PBBI chains stabilized by intramolecular hydrogen bonding within a planar sheet... 2DSP-PBBI also vertically grows into a 3D bulk, mainly driven by π-π stacking that exists between the aromatic PBBI backbones.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "hydrogen bonding",
+        "π-π stacking",
+        "supramolecular assembly",
+        "planar morphology"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The size of SP-PBBI crystal growth is controlled by employing nonisothermal conditions, where the temperature is gradually raised from 95 °C to 145 °C during the polymerization process to achieve larger sheets (> 1 μm).",
+      "evidence": "The PBBI crystals grew in larger sheets if the temperature was gradually raised in multiple stages... slow diffusion of building blocks and formation of dynamic intermolecular bonds under the gradual increments of temperature (95-145 °C) result in a slow nucleation and growth process.",
+      "complexity": "single-hop",
+      "keywords": [
+        "nonisothermal conditions",
+        "crystal growth",
+        "nucleation",
+        "precipitation polymerization"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The formation of the benzobisimidazole moiety in SP-PBBI is confirmed by FTIR spectroscopy through the appearance of an imine (C=N) stretch at 1641 cm⁻¹ and the absence of monomer-specific aldehyde and primary amine stretches.",
+      "evidence": "The FTIR spectrum [Fig. 1(a)] confirms the formation of an imine (C=N) stretch at a very intense peak of 1641 cm⁻¹ in the polymer sample while peaks characteristic to the monomers such as the aldehyde C-H stretch (2866 and 2769 cm⁻¹) of 1 and primary amine N-H stretch (3444 and 3417 cm⁻¹) of 3 are clearly absent.",
+      "complexity": "single-hop",
+      "keywords": [
+        "FTIR",
+        "imine stretch",
+        "benzobisimidazole",
+        "structural characterization"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Powder X-ray diffraction (PXRD) of SP-PBBI reveals distinct d-spacing values of 16.67, 8.43, 6.33, 5.86, and 3.31 Å, with the 3.31 Å value corresponding to the interlayer spacing (c-axis) from π-π stacking.",
+      "evidence": "As shown in the experimental PXRD spectrum [Fig. 1(c)], d spacing values corresponding to the well-defined peaks were found (16.67, 8.43, 6.33, 5.86, and 3.31 A)... we reason that the interlayer spacing (c axis) is 3.31 A, which is within van der Waals contact distances arising from the π-π stacking.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PXRD",
+        "d-spacing",
+        "interlayer spacing",
+        "crystallinity"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Exfoliated 2DSP-PBBI exhibits an estimated energy bandgap of 1.08 eV, determined from the intersection of its excitation (382 nm) and emission (512 nm) spectra.",
+      "evidence": "From the excitation (at 382 nm) and emission (at 512 nm) spectra, an energy band gap of 1.08 eV was calculated, indicating that exfoliated 2DSP-PBBI can be potentially semiconducting.",
+      "complexity": "single-hop",
+      "keywords": [
+        "bandgap",
+        "photoluminescence",
+        "semiconducting",
+        "optical properties"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "While undoped SP-PBBI films show negligible electrical current, doping the polymer with NaBF4 significantly increases its electrical conductivity.",
+      "evidence": "Although no significant electrical current was measured for undoped polymer... doping with NaBF4 dramatically increased the polymer conductivity (Supporting Information Fig. S9c).",
+      "complexity": "single-hop",
+      "keywords": [
+        "conductivity",
+        "doping",
+        "NaBF4",
+        "electrical properties"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The presence of bidentate NO ligands on the PBBI backbone allows for complexation with Co(II) ions, which is detectable via UV-Vis titration as a decrease in the 381 nm absorption band and the appearance of peaks at 609 and 674 nm.",
+      "evidence": "Upon serial addition of a 5.2 mM CoCl2 aliquot to the polymer solution, the absorbance at 381 nm progressively decreases... The titration spectra also show a successively increasing absorption band at 609 and 674 nm with the addition of Co(II).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "UV-Vis titration",
+        "metal complexation",
+        "Cobalt chloride",
+        "sensing"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "SP-PBBI demonstrates thermal stability with 10% weight loss occurring around 330 °C and 20% total decomposition reached at approximately 400 °C, as measured by TGA.",
+      "evidence": "Thermogravimetric analysis (TGA) showed a weight loss of 10% around 330 °C and a slow decomposition of 20% up to approximately 400 °C.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "TGA",
+        "decomposition temperature"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 10755,
+    "completion_tokens": 2946,
+    "total_tokens": 13701
+  }
+}

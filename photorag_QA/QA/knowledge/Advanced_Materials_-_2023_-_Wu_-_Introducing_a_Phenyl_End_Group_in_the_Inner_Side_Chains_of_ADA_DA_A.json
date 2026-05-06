@@ -1,0 +1,155 @@
+{
+  "paper_id": "Advanced_Materials_-_2023_-_Wu_-_Introducing_a_Phenyl_End_Group_in_the_Inner_Side_Chains_of_ADA_DA_A",
+  "paper_title": "Introducing a Phenyl End Group in the Inner Side Chains of A-DA'D-A Acceptors Enables High-Efficiency Organic Solar Cells Processed with Nonhalogenated Solvent",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Materials - 2023 - Wu - Introducing a Phenyl End Group in the Inner Side Chains of A‐DA D‐A Acceptors Enables/auto/Advanced Materials - 2023 - Wu - Introducing a Phenyl End Group in the Inner Side Chains of A‐DA D‐A Acceptors Enables.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Two new A-DA'D-A type small molecule acceptors, Y6-Ph and L8-Ph, were synthesized by replacing the branched alkyl inner side chains of Y6 and L8-BO with phenyl-alkyl side chains containing a phenyl end group.",
+      "evidence": "two new small molecule acceptors (SMAs) Y6-Ph and L8-Ph are synthesized by introducing a phenyl end group in the inner side chains of the SMAs of Y6 and L8-BO, respectively",
+      "complexity": "single-hop",
+      "keywords": [
+        "Y6-Ph",
+        "L8-Ph",
+        "phenyl-alkyl side chains",
+        "molecular design"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Organic solar cells based on PM6:L8-Ph processed with the nonhalogenated solvent o-xylene (o-XY) achieved a power conversion efficiency (PCE) of 18.40% and a fill factor (FF) of 80.11%.",
+      "evidence": "L8-Ph-based OSCs processed by nonhalogenated solvent o-xylene (o-XY) achieved a high PCE of 18.40% with an FF of 80.11%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "o-xylene",
+        "L8-Ph",
+        "nonhalogenated solvent"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "A large-area organic solar cell (1 cm²) using the PM6:L8-Ph blend processed with o-xylene achieved a power conversion efficiency of 16.66%.",
+      "evidence": "an outstanding efficiency of 16.66% was achieved for 1 cm2 area OSC with o-XY-processing.",
+      "complexity": "single-hop",
+      "keywords": [
+        "large-area OSC",
+        "PCE",
+        "1 cm2",
+        "o-xylene"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The introduction of phenyl-alkyl inner side chains in Y6-Ph and L8-Ph reduces molecular crystallinity, evidenced by lower melting points (Tm) of 248 °C and 283 °C respectively, compared to 299 °C for Y6 and 321 °C for L8-BO.",
+      "evidence": "The melting point (Tm) of Y6, L8-BO, Y6-Ph, and L8-Ph are 299, 321, 248, 283 °C... these results indicate that the phenyl-alkyl inner side chains can decrease the molecular crystallinity",
+      "complexity": "multi-hop",
+      "keywords": [
+        "melting point",
+        "crystallinity",
+        "Y6-Ph",
+        "L8-Ph"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The phenyl end group in the side chains provides steric hindrance that prevents rapid over-aggregation in slow film-forming processes while facilitating more ordered J-type aggregation through aryl-aryl interactions.",
+      "evidence": "the phenyl end group in the inner side chains... leads to 5-10 nm blue shift... due to the steric hindrance... the phenyl-alkyl side chains may provide more abundant intermolecular interaction to modulate the molecules to form more ordered packing.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "steric hindrance",
+        "aggregation",
+        "J-type aggregation",
+        "molecular packing"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The HOMO and LUMO energy levels of Y6-Ph (-5.70/-4.04 eV) and L8-Ph (-5.67/-3.91 eV) remain identical to their parent molecules Y6 and L8-BO, indicating the phenyl end group does not affect frontier orbital levels.",
+      "evidence": "The EHOMO/ELUMO values of Y6-Ph and L8-Ph are -5.70/-4.04 eV and -5.67/-3.91 eV respectively, which is exactly the same as those of their corresponding SMAs of Y6 and L8-BO.",
+      "complexity": "single-hop",
+      "keywords": [
+        "HOMO",
+        "LUMO",
+        "energy levels",
+        "electronic properties"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Standard SMAs like Y6 and L8-BO exhibit a dramatic drop in PCE when processed with chlorobenzene (CB) compared to chloroform (CF) due to excessive phase separation caused by the longer film-forming time of the high-boiling-point solvent.",
+      "evidence": "Y6- and L8-BO-based OSCs exhibit a dramatic drop in PCE from CF- to CB-processed devices owing to the large phase separation",
+      "complexity": "single-hop",
+      "keywords": [
+        "chlorobenzene",
+        "chloroform",
+        "film-forming time",
+        "phase separation"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis indicates that Y6-Ph and L8-Ph blend films processed with chlorobenzene maintain higher normalized integrated intensity of π-π stacking compared to Y6 and L8-BO, signifying more ordered molecular packing.",
+      "evidence": "Y6-Ph and L8-Ph-based films show higher normalized integrated intensity of the π-π stacking than Y6 and L8-based ones under the CB processed condition, which indicates that phenyl-alkyl inner side chains can effectively improve the molecular ordering",
+      "complexity": "multi-hop",
+      "keywords": [
+        "GIWAXS",
+        "pi-pi stacking",
+        "molecular ordering",
+        "chlorobenzene"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The PM6:L8-Ph blend processed with chlorobenzene achieves a highly balanced charge transport with a hole-to-electron mobility ratio (μh/μe) of 1.08, compared to 2.04 for the PM6:L8-BO blend.",
+      "evidence": "the improved μe, μh and more balanced μh/μe for the PM6:L8-Ph blends (1.08 for L8-Ph vs 2.04 for L8-BO) were obtained.",
+      "complexity": "single-hop",
+      "keywords": [
+        "carrier mobility",
+        "charge transport",
+        "balanced mobility",
+        "L8-Ph"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Femtosecond transient absorption (fs-TA) spectroscopy shows that PM6:L8-Ph films exhibit faster hole transfer and slower non-geminate recombination compared to PM6:L8-BO films.",
+      "evidence": "L8-Ph exciton signal decays faster than L8-BO exciton due to its higher hole transfer rates... non-geminate recombination is found to be much slower in the PM6:L8-Ph blends than the PM6:L8-BO blends",
+      "complexity": "multi-hop",
+      "keywords": [
+        "transient absorption",
+        "hole transfer",
+        "recombination",
+        "charge dynamics"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Y6-Ph and L8-Ph demonstrate high thermal stability with 5% weight loss temperatures (Td) of 317.8 °C and 328.3 °C, respectively, which is suitable for organic solar cell applications.",
+      "evidence": "Y6-Ph and L8-Ph exhibit decomposition temperatures with 5% weight loss at 317.8 and 328.3 °C respectively, which are high enough for the application as photovoltaic materials",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "TGA",
+        "decomposition temperature"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The optimal morphology of L8-Ph based devices processed with o-xylene is characterized by a smooth surface with an RMS roughness of 1.18 nm and homogeneous phase separation.",
+      "evidence": "L8-Ph-based blend films processed by o-XY present a smooth surface with an RMS of 1.18 nm... homogeneous phase separation can also be observed in the TEM images",
+      "complexity": "single-hop",
+      "keywords": [
+        "AFM",
+        "RMS roughness",
+        "TEM",
+        "morphology"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 14786,
+    "completion_tokens": 4200,
+    "total_tokens": 18986
+  }
+}

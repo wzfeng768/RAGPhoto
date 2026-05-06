@@ -1,0 +1,132 @@
+{
+  "paper_id": "1-s20-S2451910324000589-main",
+  "paper_title": "Electrical measurements on single semiconducting polymer wires",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/1-s2.0-S2451910324000589-main/auto/1-s2.0-S2451910324000589-main.md",
+  "knowledge_points": [
+    {
+      "category": "Structure-Property Relationships",
+      "content": "In short polyfluorene wires (length ≤ 3 nm), the junction conductance (G) decays exponentially with polymer length (L) according to the relation G(L) = G(0)exp(-βL), which is characteristic of direct, nonresonant tunneling.",
+      "evidence": "Lafferentz et al. reported electrical measurements on short (≤ 3 nm) polyfluorene wires. They found that the conductivity of the junction, G, decays exponentially with polymer length L, that is, G(L) = G(0)e^−βL. This is characteristic of direct, nonresonant tunneling.",
+      "complexity": "single-hop",
+      "keywords": [
+        "polyfluorene",
+        "nonresonant tunneling",
+        "conductance decay",
+        "length dependence"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The conductance values for single polyfluorene wires measured in vacuum range from approximately 10^-9 S at 1 nm to 10^-14 S at 3 nm.",
+      "evidence": "The resulting conductance values ranged from ~10^-9 S to ~10^-14 S for lengths ranging from 1 nm to 3 nm.",
+      "complexity": "single-hop",
+      "keywords": [
+        "conductance",
+        "polyfluorene",
+        "vacuum measurements",
+        "numerical value"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "A crossover from nonresonant tunneling to carrier hopping as the dominant transport mechanism occurs in single-oligophenyleneimine wires when the length exceeds 4 nm.",
+      "evidence": "Choi et al. instead reported a crossover to a weaker length dependence in single-oligophenyleneimine wires with length > 4 nm, which they attributed to a transition to carrier hopping as dominant transport mechanism.",
+      "complexity": "single-hop",
+      "keywords": [
+        "oligophenyleneimine",
+        "carrier hopping",
+        "transport mechanism",
+        "crossover length"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Electrochemical gating in single polymer measurements allows for external control of the doping level via a reference electrode, mimicking the operation of organic field-effect transistors (OFETs) and organic electrochemical transistors (OECTs).",
+      "evidence": "For measurements taking place in a liquid electrolyte... the potential of the solution can be set via a reference electrode, providing effective external control of the doping level of SPs even in a nanoscale gap. This is the gating mechanism employed in both OFETs... and in OECTs.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "electrochemical gating",
+        "doping level",
+        "reference electrode",
+        "OECT"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Single-molecule junctions can be formed via in-situ electropolymerization of aniline or pyrrole between nanogap electrodes, where the process is monitored electrically and stopped once a conducting bridge is established.",
+      "evidence": "He et al. introduced electropolymerization as a means of forming conducting polymer junctions between nanogap electrodes. Here polyaniline (PANI) was deposited from solution onto the electrodes... The deposition process was monitored electrically and interrupted once a conducting junction was formed.",
+      "complexity": "single-hop",
+      "keywords": [
+        "electropolymerization",
+        "polyaniline",
+        "nanogap electrodes",
+        "fabrication"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Single poly(3-butylthiophene-2,5-diyl) (P3BT) chains adsorbed in a 10 nm nanogap electrode configuration exhibit conductance values in the range of 10^-11 to 10^-10 S.",
+      "evidence": "We observed conductance values of order 10^-11 - 10^-10 S for long poly(3-butylthiophene-2,5-diyl) (P3BT) and related polythiophene derivatives at ~10 nm spacing nanogap electrodes.",
+      "complexity": "single-hop",
+      "keywords": [
+        "P3BT",
+        "conductance",
+        "nanogap",
+        "polythiophene"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Telegraph-like current fluctuations observed in single-polymer junctions under electrochemical control are characterized by abrupt switching between insulating and highly conducting states, often dependent on gate potential.",
+      "evidence": "Upon scaling down to spacings of ~1 nm, on the other hand, transport became characterized by abrupt switching between insulating and highly conducting states. This hysteretic switching was strongly dependent on the potential of the gate, and telegraphlike oscillations in time between the two states were observed.",
+      "complexity": "single-hop",
+      "keywords": [
+        "telegraph-like noise",
+        "current fluctuations",
+        "gate potential",
+        "switching"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Current fluctuations in loosely adsorbed single polymer chains, such as P3BT, are attributed to conformational rearrangements caused by Brownian motion, which create conductive pathways of varying lengths and numbers.",
+      "evidence": "Multi-level, telegraph-like fluctuations are observed in time as individual SP chains form a transient bridge between nanogap electrodes... We attributed [these] to different configurations of the SP between the electrodes. These can lead to conductive pathways with different lengths and even to multiple pathways being formed by a single polymer.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Brownian motion",
+        "conformational rearrangement",
+        "P3BT",
+        "conductive pathways"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The anomalous scaling of 1/f noise with current in single-polymer nanogap devices suggests that current fluctuations have a non-electronic, conformation-based origin rather than a conventional electronic origin.",
+      "evidence": "The anomalous scaling of the 1/f noise with current [30] is a strong indication that the fluctuations do not have a conventional electronic origin, further supporting the interpretation that a different, conformation-based mechanism is at work.",
+      "complexity": "single-hop",
+      "keywords": [
+        "1/f noise",
+        "noise scaling",
+        "conformational fluctuations",
+        "electronic origin"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Poly(para-phenylene ethynylene) can be trapped between electrodes spaced by approximately 18 nm using thiol-based chemical binding for vacuum-based electron transport studies.",
+      "evidence": "Hu et al. trapped poly(para-phenylene ethynylene) between electrodes spaced by ~18 nm using thiol chemistry [24]. After assembly in solution, the device was transferred to a vacuum environment.",
+      "complexity": "single-hop",
+      "keywords": [
+        "poly(para-phenylene ethynylene)",
+        "thiol chemistry",
+        "molecular junction",
+        "trapping"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 7228,
+    "completion_tokens": 2798,
+    "total_tokens": 10026
+  }
+}

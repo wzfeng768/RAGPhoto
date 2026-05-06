@@ -1,0 +1,131 @@
+{
+  "paper_id": "Advanced_Materials_-_2023_-_Son_-_Highly_Ordered_Supramolecular_Materials_of_PhaseSeparated_Block_Mo",
+  "paper_title": "Highly Ordered Supramolecular Materials of Phase-Separated Block Molecules for Long-Range Exciton Transport",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Materials - 2023 - Son - Highly Ordered Supramolecular Materials of Phase‐Separated Block Molecules for Long‐Range/auto/Advanced Materials - 2023 - Son - Highly Ordered Supramolecular Materials of Phase‐Separated Block Molecules for Long‐Range.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "C3-symmetric carbonyl-bridged triarylamine trisamide (CBT) was functionalized with linear (Si15) and branched (Si15b) discrete length oligodimethylsiloxane (oDMS) side chains to create nanophase-separated block molecules.",
+      "evidence": "Here, it is shown how the functionalization of c3-symmetric carbonyl-bridged triarylamine trisamide (CBT) with oligodimethylsiloxane (oDMS) side chains of discrete length leads to fully covered surfaces with aligned domains... Two different oDMS chains are used... linear oDMS chain Si15H... branched oDMS chain Si15bH.",
+      "complexity": "single-hop",
+      "keywords": [
+        "C3-symmetric",
+        "CBT",
+        "oDMS",
+        "side chain engineering"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The synthesis of oDMS-functionalized CBT involves a hydrosilylation reaction using Karstedt’s catalyst, requiring a reaction time of two weeks due to strong supramolecular aggregation of the CBT cores hindering access to terminal alkenes.",
+      "evidence": "The hydride-functionalized discrete oDMS is then coupled with Karstedt's catalyst to the alkene-functionalized 2,6,10-triamino-CBT... the reaction here was let to react for 2 weeks because strong supramolecular aggregation of the cores is thought to prevent easy access to the terminal alkenes.",
+      "complexity": "single-hop",
+      "keywords": [
+        "hydrosilylation",
+        "Karstedt's catalyst",
+        "CBT",
+        "aggregation"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "CBT(Si15)3 and CBT(Si15b)3 exhibit exciton diffusivities of approximately 0.047 ± 0.036 cm² s⁻¹ and 0.028 ± 0.021 cm² s⁻¹, respectively, which are comparable to values found in crystalline tetracene (0.04 cm² s⁻¹).",
+      "evidence": "The averaged exciton diffusivities were determined to be D(CBT(Si15)3) = 0.047 ± 0.036 cm2 s−1 and D(CBT(Si15b)3) = 0.028 ± 0.021 cm2 s−1... The measured diffusion values are comparable to tetracene crystals (0.04 cm2 s−1).",
+      "complexity": "single-hop",
+      "keywords": [
+        "exciton diffusivity",
+        "tetracene",
+        "CBT(Si15)3",
+        "CBT(Si15b)3"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The exciton diffusion length (LD) for oDMS-functionalized CBT materials is estimated to be greater than 100 nm, corresponding to energy transport over more than 340 aligned CBT molecules.",
+      "evidence": "a diffusion length LD = (Dτ)1/2 of > 100 nm can be estimated. This corresponds to an exciton transport over more than 340 CBT cores that are aligned within 1D fibers.",
+      "complexity": "single-hop",
+      "keywords": [
+        "exciton diffusion length",
+        "nanofibers",
+        "CBT"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Functionalization with oDMS side chains prevents the bundling of CBT nanofibers, which reduces electronic perturbations and structural defects within the columns, thereby enhancing exciton delocalization and coherence.",
+      "evidence": "The oDMS prevents bundling of the CBT fibers, reducing the number of defects within the CBT columns. As a result, the columns have a high degree of coherence, leading to exciton diffusion lengths of a few hundred nanometers.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "bundling",
+        "electronic disorder",
+        "coherence",
+        "oDMS"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The absorption and emission spectra of annealed CBT(Si15)3 and CBT(Si15b)3 films indicate the formation of H-type aggregates, characterized by a suppressed (0,0) electronic transition, with CBT(Si15)3 showing higher electronic order than the branched variant.",
+      "evidence": "Comparing the absorption and emission spectra of the annealed films... a significant suppression of the (0,0) transition at 533 nm can be observed for CBT(Si15b)3, while the (0,0) transition is even absent for CBT(Si15)3. The greater suppression... indicates a greater degree of electronic order... The formation of H-type aggregates indicates significant electronic Coulomb coupling.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "H-type aggregates",
+        "electronic transition",
+        "vibronic progression",
+        "CBT(Si15)3"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Slow cooling from the isotropic melt (1 °C min⁻¹) allows CBT(Si15)3 and CBT(Si15b)3 to form highly ordered, birefringent domains of aligned nanofibers with dimensions reaching up to 125 x 70 µm².",
+      "evidence": "Upon cooling the material from their isotropic phase at 1 °C min−1, the birefringence is restored for both materials... The largest domains of 125 × 70 μm2 were observed for CBT(Si15)3.",
+      "complexity": "single-hop",
+      "keywords": [
+        "alignment",
+        "isotropic melt",
+        "birefringence",
+        "domain size"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Branching of the oDMS chain affects the thermal properties of the material; CBT(Si15b)3 exhibits a higher side-chain softening temperature (130–140 °C) but a lower initial isotropization temperature (180 °C) compared to linear CBT(Si15)3.",
+      "evidence": "Upon heating, material flow was observed at 100–110 °C for CBT(Si15)3 and at 130–140 °C for CBT(Si15b)3... the materials became isotropic between 210 and 255 °C for CBT(Si15)3 and between 180 and 255 °C for CBT(Si15b)3. The lower initial isotropization temperature of CBT(Si15b)3 is attributed to the greater bulkiness of branched oDMS.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "softening temperature",
+        "isotropization",
+        "branched oDMS",
+        "thermal properties"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Medium-angle X-ray scattering (MAXS) reveals that oDMS-functionalized CBT molecules form hexagonally arranged columnar structures with an average center-to-center intercolumnar distance (dcol) of 4.3 ± 0.1 nm.",
+      "evidence": "In the MAXS region (1 < q < 7 nm−1), both CBT(Si15)3 and CBT(Si15b)3 show a sharp principal scattering peak q*... indicative of long-range columnar packing (q*, √3q*, √4q*, √7q*, √9q*)... dcol = 2π/q* = 4.3 ± 0.1 nm.",
+      "complexity": "single-hop",
+      "keywords": [
+        "MAXS",
+        "columnar packing",
+        "intercolumnar distance",
+        "hexagonal"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Exciton diffusivity was measured using a combination of pulsed laser excitation (λ = 470 nm) and spatially resolved emission detection via time-correlated single-photon counting (TCSPC) to track the broadening of the exciton distribution over time.",
+      "evidence": "Exciton diffusivity was measured by a combination of a fixed pulsed laser excitation (λ = 470 nm) with a spatially resolved emission detection that measures the exciton lifetime using a time-correlated single-photon counting setup. By plotting the broadening of the Gaussian fits... the exciton diffusivity can be derived.",
+      "complexity": "single-hop",
+      "keywords": [
+        "TCSPC",
+        "exciton diffusivity",
+        "spatially resolved emission",
+        "Gaussian fit"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 12742,
+    "completion_tokens": 3430,
+    "total_tokens": 16172
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "paper_id": "Angewandte_Chemie_-_2023_-_Liu_-_A_PyreneFused_Dimerized_Acceptor_for_Ternary_Organic_Solar_Cells_wi",
+  "paper_title": "A Pyrene-Fused Dimerized Acceptor for Ternary Organic Solar Cells with 19% Efficiency and High Thermal Stability",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Angewandte Chemie - 2023 - Liu - A Pyrene‐Fused Dimerized Acceptor for Ternary Organic Solar Cells with 19  Efficiency and/auto/Angewandte Chemie - 2023 - Liu - A Pyrene‐Fused Dimerized Acceptor for Ternary Organic Solar Cells with 19  Efficiency and.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "DP-BTP is a novel 'center-fused' dimerized electron acceptor featuring a 'butterfly-like' structure where two Y-series acceptor wings are fused to a central pyrene-based backbone.",
+      "evidence": "This novel electron acceptor displays a distinctive 'butterflylike' structure, comprising two Y-acceptors as wings fused with a pyrene-based backbone... denoted as DP-BTP (Figure 1b), has been synthesized and applied into OSCs.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DP-BTP",
+        "dimerized acceptor",
+        "pyrene",
+        "butterfly-like structure"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The synthesis of the pyrene-fused core M3 is achieved through a high-yielding (66%) dehydration reaction between a diamine-substituted precursor (M1) and 4,5,9,10-pyrenetetrone (M2).",
+      "evidence": "the pyrene-fused core, denoted as M3, was initially formed through a high-yielding (66%) dehydration reaction between the precursor M1, and tetrone compounds M2.",
+      "complexity": "single-hop",
+      "keywords": [
+        "dehydration reaction",
+        "pyrenetetrone",
+        "synthesis"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Ternary organic solar cells using the D18:N3:DP-BTP blend achieved a power conversion efficiency (PCE) of 19.07%, with an open-circuit voltage (Voc) of 0.87 V, a short-circuit current density (Jsc) of 27.95 mA/cm², and a fill factor (FF) of 78.50%.",
+      "evidence": "the ternary D18: N3:DP-BTP (1 : 0.9 : 0.4, w/w) system exhibited a remarkable PCE of 19.07%. This is attributed to the simultaneously enhanced Voc of 0.87 V, Jsc of 27.95 mA/cm2 and FF of 78.50% compared to the D18:N3 cells.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "19.07%",
+        "ternary OSC",
+        "D18:N3:DP-BTP"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The dimerized acceptor DP-BTP exhibits a significantly higher glass transition temperature (Tg) of 126 °C compared to the 88 °C observed for the small-molecule acceptor N3.",
+      "evidence": "the DP-BTP dimer exhibited a much higher Tg of 126 °C than that of N3 (88 °C).",
+      "complexity": "single-hop",
+      "keywords": [
+        "glass transition temperature",
+        "Tg",
+        "DP-BTP",
+        "N3"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "DP-BTP has a lower solubility in chloroform (1.60 mg/mL) compared to N3 (155.90 mg/mL), which is attributed to its highly planar molecular configuration and extended pi-conjugation.",
+      "evidence": "the acceptor N3 exhibited an excellent solubility of 155.90 mg/mL, while DPBTP exhibited a markedly lower solubility of 1.60 mg/mL which may be related to its highly planar molecular configuration.",
+      "complexity": "single-hop",
+      "keywords": [
+        "solubility",
+        "pi-conjugation",
+        "planarity"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The inclusion of DP-BTP in ternary OSCs improves electron mobility (μe) from 4.18 × 10⁻³ cm²/(V·s) in binary D18:N3 cells to 5.20 × 10⁻³ cm²/(V·s), leading to a more balanced hole/electron mobility ratio of 1.17.",
+      "evidence": "the electron mobility (μe) of D18:N3 measured at 4.18 × 10−3 cm2/(V s) saw an increase to 5.20 × 10−3 cm2/(V s) upon the incorporation of DP-BTP... the μh/μe ratio exhibited a more balanced distribution in D18:N3:DP-BTP ternary blends (1.17) compared to the D18:N3 binary system (1.45).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "electron mobility",
+        "charge transport",
+        "balanced mobility"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "DP-BTP reduces non-radiative voltage loss (ΔVnr) in OSCs, which is attributed to the high fluorescence emission efficiency of the pyrene unit within the dimer structure.",
+      "evidence": "the pyrene-fused dimerized electron acceptor DP-BTP effectively mitigates both radiative and non-radiative voltage losses in OSCs. This would be attributed to the high fluorescence emission efficiency of pyrene units",
+      "complexity": "single-hop",
+      "keywords": [
+        "non-radiative voltage loss",
+        "fluorescence",
+        "pyrene"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The Flory-Huggins interaction parameter (χ) between N3 and DP-BTP is calculated at 0.34k, indicating high miscibility and the formation of alloy-like acceptor domains in the ternary blend.",
+      "evidence": "N3 and DP-BTP exhibit better miscibility compared to D18/N3 or D18/DP-BTP pairs, as indicated by the substantially smaller χ parameter of 0.34k... we propose a plausible alloy-packing structure of N3 and DP-BTP",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Flory-Huggins parameter",
+        "miscibility",
+        "alloy-like domains"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Ternary OSCs based on D18:N3:DP-BTP retain 88.7% of their initial efficiency after 600 hours of thermal stress at 80 °C, significantly outperforming binary D18:N3 cells which retain only 73.7%.",
+      "evidence": "After constant... heat exposure for 600 hours, the binary OsC maintained... 73.7% of their initial PCEs... the incorporation of DP-BTP... maintained... 88.7% of PCEs maintained under... thermal-stress conditions",
+      "complexity": "multi-hop",
+      "keywords": [
+        "thermal stability",
+        "T80 lifetime",
+        "degradation"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The photostability of D18:N3:DP-BTP ternary devices is enhanced compared to binary systems, retaining 86.9% of initial PCE after 600 hours of continuous LED illumination, with a calculated T80 lifetime of 4963 hours.",
+      "evidence": "After constant illumination... for 600 hours, the binary OsC maintained 64.8%... The incorporation of DP-BTP... with 86.9%... maintained... The calculated T80 lifetimes... for the ternary blends are 4963... hours for OsCs under photo-stress",
+      "complexity": "multi-hop",
+      "keywords": [
+        "photostability",
+        "T80 lifetime",
+        "LED illumination"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Density Functional Theory (DFT) calculations indicate that DP-BTP possesses a highly planar configuration, with the LUMO localized on the Y-acceptor wings and the HOMO delocalized over the central pyrene core.",
+      "evidence": "DFT calculations revealed a highly planar configuration for DP-BTP (Figure 2b), with the lowest unoccupied molecular orbitals (LUMO) localized at the two 'y' wings and the highest occupied molecular orbitals (HOMO) delocalized over the central core",
+      "complexity": "single-hop",
+      "keywords": [
+        "DFT",
+        "LUMO",
+        "HOMO",
+        "planarity"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis reveals that D18:N3:DP-BTP ternary films maintain a face-on preferential orientation with a pi-pi (010) stacking peak at q ≈ 1.73 Å⁻¹.",
+      "evidence": "in D18:N3:DP-BTP ternary blends, the measured (100) and (010) peaks were observed at q = 0.30 Å−1 and 1.73 Å−1... face-on preferential orientation, as evidenced by the... OOP π-π (010) peaks.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "face-on orientation",
+        "pi-pi stacking"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 14682,
+    "completion_tokens": 3493,
+    "total_tokens": 18175
+  }
+}

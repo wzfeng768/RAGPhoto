@@ -1,0 +1,75 @@
+{
+  "paper_id": "Solar_RRL_-_2019_-_Huang_-_Nonfullerene_Polymer_Solar_Cell_with_Large_Active_Area_of_216_cm2_and_Hig",
+  "paper_title": "Nonfullerene Polymer Solar Cell with Large Active Area of 216 cm² and High Power Conversion Efficiency of 7.7%",
+  "qa_pairs": [
+    {
+      "question": "What are the specific donor and acceptor materials used in the ternary bulk-heterojunction active layer of the 216 cm² solar cell module?",
+      "answer": "The ternary active layer consists of the polymer donor PBDB-T, the nonfullerene acceptor ITIC, and the fullerene acceptor PC71BM.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Nonfullerene Polymer Solar Cell with Large Active Area of 216 cm² and High Power Conversion Efficiency of 7.7%",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What is the certified power conversion efficiency (PCE) of the large-area (216 cm²) nonfullerene polymer solar cell module utilizing a ZrOx interfacial layer?",
+      "answer": "The large-area module achieved a certified power conversion efficiency (PCE) of 7.69% (often rounded to 7.7%) using a ZrOx interfacial layer.",
+      "category": "Performance Metrics",
+      "source_title": "Nonfullerene Polymer Solar Cell with Large Active Area of 216 cm² and High Power Conversion Efficiency of 7.7%",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the device architecture of the 216 cm² module address the issue of voltage drops caused by ITO series resistance?",
+      "answer": "The module incorporates 16 cell stripes connected in series on a 200 mm x 280 mm substrate. An optimal cell width of 0.9 cm was specifically chosen to minimize the voltage drops associated with the series resistance of the indium tin oxide (ITO) layer.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Nonfullerene Polymer Solar Cell with Large Active Area of 216 cm² and High Power Conversion Efficiency of 7.7%",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Which deposition technique was employed to ensure film uniformity for the active and interfacial layers on A4-sized substrates, and what were the resulting thickness parameters for the active layer?",
+      "answer": "Blade coating was used to deposit both the active layer and the solution-processable interfacial layers (Liq and ZrOx). This process resulted in an active layer thickness of 102.7 nm with a low variance of 7.2 nm across the large-area substrate.",
+      "category": "Processing & Fabrication",
+      "source_title": "Nonfullerene Polymer Solar Cell with Large Active Area of 216 cm² and High Power Conversion Efficiency of 7.7%",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Explain the mechanistic advantages of using a ZrOx interfacial layer compared to LiF or Liq in these ternary polymer solar cells.",
+      "answer": "The ZrOx layer improves performance by forming an interface dipole that facilitates charge extraction. Additionally, it reduces carrier recombination near the flat band condition, as evidenced by a higher slope near the open-circuit voltage (Voc) compared to devices using LiF or Liq.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Nonfullerene Polymer Solar Cell with Large Active Area of 216 cm² and High Power Conversion Efficiency of 7.7%",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Compare the thermal stability of PBDB-T:ITIC:PC71BM solar cells using ZrOx versus LiF interfacial layers when subjected to 85 °C cycling.",
+      "answer": "Devices with a ZrOx interfacial layer exhibit significantly higher thermal stability, retaining 73% to 80% of their initial efficiency after 30 days at 85 °C. In contrast, LiF-based devices failed completely within 8 days under the same thermal cycling conditions.",
+      "category": "Stability & Degradation",
+      "source_title": "Nonfullerene Polymer Solar Cell with Large Active Area of 216 cm² and High Power Conversion Efficiency of 7.7%",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What is the primary degradation mechanism identified for LiF-based polymer solar cells under thermal stress?",
+      "answer": "The thermal degradation is primarily caused by the diffusion of lithium ions from the LiF layer into the active layer. This diffusion increases contact resistance and reduces the fill factor (FF) by destroying the ohmic contact.",
+      "category": "Stability & Degradation",
+      "source_title": "Nonfullerene Polymer Solar Cell with Large Active Area of 216 cm² and High Power Conversion Efficiency of 7.7%",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What are the performance metrics and optical characteristics of the large-area semi-transparent (ST) polymer solar cell module?",
+      "answer": "The 216 cm² semi-transparent module achieved a maximum PCE of 4.97% with an average visible transmission (AVT) of 8.25%. It also demonstrated excellent color rendering properties with a color rendering index (CRI) of 86.73 and CIE 1931 coordinates of (0.2730, 0.3097).",
+      "category": "Performance Metrics",
+      "source_title": "Nonfullerene Polymer Solar Cell with Large Active Area of 216 cm² and High Power Conversion Efficiency of 7.7%",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2699,
+    "completion_tokens": 2136,
+    "total_tokens": 4835
+  }
+}

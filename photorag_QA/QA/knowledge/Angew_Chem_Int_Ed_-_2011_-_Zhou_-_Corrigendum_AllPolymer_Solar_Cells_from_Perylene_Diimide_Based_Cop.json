@@ -1,0 +1,108 @@
+{
+  "paper_id": "Angew_Chem_Int_Ed_-_2011_-_Zhou_-_Corrigendum_AllPolymer_Solar_Cells_from_Perylene_Diimide_Based_Cop",
+  "paper_title": "All-Polymer Solar Cells from Perylene Diimide Based Copolymers: Material Design and Phase Separation Control",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Angew Chem Int Ed - 2011 - Zhou - Corrigendum  All‐Polymer Solar Cells from Perylene Diimide Based Copolymers  Material/auto/Angew Chem Int Ed - 2011 - Zhou - Corrigendum  All‐Polymer Solar Cells from Perylene Diimide Based Copolymers  Material.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The PT1 copolymer is synthesized using a specific molar ratio of 0.2 to 0.8 between units containing conjugated side chains and units without conjugated side chains.",
+      "evidence": "the ratio between the units with and without the conjugated side chain should be 0.2:0.8, not 0.8:0.2.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PT1",
+        "conjugated side chain",
+        "molar ratio",
+        "copolymer"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Perylene diimide (PDI) serves as the fundamental building block for the copolymers designed for all-polymer solar cell applications in this study.",
+      "evidence": "All-Polymer Solar Cells from Perylene Diimide Based Copolymers: Material Design and Phase Separation Control",
+      "complexity": "single-hop",
+      "keywords": [
+        "Perylene diimide",
+        "PDI",
+        "building block",
+        "copolymers"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The synthesis of the PT1 copolymer requires the use of 0.2 mmol (equivalent to 130 mg) of Monomer 4.",
+      "evidence": "on page S14 'Monomer 4 (730 mg, 0.8 mmol)' should be corrected to 'Monomer 4 (130 mg, 0.2 mmol)'.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Monomer 4",
+        "synthesis",
+        "PT1",
+        "stoichiometry"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The design of PDI-based copolymers like PT1 incorporates conjugated side chains as a structural modification strategy to influence the properties of the polymer.",
+      "evidence": "the ratio between the units with and without the conjugated side chain should be 0.2:0.8... The correct structure [of PT1] is shown below.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "conjugated side chains",
+        "PT1",
+        "structural modification",
+        "PDI"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Perylene diimide-based copolymers are utilized as electron acceptors in all-polymer solar cells (all-PSCs), where both the donor and acceptor components are polymers.",
+      "evidence": "All-Polymer Solar Cells from Perylene Diimide Based Copolymers: Material Design and Phase Separation Control",
+      "complexity": "single-hop",
+      "keywords": [
+        "all-polymer solar cells",
+        "all-PSCs",
+        "acceptor",
+        "PDI"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Phase separation control is a critical factor addressed in the material design of PDI-based copolymers to optimize the morphology of all-polymer solar cells.",
+      "evidence": "All-Polymer Solar Cells from Perylene Diimide Based Copolymers: Material Design and Phase Separation Control",
+      "complexity": "single-hop",
+      "keywords": [
+        "phase separation",
+        "morphology",
+        "material design",
+        "all-PSCs"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The polymer PT1 is a specific PDI-based copolymer that features a backbone modified with varying ratios of side-chain functionalized units.",
+      "evidence": "the structure of PT1 is not correct in Scheme 1... the ratio between the units with and without the conjugated side chain should be 0.2:0.8",
+      "complexity": "multi-hop",
+      "keywords": [
+        "PT1",
+        "PDI",
+        "copolymer",
+        "side chains"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The structural characterization of PT1 in the original literature was corrected to ensure the accurate representation of the monomeric unit distribution in the copolymer chain.",
+      "evidence": "In the Supporting Information, the structure of PT1 in Figure S2 on page S4 is also incorrect. The correct structure is shown above.",
+      "complexity": "single-hop",
+      "keywords": [
+        "structural characterization",
+        "PT1",
+        "monomer distribution",
+        "Supporting Information"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 1192,
+    "completion_tokens": 2968,
+    "total_tokens": 4160
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "paper_id": "Synchrotron_Radiation_in_Materials_Science_-_2018_-_Fan_-_Probing_Organic_Solar_Cells_with_Grazing_I",
+  "paper_title": "Probing Organic Solar Cells with Grazing Incidence Scattering Techniques",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Synchrotron Radiation in Materials Science - 2018 - Fan - Probing Organic Solar Cells with Grazing Incidence Scattering/auto/Synchrotron Radiation in Materials Science - 2018 - Fan - Probing Organic Solar Cells with Grazing Incidence Scattering.md",
+  "knowledge_points": [
+    {
+      "category": "Performance Metrics",
+      "content": "Triple-junction polymer solar cells achieved power conversion efficiencies (PCE) exceeding 11% by 2014, while other organic solar cell designs have surpassed the 10% efficiency limit.",
+      "evidence": "For triple-junction polymer solar cells Yang group [16] demonstrated power conversion efficiencies above 11% in 2014 and the reported efficiencies for other organic solar cells designs have also crossed the 10% limit [17, 46].",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "triple-junction",
+        "polymer solar cells"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "In organic solar cells, light absorption generates Coulomb-bound electron-hole pairs (excitons) with an energy barrier of 0.1 to 1 eV, requiring donor-acceptor interfaces with specific energy levels for charge separation.",
+      "evidence": "The photoexcited states are confined to a small volume and the energy barrier imposed by the Coulomb interaction (on the order of 0.1 to 1eV) needs to be overcome to generate free charge carriers. As a consequence, in organic solar cells, the combination of a donor and acceptor material with properly chosen energy levels is necessary to separate the charge carriers.",
+      "complexity": "single-hop",
+      "keywords": [
+        "exciton",
+        "Coulomb interaction",
+        "charge separation",
+        "energy barrier"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The exciton diffusion length in organic solar cell materials is typically limited to approximately 10 nm, which necessitates the use of bulk heterojunction (BHJ) geometries to ensure excitons can reach a donor-acceptor interface.",
+      "evidence": "The characteristic exciton diffusion lengths reported are only on the order of 10 nm [48-55]... A way to overcome this problem is to replace the planar interface with a so-called bulk heterojunction (BHJ) geometry.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "exciton diffusion length",
+        "bulk heterojunction",
+        "BHJ"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Charge carrier mobility in conjugated polymers is highly anisotropic, with high conductivity occurring specifically in the direction of pi-orbital overlap and along alternating single/double bonds.",
+      "evidence": "High conductivity is found in the direction of pi-orbital overlap and along alternating single/double bonds [60, 61]. This results in high conductivity along particular crystallographic axes and low conductivity in other directions.",
+      "complexity": "single-hop",
+      "keywords": [
+        "charge carrier mobility",
+        "anisotropy",
+        "pi-orbital overlap",
+        "conductivity"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Grazing incidence X-ray scattering (GIXS) techniques like GISAXS and GIWAXS are preferred for thin-film organic solar cells over transmission geometry because they provide higher scattering volumes through the footprint effect and field enhancement via multiple reflections.",
+      "evidence": "From a thin film hardly any scattering signal can be gained, simply because of the small scattering volume... Changing the scattering experiment from a transmission to a reflection geometry as well as using grazing incidence conditions solves this problem by the footprint effect... exploiting the enhancement of the field by interference of incoming and outgoing fields and multiple reflections.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "GISAXS",
+        "GIWAXS",
+        "grazing incidence",
+        "footprint effect"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The critical angle (alpha_c) for total external reflection in X-ray scattering depends on the material's dispersion and is calculated as the square root of twice the dispersion (delta).",
+      "evidence": "The critical angle depends on the material and can be calculated via alpha_c = sqrt(2*delta).",
+      "complexity": "single-hop",
+      "keywords": [
+        "critical angle",
+        "total external reflection",
+        "dispersion"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GISAXS data analysis often employs the Distorted Wave Born Approximation (DWBA) to account for dynamic effects on intensity distribution near the region of total external reflection.",
+      "evidence": "Most used is the distorted wave born approximation (DWBA), which includes dynamic effects on the intensity distribution in the region of total external reflection [81-85].",
+      "complexity": "single-hop",
+      "keywords": [
+        "GISAXS",
+        "DWBA",
+        "diffuse scattering"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "In GIWAXS, the orientation of crystallites is determined by the position of Bragg peaks: peaks along the surface normal indicate vertical stacking, while peaks in the horizontal direction indicate parallel orientation.",
+      "evidence": "In the case of a highly crystalline film with an orientation of the crystals parallel to the substrate surface, well-pronounced Bragg peaks appear on the 2D detector (Figure 7.2a). If a parallel and perpendicular orientation of crystallites is present in the film, Bragg peaks appear along the surface normal (vertical direction) and in horizontal direction (Figure 7.2b).",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "Bragg peaks",
+        "crystallite orientation"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "P3HT crystallites can adopt 'edge-on' or 'face-on' orientations; 'face-on' is preferred for solar cells because the pi-pi stacking is perpendicular to the substrate, facilitating charge transport to the electrodes.",
+      "evidence": "The edge-on orientation refers to the chain backbone with the pi-pi stacking direction parallel to the substrate... In the face-on orientation, the pi-pi stack is directed perpendicularly to the substrate... Thus, the face-on orientation is desired in OPV applications.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "P3HT",
+        "edge-on",
+        "face-on",
+        "pi-pi stacking"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The active layer of a P3HT:PCBM solar cell consists of three phases: a pure crystalline P3HT phase, a pure PCBM phase (amorphous or small crystallites), and a mixed phase of amorphous P3HT and molecularly dissolved PCBM.",
+      "evidence": "A pure crystalline P3HT phase, a mixed three-component phase of amorphous P3HT, molecularly dissolved P3HT and a pure PCBM phase... have to be considered (see Figure 7.6).",
+      "complexity": "single-hop",
+      "keywords": [
+        "P3HT:PCBM",
+        "three-phase model",
+        "molecularly dissolved"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "In a 1:1 mixture of P3HT:PCBM, approximately 18 vol% of the PCBM is molecularly dissolved within the amorphous P3HT regions.",
+      "evidence": "Ruderer et al. reported... 18 vol% PCBM is molecularly dissolved in case of a 1:1 mixture of P3HT:PCBM, which shows that this amount is not negligible [117].",
+      "complexity": "single-hop",
+      "keywords": [
+        "P3HT:PCBM",
+        "solubility",
+        "molecularly dissolved"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The lamellar spacing in P3HT crystalline domains increases when using PC70BM compared to PC60BM due to the larger molecular size of the PC70BM fullerene.",
+      "evidence": "Thus, due to the larger size of PC70BM as compared with PC60BM the lamellar spacing of the P3HT crystalline domains is larger in case of incorporated PC70BM.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PC70BM",
+        "PC60BM",
+        "lamellar spacing",
+        "fullerene"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 12774,
+    "completion_tokens": 3491,
+    "total_tokens": 16265
+  }
+}

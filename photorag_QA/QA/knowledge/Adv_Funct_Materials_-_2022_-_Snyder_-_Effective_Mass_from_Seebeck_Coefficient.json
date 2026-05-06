@@ -1,0 +1,147 @@
+{
+  "paper_id": "Adv_Funct_Materials_-_2022_-_Snyder_-_Effective_Mass_from_Seebeck_Coefficient",
+  "paper_title": "Effective Mass from Seebeck Coefficient",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Adv Funct Materials - 2022 - Snyder - Effective Mass from Seebeck Coefficient/auto/Adv Funct Materials - 2022 - Snyder - Effective Mass from Seebeck Coefficient.md",
+  "knowledge_points": [
+    {
+      "category": "Characterization Methods",
+      "content": "The Seebeck effective mass (m*s) can be determined at room temperature and above by combining measurements of the Seebeck coefficient (S) and the Hall carrier concentration (nH).",
+      "evidence": "by combining measurements of the Seebeck and Hall effects, a density of states effective mass can be determined in doped semiconductors at room temperature and above.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Seebeck effective mass",
+        "Hall effect",
+        "Seebeck coefficient",
+        "density of states"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The analytical formula for Seebeck effective mass relative to electron mass (m*s/me) uses a scaling factor of 0.924 when using Hall carrier concentration (nH) in units of 10^20 cm^-3 and temperature (T) in Kelvin.",
+      "evidence": "m*_S / m_e = 0.924 (300 K / T) (n_H / 10^20 cm^-3)^{2/3} [...]",
+      "complexity": "single-hop",
+      "keywords": [
+        "effective mass formula",
+        "carrier concentration",
+        "scaling factor"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The Seebeck effective mass is a reliable indicator of band structure changes; for instance, an increase in m*s with doping in CoSb3 indicates the population of a second, heavier conduction band (multiband behavior).",
+      "evidence": "The intrinsic, multi-band nature of CoSb3 that is easily seen as an increase in m*s with doping (Figure 2a)... As electrons are added, a second, heavier conduction band is populated increasing m*s",
+      "complexity": "multi-hop",
+      "keywords": [
+        "CoSb3",
+        "multiband behavior",
+        "band structure",
+        "doping"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Seebeck effective mass measurements are particularly useful for polycrystalline materials because both Seebeck and Hall effects are largely unaffected by resistive grain boundaries.",
+      "evidence": "This estimate of the effective mass can aid the understanding and engineering of the electronic structure as it is largely independent of scattering and the effects of microstructure (grain boundary resistance).",
+      "complexity": "single-hop",
+      "keywords": [
+        "grain boundaries",
+        "polycrystalline",
+        "microstructure"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Density of states (DOS) mass (m*DOS) is an energy-independent quantity used to characterize the density of states g(E) in the parabolic band approximation where g(E) is proportional to m*DOS raised to the 3/2 power.",
+      "evidence": "The DOS mass, m*DOS, is an energy-independent quantity used to characterize the density of states using the free electron (parabolic band) approximation g(E) = (8π√2 / h^3) m*DOS^{3/2} √E",
+      "complexity": "single-hop",
+      "keywords": [
+        "density of states",
+        "parabolic band",
+        "effective mass"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The analytic approximation for Seebeck effective mass maintains an error of less than 3% compared to exact Fermi integral solutions for thermopower values |S| greater than 20 μV K^-1.",
+      "evidence": "Equation (3) is a simple analytic form for the effective mass that approximates the exact free electron model within 3% for thermopower values |S| > 20 μV K^-1",
+      "complexity": "single-hop",
+      "keywords": [
+        "analytic approximation",
+        "error margin",
+        "thermopower"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "In highly resistive materials like organic semiconductors where Hall effect is difficult to measure, m*s can be estimated using the charge carrier concentration (n) derived from stoichiometry, using a modified scaling factor of 0.857.",
+      "evidence": "In certain oxides, organic semiconductors and valence precise inorganic semiconductors... m*s/me = 0.857 (300 K / T) (n / 10^20 cm^-3)^{2/3} [...]",
+      "complexity": "multi-hop",
+      "keywords": [
+        "organic semiconductors",
+        "stoichiometry",
+        "resistive materials"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Band convergence in materials like Bi2Te3-Sb2Te3 alloys is characterized by a significant increase in the density of states, which is observed as a peak or increase in the Seebeck effective mass.",
+      "evidence": "The variation in doping from sample to sample or measurement temperature changes S but not m*s and enables the observance of an increase in DOS at band convergence such as that shown in Figure 2b for Bi2Te3·Sb2Te3 alloys.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "band convergence",
+        "Bi2Te3",
+        "Sb2Te3",
+        "alloying"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Different electron scattering mechanisms affect the Seebeck mass; for acoustic phonon scattering (λ = 0), m*s equals m*DOS, while for ionized impurity scattering (λ = 3/2), m*s is significantly larger than m*DOS.",
+      "evidence": "For single parabolic bands with different scattering, the Seebeck mass would be related to the DOS mass as m*s = m*DOS(1 + λ) in the degenerate limit... for acoustic phonon scattering λ = 0",
+      "complexity": "multi-hop",
+      "keywords": [
+        "scattering mechanisms",
+        "acoustic phonon scattering",
+        "ionized impurity scattering"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "In thermoelectric materials, a low inertial mass (m*I) is preferred for high mobility, while a high Seebeck effective mass (m*s) is beneficial for maintaining high electrical conductivity at a given Seebeck coefficient.",
+      "evidence": "To obtain the highest thermoelectric quality factor... a low inertial mass m*I from dispersive (not fat) bands is desired... However a higher m*s allows a higher charge carrier concentration n and therefore σ, at the same Seebeck (Fermi Level).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "thermoelectric quality factor",
+        "inertial mass",
+        "electrical conductivity"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Seebeck effective mass can be computed as a scalar quantity from Density Functional Theory (DFT) band structures by applying the Boltzmann transport equation.",
+      "evidence": "By using calculations of the Seebeck coefficient from DFT band structures with the Boltzmann transport equation, m*s values have been tabulated for thousands of materials... The usage of m*s here is that of a scalar quantity",
+      "complexity": "single-hop",
+      "keywords": [
+        "DFT",
+        "Boltzmann transport equation",
+        "computational materials science"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "A 'Pisarenko plot' (|S| versus nH) is used to determine if a material's transport is well-described by a single band effective mass model; data points following a constant m*s curve validate the model.",
+      "evidence": "If the Seebeck measurements for samples of various nH all fall on the curve of |S| versus nH for a constant m*s, then the material is well described by a single band effective mass model.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Pisarenko plot",
+        "single band model",
+        "thermopower"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 12267,
+    "completion_tokens": 3085,
+    "total_tokens": 15352
+  }
+}

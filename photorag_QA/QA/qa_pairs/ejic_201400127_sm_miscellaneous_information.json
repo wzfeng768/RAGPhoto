@@ -1,0 +1,75 @@
+{
+  "paper_id": "ejic_201400127_sm_miscellaneous_information",
+  "paper_title": "Effects of Solvent Additives on the Crystal Architecture of Supramolecular Conductors Based on Diiodo(ethylenedithio)tetraselenafulvalene and Indium Tetrahalide Anions",
+  "qa_pairs": [
+    {
+      "question": "What is the specific organic donor molecule used in the synthesis of the supramolecular conductors described in this study?",
+      "answer": "The organic donor molecule used is diiodo(ethylenedithio)tetraselenafulvalene, which is abbreviated as DIETS.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Effects of Solvent Additives on the Crystal Architecture of Supramolecular Conductors Based on Diiodo(ethylenedithio)tetraselenafulvalene and Indium Tetrahalide Anions",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Which primary solvent and electrochemical method are employed to grow crystals of DIETS-based conductors?",
+      "answer": "The crystals are grown via electrochemical crystallization using chlorobenzene (PhCl) as the primary solvent.",
+      "category": "Processing & Fabrication",
+      "source_title": "Effects of Solvent Additives on the Crystal Architecture of Supramolecular Conductors Based on Diiodo(ethylenedithio)tetraselenafulvalene and Indium Tetrahalide Anions",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "List the solvent additives used during the electrochemical crystallization process to modify the crystal architecture of DIETS-based conductors.",
+      "answer": "The solvent additives used include water (H2O), methanol (MeOH), and ethanol (EtOH).",
+      "category": "Processing & Fabrication",
+      "source_title": "Effects of Solvent Additives on the Crystal Architecture of Supramolecular Conductors Based on Diiodo(ethylenedithio)tetraselenafulvalene and Indium Tetrahalide Anions",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How is the electrical current modulated during the growth of DIETS conductors to ensure the quality of the crystals?",
+      "answer": "To prevent the formation of tiny polycrystals, a constant current source with unsymmetrical reversed polarity is used, specifically alternating between +0.80 seconds and -0.20 seconds.",
+      "category": "Processing & Fabrication",
+      "source_title": "Effects of Solvent Additives on the Crystal Architecture of Supramolecular Conductors Based on Diiodo(ethylenedithio)tetraselenafulvalene and Indium Tetrahalide Anions",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What are the typical current levels and time frames required for the electrosynthesis of these supramolecular conductors?",
+      "answer": "The electrochemical crystallization typically requires a current ranging from 0.30 to 0.50 microamperes applied over a period of 4 to 5 days.",
+      "category": "Processing & Fabrication",
+      "source_title": "Effects of Solvent Additives on the Crystal Architecture of Supramolecular Conductors Based on Diiodo(ethylenedithio)tetraselenafulvalene and Indium Tetrahalide Anions",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "In the synthesis of DIETS-based conductors, what is the typical mass ratio range between the DIETS donor and the electrolyte?",
+      "answer": "The synthesis typically utilizes approximately 4-5 mg of the DIETS donor molecule for every 30-50 mg of electrolyte.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Effects of Solvent Additives on the Crystal Architecture of Supramolecular Conductors Based on Diiodo(ethylenedithio)tetraselenafulvalene and Indium Tetrahalide Anions",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Based on the experimental parameters for crystal 3, what is the volume percentage of methanol used as an additive in the chlorobenzene solvent system?",
+      "answer": "Crystal 3 uses 2.85 ml of methanol in 17.15 ml of chlorobenzene, resulting in a methanol concentration of approximately 14.25% by volume.",
+      "category": "Processing & Fabrication",
+      "source_title": "Effects of Solvent Additives on the Crystal Architecture of Supramolecular Conductors Based on Diiodo(ethylenedithio)tetraselenafulvalene and Indium Tetrahalide Anions",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "How are the electronic transport properties of the resulting DIETS-based supramolecular crystals, such as crystal 4 and crystal 6, evaluated?",
+      "answer": "The electronic transport properties are evaluated by measuring the temperature dependence of the crystal's electrical resistivity.",
+      "category": "Performance Metrics",
+      "source_title": "Effects of Solvent Additives on the Crystal Architecture of Supramolecular Conductors Based on Diiodo(ethylenedithio)tetraselenafulvalene and Indium Tetrahalide Anions",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2159,
+    "completion_tokens": 2072,
+    "total_tokens": 4231
+  }
+}

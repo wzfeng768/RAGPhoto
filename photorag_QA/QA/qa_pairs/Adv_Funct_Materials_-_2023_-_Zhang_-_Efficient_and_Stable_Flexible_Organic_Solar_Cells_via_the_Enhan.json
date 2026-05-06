@@ -1,0 +1,75 @@
+{
+  "paper_id": "Adv_Funct_Materials_-_2023_-_Zhang_-_Efficient_and_Stable_Flexible_Organic_Solar_Cells_via_the_Enhan",
+  "paper_title": "Efficient and Stable Flexible Organic Solar Cells via the Enhanced Optical-Thermal Radiative Transfer",
+  "qa_pairs": [
+    {
+      "question": "What is the power conversion efficiency (PCE) and active layer composition of the flexible organic solar cells (FOSCs) utilizing the spectrally selective coupling structure (SSCS)?",
+      "answer": "The flexible organic solar cells based on a D18:Y6:PC71BM active layer achieved a power conversion efficiency (PCE) exceeding 17% when utilizing the SSCS architecture.",
+      "category": "Performance Metrics",
+      "source_title": "Efficient and Stable Flexible Organic Solar Cells via the Enhanced Optical-Thermal Radiative Transfer",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the spectrally selective coupling structure (SSCS) facilitate passive cooling in flexible organic solar cells?",
+      "answer": "The SSCS combines two mechanisms: a periodic subwavelength hemisphere pattern that enhances the out-coupling of infrared radiation (passive cooling) and a distributed Bragg reflector (DBR) that blocks near-infrared absorption to limit heat generation.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Efficient and Stable Flexible Organic Solar Cells via the Enhanced Optical-Thermal Radiative Transfer",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Why was Polydimethylsiloxane (PDMS) chosen as the substrate for these flexible organic solar cells over materials like PET or PI?",
+      "answer": "PDMS was selected because it exhibits higher infrared emissivity compared to polyethylene glycol terephthalate (PET) and polyimide (PI), particularly within the 8 to 13 μm atmospheric window, which is crucial for radiative thermal dissipation.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Efficient and Stable Flexible Organic Solar Cells via the Enhanced Optical-Thermal Radiative Transfer",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What are the specific quantitative effects of the SSCS on the heat power intensity and working temperature of FOSCs under outdoor sunlight?",
+      "answer": "The integration of the SSCS reduces the heat power intensity of the flexible organic solar cells by 292.5 W cm⁻² and decreases the working temperature by 9.6 °C under outdoor sunlight irradiation.",
+      "category": "Performance Metrics",
+      "source_title": "Efficient and Stable Flexible Organic Solar Cells via the Enhanced Optical-Thermal Radiative Transfer",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Compare the T80 lifetime of FOSCs with the SSCS to a reference device without the structure under real outdoor conditions.",
+      "answer": "The T80 lifetime of FOSCs with the SSCS is extended to 350 days under real outdoor conditions, which is more than triple the lifetime of a reference device without the structure (approximately 102 days).",
+      "category": "Stability & Degradation",
+      "source_title": "Efficient and Stable Flexible Organic Solar Cells via the Enhanced Optical-Thermal Radiative Transfer",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does interface reflection at the substrate-air boundary impact the thermal performance of flexible organic solar cells?",
+      "answer": "Interface reflection traps infrared radiation in waveguide modes, which retards thermal dissipation. This can significantly increase the working temperature of the devices, for example, raising it from 60.3 °C to 86.6 °C (an increase of over 26 °C).",
+      "category": "Structure-Property Relationships",
+      "source_title": "Efficient and Stable Flexible Organic Solar Cells via the Enhanced Optical-Thermal Radiative Transfer",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What materials and layer thicknesses are used to construct the Distributed Bragg Reflector (DBR) in the SSCS, and what is its optical function?",
+      "answer": "The DBR is constructed by periodically stacking TeO2 (136 nm) and MgF2 (104 nm and 208 nm) layers. Its function is to reflect light with wavelengths longer than approximately 1 μm to prevent heating from near-infrared absorption.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Efficient and Stable Flexible Organic Solar Cells via the Enhanced Optical-Thermal Radiative Transfer",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "According to FDTD simulations, how does the 5 μm hemisphere pattern affect mid-infrared (MIR) emission?",
+      "answer": "The 5 μm hemisphere pattern suppresses total internal reflection (TIR) and breaks the waveguide mode at the interface, which enhances the electric field in the air and results in a 1.7 times stronger MIR emission intensity.",
+      "category": "Computational & Machine Learning",
+      "source_title": "Efficient and Stable Flexible Organic Solar Cells via the Enhanced Optical-Thermal Radiative Transfer",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2682,
+    "completion_tokens": 2790,
+    "total_tokens": 5472
+  }
+}

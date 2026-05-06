@@ -1,0 +1,152 @@
+{
+  "paper_id": "d0tc03217d",
+  "paper_title": "A low boiling-point and low-cost fluorinated additive improves the efficiency and stability of organic solar cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/d0tc03217d/auto/d0tc03217d.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "1,4-Difluorobenzene (DFB) is identified as a promising solvent additive for organic solar cells due to its low boiling point of 88.8 °C (361.95 K) and low cost (approximately 4.05 RMB/g).",
+      "evidence": "Herein, we propose a low boiling-point and low-cost additive 1,4-difluorobenzene (DFB) with a boiling point of 88.8 °C... Moreover, DFB is a cheap chemical product (the price of DFB with a purity of 99% (J&K) is 4.05 RMB/1 g).",
+      "complexity": "single-hop",
+      "keywords": [
+        "1,4-difluorobenzene",
+        "solvent additive",
+        "boiling point",
+        "cost-effective"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The power conversion efficiency (PCE) of organic solar cells based on the J71:m-ITTC blend increased from 11.01% to 12.38% upon the addition of 0.8% v/v 1,4-difluorobenzene (DFB).",
+      "evidence": "The power conversion efficiency (PCE) of the OSCs based on J71:m-ITTC with the DFB additive treatment increased to 12.38% from 11.01% for the device without the additive treatment.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "J71",
+        "m-ITTC",
+        "efficiency improvement"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Optimized J71:m-ITTC devices treated with DFB additive exhibit a short-circuit current density (Jsc) of 19.27 mA/cm², an open-circuit voltage (Voc) of 0.874 V, and a fill factor (FF) of 73.54%.",
+      "evidence": "Table 1: 0.8% DFB: Voc 0.874, Jsc 19.27 mA cm-2, FF 73.54%, PCEmax 12.38%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Jsc",
+        "Voc",
+        "fill factor",
+        "photovoltaic parameters"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The DFB additive treatment enhances intermolecular pi-pi stacking and molecular aggregation in J71:m-ITTC blends, which facilitates more efficient charge carrier separation and transport.",
+      "evidence": "The DFB additive treatment enhances intermolecular π-π stacking of the photovoltaic materials, which is conducive to charge carrier separation and transport... The results suggest that the DFB additive treatment could promote the aggregation of J71 and m-ITTC.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "pi-pi stacking",
+        "molecular aggregation",
+        "charge transport",
+        "morphology"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Bimolecular recombination is suppressed in J71:m-ITTC devices when treated with 0.8% DFB, as evidenced by the increase in the power-law exponent (alpha) from 0.915 to 0.969.",
+      "evidence": "For the J71:m-ITTC-based device, the α value is 0.915 without additive treatment, and 0.969 for the device with the 0.8% DFB additive treatment. This result indicates that bimolecular recombination was suppressed.",
+      "complexity": "single-hop",
+      "keywords": [
+        "bimolecular recombination",
+        "light intensity dependence",
+        "charge recombination"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "DFB additive treatment improves charge carrier mobility in J71:m-ITTC films, increasing hole mobility (μh) from 7.3 x 10^-4 to 8.83 x 10^-4 cm² V^-1 s^-1 and electron mobility (μe) from 1.50 x 10^-5 to 4.37 x 10^-5 cm² V^-1 s^-1.",
+      "evidence": "The hole (μh) and electron (μe) mobilities of the J71:m-ITTC blend film is 7.3 × 10−4 cm2 V−1 s−1 and 1.50 × 10−5 cm2 V−1 s−1, respectively. With 0.8% DFB additive treatment, the hole and electron mobilities were boosted to 8.83 × 10−4 cm2 V−1 s−1 and 4.37 × 10−5 cm2 V−1 s−1.",
+      "complexity": "single-hop",
+      "keywords": [
+        "carrier mobility",
+        "SCLC",
+        "hole mobility",
+        "electron mobility"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The optimized fabrication process for the J71:m-ITTC active layer involves a donor:acceptor weight ratio of 1:1.2, a total concentration of 18 mg/mL in chloroform, and 0.8% v/v DFB additive followed by thermal annealing at 150 °C for 2 minutes.",
+      "evidence": "The optimized weight ratio of J71:m-ITTC is 1:1.2... with a total blend concentration of 18 mg mL−1 in chloroform, and the optimized additive treatment condition is 0.8% v/v... followed by thermal annealing at 150 °C for 2 min.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "fabrication",
+        "thermal annealing",
+        "donor-acceptor ratio",
+        "processing conditions"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis reveals that the DFB additive combined with thermal annealing results in tighter molecular packing in the blend, with the (010) pi-pi diffraction peak shifting to 1.724 Å^-1 (d-spacing of 3.645 Å).",
+      "evidence": "The thermally annealed J71:m-ITTC blend film with additive treatment had a (100) diffraction peak of 0.305 Å−1 (d spacing: 20.630 Å) and a (010) π-π diffraction peak of 1.724 Å−1 (d-spacing: 3.645 Å).",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "d-spacing",
+        "pi-pi diffraction",
+        "molecular packing"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Devices treated with DFB show superior long-term storage stability, retaining 87.23% of their initial PCE after 200 hours in a nitrogen-filled glovebox, compared to a larger decline in untreated devices.",
+      "evidence": "After 200 h storage of the OSC devices with the additive and TA treatment in a N2-filled glove box, the PCE slightly declined from 12.22% to 10.66%, keeping 87.23% of the original energy conversion efficiency.",
+      "complexity": "single-hop",
+      "keywords": [
+        "storage stability",
+        "degradation",
+        "device lifetime"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The morphological stability under thermal stress (150 °C) is improved with DFB treatment, retaining 84% of initial PCE after 30 minutes compared to 81% for devices without the additive.",
+      "evidence": "After 30 min [at 150 °C], the PCE is 9.01% and 10.34%, respectively, which are 81% and 84% of their initial values. Therefore, the morphological stability of the additive-treated film was also slightly improved.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "morphological stability",
+        "PCE retention"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Low boiling point additives like DFB are preferred for roll-to-roll printing on flexible substrates because they can be removed at temperatures that do not cause deformation of plastic substrates.",
+      "evidence": "In addition, low boiling point additives are necessary in roll-to-roll printing for fabricating flexible OSCs because high temperature annealing will inevitably cause deformation of the plastic substrate of the flexible devices.",
+      "complexity": "single-hop",
+      "keywords": [
+        "roll-to-roll",
+        "flexible electronics",
+        "low boiling point",
+        "substrate deformation"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "AFM measurements show that the RMS roughness of the J71:m-ITTC blend film increases slightly from 0.683 nm to 0.750 nm after treatment with 0.8% DFB and thermal annealing.",
+      "evidence": "For the J71:m-ITTC blend without DFB additives... RMS roughness of only 0.683 nm. After adding 0.8% DFB and thermal annealing (TA), the roughness of the blended film increased slightly to 0.750 nm.",
+      "complexity": "single-hop",
+      "keywords": [
+        "AFM",
+        "RMS roughness",
+        "surface morphology"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 12271,
+    "completion_tokens": 3344,
+    "total_tokens": 15615
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "paper_id": "Journal_of_Polymer_Science_-_2021_-_Ren_-_Incorporating_polymers_within_a_singlecrystal_From_heterog",
+  "paper_title": "Incorporating polymers within a single-crystal: From heterogeneous structure to multiple functions",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Journal of Polymer Science - 2021 - Ren - Incorporating polymers within a single‐crystal  From heterogeneous structure to/auto/Journal of Polymer Science - 2021 - Ren - Incorporating polymers within a single‐crystal  From heterogeneous structure to.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Synthetic single-crystal composites can incorporate diverse polymer-based guests, including isolated particles, micelles, fibers, and continuous gel networks, while maintaining the long-range atomic ordering of the host crystal.",
+      "evidence": "Here, we summarize the recent progresses in the synthetic single-crystal composites, where polymer guests are incorporated inside single-crystals to generate heterogeneous structures without interruption to the long-range ordering of crystal hosts.",
+      "complexity": "single-hop",
+      "keywords": [
+        "single-crystal composites",
+        "polymer incorporation",
+        "heterogeneous structure",
+        "long-range ordering"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Incorporating polymer micelles into calcite single-crystals can increase the material's hardness by 16%, raising it from 2.6 ± 0.1 GPa to 3.0 ± 0.1 GPa, while simultaneously lowering the elastic modulus from 89.9 ± 12.4 GPa to 47.9 ± 11.8 GPa.",
+      "evidence": "In the case of polymer micelle incorporation, an increase of 16% in the hardness of the crystal hosts (3.0 ± 0.1 GPa) was found compared with pure crystals (2.6 ± 0.1 GPa), while the elastic moduli were lower (47.9 ± 11.8 GPa for composite crystal and 89.9 ± 12.4 GPa for pure calcite).",
+      "complexity": "single-hop",
+      "keywords": [
+        "hardness",
+        "elastic modulus",
+        "calcite",
+        "mechanical properties"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The incorporation of guest materials induces lattice strain in the host crystal, which can shift the optical bandgap (Eg); for instance, incorporating amino acids into ZnO crystals can increase the bandgap by up to 0.13 eV from its pure state of 3.28 eV.",
+      "evidence": "Compared with optical bandgap (Eg) of 3.28 eV for pure ZnO crystals, up to 0.13 eV increase in the Eg for amino acid incorporated ZnO were the direct evidences of such influences.",
+      "complexity": "single-hop",
+      "keywords": [
+        "lattice strain",
+        "bandgap engineering",
+        "ZnO",
+        "amino acids"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The incorporation of conjugated polymer gel networks into fullerene single-crystals creates a long-range ordered 'bulk-heterojunction' (BHJ), which enhances charge-transfer processes between electron donor and acceptor pairs.",
+      "evidence": "Lately, gel networks of conjugated polymers were incorporated into fullerene single-crystals, forming long-range ordered 'bulk-heterojunction' between electron donor-acceptor pairs and leading to an enhanced charge-transfer process.",
+      "complexity": "single-hop",
+      "keywords": [
+        "bulk-heterojunction",
+        "fullerene",
+        "conjugated polymer",
+        "charge-transfer"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Patterned internal structures within single-crystals, such as '1010' sequences of gel-incorporated and gel-free layers, can be fabricated by oscillating the crystallization media between gel and solution while precisely controlling epitaxial growth time.",
+      "evidence": "the internal structure of an individual KDP crystal was able to be programmed with a sequence such as '110' or '01010' by oscillating the media during crystallization process... by altering the crystallization media between gel and solution with precisely controlled crystallization kinetics.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "patterned incorporation",
+        "epitaxial crystallization",
+        "KDP crystal",
+        "kinetic control"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Successful incorporation of guest particles depends on the conformational freedom of surface-attached polymer chains; longer steric stabilizer chains typically promote uniform and dense incorporation by ensuring stronger binding to the crystal surface.",
+      "evidence": "The higher level of conformational freedom determined by the longer chains ensured a stronger binding of vesicles to calcite surfaces and, thus, promoted the vesicle incorporation initially.",
+      "complexity": "single-hop",
+      "keywords": [
+        "conformational freedom",
+        "steric stabilizer",
+        "binding interaction",
+        "incorporation mechanism"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The bicontinuous nature of gel-incorporated single-crystals is verified using Annular Dark Field Scanning Transmission Electron Microscopy (ADF-STEM) and electron tomography to visualize 3D interpenetrating fibrous networks.",
+      "evidence": "the internal structure of calcite crystals with incorporation of agarose gel networks (about 1 wt%) was visualized by annular dark field scanning transmission electron microscopy (ADF-STEM, Figure 3D) and corresponding electron tomography (Figure 3F).",
+      "complexity": "single-hop",
+      "keywords": [
+        "ADF-STEM",
+        "electron tomography",
+        "bicontinuous structure",
+        "agarose gel"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Dense occlusion of gold nanoparticles (over 30% weight ratio) into calcite single-crystals can be achieved by coating the nanoparticles with a hydroxyl-rich polymer like poly(glycerol monomethacrylate) (PGMA).",
+      "evidence": "It showed remarkably dense occlusion of Au NP's inside calcite single-crystals (Figure 2H-J) with more than 30% weight ratio of NP's, without disturbing the single crystal nature of calcite hosts.",
+      "complexity": "single-hop",
+      "keywords": [
+        "gold nanoparticles",
+        "PGMA",
+        "calcite",
+        "weight ratio"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The incorporation of gel networks into single-crystals is sensitive to crystallization kinetics; a faster growth rate provides a larger hydrodynamic force that intensifies the binding between the guest and the host, promoting incorporation.",
+      "evidence": "A larger hydrodynamic force given by a faster crystal growth rate intensifies the binding interaction between guests and crystal hosts... In a result, the incorporation can be promoted.",
+      "complexity": "single-hop",
+      "keywords": [
+        "crystallization kinetics",
+        "hydrodynamic force",
+        "growth rate",
+        "gel incorporation"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Encapsulation within a single-crystal host significantly improves the stability of guest materials, such as quantum dots and proteins, and can be used to enable the controlled release of guest substances like oil nanoemulsions.",
+      "evidence": "it has been reported that the encapsulation by single-crystal hosts improves the stability of incorporated guests obviously and enables controlled release of the guest materials.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "encapsulation",
+        "stability",
+        "controlled release",
+        "quantum dots"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 11614,
+    "completion_tokens": 3043,
+    "total_tokens": 14657
+  }
+}

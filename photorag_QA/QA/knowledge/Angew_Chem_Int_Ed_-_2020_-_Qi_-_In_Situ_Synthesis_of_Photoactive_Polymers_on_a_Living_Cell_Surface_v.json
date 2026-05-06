@@ -1,0 +1,127 @@
+{
+  "paper_id": "Angew_Chem_Int_Ed_-_2020_-_Qi_-_In_Situ_Synthesis_of_Photoactive_Polymers_on_a_Living_Cell_Surface_v",
+  "paper_title": "In Situ Synthesis of Photoactive Polymers on a Living Cell Surface via Bio-Palladium Catalysis for Modulating Biological Functions",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Angew Chem Int Ed - 2020 - Qi - In Situ Synthesis of Photoactive Polymers on a Living Cell Surface via Bio‐Palladium/auto/Angew Chem Int Ed - 2020 - Qi - In Situ Synthesis of Photoactive Polymers on a Living Cell Surface via Bio‐Palladium.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Cationic monomers 1,4-bis(oxy-hexamethylene-trimethylammonium bromide)-2,5-diiodobenzene (M1) and 1,4-bis(oxy-hexamethylene-trimethylammonium bromide)-2,5-diethynylbenzene (M2) were designed to ensure water solubility and facilitate electrostatic binding to negatively charged cell surfaces.",
+      "evidence": "Cationic 1,4-bis(oxy-hexamethylene-trimethylammonium bromide)-2,5-diiodobenzene (M1) and 1,4-bis(oxy-hexamethylene-trimethylammonium bromide)-2,5-diethynylbenzene (M2) were chosen as monomers... the positive charges also favor the process of binding to negatively charged cell surface via electrostatic interactions.",
+      "complexity": "single-hop",
+      "keywords": [
+        "cationic monomers",
+        "Sonogashira polymerization",
+        "water solubility",
+        "electrostatic binding"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The Sonogashira polymerization of M1 and M2 at a 100 μM concentration in aqueous solution achieves a polymer conversion efficiency of 32% after 2 hours and 49% after 5 hours.",
+      "evidence": "At low monomer concentration ([M1] = 100 μM), the conversion was relatively high and reached 32% and 49% after reaction for 2 h and 5 h, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "conversion efficiency",
+        "reaction time",
+        "aqueous polymerization"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The in situ formed polyphenyleneethynylene (PPE) possesses a molecular weight of approximately 3.5 × 10³ g/mol, which corresponds to roughly 9 repeat units.",
+      "evidence": "Derived from the GPC (Supporting Information, Figure S3), the molecular weight of the resulting polymers formed at 100 and 500 μM monomer concentrations are both about 3.5 × 10^3 (ca. 9 repeat units).",
+      "complexity": "single-hop",
+      "keywords": [
+        "molecular weight",
+        "polyphenyleneethynylene",
+        "degree of polymerization"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Bio-Pd catalysts are formed on cell surfaces by the binding of Pd(II) ions to carboxyl, amino, and phosphate groups, followed by reduction to Pd(0) nanoparticles by cellular molybdoenzymes or sodium formate.",
+      "evidence": "Cell surface generally possesses multiple Pd binding sites, including carboxyl, amino, and phosphate groups... sodium formate (HCOONa) was added to initiate the reduction of PdII by molybdoenzymes on cell surface of E. coli.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "bio-Pd catalyst",
+        "molybdoenzymes",
+        "surface engineering",
+        "reduction"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "High-resolution TEM images of the bio-Pd catalyst on E. coli reveal Pd nanoparticles with an inter-planar spacing of 1.93 Å, corresponding to the (200) lattice fringe of Pd(0) crystals.",
+      "evidence": "Pd nanoparticles with inter-planar spacing of 1.93 Å (200) for the lattice fringe were observed on the surface of E. coli in the high-resolution TEM images, which is consistent with Pd0 crystal.",
+      "complexity": "single-hop",
+      "keywords": [
+        "TEM",
+        "lattice fringe",
+        "Pd nanoparticles",
+        "crystallography"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "In situ synthesis of PPE on E. coli surfaces significantly reduces bacterial viability to 28% when using a monomer concentration of 500 μM.",
+      "evidence": "With the monomer concentration increase from 100 μM to 500 μM, the bacterial viability after polymerization decreased to 28%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "bacterial viability",
+        "antibacterial activity",
+        "E. coli"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The antibacterial activity of in situ synthesized PPE is attributed to its cationic charge and hydrophobic moieties, which induce membrane damage in E. coli.",
+      "evidence": "Considering that the synthesized PPE possesses cationic charge and hydrophobic moieties that contributed to bactericidal ability... Obvious membrane damages were also observed for this case.",
+      "complexity": "single-hop",
+      "keywords": [
+        "cationic charge",
+        "hydrophobic moieties",
+        "membrane damage",
+        "antibacterial mechanism"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "In situ synthesis of PPE on the surface of C. pyrenoidosa increases ATP production by 115% under white light irradiation compared to untreated algae when using 500 μM monomers.",
+      "evidence": "Compared to C. pyrenoidosa without any treatment, 42% and 115% increase of ATP production were observed for the Pd-loaded C. pyrenoidosa treated with 100 μM monomer and 500 μM monomer, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ATP synthesis",
+        "C. pyrenoidosa",
+        "photosynthesis enhancement"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The enhancement of ATP synthesis in C. pyrenoidosa via surface-synthesized PPE is driven by enlarged light absorption and the acceleration of cyclic electron transport around Photosystem I (PS I).",
+      "evidence": "The in situ formed photoactive conjugated polymers can also enhance the ATP synthesis of C. pyrenoidosa by enlarging the light absorption and accelerating the cyclic electron transport... the increased ATP synthesis was related to the augmentation in PS I activity.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "cyclic electron transport",
+        "Photosystem I",
+        "light harvesting",
+        "ATP enhancement"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Confocal laser scanning microscopy (CLSM) is used to trace the polymerization process because the resulting PPE emits blue fluorescence (400-500 nm), whereas the monomers are non-fluorescent.",
+      "evidence": "Since PPE emits blue fluorescence, the polymer formation process on cell surface can be easily traced and characterized... A significant and dose-dependent increase in fluorescence intensity was observed on the surface of E. coli but not on E. coli only treated with monomers.",
+      "complexity": "single-hop",
+      "keywords": [
+        "CLSM",
+        "fluorescence imaging",
+        "real-time tracing"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 7917,
+    "completion_tokens": 3003,
+    "total_tokens": 10920
+  }
+}

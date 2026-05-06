@@ -1,0 +1,128 @@
+{
+  "paper_id": "ChemSusChem_-_2021_-_Lee_-_Performance_and_Stability_of_Polymer_Nonfullerene_Solar_Cells_with_100_CA",
+  "paper_title": "Performance and Stability of Polymer: Nonfullerene Solar Cells with 100 °C-Annealed Electron-Collecting Combination Layers",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/ChemSusChem - 2021 - Lee - Performance and Stability of Polymer   Nonfullerene Solar Cells with 100  C‐Annealed/auto/ChemSusChem - 2021 - Lee - Performance and Stability of Polymer   Nonfullerene Solar Cells with 100  C‐Annealed.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The study utilizes a hybrid electron-collecting buffer layer (ECBL) system consisting of a zinc oxide (ZnO) and poly(2-ethyl-2-oxazoline) (PEOz) blend (ZnO:PEOz) with an additional PEOz interlayer.",
+      "evidence": "Inverted-type organic solar cells, fabricated with low-temperature-processed combination layers of hybrid electron-collecting buffer layers (ECBLs) consisting of zinc oxide (ZnO) and poly (2-ethyl-2-oxazoline) (PEOz) and additional PEOz interlayers, showed improved performance and stability.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ZnO",
+        "PEOz",
+        "hybrid ECBL",
+        "interlayer"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The ZnO:PEOz/PEOz combination layers were processed at a low thermal annealing temperature of 100 °C to be compatible with roll-to-roll fabrication on flexible substrates.",
+      "evidence": "In this study, we have attempted to further reduce the thermal annealing temperature down to 100 °C for the ZnO:PEOz hybrid ECBLs and form the PEOz interlayers on the low-temperature-processed ZnO:PEOz Iayers.",
+      "complexity": "single-hop",
+      "keywords": [
+        "low-temperature processing",
+        "thermal annealing",
+        "flexible substrates"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Inverted PBDB-T:IT-M solar cells using a ZnO:PEOz (6 wt% PEOz) / PEOz combination layer achieved an average power conversion efficiency (PCE) of 10.11% and a maximum PCE of 10.59%.",
+      "evidence": "Results showed that the power conversion efficiency of solar cells reached approximately 9.38 and 10.11% (average) in case of the ZnO/PEOz and ZnO:PEOz (6 wt% PEOz)/ PEOz combination layers, respectively... a maximum PCE of 10.59% could be achieved from the PBDB-T:IT-M solar cells with the ZnO:PEOz/PEOz combination layers at the PEOz content of 6 wt%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "PBDB-T:IT-M",
+        "efficiency",
+        "nonfullerene"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The inclusion of 6 wt% PEOz in the ZnO precursor minimizes the series resistance (Rs) to 0.13 kΩ, which correlates with the highest observed short-circuit current density (Jsc) of 16.19 mA/cm².",
+      "evidence": "The highest Jsc value can be explained by the lowest series resistance (Rs = 0.13 kΩ) at the PEOz content of 6 wt% (see Figure S5 and Table 1)... the shortcircuit current density (Jsc) was gradually increased as the PEOz content increased up to 6 wt%.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "series resistance",
+        "Jsc",
+        "PEOz concentration"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Atomic Force Microscopy (AFM) revealed that the ZnO:PEOz (6 wt%) layer possesses a textured surface with nanocrater structures, which increases the interfacial contact area with the bulk heterojunction (BHJ) layer.",
+      "evidence": "As observed from the atomic force microscope (AFM) images in Figure 3, the textured surface with some nanocrater structures in the ZnO:PEOz/PEOz combination layers (6 wt %) might extend the area of interfacial contacts with the BHJ layers so that the electron transfer from the BHJ layers could be enhanced.",
+      "complexity": "single-hop",
+      "keywords": [
+        "AFM",
+        "surface morphology",
+        "nanocrater",
+        "interfacial contact"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Under continuous one-sun illumination for 12 hours, the device with the ZnO:PEOz (6 wt%) / PEOz layer showed a 35.27% reduction in Jsc, whereas the device with the ZnO / PEOz layer (0 wt% PEOz) showed a much higher reduction of 68.72%.",
+      "evidence": "However, the reduction of short circuit current density (ΔJsc) after 12 h exposure was 68.72 and 35.27% for the 0 and 6 wt % solar cells, respectively. This pronounced difference supports the positive influence of the hybrid combination layers.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "photostability",
+        "Jsc loss",
+        "degradation",
+        "operational stability"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The appearance of a sigmoidal (S-shape) J-V curve, indicating severe degradation, was delayed from 2 hours to 4 hours of continuous light exposure by using the 6 wt% PEOz hybrid combination layer instead of the pristine ZnO layer.",
+      "evidence": "In the case of 0 wt % solar cells (ZnO/PEOz combination layers), the J-V curve became gradually poor with the irradiation (exposure) time in the evolution of noticeable sigmoidal shape after 2 h... but the sigmoidal shape appeared after 4 h [for 6 wt%], which is a two-fold extended time.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "sigmoidal J-V curve",
+        "burn-in loss",
+        "interface degradation"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Optical absorption measurements indicated that the PBDB-T:IT-M active layer undergoes photo-induced degradation, with absorbance at 700 nm decreasing by 18.23% (for 0 wt% PEOz) and 17.24% (for 6 wt% PEOz) after 12 hours of illumination.",
+      "evidence": "The reduction ratio (Abs) of absorption peaks was 23.48% at λ = 630 nm and 18.23% at λ = 700 nm in the case of 0 wt % PEOz content, while it was 21.42% at λ = 630 nm and 17.24% at λ = 700 nm in the case of 6 wt % PEOz content.",
+      "complexity": "single-hop",
+      "keywords": [
+        "UV-vis absorbance",
+        "active layer degradation",
+        "photo-induced degradation"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Polymeric interlayers like PEOz function by creating dipoles on the metal oxide surface, which modifies the work function and increases the built-in potential of the organic solar cell.",
+      "evidence": "It has been reported that the interlayers in the inverted-type polymer:nonfullerene solar cells play a crucial role in increasing the built-in potentials of devices via work function changes caused by the formation of dipoles on the metal oxide layers (ECBLs).",
+      "complexity": "single-hop",
+      "keywords": [
+        "built-in potential",
+        "dipole formation",
+        "work function",
+        "interlayer"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The ZnO:PEOz precursor solution was prepared using zinc acetate dihydrate and PEOz in 2-methoxyethanol with ethanolamine as a stabilizer, followed by stirring at 60 °C and a 24-hour sol-gel aging process at 25 °C.",
+      "evidence": "The ZnO:PEOz precursor solutions were prepared by mixing zinc acetate dihydrate (100 mg) and PEOz... in 2-methoxyethanol (1 mL) in the presence of ethanolamine (28 μL). The precursor solutions were stirred at 60 °C for 3 h and then kept at 25 °C for 24 h for completing sol-gel reactions.",
+      "complexity": "single-hop",
+      "keywords": [
+        "sol-gel",
+        "zinc acetate",
+        "precursor solution",
+        "ethanolamine"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 13541,
+    "completion_tokens": 3283,
+    "total_tokens": 16824
+  }
+}

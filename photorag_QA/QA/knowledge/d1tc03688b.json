@@ -1,0 +1,155 @@
+{
+  "paper_id": "d1tc03688b",
+  "paper_title": "Significantly enhanced thermal stability from a new kind of n-type organic semiconductor DFA4: a fully fused F8IC",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/d1tc03688b/auto/d1tc03688b.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "DFA4 is a fully fused tetradecacyclic molecule synthesized by introducing two amino groups into the central core of F8IC followed by an intramolecular cyclization to eliminate unstable exocyclic double bonds.",
+      "evidence": "By introducing two amino groups in the central core of wellrecognized small molecule acceptor F8IC for triggering a further intramolecular cyclization, a fully fused molecule DFA4 was realized... By modifying such a F8IC molecule, a tetradecacyclic molecule DFA4 was obtained.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "DFA4",
+        "F8IC",
+        "intramolecular cyclization",
+        "tetradecacyclic"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The synthesis of DFA4 involves a one-pot reaction consisting of three continuous steps: nucleophilic substitution of bromine with azide groups, Staudinger reduction to amino groups, and Knoevenagel/amino-ketone condensation with difluorinated INCN.",
+      "evidence": "the final product DFA4 was synthesized via a one-pot reaction with three continuous steps: firstly, bromine atoms were replaced with azide groups via a nucleophilic reaction; secondly, a Staudinger reduction was performed to convert the azide groups into amino ones; finally, difluorinated INCN (IN2F) was attached to the TTT core via Knoevenagel condensation/amino-ketone condensation reaction to yield DFA4.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Staudinger reduction",
+        "Knoevenagel condensation",
+        "one-pot synthesis",
+        "INCN"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "DFA4 demonstrates significantly improved thermal stability compared to F8IC, with a 5% weight loss temperature (Td) of 426 °C, which is 75 °C higher than that of F8IC (351 °C).",
+      "evidence": "thermogravimetric analysis (TGA, Fig. 2d) shows that DFA4 exhibits extraordinary thermal stability and decomposes (5% loss) only above 426 °C (vs. 351 °C for F8IC).",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "TGA",
+        "weight loss",
+        "degradation"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Compared to F8IC, DFA4 possesses a broader optical bandgap of 1.40 eV (vs. 1.27 eV for F8IC), characterized by a higher LUMO level (-3.88 eV) and a deeper HOMO level (-5.56 eV).",
+      "evidence": "giving the corresponding optical bandgap of DFA4 around 1.40 eV (vs. 1.27 eV for F8iC)... energy level of the highest occupied molecular orbital (HOMO) and LUMO was -5.56 and -3.88 eV, respectively.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "optical bandgap",
+        "HOMO",
+        "LUMO",
+        "energy levels"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "In organic field-effect transistors (OFETs), DFA4 exhibits ambipolar transport behavior with a maximum hole mobility of 1.5 × 10⁻³ cm² V⁻¹ s⁻¹ and an electron mobility of 8.2 × 10⁻³ cm² V⁻¹ s⁻¹.",
+      "evidence": "DFA4 shows maximum hole and electron mobility of 1.5 × 10⁻³ and 8.2 × 10⁻³ cm² V⁻¹ s⁻¹, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "OFET",
+        "carrier mobility",
+        "electron mobility",
+        "hole mobility"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Organic photovoltaic devices using a PM7:DFA4 blend achieved a power conversion efficiency (PCE) of 7.73%, with an open-circuit voltage (Voc) of 0.87 V, a short-circuit current (Jsc) of 13.30 mA cm⁻², and a fill factor (FF) of 66.70%.",
+      "evidence": "In the champion device, a PCE of 7.73% was realized along with a VOC up to 0.87 V, a JSC of 13.30 mA cm⁻² and an FF of 66.70%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "Voc",
+        "Jsc",
+        "fill factor",
+        "PM7"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis reveals that DFA4 neat films exhibit face-on π-π stacking with a closer interplanar spacing of 3.54 Å and a larger crystalline coherence length (CCL) of 34.02 Å compared to F8IC (3.59 Å and 26.45 Å, respectively).",
+      "evidence": "DFA4 neat film exhibits typical face-on π-π stacking... DFA4 stacks with a closer π-π interplanar spacing (3.54 A vs. 3.59 A) and generates a larger crystalline coherence length (CCL) of 34.02 A than 26.45 A of F8Ic.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "π-π stacking",
+        "crystalline coherence length",
+        "face-on"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The exciton dissociation probability (Jph/Jsat) for optimized PM7:DFA4 organic solar cells is 0.906 under short-circuit conditions, indicating efficient dissociation.",
+      "evidence": "The exciton dissociation probability calculated from Jph/Jsat under short circuiting of PM7:DFA4 based OsCs, is o.906, indicating that an efficient exciton dissociation occurred in devices.",
+      "complexity": "single-hop",
+      "keywords": [
+        "exciton dissociation",
+        "photocurrent density",
+        "Jsat"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The primary charge recombination mechanism in PM7:DFA4 devices is trap-assisted recombination, as indicated by a diode ideality factor (n) of 1.31.",
+      "evidence": "on the other hand, the device of PM7:DFA4 shows an n value of 1.31 which is directly correlated to the trap assisted recombination. So it can be seen that the trap assisted recombination is the major recombination channel in devices of PM7:DFA4.",
+      "complexity": "single-hop",
+      "keywords": [
+        "trap-assisted recombination",
+        "recombination mechanism",
+        "ideality factor"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "DFT calculations indicate that the fused 6-member ring bridge in DFA4 weakens D-A orbital interactions, leading to more localized HOMO-LUMO distributions and a larger bandgap compared to F8IC.",
+      "evidence": "The unique fused ring bridge could weaken the DHOMO–AHOMO and DLUMO–ALUMO interaction, but enhance the DHomo-ALumo one, which leads to localized orbitals and an increased gap.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DFT",
+        "orbital localization",
+        "molecular orbitals",
+        "D-A structure"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The absorption band around 500 nm in DFA4 is attributed to a charge transfer (CT) state occurring through the nitrogen path of the pyridine ring within the fused backbone, a feature absent in F8IC.",
+      "evidence": "The S3 state, which corresponds to the absorption band around 500 nm, is a charge transfer (CT) state partially through the nitrogen path (pyridine ring) of the fused ring, which does not exist in F8ic.",
+      "complexity": "single-hop",
+      "keywords": [
+        "charge transfer",
+        "absorption spectrum",
+        "pyridine ring",
+        "excited states"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The PM7:DFA4 blend shows imbalanced charge transport with hole mobility (2.9 × 10⁻⁴ cm² V⁻¹ s⁻¹) significantly higher than electron mobility (3.0 × 10⁻⁵ cm² V⁻¹ s⁻¹), likely due to poor donor-acceptor miscibility.",
+      "evidence": "the hole- (μh) and electron-mobilities (μe) of the PM7:DFA4 blend are 2.9 × 10⁻⁴ and 3.0 × 10⁻⁵ cm² V⁻¹ s⁻¹, respectively. The imbalanced μh/μe value (9.7) of the PM7:DFA4 based device might be attributed to the relatively poor miscibility of PM7 and DFA4.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "SCLC",
+        "carrier mobility",
+        "miscibility",
+        "PM7"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 8574,
+    "completion_tokens": 3721,
+    "total_tokens": 12295
+  }
+}

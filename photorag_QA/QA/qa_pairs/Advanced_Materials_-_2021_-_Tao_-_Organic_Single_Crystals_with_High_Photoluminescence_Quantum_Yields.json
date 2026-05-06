@@ -1,0 +1,75 @@
+{
+  "paper_id": "Advanced_Materials_-_2021_-_Tao_-_Organic_Single_Crystals_with_High_Photoluminescence_Quantum_Yields",
+  "paper_title": "Organic Single Crystals with High Photoluminescence Quantum Yields Close to 100% and High Mobility for Optoelectronic Devices",
+  "qa_pairs": [
+    {
+      "question": "What are the photoluminescence quantum yields (PLQYs) of TPA-An and TBA-An single crystals at room temperature?",
+      "answer": "TPA-An and TBA-An single crystals exhibit exceptionally high photoluminescence quantum yields (PLQYs) of 98% and 99%, respectively, at room temperature.",
+      "category": "Performance Metrics",
+      "source_title": "Organic Single Crystals with High Photoluminescence Quantum Yields Close to 100% and High Mobility for Optoelectronic Devices",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How are the ribbon-shaped single crystals of TPA-An and TBA-An fabricated?",
+      "answer": "The ribbon-shaped single crystals are grown using a slow solvent vapor-diffusion method. TPA-An is grown in a chloroform/n-hexane solvent system, while TBA-An is grown in a chloroform/methanol solvent system.",
+      "category": "Processing & Fabrication",
+      "source_title": "Organic Single Crystals with High Photoluminescence Quantum Yields Close to 100% and High Mobility for Optoelectronic Devices",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Compare the hole mobilities and thermal stabilities of TPA-An and TBA-An.",
+      "answer": "TPA-An shows a higher maximum hole mobility of 0.45 cm² V⁻¹ s⁻¹ compared to TBA-An's 0.15 cm² V⁻¹ s⁻¹. However, TBA-An exhibits higher thermal stability, with a 5% weight loss temperature of 522 °C, whereas TPA-An is stable up to 489 °C.",
+      "category": "Performance Metrics",
+      "source_title": "Organic Single Crystals with High Photoluminescence Quantum Yields Close to 100% and High Mobility for Optoelectronic Devices",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Why does TPA-An possess a higher hole mobility than TBA-An despite having larger molecular dihedral angles?",
+      "answer": "TPA-An achieves higher mobility because it has a more delocalized HOMO electron cloud distribution and a greater number of intermolecular C-H...π interactions (ranging from 2.868 to 2.949 Å). These factors facilitate better charge transport compared to TBA-An, even though TBA-An has smaller dihedral angles (~3-6° vs. 44.06°).",
+      "category": "Structure-Property Relationships",
+      "source_title": "Organic Single Crystals with High Photoluminescence Quantum Yields Close to 100% and High Mobility for Optoelectronic Devices",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What mechanism explains why the PLQY of TPA-An and TBA-An increases from ~80% in solution to nearly 100% in the solid crystal state?",
+      "answer": "The enhancement in PLQY is attributed to the restriction of intramolecular vibrations and rotations of the benzene rings caused by the compact crystal packing. This restriction reduces non-radiative recombination pathways, thereby increasing the fluorescence emission intensity in the solid state.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Organic Single Crystals with High Photoluminescence Quantum Yields Close to 100% and High Mobility for Optoelectronic Devices",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What are the ultrahigh detectivities (D*) reported for TPA-An and TBA-An based UV phototransistors under 370 nm illumination?",
+      "answer": "Under 370 nm light illumination, TPA-An phototransistors achieve a detectivity of 1.40 x 10^16 Jones, while TBA-An phototransistors reach a detectivity of 1.60 x 10^17 Jones.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Organic Single Crystals with High Photoluminescence Quantum Yields Close to 100% and High Mobility for Optoelectronic Devices",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How do the exciton binding energies of TPA-An and TBA-An affect their performance at room temperature?",
+      "answer": "The exciton binding energies (Eb) are 53.57 meV for TPA-An and 83.29 meV for TBA-An. These relatively low values facilitate temperature-activated exciton dissociation, allowing the excitons to effectively separate into photogenerated carriers at room temperature.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Organic Single Crystals with High Photoluminescence Quantum Yields Close to 100% and High Mobility for Optoelectronic Devices",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What specific molecular design strategy was used to enhance the conjugation and mobility of the TPA-An and TBA-An molecules?",
+      "answer": "The design involves introducing triphenylamine (for TPA-An) and 1,3-diphenylbenzene (for TBA-An) groups at the 9,10 positions of an anthracene core. These groups are connected via triple bonds to expand the π-conjugation length and improve charge carrier mobility.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Organic Single Crystals with High Photoluminescence Quantum Yields Close to 100% and High Mobility for Optoelectronic Devices",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2903,
+    "completion_tokens": 2300,
+    "total_tokens": 5203
+  }
+}

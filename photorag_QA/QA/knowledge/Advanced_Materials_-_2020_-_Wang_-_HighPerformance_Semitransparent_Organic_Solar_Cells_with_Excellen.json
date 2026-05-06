@@ -1,0 +1,134 @@
+{
+  "paper_id": "Advanced_Materials_-_2020_-_Wang_-_HighPerformance_Semitransparent_Organic_Solar_Cells_with_Excellen",
+  "paper_title": "High-Performance Semitransparent Organic Solar Cells with Excellent Infrared Reflection and See-Through Functions",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Materials - 2020 - Wang - High‐Performance Semitransparent Organic Solar Cells with Excellent Infrared Reflection/auto/Advanced Materials - 2020 - Wang - High‐Performance Semitransparent Organic Solar Cells with Excellent Infrared Reflection.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "A ternary blend strategy is employed using PBDB-TF (donor) and two near-infrared (NIR) acceptors, Y6 and BTTPC, which form an alloy-like phase due to their shared backbone structure.",
+      "evidence": "The acceptor, BTTPC, has good compatibility with Y6 in the blend, owing to they share the same backbone while with only different terminal groups... the χ value is 0.82 and 0.07 K for PBDB-TF with BTTPC and Y6 with BTTPC, respectively, indicating BTTPC is highly miscible with Y6.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ternary blend",
+        "alloy-like phase",
+        "BTTPC",
+        "Y6",
+        "PBDB-TF"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The opaque ternary OSC based on PBDB-TF:Y6:BTTPC (10 wt%) achieved a power conversion efficiency (PCE) of 16.8%, with a Voc of 0.86 V, Jsc of 25.45 mA/cm², and a fill factor (FF) of 0.77.",
+      "evidence": "The PCE of ternary OSCs with 10 wt% BTTPC is improved to 16.8% with a Voc of 0.86 V, Jsc of 25.45 mA cm−2, and an FF of 0.77.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "ternary OSC",
+        "PBDB-TF:Y6:BTTPC",
+        "16.8%"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The energy levels of the NIR acceptor BTTPC are cascaded between the donor PBDB-TF and the acceptor Y6, with HOMO/LUMO levels of -5.47/-3.78 eV for BTTPC compared to -5.49/-3.65 eV for PBDB-TF and -5.65/-4.05 eV for Y6.",
+      "evidence": "The highest energy occupied molecular orbital (HOMO) and lowest energy occupied molecular orbital (LUMO) energy levels of PBDB-TF, BTTPC and Y6 are −5.49/−3.65, −5.47/−3.78 and −5.65/−4.05 eV... Note that the energy levels of BTTPC are cascaded between PBDB-TF and Y6.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "energy level engineering",
+        "HOMO",
+        "LUMO",
+        "BTTPC",
+        "cascaded energy levels"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The inclusion of 10 wt% BTTPC in the ternary blend accelerates the hole-transfer rate, with a characteristic lifetime (τ1) of 0.406 ps compared to 0.538 ps for the PBDB-TF:Y6 binary blend.",
+      "evidence": "The hole-transfer dynamics... yielding the characteristic lifetimes of ternary blend τ1 = 0.406 ± 0.011 ps... PBDB-TF:Y6 (τ1 = 0.538 ± 0.024 ps)... the ternary blend shows a faster hole-transfer rate than binary blends.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "hole-transfer rate",
+        "fs-TA spectroscopy",
+        "charge dynamics",
+        "ternary blend"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "A semitransparent OSC (Device A) using a 12 nm Ag electrode achieved a PCE of 13.1%, an average visible transmittance (AVT) of 22.35%, and an infrared photon radiation rejection (IRR) of 77%.",
+      "evidence": "Device A without DBR reaches a PCE of 13.1% a Voc of 0.86 V, a Jsc of 20.63 mA cm−2, an FF of 0.74, and an IRR of 77% and an AVT of 22.35%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ST-OSC",
+        "AVT",
+        "IRR",
+        "PCE"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "A Distributed Bragg Reflector (DBR) consisting of LiF (140 nm) and MoO3 (110 nm) bilayers was integrated atop an ultrathin Ag electrode to shift the visible transmittance peak to 555 nm, matching the human eye's photopic response.",
+      "evidence": "Further, we designed device B with one pair of LiF (140 nm)/MoO3 [110 nm] layers atop of 14 nm ultrathin Ag electrode... shift the visible transmittance peak to 555 nm for perfectly matching with the photopic response of the human eye.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Distributed Bragg Reflector",
+        "DBR",
+        "photopic response",
+        "LiF/MoO3",
+        "optical simulation"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Multifunctional ST-OSCs with a photonic reflector (Device B) achieved a PCE of 12.3%, an AVT of 23.45%, and an improved IRR of 90%.",
+      "evidence": "The resultant PCE for device B is 12.3%... with Commission Internationale d’Eclairage (CIE) chromaticity coordinates of CIE (0.292, 0.369)... the resultant multifunctional ST-OSCs (device B) reached AVT over 23% and an IRR of 90%, along with a PCE over 12%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "multifunctional ST-OSC",
+        "IRR",
+        "AVT",
+        "90% IRR"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis indicates that the ternary PBDB-TF:Y6:BTTPC film maintains the backbone ordering of Y6, characterized by a scattering peak at qr = 0.399 Å⁻¹ (d = 15.7 Å).",
+      "evidence": "The ternary PBDB-TF:Y6:BTTPC film also maintains the backbone peak of Y6 at qr = 0.399 Å−1 (d = 15.7 Å)... which might correlate with the more balanced μe/μh observed in SCLC.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "backbone ordering",
+        "crystallinity",
+        "Y6"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The introduction of BTTPC into the blend promotes phase segregation and the formation of fibrous aggregates, increasing the root-mean-square surface roughness (Rq) from 0.90 nm (0% BTTPC) to 2.25 nm (100% BTTPC).",
+      "evidence": "Fibrous aggregates are observed upon the increase of BTTPC content in blend, with root-mean-square surface roughness (Rq) values of 0.90 nm (BTTPC content: 0 wt%) ... and 2.25 nm (100 wt% BTTPC).",
+      "complexity": "single-hop",
+      "keywords": [
+        "AFM",
+        "surface roughness",
+        "morphology",
+        "fibrous aggregates"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The light utilization efficiency (LUE), defined as the product of AVT and PCE, reached 2.93% for the ternary ST-OSC without a DBR (Device A).",
+      "evidence": "Meanwhile, the light utilization efficiencies (LUE = AVT × PCE) is of 2.93% for device A.",
+      "complexity": "single-hop",
+      "keywords": [
+        "LUE",
+        "Light Utilization Efficiency",
+        "ST-OSC"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 12582,
+    "completion_tokens": 3189,
+    "total_tokens": 15771
+  }
+}

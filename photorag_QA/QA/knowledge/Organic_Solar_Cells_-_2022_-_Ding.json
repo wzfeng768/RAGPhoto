@@ -1,0 +1,156 @@
+{
+  "paper_id": "Organic_Solar_Cells_-_2022_-_Ding",
+  "paper_title": "Organic Solar Cells: Materials Design, Technology and Commercialization - Chapter 1: Conjugated Polymer Donors for Organic Solar Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Organic Solar Cells - 2022 - Ding/auto/Organic Solar Cells - 2022 - Ding.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Conjugated donor polymers for organic solar cells are categorized into three types based on their optical bandgaps (Eg): low bandgap (LBG) polymers with Eg < 1.6 eV, medium bandgap (MBG) polymers with 1.6 eV < Eg < 1.8 eV, and wide bandgap (WBG) polymers with Eg > 1.8 eV.",
+      "evidence": "Based on the optical bandgaps (Eg^opts), donor polymers employed in OSCs can be divided into three major types: low bandgap (LBG) polymers (Eg < 1.6 eV), medium bandgap (MBG) polymers (1.6 eV < Eg < 1.8 eV), and wide bandgap (WBG) polymers (Eg > 1.8 eV)",
+      "complexity": "single-hop",
+      "keywords": [
+        "low bandgap",
+        "medium bandgap",
+        "wide bandgap",
+        "optical bandgap"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The 'push-pull' effect in D-A copolymers allows for bandgap tuning: a 'strong donor-strong acceptor' combination typically results in LBG polymers, 'weak donor-strong acceptor' results in MBG polymers, and 'weak donor-weak acceptor' results in WBG polymers.",
+      "evidence": "The 'push-pull' effect between D and A units has distinct effect on the bandgaps of the resulted polymers: (i) the combination of 'strong donor' and 'strong acceptor' could be a feasible way to achieve a LBG polymer... (ii) the pair of 'weak donor' and 'strong acceptor' could be employed to construct a MBG polymer; and (iii) the utilization of 'weak donor' and 'weak acceptor' could be effective to build a WBG polymer.",
+      "complexity": "single-hop",
+      "keywords": [
+        "D-A copolymers",
+        "push-pull effect",
+        "bandgap tuning",
+        "molecular design"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Replacing the bridging carbon atom with a silicon atom in cyclopentadithiophene (CPDT)-based polymers (e.g., P2) enhances crystallinity and charge transport properties, resulting in a certified PCE of 5.2% in fullerene-based OSCs.",
+      "evidence": "By replacing the carbon atom with silicon atom on CPDT, the polymer P2 [19, 20] with a higher crystallinity and improved charge transport properties was generated, which afforded a certified PCE of 5.2% when blended with a fullerene derivative in OSCs.",
+      "complexity": "single-hop",
+      "keywords": [
+        "cyclopentadithiophene",
+        "silicon substitution",
+        "crystallinity",
+        "charge transport"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The LBG polymer P2 can be used as a third component in a P7B7:PC71BM blend to reduce recombination losses, increasing the fill factor (FF) to 77% and improving the PCE from 7.52% to 8.60%.",
+      "evidence": "When introducing P2 as the third component into the PTB7:PC71BM blend host, a higher fill factor (FF) of 77% was obtained due to the reduction of recombination losses. Correspondingly, a PCE improvement from 7.52% to 8.60% was achieved",
+      "complexity": "multi-hop",
+      "keywords": [
+        "ternary solar cells",
+        "fill factor",
+        "recombination losses",
+        "PCE"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "In benzothiadiazole (BT)-based polymers, mono-fluorination (P4) can yield better photovoltaic performance than non-fluorinated (P1) or di-fluorinated (P5) versions because it promotes a face-on orientation when blended with PC71BM.",
+      "evidence": "Neher and coworkers [22] showed that the polymer with mono-fluorination on BT (P4) exhibited better photovoltaic performance than the polymers with non- and di-fluorination on BT (P1, P5) due to the stronger tendency to take face-on orientation when blended with PC71BM.",
+      "complexity": "single-hop",
+      "keywords": [
+        "fluorination",
+        "benzothiadiazole",
+        "face-on orientation",
+        "molecular ordering"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The LBG polymer P9, which utilizes a dithienopyran (DTP) unit, achieves a narrow bandgap of 1.38 eV and a deep HOMO level of -5.26 eV, leading to a certified PCE of 10.6% in tandem organic solar cells.",
+      "evidence": "The resulting polymer P9 exhibited a narrow Eg of 1.38 eV, and a deep HOMO level of -5.26 eV... Moreover, a certified PCE of 10.6% in tandem OSCs based on this polymer was achieved.",
+      "complexity": "single-hop",
+      "keywords": [
+        "dithienopyran",
+        "tandem solar cells",
+        "HOMO level",
+        "PCE"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Naphtho[1,2-c:5,6-c']bis[1,2,5]thiadiazole (NT) is a fused-ring acceptor unit that offers a larger planar structure and higher electron affinity than the standard benzothiadiazole (BT) unit.",
+      "evidence": "Fusing two BT units leads to the formation of naphtho[1,2-c:5,6-c']bis[1,2,5] thiadiazole (NT), which possesses a larger planar structure and higher electron affinity than BT unit",
+      "complexity": "single-hop",
+      "keywords": [
+        "naphthobisthiadiazole",
+        "planar structure",
+        "electron affinity",
+        "acceptor units"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Replacing sulfur with oxygen in the naphthobisthiadiazole (NT) unit to create naphthobisoxadiazole (NOz) significantly reduces the energy loss (Eloss) in organic solar cells from approximately 0.85 eV to 0.55 eV.",
+      "evidence": "Takimiya and coworkers created a new building block naphtho[1,2-c:5,6- c']bis[1,2,5]oxadiazole (NOz) by replacing the sulfur atom on NT unit with oxygen atom. The resulting polymer P15 exhibited... significantly enhanced Voc and greatly reduced Eloss in OSCs when blended with the same electron acceptor (≈0.85 versus ≈0.55 eV)",
+      "complexity": "single-hop",
+      "keywords": [
+        "energy loss",
+        "heteroatom substitution",
+        "naphthobisoxadiazole",
+        "open-circuit voltage"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The NT-based polymer P18 has been demonstrated to achieve a PCE of 11.3% in organic solar cells with a bandgap of 1.42 eV and a high short-circuit current density (Jsc) of 20.2 mA cm^-2.",
+      "evidence": "Table 1.2: P18 | Eg: 1.42 | HOMO/LUMO: 5.36/3.48 | Jsc: 20.2 | FF: 0.72 | PCE: 11.3%",
+      "complexity": "single-hop",
+      "keywords": [
+        "P18",
+        "short-circuit current",
+        "PCE",
+        "NT-based polymer"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "In isoindigo-based polymers, the LUMO levels are primarily determined by the isoindigo unit, while the HOMO levels can be effectively manipulated by changing the donor units.",
+      "evidence": "The comprehensive study on the energy levels of isoindigo-based polymers showed that LUMO levels were located on the isoindigo unit and the change of donor units could effectively manipulate the HOMO levels of isoindigo-based D-A polymers",
+      "complexity": "single-hop",
+      "keywords": [
+        "isoindigo",
+        "LUMO level",
+        "HOMO level",
+        "energy level engineering"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Chlorinated isoindigo polymers (P33) can outperform fluorinated counterparts (P32) in Jsc because the excessive crystallinity induced by the small radius of fluorine atoms in P32 can hinder optimal phase separation with the PC71BM acceptor.",
+      "evidence": "the chlorinated polymer P33 performed much better than the fluorinated polymer P32 in Jsc. This was because that the smaller radius of F atoms endows the polymer P32 with better planarity and crystallinity, while the increased polymer crystallinity reduced the mixing between the polymer and PC71BM.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "chlorination",
+        "fluorination",
+        "crystallinity",
+        "phase separation"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Thiophene-terminated isoindigo polymers (P45) exhibit a face-on orientation in thin films as confirmed by GIXD and AFM, whereas phenyl-terminated versions favor an edge-on orientation.",
+      "evidence": "Upon thin-film analysis by atomic force microscopy (AFM) and grazing incidence X-ray diffraction (GIXD), the thiophene-terminated isoindigo polymers favor a face-on orientation in thin films, while the phenyl-terminated isoindigo polymers favor an edge-on orientation.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIXD",
+        "AFM",
+        "molecular orientation",
+        "face-on orientation"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 16799,
+    "completion_tokens": 4155,
+    "total_tokens": 20954
+  }
+}

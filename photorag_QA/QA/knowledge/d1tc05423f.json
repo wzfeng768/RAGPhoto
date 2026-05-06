@@ -1,0 +1,153 @@
+{
+  "paper_id": "d1tc05423f",
+  "paper_title": "Revisiting the non-fluorescence of nitroaromatics: presumption versus reality",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/d1tc05423f/auto/d1tc05423f.md",
+  "knowledge_points": [
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The nitro group (-NO2) is a exceptionally strong electron-withdrawing substituent, characterized by Hammett constants of sigma_p = 0.78 and sigma_m = 0.71, and Swain–Lupton parameters of F = 0.65 and R = 0.13.",
+      "evidence": "In principle, the nitro group (-NO2) would be an immensely attractive substituent... as indicated, for example, by the large positive values of its Hammett constants (i.e., σp = 0.78 and σm = 0.71) and Swain–Lupton parameters (i.e., F = 0.65 and R = 0.13).",
+      "complexity": "single-hop",
+      "keywords": [
+        "nitro group",
+        "Hammett constants",
+        "electron-withdrawing",
+        "Swain-Lupton"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The attachment of nitro groups to polycyclic aromatic hydrocarbons like pyrene and naphthalene can induce positive shifts in reduction potentials exceeding 1 V, which is significantly higher than the 0.2 to 0.7 V shifts induced by nitrile or carbonyl groups.",
+      "evidence": "Nitro groups induce positive shifts in the reduction potentials of polycyclic aromatic hydrocarbons, such as pyrene and naphthalene, that can exceed 1 V. In comparison, the shifts induced by nitrile and carbonyl substituents range between 0.2 and 0.7 V.",
+      "complexity": "single-hop",
+      "keywords": [
+        "reduction potential",
+        "pyrene",
+        "naphthalene",
+        "electron deficiency"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Intersystem crossing (ISC) from the S1 state to upper triplet states (T1+j) is the dominant non-radiative deactivation pathway that renders most nitroaromatics non-fluorescent, with ISC rate constants often exceeding 10^11 s^-1.",
+      "evidence": "Intersystem crossing (ISC) leading to triplet formation, S1 -> T1+j, is the most prevalent and efficient way by which nitro groups quench fluorescence... fluorescence, with rate constants that are usually in the range of ca. 10^7-10^8 s^-1, cannot compete with values of kISC that exceed about 10^11 s^-1.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "intersystem crossing",
+        "non-radiative deactivation",
+        "triplet state",
+        "rate constant"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The twisting and asymmetric pyramidalization of the nitro group during S1 state relaxation promotes highly effective transitions to n,pi* triplet states, which can be suppressed by constraining the molecule to a planar conformation.",
+      "evidence": "As the initially populated pi,pi* S1 states of some of them relax, the nitro group can twist out of the plane of the ring and may assume an asymmetric pyramidal geometry... constraining the nitroaromatic to be as planar as possible can suppress triplet formation and increase the fluorescence quantum yields.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "molecular geometry",
+        "pyramidalization",
+        "conformational constraint",
+        "planarity"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Introducing intramolecular charge transfer (ICT) character into the excited state can decrease spin-orbit coupling (SOC), thereby reducing the ISC rate and increasing the lifetime of the S1 state in nitroaromatics.",
+      "evidence": "Introducing charge-transfer (CT) character in the excited states decreases spin orbit coupling (SOC) and can prove beneficial for increasing lifetimes of the S1 states of nitroaromatics and making them fluorescent.",
+      "complexity": "single-hop",
+      "keywords": [
+        "intramolecular charge transfer",
+        "spin-orbit coupling",
+        "S1 lifetime",
+        "fluorescence"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "While ICT suppresses ISC, highly polar solvents can quench fluorescence in push-pull nitroaromatics by stabilizing the polarized CT state and opening internal conversion (IC) pathways via back charge transfer.",
+      "evidence": "Polar media, however, quench the emission of fluorescent nitroaromatics with push–pull or acceptor–donor–acceptor configurations... solvent polarity stabilizes such polarized states, bringing them closer to the ground state and opens pathways for efficient internal conversion (IC) via back CT.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "solvent polarity",
+        "internal conversion",
+        "charge transfer",
+        "quenching"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Attaching a nitro group via a nitrophenyl substituent rather than direct bonding to the chromophore allows for the modulation of fluorescence through the control of the dihedral angle between the aryl rings.",
+      "evidence": "A key design strategy for producing fluorescent nitroaromatics is to attach the nitro group to the chromophore of interest as a nitrophenyl and related nitroaryl substituent rather than forming a direct bond between -NO2 and the chromophore.",
+      "complexity": "single-hop",
+      "keywords": [
+        "nitrophenyl",
+        "dihedral angle",
+        "chromophore",
+        "molecular design"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Specific nitro-substituted compounds can achieve significant fluorescence; for example, hydroxystilbene derivatives can reach a fluorescence quantum index of 0.31 in butyronitrile.",
+      "evidence": "The fluorescence does not dramatically decrease in polar media, going through a maximum as a function of the solvent polarity parameter ETN, with the highest value of 0.31 in butyronitrile. [Referring to hydroxystilbene 6]",
+      "complexity": "single-hop",
+      "keywords": [
+        "fluorescence quantum yield",
+        "hydroxystilbene",
+        "butyronitrile"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The nitro group is a poor hydrogen-bond acceptor compared to carbonyl groups, with an Abraham parameter for solute hydrogen bond basicity (B) of 0.28 for nitrobenzene versus 0.48 for acetophenone.",
+      "evidence": "In fact, in the ground state nitrobenzene is an even poorer hydrogen-bond acceptor than acetonitrile... Abraham parameters for solute hydrogen bond basicity (B)... nitrobenzene (0.28)... acetophenone (0.48).",
+      "complexity": "single-hop",
+      "keywords": [
+        "hydrogen bonding",
+        "Abraham parameters",
+        "basicity",
+        "solvatochromism"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "According to El-Sayed's rules, ISC in nitroaromatics is most probable between states of different orbital origins, such as 1-pi,pi* to 3-n,pi* or 1-n,pi* to 3-pi,pi*.",
+      "evidence": "Specifically, ISC between excited states with different orbital origins, such as 1pi,pi* -> 3n,pi* and 1n,pi* -> 3pi,pi*, is considerably more probable than ISC between states with the same or similar electronic configuration.",
+      "complexity": "single-hop",
+      "keywords": [
+        "El-Sayed's rules",
+        "orbital origin",
+        "electronic configuration"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "In acceptor–donor–acceptor (ADA) dinitroaromatics, photoexcitation can lead to symmetry breaking, resulting in a large increase in the electric dipole moment and subsequent solvatofluorochromism.",
+      "evidence": "Assembling nitrophenyl acceptors and an electron-rich aromatic donor to produce acceptor–donor–acceptor (ADA) configurations... asymmetric CT between the electron-rich core and one of the nitrophenyls in the excited state breaks the quadrupole symmetry and results in a huge increase in the electric dipole moment.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "ADA configuration",
+        "symmetry breaking",
+        "dipole moment",
+        "solvatofluorochromism"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Substitution of the nitro group at a nodal plane of the chromophore's molecular orbitals in both the S0 and S1 states is a strategy to reduce the coupling between the substituent and the aromatic ring to maintain fluorescence.",
+      "evidence": "Alternatives that can serve to uncouple, at least partially, the substituent from the aromatic ring... (2) placing the nitro group at a position on the aromatic ring characterized by a nodal plane in both S0 and S1.",
+      "complexity": "single-hop",
+      "keywords": [
+        "nodal plane",
+        "molecular orbitals",
+        "electronic coupling"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 13013,
+    "completion_tokens": 3834,
+    "total_tokens": 16847
+  }
+}

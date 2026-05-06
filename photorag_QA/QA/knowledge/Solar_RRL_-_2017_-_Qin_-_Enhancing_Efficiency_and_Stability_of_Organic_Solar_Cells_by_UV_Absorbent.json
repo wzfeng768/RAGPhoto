@@ -1,0 +1,131 @@
+{
+  "paper_id": "Solar_RRL_-_2017_-_Qin_-_Enhancing_Efficiency_and_Stability_of_Organic_Solar_Cells_by_UV_Absorbent",
+  "paper_title": "Enhancing Efficiency and Stability of Organic Solar Cells by UV Absorbent",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Solar RRL - 2017 - Qin - Enhancing Efficiency and Stability of Organic Solar Cells by UV Absorbent/auto/Solar RRL - 2017 - Qin - Enhancing Efficiency and Stability of Organic Solar Cells by UV Absorbent.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Benzophenone (BP) is identified as a dual-function additive for organic solar cells, characterized by a high boiling point of 305 °C and strong ultraviolet (UV) absorption properties.",
+      "evidence": "In this work, we used a new type of high boiling-point additive, benzophenone (BP)... Due to the high boiling point (305 °C), BP can control the solvent evaporation dynamics... On the other hand, BP is a kind of low-cost and widely used ultraviolet absorbent.",
+      "complexity": "single-hop",
+      "keywords": [
+        "benzophenone",
+        "additive",
+        "UV absorbent",
+        "boiling point"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The power conversion efficiency (PCE) of nonfullerene organic solar cells based on FTAZ:ITIC-Th increases from 8.5% to 9.4% in conventional geometry and to 10.3% in inverted geometry upon addition of 7% benzophenone.",
+      "evidence": "After the addition of BP, the power conversion efficiencies (PCEs) of nonfullerene OSCs based on FTAZ: ITIC-Th is increased from 8.5 to 9.4%, and is further increased to 10.3% by employing inverted geometry.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "PCE",
+        "FTAZ:ITIC-Th",
+        "inverted geometry",
+        "benzophenone"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Benzophenone-treated FTAZ:ITIC-Th devices retain 79% of their initial PCE after 150 minutes of illumination-aging, outperforming devices with no additive (65% retention) or 1,8-diiodooctane (58% retention).",
+      "evidence": "After 150 min illumination, the PCEs of the nonfullerene OSCs with BP preserve 79% of their original values, while those without additive or with DIO preserve 65 and 58% of their original values, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "photostability",
+        "illumination-aging",
+        "PCE retention",
+        "DIO"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The residual benzophenone in the active layer dissipates high-energy UV light through innocuous low-energy radiation, preventing the degradation of donor and acceptor molecular structures and stabilizing the morphology.",
+      "evidence": "BP... can strongly and selectively absorb UV light... and dissipate the high energy of UV light through innocuous low energy radiation... The addition of BP into the blended film may prevent the molecular structures of donor and acceptor materials from destroying by UV light, resulting in stabilized morphology.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "UV dissipation",
+        "morphology stability",
+        "photochemical reaction"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "In fullerene-based OSCs using PTB7-Th:PC71BM, the addition of benzophenone increases the average PCE from 7.4% to 8.9%, which is higher than the 8.3% achieved using the standard DIO additive.",
+      "evidence": "With the addition of 7% BP into the devices, the average PCE is increased from 7.4 to 8.9%. In comparison, devices with 3% DIO show average PCE of 8.3% lower than that of devices with BP.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PTB7-Th:PC71BM",
+        "fullerene",
+        "PCE",
+        "DIO"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Fourier transform infrared (FTIR) spectroscopy confirms the residue of benzophenone in the active layer through the presence of a characteristic carbonyl (C=O) stretching peak at 1652 cm⁻¹.",
+      "evidence": "By comparison of FTIR spectra of films without and with BP (Figure 3), it is obvious that BP remains in the film... The characteristic peak of -C=O- at 1652 cm⁻¹ demonstrates BP would remain in the film.",
+      "complexity": "single-hop",
+      "keywords": [
+        "FTIR",
+        "benzophenone residue",
+        "carbonyl peak",
+        "residue analysis"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "GISAXS analysis demonstrates that benzophenone maintains stable donor, acceptor, and intermixing domain sizes (~4 nm for FTAZ) during illumination, whereas films without additives or with DIO show significant domain size changes.",
+      "evidence": "The films with BP exhibit unprecedented morphology stability under illumination with almost unchanged donor, acceptor and intermixing domain sizes... the films without additive or with DIO, consistent with the observed significant performance deterioration.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "GISAXS",
+        "domain size",
+        "morphology stability",
+        "phase separation"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The addition of benzophenone improves the hole mobility of FTAZ:ITIC-Th blended films from 2.1 × 10⁻⁵ to 7.5 × 10⁻⁵ cm² V⁻¹ s⁻¹, and this mobility is better preserved after illumination compared to DIO-based films.",
+      "evidence": "addition of DIO or BP can increase the hole mobility from 2.1 × 10⁻⁵ to 7.5 × 10⁻⁵ cm² V⁻¹ s⁻¹... the blended film with BP experiences smaller change in hole mobility (from 7.5 × 10⁻⁵ to 5.2 × 10⁻⁵ cm² V⁻¹ s⁻¹).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "hole mobility",
+        "SCLC",
+        "charge transport",
+        "stability"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "X-ray photoelectron spectroscopy (XPS) reveals that benzophenone influences vertical phase separation, resulting in a 79% polymer weight content at the top surface of the FTAZ:ITIC-Th film, which facilitates hole extraction in inverted devices.",
+      "evidence": "From the N/S ratio, the polymer weight content at the top surface can be calculated: 66, 88, and 79% for blended films without additives, with DIO and with BP, respectively... higher content of polymer donor on the top surface is beneficial to hole extraction by the top electrode... employed inverted geometry... PCE of 10.3%.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "XPS",
+        "vertical phase separation",
+        "inverted geometry",
+        "hole extraction"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The optimized concentration for the benzophenone additive is 7% by weight relative to the total donor and acceptor mass in the processing solvent (o-dichlorobenzene).",
+      "evidence": "The optimized content of BP is 7% of the total weight of donor FTAZ and acceptor ITIC-Th... FTAZ and ITIC-Th was dissolved in DCB solvent (1: 1, 18 mg mL⁻¹ in total).",
+      "complexity": "single-hop",
+      "keywords": [
+        "processing optimization",
+        "additive concentration",
+        "DCB",
+        "benzophenone"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 12037,
+    "completion_tokens": 3349,
+    "total_tokens": 15386
+  }
+}

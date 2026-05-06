@@ -1,0 +1,144 @@
+{
+  "paper_id": "Adv_Funct_Materials_-_2015_-_Gentili_-_Growth_and_Manipulation_of_Organic_Semiconductors_Microcrysta",
+  "paper_title": "Growth and Manipulation of Organic Semiconductors Microcrystals by Wet Lithography",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Adv Funct Materials - 2015 - Gentili - Growth and Manipulation of Organic Semiconductors Microcrystals by Wet Lithography/auto/Adv Funct Materials - 2015 - Gentili - Growth and Manipulation of Organic Semiconductors Microcrystals by Wet Lithography.md",
+  "knowledge_points": [
+    {
+      "category": "Processing & Fabrication",
+      "content": "Lithographically controlled wetting (LCW) utilizes a stamp, such as a metallic grid, placed in contact with a liquid thin film; capillary forces pin the solution to stamp protrusions, splitting the film into droplets or channels where crystallization occurs upon solvent evaporation.",
+      "evidence": "In the LCW, a stamp, consisting of a metallic grid, is positioned in contact with a liquid thin film spread on a substrate... the capillary forces pin the solution to the stamp protrusions, thus splitting the continuous film in separated droplets or channels. As the solvent evaporates... the solute precipitates onto the substrate.",
+      "complexity": "single-hop",
+      "keywords": [
+        "LCW",
+        "capillary forces",
+        "patterning",
+        "wet lithography"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Organic field-effect transistors (OFETs) based on 2,7-di-tert-[1]benzothieno[3,2-b]benzothiophene (2) processed via LCW on OTS-treated substrates exhibit a saturated hole mobility (μsat) up to 5.6 × 10⁻² cm² V⁻¹ s⁻¹ and an on/off ratio of 10⁶.",
+      "evidence": "when compound 2 is confined with a featureless stamp on a OTS-treated Si/SiO2 substrate exhibited p channel field-effect behavior with... saturated hole mobility, μsat, up to 5.6 × 10⁻² cm² V⁻¹ s⁻¹... and on/off ratio of 10⁶.",
+      "complexity": "single-hop",
+      "keywords": [
+        "hole mobility",
+        "on/off ratio",
+        "OFET",
+        "BTBT derivative"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Vertical confinement during the LCW process induces high [100] texturing in 2,7-di-tert-[1]benzothieno[3,2-b]benzothiophene (2) crystals, as indicated by the exclusive presence of (h00) reflections in specular XRD scans and a narrow rocking curve.",
+      "evidence": "Using materials that have a strong tendency to crystallize, such as 2, today vertical confinement is enough to induce crystals orientation... the only presence of (h00) reflections indicates the very high [100] texturing of the film also corroborated by the very narrow rocking curve.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "vertical confinement",
+        "texturing",
+        "XRD",
+        "crystal orientation"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Thieno(bis)imide end-functionalized terthiophene (1) exhibits two distinct polymorphs: fiber-like crystals with a d-spacing of 2.13 nm and platelet-like crystals with a d-spacing of 2.37 nm.",
+      "evidence": "we observe a main peak family attributed to the d-spacing of 2.37 nm for platelets and 2.13 nm for fibers, indicating the different molecular packing along the molecular long axis.",
+      "complexity": "single-hop",
+      "keywords": [
+        "XRD",
+        "polymorphism",
+        "d-spacing",
+        "terthiophene"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The crystal size of compound 1 is highly dependent on the solvent and evaporation conditions, ranging from less than 2 μm when drop-cast from chloroform in air to over 100 μm when drop-cast from toluene in a saturated solvent atmosphere.",
+      "evidence": "size and crystal composition can be tuned in the ranges of 2 < size < 100 μm (i.e., < 2 μm by drop casting in air from chloroform and > 100 μm by drop casting in saturated atmosphere from toluene).",
+      "complexity": "single-hop",
+      "keywords": [
+        "crystal size",
+        "solvent evaporation",
+        "chloroform",
+        "toluene"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Thieno(bis)imide end-functionalized terthiophene (1) is a multifunctional semiconductor that combines n-type charge transport with conformational polymorphism-driven solid-state fluorescence.",
+      "evidence": "thieno(bis)imide end-functionalized terthiophene (1), which is a multifunctional material that exhibits n-type charge transport and conformational polymorphism-driven solid-state fluorescence.",
+      "complexity": "single-hop",
+      "keywords": [
+        "n-type",
+        "fluorescence",
+        "multifunctional",
+        "terthiophene"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "LCW-grown crystals of 2,7-di-tert-[1]benzothieno[3,2-b]benzothiophene (2) demonstrate exceptional surface flatness, with a root-mean-square (r.m.s.) roughness of less than 1 nm on the crystal top.",
+      "evidence": "each crystal appears very homogeneous and extremely flat (r. m. s. roughness on top of crystals < 1 nm, as evidenced by the line profile of the AFM image).",
+      "complexity": "single-hop",
+      "keywords": [
+        "AFM",
+        "roughness",
+        "surface morphology",
+        "BTBT"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The use of volatile solvents in LCW allows for precise spatial control of nucleation, as the stamp reduces the evaporation rate relative to open-air casting, facilitating the growth of larger and more oriented crystals.",
+      "evidence": "The faster solvent evaporation, which normally favors the formation of smaller crystal domains, is partially compensated by the presence of the stamp that reduces the evaporation rate, allowing the formation of larger and possibly oriented crystals.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "nucleation",
+        "volatile solvents",
+        "evaporation rate",
+        "orientation"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "In OFETs fabricated using a metallic grid as an LCW stamp, the effective channel width is reduced to approximately 5% of the nominal geometrical width because the organic semiconductor crystals are primarily confined to the edges of the grid motifs.",
+      "evidence": "the patterned 2 crystals are mainly confined in the position corresponding to the edges of the metal grid, implying that the effective device channel width is much less of its nominal value... the effective channel widths were estimated on the basis of optical microscopy images (average value 5% of the geometrical width).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "effective channel width",
+        "OFET",
+        "confinement",
+        "metallic grid"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Polarized optical microscopy (POM) reveals that the platelet crystals of compound 1 are optically anisotropic, showing clear extinction when the crystals are oriented along the polarizer or analyzer directions.",
+      "evidence": "the platelets show the typical behavior of optically anisotropic materials with extinction at precise orientations, i.e., when the crystals are oriented with along one direction of polarizers.",
+      "complexity": "single-hop",
+      "keywords": [
+        "POM",
+        "birefringence",
+        "optical anisotropy",
+        "extinction"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Processing compound 1 via LCW can induce a third crystalline phase not typically dominant in drop-cast films, identified by a new XRD reflection corresponding to an interplanar distance of 2.19 nm.",
+      "evidence": "the relative intensity of the two polymorphs changes and a new reflection appears at an angle corresponding to interplanar distances of 2.19 nm (labeled with pink squares in Figure 5d,e).",
+      "complexity": "single-hop",
+      "keywords": [
+        "polymorphism",
+        "XRD",
+        "interplanar distance",
+        "LCW"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 10573,
+    "completion_tokens": 3654,
+    "total_tokens": 14227
+  }
+}

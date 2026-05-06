@@ -1,0 +1,167 @@
+{
+  "paper_id": "The_Chemical_Record_-_2014_-_Shi_-_Conjugated_Aromatics_Based_on_Truxene_Synthesis_SelfAssembly_and_",
+  "paper_title": "π-Conjugated Aromatics Based on Truxene: Synthesis, Self-Assembly, and Applications",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/The Chemical Record - 2014 - Shi - ‐Conjugated Aromatics Based on Truxene  Synthesis  Self‐Assembly  and Applications/auto/The Chemical Record - 2014 - Shi - ‐Conjugated Aromatics Based on Truxene  Synthesis  Self‐Assembly  and Applications.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Truxene (10,15-dihydro-5H-diindeno[1,2-a;1',2'-c]fluorene) is a heptacyclic polyarene consisting of three fluorene moieties annulated to a central benzene ring, resulting in a planar rigid structure with C3-symmetry.",
+      "evidence": "Truxene could be regarded as three fuorene moieties annulated to afford a two-dimensionally extended structure with threefold symmetry by sharing a central benzene ring.",
+      "complexity": "single-hop",
+      "keywords": [
+        "truxene",
+        "C3-symmetry",
+        "heptacyclic polyarene",
+        "molecular structure"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Truxene is typically synthesized via the acid-catalyzed trimerization of 1-indanones or 3-phenylpropionic acids, with solubility being improved by introducing alkyl chains at the C5, C10, and C15 positions under basic conditions.",
+      "evidence": "Generally, truxene can be synthesized by the acid-catalyzed trimerization of 1-indaones or 3-phenylpropionic acids... Thus, alkyl chains are usually introduced at the C5, C10, and C15 positions under basic conditions.",
+      "complexity": "single-hop",
+      "keywords": [
+        "synthesis",
+        "trimerization",
+        "solubility",
+        "alkylation"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Due to its threefold symmetry, DFT calculations indicate that truxene possesses doubly degenerate HOMO and LUMO energy levels.",
+      "evidence": "DFT calculations reveal that truxene has doubly degenerate HOMO and LUMO (Figure 1) because of its threefold symmetry.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DFT",
+        "HOMO",
+        "LUMO",
+        "degeneracy",
+        "symmetry"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "A supersized pi-conjugated dendrimer (2_2) containing 22 truxene building blocks and oligo(thienylethynylene) branches reached a molecular weight of 27,072 Da and a diameter of approximately 9.6 nm.",
+      "evidence": "Using universal force field (UFF) methods, these dendrimers exhibit a relatively flat conformation and the maximum radii extend rapidly with increasing generation number... 9.6 nm for 2_2... features the largest diameter and highest molecular weight (Mw = 27072) of all reported second-generation dendrimers.",
+      "complexity": "single-hop",
+      "keywords": [
+        "dendrimer",
+        "molecular weight",
+        "nanoscale",
+        "oligo(thienylethynylene)"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "In p-channel organic field-effect transistors (OFETs), star-shaped oligothiophene-functionalized truxene derivatives showed a decrease in hole mobility from 1.03 x 10^-3 to 2.2 x 10^-4 cm^2 V^-1 s^-1 as the oligothiophene branch length increased from 1 to 3 thiophene rings.",
+      "evidence": "An increase in the oligothiophene length of the star-shaped molecules from 1 to 3 thiophenes leads to a dramatic decrease in hole mobility from 1.03 x 10^-3 to 2.2 x 10^-4 cm^2 V^-1 s^-1.",
+      "complexity": "single-hop",
+      "keywords": [
+        "OFET",
+        "hole mobility",
+        "oligothiophene",
+        "star-shaped"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The decrease in charge carrier mobility in star-shaped truxene-oligothiophene derivatives with longer arms is attributed to a transition from a polycrystalline to an amorphous state in the solid film.",
+      "evidence": "By using powder X-ray diffraction and scanning electron microscopy, we clearly observed a transition from a polycrystalline to an amorphous state with a stepwise increase in the number of thiophenes at each branch. Therefore, the decrease in mobility may be attributed to the increase in the amorphous properties.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "morphology",
+        "mobility",
+        "amorphous",
+        "polycrystalline"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Bulk-heterojunction solar cells utilizing star-shaped and dumbbell-shaped donor-acceptor (D-A) molecules (with truxene nodes, TPA donors, and benzothiadiazole acceptors) achieved a power conversion efficiency (PCE) of up to 0.54%.",
+      "evidence": "As a result, a PCE value of up to 0.54% was obtained... based on three chromophores (truxenes as nodes, TPA moieties as the D units, and benzothiadiazole chromophores as the A units).",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "organic solar cells",
+        "D-A structure",
+        "benzothiadiazole"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Single-component photovoltaic cells based on star-shaped D-A C60 adducts achieved a monochromatic efficiency of up to 2.0% at approximately 473 nm.",
+      "evidence": "Single-component photovoltaic cells were fabricated and the highest monochromatic efficiency at about 473 nm was up to 2.0%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "monochromatic efficiency",
+        "C60 adduct",
+        "single-component solar cell"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Spiro-annulated truxene derivatives are designed as stable blue emitters for OLEDs to prevent long-wavelength emission caused by excimers, aggregates, or ketone defects by maintaining an amorphous state in the solid phase.",
+      "evidence": "These rigid spirotruxene-type materials form amorphous states in the solid state to prevent the formation of the long-wavelength emission induced by excimers (aggregates) or ketone defects.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "OLED",
+        "blue emission",
+        "spiro-annulated",
+        "ketone defects"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Deep-blue emitting dendrimers based on truxene and stilbenoid units achieved an external quantum efficiency (EQE) of 6.6% and a luminance of 550 cd/m^2 with CIE coordinates of (0.155, 0.084).",
+      "evidence": "At CIE coordinates of (0.155, 0.084), the color-stable deepblue dendrimer OLEDs show the highest efficiencies of 5.3 cd A^-1 (LE) and 6.6% (external quantum efficiency (EQE)) with a luminance of 550 cd m^-2.",
+      "complexity": "single-hop",
+      "keywords": [
+        "EQE",
+        "luminance",
+        "CIE coordinates",
+        "deep-blue OLED"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Truxene-based blue emitters exhibit superior thermal stability in their emission spectra compared to alkyl-substituted polyfluorenes due to their rigid spiro architectures.",
+      "evidence": "In addition, the emission spectra of these blue emitters are more thermally stable than those of alkyl-substituted polyfluorenes due to their rigid spiro architectures.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "spiro architecture",
+        "polyfluorenes"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Truxenone derivatives, the oxidized counterparts of truxene, act as potential n-type semiconductors because the three carbonyl groups reduce the electron density of the aromatic core.",
+      "evidence": "As the oxidized counterpart of truxene, truxenone has three carbonyl groups mounted on the conjugated plane, which greatly reduces the electron density of the aromatic core, making it a candidate to transport electrons as an n-type material.",
+      "complexity": "single-hop",
+      "keywords": [
+        "truxenone",
+        "n-type semiconductor",
+        "electron density",
+        "carbonyl groups"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The formation of 1D supramolecular polymeric nanofibers from truxene-based hexaacid monomers (44) via multiple hydrogen bonds was confirmed to have a monomolecular width in dilute solution.",
+      "evidence": "As a result, nanofibers with a monomolecular width were formed from 44 along the direction of the hydrogen bonds in dilute solution.",
+      "complexity": "single-hop",
+      "keywords": [
+        "nanofibers",
+        "hydrogen bonding",
+        "self-assembly",
+        "supramolecular polymer"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 14728,
+    "completion_tokens": 3289,
+    "total_tokens": 18017
+  }
+}

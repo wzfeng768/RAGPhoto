@@ -1,0 +1,144 @@
+{
+  "paper_id": "Solar_RRL_-_2019_-_Huang_-_Nonfullerene_Polymer_Solar_Cell_with_Large_Active_Area_of_216_cm2_and_Hig",
+  "paper_title": "Nonfullerene Polymer Solar Cell with Large Active Area of 216 cm² and High Power Conversion Efficiency of 7.7%",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Solar RRL - 2019 - Huang - Nonfullerene Polymer Solar Cell with Large Active Area of 216 cm2 and High Power Conversion/auto/Solar RRL - 2019 - Huang - Nonfullerene Polymer Solar Cell with Large Active Area of 216 cm2 and High Power Conversion.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The study utilizes a ternary bulk-heterojunction active layer consisting of the polymer donor PBDB-T, the nonfullerene acceptor ITIC, and the fullerene acceptor PC71BM.",
+      "evidence": "In the ternary bulk-heterojunction layer, the donor is poly[(2,6-(4,8-bis(5-(2-ethylhexyl)thiophen-2-yl)benzo[1,2-b:4,5-b']dithiophene))-co-(1,3-di(5-thiophene-2-yl)- 5,7-bis(2-ethylhexyl)benzo[1,2-c:4,5-c']dithiophene-4,8-dione)] (PBDB-T) and the acceptor is a mixture of ... (ITIC) and [6,6]-phenyl C71-butyric acid methyl ester (PC71BM).",
+      "complexity": "single-hop",
+      "keywords": [
+        "PBDB-T",
+        "ITIC",
+        "PC71BM",
+        "ternary blend",
+        "nonfullerene acceptor"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Small-area (0.04 cm²) ternary polymer solar cells using a LiF interfacial layer achieved a maximum power conversion efficiency (PCE) of 9.75%.",
+      "evidence": "The small-area opaque device (active area = 0.04 cm2) with the device structure indium tin oxide (ITO)-coated glass substrate/PEDOT:PSS/PBDB-T:ITIC:PC71BM/LiF/Al (Device A1) obtained the max PCE of 9.75%",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "LiF",
+        "small-area",
+        "ternary PSC"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "A large-area (216 cm²) nonfullerene polymer solar cell module achieved a certified power conversion efficiency of 7.69% using a ZrOx interfacial layer.",
+      "evidence": "For a large active area of 216 cm2, the best efficiency is 7.7% with the ZrOx interfacial layer. ... Device C2 reached the max PCE of 7.69% and the certificate paper from LiveStrong is given in Figure S2.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "large-area",
+        "ZrOx",
+        "216 cm2"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The large-area device design incorporates 16 cell stripes connected in series on a 200 mm x 280 mm substrate, with an optimal cell width of 0.9 cm to minimize voltage drops caused by ITO series resistance.",
+      "evidence": "There are 16 cell stripes connected in series on the 280 mm × 200 mm prepatterned ITO glass substrate. ... This is the reason we choose the optimal cell width to be around 1 cm (0.9 cm).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "series connection",
+        "ITO resistance",
+        "module design",
+        "cell width"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Blade coating was used to deposit both the active layer and the solution-processable interfacial layers (Liq and ZrOx) to ensure film uniformity over A4-sized substrates.",
+      "evidence": "we used the blade coating process to form the active layer and interfacial layer. ... blade coating the solution-processable interfacial layer of a few nanometers can possibly give uniform distribution in the large area scale.",
+      "complexity": "single-hop",
+      "keywords": [
+        "blade coating",
+        "scalability",
+        "film uniformity",
+        "solution-processed"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The ZrOx interfacial layer improves device performance by forming an interface dipole that facilitates charge extraction and reduces carrier recombination near the flat band condition compared to LiF and Liq.",
+      "evidence": "The good VOC can be attributed to the interface dipole formed by the ZrOx layer. ... The slopes for the ZrOx device has a higher slope near the VOC relative to the LiF and Liq devices. This suggests that there is less carrier recombination at the ZrOx interface.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "ZrOx",
+        "interface dipole",
+        "charge extraction",
+        "recombination"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Ternary PSCs using a ZrOx interfacial layer retained 73% of their initial efficiency after 30 days of thermal cycling at 85 °C, significantly outperforming LiF-based devices which failed within 8 days.",
+      "evidence": "Device C1 showed dramatically improved stability and retained 80% of its initial PCE as shown in Figure 5c. ... Device A1 ... did not work after 8 days at 85 °C thermal cycling.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "thermal stability",
+        "ZrOx",
+        "LiF degradation",
+        "operational lifetime"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The thermal degradation of LiF-based PSCs is primarily caused by the diffusion of lithium ions into the active layer, which increases contact resistance and reduces the fill factor (FF).",
+      "evidence": "The poor stability of Device A1 may result also from the lithium diffusion into the active layer. ... As lithium ions diffuse inward ... Such reduction in the doping may destroy the ohmic contact and cause the large contact resistance Rs.",
+      "complexity": "single-hop",
+      "keywords": [
+        "lithium diffusion",
+        "contact resistance",
+        "fill factor",
+        "degradation mechanism"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Large-area semi-transparent (ST) devices with an active area of 216 cm² achieved a maximum PCE of 4.97% and an average visible transmission of 8.25%.",
+      "evidence": "The efficiency of 4.9% is achieved for a large-area semi-transparent device. ... Device C2(ST) reached the max PCE of 4.97% ... average visible transmission of 8.25%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "semi-transparent",
+        "PCE",
+        "visible transmission",
+        "large-area ST"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Semi-transparent PSCs using the ZrOx interfacial layer exhibited a high color rendering index (CRI) of 86.73 and CIE 1931 color coordinates of (0.2730, 0.3097).",
+      "evidence": "Device C1(ST) shows very good color rendering property with the general CRIs around 86.73 ... The CIE 1931 color coordinates of Device A1(ST) are (0.2730, 0.3097).",
+      "complexity": "single-hop",
+      "keywords": [
+        "CRI",
+        "CIE 1931",
+        "color rendering",
+        "semi-transparent"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "During the blade coating process, the active layer thickness was controlled to 102.7 nm with a low variance of 7.2 nm across the large-area substrate.",
+      "evidence": "Encouragingly, the ternary blend film thickness of 102.7 nm and variance can be as low as 7.2 nm as shown in Figure 4c.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thickness uniformity",
+        "blade coating",
+        "active layer"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 15933,
+    "completion_tokens": 3206,
+    "total_tokens": 19139
+  }
+}

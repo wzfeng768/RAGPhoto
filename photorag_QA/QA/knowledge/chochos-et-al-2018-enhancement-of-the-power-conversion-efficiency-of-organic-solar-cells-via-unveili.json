@@ -1,0 +1,129 @@
+{
+  "paper_id": "chochos-et-al-2018-enhancement-of-the-power-conversion-efficiency-of-organic-solar-cells-via-unveili",
+  "paper_title": "Enhancement of the Power-Conversion Efficiency of Organic Solar Cells via Unveiling an Appropriate Rational Design Strategy in Indacenodithiophene-alt-quinoxaline π-Conjugated Polymers",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/chochos-et-al-2018-enhancement-of-the-power-conversion-efficiency-of-organic-solar-cells-via-unveiling-an-appropriate/auto/chochos-et-al-2018-enhancement-of-the-power-conversion-efficiency-of-organic-solar-cells-via-unveiling-an-appropriate.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The study compares three structural optimization strategies for IDT-quinoxaline polymers: increasing the number-average molecular weight (Mn), replacing phenyl aryl substituents with thienyl groups on the IDT unit, and enlarging the polymer backbone by replacing IDT with indacenodithienothiophene (IDTT).",
+      "evidence": "a specific type of D-A-conjugated polymers, effectively produced by varying the average molecular weights, replacing the phenyl substituent with thienyl and finally the further increment in the repeat unit of the polymer chain by the use of an indacenodithienothiophene (IDTT) instead of IDT (Figure 1) were extensively examined.",
+      "complexity": "single-hop",
+      "keywords": [
+        "molecular weight",
+        "aryl substituents",
+        "backbone enlargement",
+        "indacenodithienothiophene"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "A single-junction organic solar cell based on the thienyl-substituted polymer ThIDT-TQxT blended with PC71BM achieved a maximum power conversion efficiency (PCE) of 7.26%.",
+      "evidence": "Single-junction solar cells based on ThIDT-TQxT feature a maximum power-conversion efficiency of 7.26%",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "ThIDT-TQxT",
+        "PC71BM",
+        "organic solar cells"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Replacing phenyl substituents with thienyl groups on the indacenodithiophene (IDT) unit results in a deeper LUMO level (-3.66 eV for ThIDT-TQxT vs -3.56 eV for PhIDT-TQxT) due to the sigma inductive effect of the thienyl rings.",
+      "evidence": "The resulting deeper ELUMO of ThIDT-TQxT versus PhIDT-TQxT (both LMW and HMW) is elucidated by the σ inductive effect of thienyl substituents",
+      "complexity": "single-hop",
+      "keywords": [
+        "LUMO",
+        "thienyl substituent",
+        "IDT",
+        "inductive effect"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis reveals that PhIDT-TQxT and ThIDT-TQxT have a (001) diffraction peak at 0.56 Å⁻¹ corresponding to a d-spacing of 11.2 Å, while the backbone-enlarged PhIDTT-TQxT shows a peak at 0.48 Å⁻¹ with a d-spacing of 13.1 Å.",
+      "evidence": "among the three polymers, PhIDT-TQxT (LMW-, HMW-) and ThIDT-TQxT showed the (001) diffraction peak at 0.56 Å-1 (d spacing, 11.2 Å) and the PhIDTT-TQxT polymer film exhibited the (001) diffraction peak at 0.48 Å-1 (d spacing, 13.1 Å).",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "d-spacing",
+        "diffraction peak",
+        "backbone length"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "ThIDT-TQxT exhibits a higher molar extinction coefficient (ε) of 60,560 cm⁻¹ L mol⁻¹ at 570 nm in chloroform compared to PhIDTT-TQxT (48,780) and PhIDT-TQxT(LMW) (44,250).",
+      "evidence": "the estimation of the molar coefficient (ε) of the polymers (Figure 3a) showed that ThIDT-TQxT exhibits the highest ε compared with PhIDTT-TQxT and PhIDT-TQxT the least.",
+      "complexity": "single-hop",
+      "keywords": [
+        "molar extinction coefficient",
+        "absorption",
+        "ThIDT-TQxT"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The addition of 1-chloronaphthalene (CN) as a solvent additive significantly improves the PCE of IDT-quinoxaline polymer blends by reducing the nanophase separation and decreasing surface roughness from 2.2-13.9 nm to 0.5-0.6 nm.",
+      "evidence": "the root-mean-square roughness of the blend films from the AFM images decreases from 2.2-13.9 nm (for the as-spun, Figure S9 in the SI) to 0.5-0.6 nm (for the CN-aided, Figure 5).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "1-chloronaphthalene",
+        "solvent additive",
+        "roughness",
+        "morphology"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Transient absorption spectroscopy (TAS) shows that thienyl substitution in ThIDT-TQxT accelerates the electron-hole transfer process (τ2 = 17 ps) compared to phenyl substitution in PhIDT-TQxT(LMW) (τ2 = 25 ps).",
+      "evidence": "Remarkably, the corresponding τ2 for the most efficient device polymer ThIDT-TQxT is found to be smaller, i.e., 17 ps, suggesting that the incorporation of thienyl rings as substituents versus phenyl rings acelerates the electron-hole transfer process",
+      "complexity": "single-hop",
+      "keywords": [
+        "transient absorption spectroscopy",
+        "charge transfer",
+        "thienyl substitution",
+        "electron-hole transfer"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Exciton dissociation in the studied IDT-quinoxaline polymer:PC71BM blends is an ultrafast process, with the first time component (τ1) varying only slightly between 0.8 and 1.6 ps across all architectures.",
+      "evidence": "the first time component (τ1) varies faintly from 0.8 to 1.6 ps for all the examined device architectures. This time component (τ1) represents the time required for an exciton dissociation",
+      "complexity": "single-hop",
+      "keywords": [
+        "exciton dissociation",
+        "TAS",
+        "ultrafast process"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Increasing the molecular weight (HMW) or enlarging the polymer backbone (IDTT) leads to slower electron-hole transfer rates (33 ps and 46 ps respectively) compared to the lower molecular weight or standard IDT backbone counterparts.",
+      "evidence": "both PhIDT-TQxT(HMW) and PhIDTT-TQxT exhibit slower (higher) τ2 time components, i.e., 33 and 46 ps, respectively... the electron-hole transfer process becomes considerably slower, thus suppressing the electrical performance",
+      "complexity": "multi-hop",
+      "keywords": [
+        "molecular weight",
+        "backbone enlargement",
+        "charge transfer rate"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "In all CN-aided blend films, GIWAXS data suggests that the polymer chains self-assemble into a preferential face-on orientation, which contributes to similar hole mobilities in the range of 10⁻⁴ cm²/V·s across different polymer structures.",
+      "evidence": "the polymer chains are self-assembled to a preferential face-on orientation that explains the similar hole mobilities of the polymer:PC71BM systems as estimated by the SCLC model.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "face-on orientation",
+        "hole mobility",
+        "GIWAXS",
+        "SCLC"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 16173,
+    "completion_tokens": 3012,
+    "total_tokens": 19185
+  }
+}

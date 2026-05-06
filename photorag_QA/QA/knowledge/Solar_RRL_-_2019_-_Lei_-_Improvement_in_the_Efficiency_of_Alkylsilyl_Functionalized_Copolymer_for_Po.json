@@ -1,0 +1,125 @@
+{
+  "paper_id": "Solar_RRL_-_2019_-_Lei_-_Improvement_in_the_Efficiency_of_Alkylsilyl_Functionalized_Copolymer_for_Po",
+  "paper_title": "Improvement in the Efficiency of Alkylsilyl Functionalized Copolymer for Polymer Solar Cells: Face-On Orientation Enhanced by Random Copolymerization",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Solar RRL - 2019 - Lei - Improvement in the Efficiency of Alkylsilyl Functionalized Copolymer for Polymer Solar Cells /auto/Solar RRL - 2019 - Lei - Improvement in the Efficiency of Alkylsilyl Functionalized Copolymer for Polymer Solar Cells .md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "A D-A1-D-A2 type random copolymer was synthesized using silicon-containing benzo[1,2-b:4,5-b]dithiophene (Si-BDT) as the donor unit, and fluorobenzotriazole (TZ) and benzo[1,2-c:4,5-c]dithiophene-4,8-dione (BDD) as the two acceptor units.",
+      "evidence": "Two D-A1-D-A2-type random copolymers PBDT-TZ-BDD-1/19 and PBDT-TZ-BDD-1/9 were prepared by a Si-containing (Si-BDT) as a D unit, a TZ as an A1 unit, and copolymerized with 5% or 10% mole ratios of BDD as an A2 unit.",
+      "complexity": "single-hop",
+      "keywords": [
+        "random copolymer",
+        "Si-BDT",
+        "BDD",
+        "D-A1-D-A2"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The random copolymer PBDT-TZ-BDD-1/19, when blended with the non-fullerene acceptor ITIC, achieved a peak power conversion efficiency (PCE) of 11.02%, with a VOC of 0.93 V, JSC of 17.56 mA cm⁻², and a fill factor (FF) of 67.48%.",
+      "evidence": "The best power conversion efficiency (PCE) of 11.02% was achieved for the PBDT-TZ-BDD1/19 : ITIC-based inverted device... (Jsc = 17.56 mAcm−2, Voc = 0.93 V, FF = 67.48% and PCE = 11.02%).",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "ITIC",
+        "PBDT-TZ-BDD-1/19",
+        "fill factor"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Incorporating the planar BDD unit into the J71 polymer matrix effectively downshifts the HOMO levels from -5.40 eV (J71) to -5.42 eV (PBDT-TZ-BDD-1/19) and -5.44 eV (PBDT-TZ-BDD-1/9).",
+      "evidence": "The HOMOs were -5.40, -5.42, and -5.44 eV for J71, PBDT-TZ-BDD-1/19, and PBDT-TZ-BDD-1/9, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "HOMO level",
+        "energy level engineering",
+        "BDD unit"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The introduction of BDD units increases the absorption coefficient of the polymer films from 0.96 × 10⁵ cm⁻¹ (J71) to 1.03 × 10⁵ cm⁻¹ (PBDT-TZ-BDD-1/19) and 1.06 × 10⁵ cm⁻¹ (PBDT-TZ-BDD-1/9).",
+      "evidence": "addition of BDD units did not reduce the absorption intensity of random copolymers but increased the film absorption coefficient in the following order: J71 (0.96 × 105 cm−1) < PBDT-TZ-BDD-1/19 (1.03 × 105 cm−1) < PBDT-TZ-BDD-1/9 (1.06 × 105 cm−1).",
+      "complexity": "single-hop",
+      "keywords": [
+        "absorption coefficient",
+        "light harvesting",
+        "BDD"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis revealed that the addition of 5% BDD in PBDT-TZ-BDD-1/19 increased the pi-pi stacking coherence length (CCL) to 16.281 Å compared to 15.823 Å for the binary J71 polymer.",
+      "evidence": "The CCL (010) values for J71, PBDT-TZ-BDD-1/19, and PBDT-TZ-BDD-1/9 were estimated to be 15.823, 16.281, and 14.662 Å, respectively.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "GIWAXS",
+        "coherence length",
+        "pi-pi stacking"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "PBDT-TZ-BDD-1/19:ITIC blend films exhibit higher and more balanced charge mobilities (hole mobility: 5.60 × 10⁻⁴ cm² V⁻¹ s⁻¹; electron mobility: 4.12 × 10⁻⁴ cm² V⁻¹ s⁻¹) compared to the J71:ITIC system.",
+      "evidence": "The hole mobilities were 3.89 × 10−4, 5.60 × 10−4, and 3.78 × 10−4 cm2 V−1 s−1... The electron mobilities were 2.02 × 10−4, 4.12 × 10−4, and 2.71 × 10−4 cm2 V−1 s−1 for J71, PBDT-TZ-BDD-1/19 and PBDT-TZ-BDD-1/9, respectively.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "charge mobility",
+        "SCLC",
+        "balanced transport"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Random copolymerization with BDD improves compatibility with the ITIC acceptor, resulting in a more homogeneous fibril-like nanophase separation and lower surface roughness (1.18 nm) compared to the J71:ITIC blend (2.03 nm).",
+      "evidence": "the PBDT-TZ-BDD-1/19: ITIC and PBDT-TZ-BDD-1/9: ITIC blend films were slightly smoother with a lower root-mean-square roughness (Rq) (1.18 nm for PBDT-TZ-BDD-1/19: ITIC... than the J71:ITIC film (2.03 nm).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "phase separation",
+        "AFM",
+        "surface roughness",
+        "compatibility"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "A high content of BDD (10% in PBDT-TZ-BDD-1/9) leads to a decrease in device performance compared to 5% BDD due to an excessively irregular sequence distribution that reduces polymer crystallinity.",
+      "evidence": "When the BDD content increased to 10%, the more irregular sequence caused less efficient pathway for charge transport... PBDT-TZ-BDD-1/9 neat film displayed the weakest (010) peak with the widest FWHM (010) and smallest CCL (010).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "crystallinity",
+        "sequence distribution",
+        "charge transport"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The random copolymers PBDT-TZ-BDD-1/19 and PBDT-TZ-BDD-1/9 demonstrate high thermal stability with 5% weight loss decomposition temperatures (Td) exceeding 430 °C.",
+      "evidence": "The copolymer PBDT-TZ-BDD-1/19 and PBDT-TZ-BDD-1/9 showed thermal decomposition temperatures (Td) at 5% weight loss above 430 °C.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "Td",
+        "decomposition"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The silyl-functionalized donor unit (Si-BDT) utilizes sigma*-n* bond interactions to downshift energy levels and enhance the crystallinity of the resulting copolymers.",
+      "evidence": "The σ* (Si)-n* (C) bond interaction is demonstrated to not only effectively downshift the energy levels but also to improve the crystallinity of the copolymers and facilitate the charge transport.",
+      "complexity": "single-hop",
+      "keywords": [
+        "silyl functionalization",
+        "Si-BDT",
+        "crystallinity"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 10493,
+    "completion_tokens": 3685,
+    "total_tokens": 14178
+  }
+}

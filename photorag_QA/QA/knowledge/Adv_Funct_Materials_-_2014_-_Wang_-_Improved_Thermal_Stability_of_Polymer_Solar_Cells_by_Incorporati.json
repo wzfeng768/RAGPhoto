@@ -1,0 +1,156 @@
+{
+  "paper_id": "Adv_Funct_Materials_-_2014_-_Wang_-_Improved_Thermal_Stability_of_Polymer_Solar_Cells_by_Incorporati",
+  "paper_title": "Improved Thermal Stability of Polymer Solar Cells by Incorporating Porphyrins",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Adv Funct Materials - 2014 - Wang - Improved Thermal Stability of Polymer Solar Cells by Incorporating Porphyrins/auto/Adv Funct Materials - 2014 - Wang - Improved Thermal Stability of Polymer Solar Cells by Incorporating Porphyrins.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The porphyrin compound BL is chemically identified as zinc-5, 15-diethynyl-10, 20-di(4-dodecyloxyphenyl) porphyrin.",
+      "evidence": "In this paper, the (zinc-5, 15-diethynyl-10, 20-di(4-dodecyloxyphenyl) porphyrin, named as BL (Scheme 1), was selected to demonstrate this novel strategy.",
+      "complexity": "single-hop",
+      "keywords": [
+        "porphyrin",
+        "BL",
+        "zinc-complex",
+        "molecular structure"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Supramolecular interactions between BL and PC61BM are characterized by a face-to-face complex formation, which results in a bathochromic shift of 8 nm and broadening of the porphyrin Soret band in UV-vis absorption spectra.",
+      "evidence": "the absorption of the Soret band is red shifted (Δλ = 8 nm) and broadened. This similar bathochromic-shift of absorption has been demonstrated to relate to the face-to-face porphyrinfullerene complexes.",
+      "complexity": "single-hop",
+      "keywords": [
+        "supramolecular interaction",
+        "PC61BM",
+        "Soret band",
+        "UV-vis spectroscopy"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Fluorescence quenching at 640 and 684 nm in BL solutions upon the addition of PC61BM indicates photo-induced energy transfer or electron transfer from the porphyrin to the fullerene derivative.",
+      "evidence": "Figure 1b shows the curves of quenched BL solutions... showing the dramatically decreased band intensities at 640 and 684 nm with the PC61BM introduction, which indicates the presence of the photo-induced energy transfer or electron transfer from BL to PC61BM.",
+      "complexity": "single-hop",
+      "keywords": [
+        "fluorescence quenching",
+        "energy transfer",
+        "electron transfer",
+        "PC61BM"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Incorporating BL into a PC61BM:BL binary blend at a weight ratio of 1:0.5 effectively suppresses PC61BM crystallization, maintaining a smooth film surface (roughness < 1.27 nm) even after 36 hours of heating at 150 °C.",
+      "evidence": "If BL increases to an appropriate amount (PC61BM:BL = 1:0.5 in this case), no PC61BM crystals are observed both for pristine and annealed blend films, and the surface of the film keeps smooth (< 1.27 nm of roughness) even after 36 h of heating.",
+      "complexity": "single-hop",
+      "keywords": [
+        "crystallization inhibition",
+        "thermal stability",
+        "surface roughness",
+        "PC61BM"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Excessive loading of BL (ratios of 1:1 or 1:2 PC61BM:BL) leads to the formation of large BL aggregates and crystals, which can reach hundreds of micrometers in length during thermal annealing.",
+      "evidence": "However, over-loaded BL would negatively influence the morphology... especially in the case of PC61BM:BL(1:2) blend, the BL crystals as long as hundreds of micrometers can be observed in Figure 2e.",
+      "complexity": "single-hop",
+      "keywords": [
+        "aggregation",
+        "morphology",
+        "loading ratio",
+        "annealing"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The growth rate of PC61BM crystals in P3HT:PC61BM:BL ternary blends follows an inverse relationship with the BL content; the growth slope decreases from 1.69 × 10^-3 for 0% BL to 3.96 × 10^-4 for 16% BL.",
+      "evidence": "the slope of 1.69 × 10−3 is obtained for P3HT:PC61BM blend film, which is higher than that of P3HT:PC61BM:BL blend films (8.03 × 10−4 for 4% BL, 5.76 × 10−4 for 8% BL, and 3.96 × 10−4 for 16% BL)... the growth rate of PC61BM crystals has an inverse relationship with the exponent of BL content.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "crystallization kinetics",
+        "growth rate",
+        "ternary blend",
+        "P3HT"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Differential scanning calorimetry (DSC) analysis reveals that increasing BL content shifts the PC61BM crystallization peak to higher temperatures (e.g., 179.8 °C for 8% BL vs 157.9 °C for 0% BL) and shifts the melting peak to lower temperatures.",
+      "evidence": "As the BL content increases, the PC61BM crystalline peaks shift to higher temperature: 169.3 °C (4% BL) and 179.8 °C (8% BL)... Correspondingly, the melting peaks shift to lower temperature at 247.5, 244.5, and 239.6 °C for 4%, 8%, and 16% BL, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DSC",
+        "crystallization temperature",
+        "melting point",
+        "thermal behavior"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The electron mobility of P3HT:PC61BM:BL (8%) ternary blends increases upon thermal annealing, reaching 1.91 × 10^-4 cm^2 V^-1 s^-1 after 3 hours at 130 °C, whereas the binary P3HT:PC61BM blend mobility drops to 0.36 × 10^-4 cm^2 V^-1 s^-1 under the same conditions.",
+      "evidence": "the electron mobility for P3HT:PC61BM:BL (8%) device increases ceaselessly... reaching 1.91 × 10−4 cm2 s−1 V−1 after 3 h heating... In contrast, the electron mobility for P3HT:PC61BM device... decreases to 0.36 × 10−4 cm2 s−1 V−1 by further heating.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "electron mobility",
+        "SCLC",
+        "thermal stress",
+        "charge transport"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "P3HT:PC61BM devices containing 8% BL doping exhibit superior thermal stability, with power conversion efficiency (PCE) dropping by only 10.5% after 48 hours of annealing at 130 °C, while control devices without BL lose 71.5% of their PCE after only 3 hours.",
+      "evidence": "For example, 8% BL doping drops the power conversion efficiency by 10.5% relative to its peak value after 48 h of annealing at 130 °C, while 71.5% of decrease is obtained for the device without BL after only 3 h of annealing.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "PCE decay",
+        "thermal stability",
+        "device lifetime",
+        "P3HT"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Initial device efficiency decreases as BL content increases (from 3.20% at 0% BL to 2.02% at 16% BL), primarily due to reductions in short-circuit current density (Jsc) and fill factor (FF).",
+      "evidence": "the PCE decreases from 3.20% to 2.02% as BL content increases from 0% to 16% . And the decay of PCE values mainly results from the decreased Jsc (from 8.83 to 7.72 mA cm−2) and FF (from 67.10% to 51.30%).",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "Jsc",
+        "Fill Factor",
+        "efficiency trade-off"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Thermal degradation in P3HT:PC61BM blends is attributed to the formation of large PC61BM aggregates that disrupt percolating electron transport pathways and increase charge recombination losses.",
+      "evidence": "over-long thermal annealing causes the formation of large size PC61BM aggregates, which reduces the percolating electron transport pathways within the mixed regions and thus increases the charge recombination losses.",
+      "complexity": "single-hop",
+      "keywords": [
+        "charge recombination",
+        "percolation pathways",
+        "phase separation",
+        "morphology"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The strategy of using porphyrins to stabilize morphology is applicable to various porphyrin structures, including those with different core metal ions (Mn, Zn, Cu) and functional groups (nitro, 4-chlorooctafluorobutyl).",
+      "evidence": "our preliminary data show that the porphyrins with different core metal ions (Mn, Zn, Cu) and substituted groups (nitro, 4-chlorooctafluorobutyl) have different effects on the performance of P3HT:PC61BM devices.",
+      "complexity": "single-hop",
+      "keywords": [
+        "porphyrin derivatives",
+        "metal centers",
+        "substituent effects",
+        "universal strategy"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 15327,
+    "completion_tokens": 4804,
+    "total_tokens": 20131
+  }
+}

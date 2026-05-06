@@ -1,0 +1,156 @@
+{
+  "paper_id": "c7tc01310h",
+  "paper_title": "Terminal π–π stacking determines three-dimensional molecular packing and isotropic charge transport in an A–π–A electron acceptor for non-fullerene organic solar cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/c7tc01310h/auto/c7tc01310h.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "ITIC is a fused-ring electron acceptor (FREA) characterized by an A-π-A molecular architecture consisting of a central fused-ring backbone and terminal indenedione (IC) acceptor units.",
+      "evidence": "non-fullerene OSCs based on acceptor–p–acceptor (A–p–A) FREAs, especially ITIC (Fig. 1a) reported by Zhan et al., have attracted considerable attention.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ITIC",
+        "A-π-A structure",
+        "fused-ring electron acceptor",
+        "indenedione"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The ITIC single crystal exhibits a one-dimensional edge-to-face stacking structure where the backbone edge of one molecule is embedded between the pendant phenyl groups of an adjacent molecule.",
+      "evidence": "the ITIC crystal grown by the slow solvent vapor diffusion approach exhibits a one-dimensional edge-to-face stacking structure... two nonequivalent molecules (labeled A and B) alternate along the b crystallographic axis with the backbone edge of A embedded between two of the pendant phenyl groups of B.",
+      "complexity": "single-hop",
+      "keywords": [
+        "single crystal",
+        "edge-to-face stacking",
+        "molecular packing",
+        "1D stacking"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "In ITIC thin films, three-dimensional molecular packing is primarily facilitated by local π–π stacking between the terminal IC acceptor units rather than the fused-ring backbones.",
+      "evidence": "the ITIC film shows three-dimensional molecular packing formed mainly through local π–π stacking between the terminal acceptor units... the fused-ring backbones are difficult to form π–π stacking. This can be attributed to the large steric hindrance of the four alkyl phenyl groups pended on the backbone.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "thin film",
+        "3D molecular packing",
+        "terminal π–π stacking",
+        "steric hindrance"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The overall electron mobility of ITIC in a simulated thin film is approximately 1.46 × 10⁻³ cm² V⁻¹ s⁻¹, which is nearly double the mobility of its single-crystal form (7.4 × 10⁻⁴ cm² V⁻¹ s⁻¹).",
+      "evidence": "the overall mobility of the film (~1.46 × 10⁻³ cm² V⁻¹ s⁻¹) is surprisingly almost twice that of the crystal (7.4 × 10⁻⁴ cm² V⁻¹ s⁻¹).",
+      "complexity": "single-hop",
+      "keywords": [
+        "electron mobility",
+        "ITIC",
+        "thin-film mobility",
+        "crystal mobility"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "ITIC thin films exhibit isotropic charge transport across three dimensions, contrastingly different from the highly anisotropic transport observed along the b-axis in ITIC single crystals.",
+      "evidence": "excellent isotropic electron mobilities along three dimensions are found for the film... the mobility of the ITIC crystal exhibits large anisotropy and the predominant direction is along the b crystallographic axis.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "isotropic charge transport",
+        "anisotropy",
+        "electron mobility",
+        "charge percolation"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Radial distribution function (RDF) analysis of simulated ITIC films shows a distinct peak at approximately 0.37 nm for the terminal IC groups, confirming local π–π stacking.",
+      "evidence": "the COM RDF of the terminal IC groups shows a distinct peak at ~0.37 nm, demonstrating local π–π stacking between the terminal groups.",
+      "complexity": "single-hop",
+      "keywords": [
+        "radial distribution function",
+        "RDF",
+        "π–π stacking distance",
+        "molecular dynamics"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "The average electronic coupling for terminal IC-IC π–π stacks in ITIC films is 18.4 meV, which is significantly higher than the 10.8 meV coupling found in the dominant packing mode of the crystal.",
+      "evidence": "The average coupling of P_IC-IC (18.4 meV) is thus larger than that of P_AB (10.8 meV).",
+      "complexity": "single-hop",
+      "keywords": [
+        "electronic coupling",
+        "transfer integral",
+        "ZINDO",
+        "ITIC"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The fullerene derivative PC71BM maintains a higher thin-film electron mobility of approximately 6.6 × 10⁻³ cm² V⁻¹ s⁻¹ compared to the non-fullerene acceptor ITIC.",
+      "evidence": "The PC71BM film is then characteristic of excellent isotropic charge transport and shows high electron mobility of about 6.6 × 10⁻³ cm² V⁻¹ s⁻¹.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PC71BM",
+        "electron mobility",
+        "fullerene acceptor",
+        "comparison"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "A key strategy to improve the electron mobility of A-π-A fused-ring electron acceptors is to enhance the LUMO distribution on the terminal acceptor units to increase electronic coupling in the π–π stacks.",
+      "evidence": "to improve the electron mobilities of ITIC, it is imperative to finely tune the terminal acceptor unit to increase the local intermolecular π–π interaction and the LUMO distribution on the acceptor unit.",
+      "complexity": "single-hop",
+      "keywords": [
+        "molecular design",
+        "LUMO distribution",
+        "electronic coupling",
+        "terminal unit"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The ITIC single crystal was grown using a slow solvent vapor diffusion method over 3–5 days, utilizing dichloromethane as the solvent and petroleum ether as the antisolvent.",
+      "evidence": "The single crystal of ITIC... was obtained at ambient temperature by the slow solvent vapor diffusion approach. The solid sample was dissolved in dichloromethane... petroleum ether was added in advance... stood without disturbance for 3–5 days.",
+      "complexity": "single-hop",
+      "keywords": [
+        "solvent vapor diffusion",
+        "single crystal growth",
+        "dichloromethane",
+        "petroleum ether"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "The reorganization energy (λ) for ITIC, estimated using DFT calculations at the B3LYP/6-31G** level, is 0.153 eV.",
+      "evidence": "λ is the reorganization energy and is estimated to be 0.153 eV for ITIC... using DFT calculations at the B3LYP/6-31G** level.",
+      "complexity": "single-hop",
+      "keywords": [
+        "reorganization energy",
+        "DFT",
+        "B3LYP",
+        "ITIC"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "In ITIC films, terminal π–π stacks form large connected networks in two main modes: cluster-like and chain-like, with the chain-like mode facilitating long-distance charge transport.",
+      "evidence": "these IC–IC π–π stacks can further form large connected networks with two main modes. One is cluster-like and the other is chain-like... the chain-like mode would bring longer distance charge transport.",
+      "complexity": "single-hop",
+      "keywords": [
+        "percolation network",
+        "charge transport pathways",
+        "cluster-like",
+        "chain-like"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 11445,
+    "completion_tokens": 4063,
+    "total_tokens": 15508
+  }
+}

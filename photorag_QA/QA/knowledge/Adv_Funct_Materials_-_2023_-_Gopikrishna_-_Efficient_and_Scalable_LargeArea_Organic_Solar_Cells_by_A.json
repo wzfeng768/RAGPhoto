@@ -1,0 +1,130 @@
+{
+  "paper_id": "Adv_Funct_Materials_-_2023_-_Gopikrishna_-_Efficient_and_Scalable_LargeArea_Organic_Solar_Cells_by_A",
+  "paper_title": "Efficient and Scalable Large-Area Organic Solar Cells by Asymmetric Nonfullerene Acceptors Based on 9H-Indeno[1,2-b]pyrazine-2,3,8-Tricarbonitrile",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Adv Funct Materials - 2023 - Gopikrishna - Efficient and Scalable Large‐Area Organic Solar Cells by Asymmetric Nonfullerene/auto/Adv Funct Materials - 2023 - Gopikrishna - Efficient and Scalable Large‐Area Organic Solar Cells by Asymmetric Nonfullerene.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The introduction of a cyano group at the 8th position of the 9H-indeno[1,2-b]pyrazine-2,3-dicarbonitrile (IPC) structure to form IPC1CN prevents the formation of NFA isomers due to steric hindrance between the cyano group and the sulfur atom of the thieno[3,2-b]thiophene core.",
+      "evidence": "However, we believe that the introduction of a cyano group at the 8th position of IPC allows for only one conformer owing to steric hindrance between the cyano group of IPC1CN and the sulfur atom of TT... These results suggest that the conformer of TT-IPC1CN-I is the most stable.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "IPC1CN",
+        "isomer prevention",
+        "steric hindrance",
+        "molecular design"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The random terpolymer PM6-PBDBT(55) is synthesized using three monomers: 4,8-bis(5-(2-ethylhexyl)thiophen-2-yl)benzo[1,2-b:4,5-b']dithiophene (BDT), BDT-2F, and 1,3-bis(2-ethylhexyl)-5,7-di(thiophen-2-yl)-4H,8H-benzo[1,2-c:4,5-c']dithiophene-4,8-dione (BDD) in a molar ratio of 0.5:0.5:1.",
+      "evidence": "Moreover, we synthesized a random copolymer PM6-PBDBT(55) composed of three monomeric units (BDT, BDT-2F, and BDD) in a ratio of 0.5:0.5:1 (Figure 1b).",
+      "complexity": "single-hop",
+      "keywords": [
+        "PM6-PBDBT(55)",
+        "terpolymer",
+        "monomer ratio",
+        "polymer donor"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Blade-coated organic solar cells with a 1 cm² active area using PM6-PBDBT(55):IPC1CN-BBO-IC2Cl achieved a power conversion efficiency (PCE) of 14.12%, with a Voc of 0.836 V, Jsc of 25.94 mA cm⁻², and FF of 65.09%.",
+      "evidence": "The PCE is further increased to 14.12% with a VOC of 0.836 V, a JSC of 25.94 mA cm−2 and an FF of 65.09% when IPC1CN-BBO-IC2F was replaced with IPC1CN-BBO-IC2Cl.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "IPC1CN-BBO-IC2Cl",
+        "blade-coating",
+        "efficiency"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Large-area organic solar modules with an active area of 58.50 cm² based on PM6-PBDBT(55):IPC1CN-BBO-IC2Cl achieved a PCE of 11.28%, demonstrating high scalability with minimal fill factor loss compared to 1 cm² devices.",
+      "evidence": "More importantly, the PM6-PBDBT(55):IPC1CN-BBO-IC2Cl-based large-area (58.50 cm²) modules yield an impressive PCE of 11.28% with a small cell-to-module loss in fill factor.",
+      "complexity": "single-hop",
+      "keywords": [
+        "solar module",
+        "scalability",
+        "large-area OSC",
+        "fill factor loss"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Chlorine substitution in the IC2Cl end group results in deeper HOMO and LUMO energy levels (-5.69 eV and -3.91 eV, respectively) compared to the fluorine-substituted IC2F end group (-5.65 eV and -3.89 eV) due to the strong electron-withdrawing nature of chlorine.",
+      "evidence": "Benefiting from the strong electron-accepting ability of the chlorine atoms in IC2Cl, the HOMO and LUMO energy levels of IPC1CN-BBO-IC2Cl were deeper than those of IPC1CN-BBO-IC2F.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "chlorination",
+        "fluorination",
+        "energy level tuning",
+        "HOMO/LUMO"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The IPC1CN-BBO-IC2Cl acceptor exhibits a more red-shifted absorption maximum (821 nm in film) and a higher absorption coefficient (1.18 × 10⁵ cm⁻¹) compared to IPC1CN-BBO-IC2F (815 nm and 1.02 × 10⁵ cm⁻¹), contributing to higher short-circuit current (Jsc).",
+      "evidence": "the absorption maxima of IPC1CN-BBO-IC2F and IPC1CN-BBO-IC2Cl shifted to 815 and 821 nm... the absorption coefficient of the IPC1CN-BBO-IC2Cl film (1.18 × 10⁵ cm⁻¹) was higher than that of the IPC1CN-BBO-IC2F film (1.02 × 10⁵ cm⁻¹).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "absorption coefficient",
+        "red-shift",
+        "Jsc",
+        "NIR absorption"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The PM6-PBDBT(55):IPC1CN-BBO-IC2Cl-based OSCs show reduced trap-assisted recombination, indicated by a lower ideality factor (n = 1.27) compared to PM6-PBDBT(55):IPC1CN-BBO-IC2F (n = 1.75).",
+      "evidence": "The slope of the IPC1CN-BBO-IC2Cl-based OSC is smaller (i.e., n = 1.27) than that (i.e., n = 1.75) of the IPC1CN-BBO-IC2F-based OSC. This means that trap-assisted charge recombination decreased in the IPC1CN-BBO-IC2Cl-based OSCs.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ideality factor",
+        "trap-assisted recombination",
+        "device physics"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Space-charge-limited-current (SCLC) measurements revealed that PM6-PBDBT(55):IPC1CN-BBO-IC2Cl blend films have higher and more balanced average hole (3.7 × 10⁻⁴ cm² V⁻¹ s⁻¹) and electron (3.1 × 10⁻⁴ cm² V⁻¹ s⁻¹) mobilities than the IPC1CN-BBO-IC2F counterparts.",
+      "evidence": "The PM6-PBDBT(55):IPC1CN-BBO-IC2Cl blend film exhibited even higher average hole and electron mobilities of 3.7 × 10⁻⁴ cm² (Vs)⁻¹ and 3.1 × 10⁻⁴ cm² (Vs)⁻¹, respectively than those of the PM6-PBDBT(55):IPC1CN-BBO-IC2F blend films.",
+      "complexity": "single-hop",
+      "keywords": [
+        "SCLC",
+        "carrier mobility",
+        "charge transport"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Optimization of blade-coated OSCs identified an ideal donor-acceptor ratio of 1:1 (w/w) and the use of 1 vol% 1-chloronaphthalene (1-CN) as a solvent additive in chloroform to achieve superior performance.",
+      "evidence": "The optimum donor-acceptor ratio and the ratio of 1-CN was 1:1 w/w and 1 vol.%, respectively, and the OSC processed with chloroform showed better performance than that processed with chlorobenzene.",
+      "complexity": "single-hop",
+      "keywords": [
+        "blade-coating",
+        "solvent additive",
+        "1-chloronaphthalene",
+        "optimization"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Surface energy measurements indicate that IPC1CN-BBO-IC2Cl (36.57 mN m⁻¹) has better miscibility with the PM6-PBDBT(55) donor (25.03 mN m⁻¹) than IPC1CN-BBO-IC2F (40.25 mN m⁻¹), resulting in a more uniform fibrillar morphology.",
+      "evidence": "The difference between the surface energies of IPC1CN-BBO-IC2Cl (surface energy = 36.57 mN m−1) and PM6-PBDBT(55) (25.03 mN m−1) was smaller than that between IPC1CN-BBO-IC2F (40.25 mN m−1) and PM6-PBDBT(55)... This aspect indicated that IPC1CN-BBO-IC2Cl was more miscible.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "surface energy",
+        "miscibility",
+        "morphology",
+        "contact angle"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 16231,
+    "completion_tokens": 3327,
+    "total_tokens": 19558
+  }
+}

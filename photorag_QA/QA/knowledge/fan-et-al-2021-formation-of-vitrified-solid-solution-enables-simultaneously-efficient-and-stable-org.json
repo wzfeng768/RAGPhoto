@@ -1,0 +1,157 @@
+{
+  "paper_id": "fan-et-al-2021-formation-of-vitrified-solid-solution-enables-simultaneously-efficient-and-stable-org",
+  "paper_title": "Formation of Vitrified Solid Solution Enables Simultaneously Efficient and Stable Organic Solar Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/fan-et-al-2021-formation-of-vitrified-solid-solution-enables-simultaneously-efficient-and-stable-organic-solar-cells/auto/fan-et-al-2021-formation-of-vitrified-solid-solution-enables-simultaneously-efficient-and-stable-organic-solar-cells.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "BT-4BO is a nonfullerene acceptor designed with four 2-butyloctyl (BO) branched side chains on a fused pi-core to reduce electron affinity (EA) while maintaining structural similarity with the acceptor CH1007.",
+      "evidence": "In this work, we designed and synthesized an acceptor, BT4BO, with four prolonged pendent chains (Figure 1a), which has a distinctly reduced EA compared to the ultranarrow-bandgap acceptor CH1007 while maintaining an extremely high miscibility between the two.",
+      "complexity": "single-hop",
+      "keywords": [
+        "BT-4BO",
+        "side-chain engineering",
+        "electron affinity",
+        "miscibility"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The optimized ternary organic solar cell based on PTzBI-dF:CH1007:BT-4BO (ratio 1:0.3:0.8) achieved a champion power conversion efficiency (PCE) of 17.80%, with a Voc of 0.88 V, Jsc of 26.90 mA/cm², and FF of 75.35%.",
+      "evidence": "ultimately affording an optimal PCE of 17.80%... champion efficiency of 17.80% achieved for devices with a blend ratio of 1:0.3:0.8. (Table 1)",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "ternary solar cell",
+        "PTzBI-dF",
+        "CH1007",
+        "BT-4BO"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "BT-4BO exhibits an electron affinity (EA) of 3.85 eV and an ionization energy (IE) of 5.49 eV, whereas CH1007 has a higher EA of 3.90 eV and a lower IE of 5.44 eV.",
+      "evidence": "neat BT-4BO exhibits a higher IE of 5.49 eV than that of 5.44 eV for CH1007 (Figure 2a) and meantime a lower EA of 3.85 eV relative to 3.90 eV for the latter (Figure 2c).",
+      "complexity": "single-hop",
+      "keywords": [
+        "electron affinity",
+        "ionization energy",
+        "energy levels",
+        "BT-4BO"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The formation of an electronic alloy (solid solution) between CH1007 and BT-4BO enables a continuous increase in the open-circuit voltage (Voc) as the ratio of BT-4BO in the ternary blend increases.",
+      "evidence": "As a result, continuously increased Voc is realized... The formation of electronic alloy enables the optimization of light harvest ability, hole transfer efficiency, and the Voc of derived devices.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "electronic alloy",
+        "solid solution",
+        "Voc tuning",
+        "ternary blend"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Ternary OSCs based on the PTzBI-dF:CH1007:BT-4BO (1:0.3:0.8) blend retain 84.4% of their initial PCE after thermal aging for 264 hours at temperatures up to 85°C, significantly outperforming their binary counterparts.",
+      "evidence": "the 1:0.3:0.8 ternary device retains 84.4% of its original PCE after being thermally annealed for 264 h... Compared to the severe decay of PCE by ~40% and ~47% for CH1007- and BT-4BO-based binary devices, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "aging",
+        "vitrification",
+        "PCE retention"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Reflective ellipsometry was employed to determine the glass transition temperature (Tg) of the CH1007:BT-4BO (0.5:0.6) acceptor blend, yielding a Tg of approximately 120°C.",
+      "evidence": "the mixed acceptors of CH1007:BT-4BO (0.5:0.6) show clear glass transitions in both n-T (Figure 2g) and d-T (Figure S10) plots, giving a comparable Tg of 120 °C.",
+      "complexity": "single-hop",
+      "keywords": [
+        "reflective ellipsometry",
+        "glass transition temperature",
+        "Tg",
+        "acceptor blend"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "GIWAXS analysis indicates that blending CH1007 with BT-4BO disrupts the crystallization of BT-4BO, leading to a vitrified state that suppresses thermally induced phase separation.",
+      "evidence": "the crystallization of BT-4BO was substantially disrupted by CH1007 over the drying process of the blends... both (110) and (111) peak areas of the acceptor blends decrease compared with neat CH1007... indicating both acceptors are vitrified in the blending.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "GIWAXS",
+        "crystallization",
+        "vitrification",
+        "molecular packing"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The high short-circuit current (Jsc) in the ternary devices is supported by efficient Forster resonance energy transfer (FRET) from the donor PTzBI-dF to the acceptors, facilitated by the large overlap between donor photoluminescence and acceptor absorption.",
+      "evidence": "found in Figure 4d a fairly large overlap between the donor PL and the acceptor absorption, which can trigger an efficient Forster resonance energy transfer (FRET) from PTzBI-dF to acceptors.",
+      "complexity": "single-hop",
+      "keywords": [
+        "FRET",
+        "photoluminescence overlap",
+        "Jsc",
+        "energy transfer"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Fourier-transform photocurrent spectrometry (FTPS) was used to measure the energetic disorder (Urbach energy, Eu), revealing a value of 23.5 ± 0.1 meV for the optimized 1:0.3:0.8 ternary device.",
+      "evidence": "Through exponential fitting of the EQE tail measured by Fourier-transform photocurrent spectrometry (FTPS)... The 1:0.3:0.8 ternary device shows a slightly decreased EU of 23.5 ± 0.1 meV.",
+      "complexity": "single-hop",
+      "keywords": [
+        "FTPS",
+        "energetic disorder",
+        "Urbach energy",
+        "EQE tail"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The Flory-Huggins interaction parameter (chi) for PTzBI-dF:BT-4BO (0.035 K) is significantly lower than that for PTzBI-dF:CH1007 (0.164 K), indicating better thermodynamic miscibility between the donor and the BT-4BO acceptor.",
+      "evidence": "PTzBI-dF:CH1007 has the highest chi_D-A of 0.164 K... PTzBI-dF:BT-4BO [shows] the smallest chi_D-A of 0.035 K (Table S1).",
+      "complexity": "single-hop",
+      "keywords": [
+        "Flory-Huggins parameter",
+        "miscibility",
+        "surface energy",
+        "PTzBI-dF"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The ternary blend morphology, characterized by AFM and TEM, shows finer phase separation and smaller feature sizes compared to binary blends, which helps eliminate pinholes and recombination pathways.",
+      "evidence": "the blending of acceptors quenches the ternary films into fine structures with small grains, regardless of the blending ratios... The fine phase-separated structure can only be detected at the scale of tens of nanometers by TEM.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "AFM",
+        "TEM",
+        "nanomorphology",
+        "phase separation"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "BT-4BO exhibits a large bathochromic shift of 93 nm from solution to film state, with an absorption onset at 875 nm, indicating strong molecular aggregation in the solid state.",
+      "evidence": "the introduction of four BO side chains blueshifts the absorption onset to 875 nm... A large bathochromic shift of 93 nm from solution to film indicates good aggregation of BT-4BO molecules in solid state.",
+      "complexity": "single-hop",
+      "keywords": [
+        "bathochromic shift",
+        "aggregation",
+        "absorption onset",
+        "BT-4BO"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 12951,
+    "completion_tokens": 4617,
+    "total_tokens": 17568
+  }
+}

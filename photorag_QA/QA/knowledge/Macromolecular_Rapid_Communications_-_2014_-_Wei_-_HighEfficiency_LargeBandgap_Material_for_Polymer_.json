@@ -1,0 +1,130 @@
+{
+  "paper_id": "Macromolecular_Rapid_Communications_-_2014_-_Wei_-_HighEfficiency_LargeBandgap_Material_for_Polymer_",
+  "paper_title": "High-Efficiency Large-Bandgap Material for Polymer Solar Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Macromolecular Rapid Communications - 2014 - Wei - High‐Efficiency Large‐Bandgap Material for Polymer Solar Cells/auto/Macromolecular Rapid Communications - 2014 - Wei - High‐Efficiency Large‐Bandgap Material for Polymer Solar Cells.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "HD-PDFc-DTBT is synthesized via Suzuki polycondensation using N-(2-hexyldecyl)-3,6-difluorocarbazole as the donor unit, 5,6-bis(octyloxy)benzothiadiazole as the acceptor unit, and thiophene as a spacer.",
+      "evidence": "High-molecular-weight conjugated polymer HD-PDFc-DTBT with N-(2-hexyldecyl)-3,6-difluorocarbazole as the donor unit, 5,6-bis(octyloxy)benzothiadiazole as the acceptor unit and thiophene as the spacer is synthesized by Suzuki polycondensation.",
+      "complexity": "single-hop",
+      "keywords": [
+        "HD-PDFc-DTBT",
+        "Suzuki polycondensation",
+        "difluorocarbazole",
+        "benzothiadiazole"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Replacing the octyl chain with a branched 2-hexyldecyl chain at the 9-position of the carbazole unit in HD-PDFc-DTBT increases the polymer's solubility, allowing for the synthesis of higher molecular weight materials (Mn = 38.3 kg/mol) compared to its predecessor O-PDFC-DTBT (Mn = 9.1 kg/mol).",
+      "evidence": "In this work, to achieve high-molecular-weight polymers, we replace the octyl chain on the 9-position of 3,6-difluorocarbazole unit with a 2-hexyldecyl chain to increase the solubility of the resulting polymers... Number-average molecular weight of HD-PDFC-DTBT has reached 38.3 kg mol-1.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "side chain engineering",
+        "solubility",
+        "molecular weight",
+        "2-hexyldecyl"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "HD-PDFc-DTBT exhibits a large optical bandgap of 1.96 eV and a high hole mobility of 0.16 cm² V⁻¹ s⁻¹ in organic field-effect transistors (OFETs).",
+      "evidence": "HD-PDFC-DTBT shows a large bandgap of 1.96 eV and a high hole mobility of 0.16 cm2 V−1 s−1.",
+      "complexity": "single-hop",
+      "keywords": [
+        "bandgap",
+        "hole mobility",
+        "OFET"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Inverted polymer solar cells based on HD-PDFc-DTBT:PC71BM (1:3 weight ratio) achieved a power conversion efficiency (PCE) of 7.39% with a Voc of 0.93 V, a Jsc of 14.11 mA cm⁻², and an FF of 0.56.",
+      "evidence": "When C-PCBSD was used as the interfacial layer, the PCE was further enhanced to 7.39% with a Voc of 0.93 V, a Jsc of 14.11 mA cm−2, and an FF of 0.56.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "Voc",
+        "Jsc",
+        "fill factor",
+        "PC71BM"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The hole mobility of HD-PDFc-DTBT (0.16 cm² V⁻¹ s⁻¹) is approximately 50 times higher than that of its lower molecular weight analog, O-PDFC-DTBT (3.1 × 10⁻³ cm² V⁻¹ s⁻¹), which is attributed to the increased molecular weight.",
+      "evidence": "HD-PDFC-DTBT film exhibited a very promising p-type transistor performance, with saturated charge carrier mobilities up to 0.16 cm2 V−1 s−1 observed, a factor of 50 larger than the mobility obtained from O-PDFC-DTBT film (3.1 × 10−3 cm2 V−1 s−1).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "molecular weight",
+        "hole mobility",
+        "charge transport"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The use of a cross-linked fullerene derivative, C-PCBSD, as an interfacial electron-transfer layer between the ZnO and the active layer increases the PCE of HD-PDFc-DTBT devices from 6.95% to 7.39%.",
+      "evidence": "The cross-linking C-PCBSD film can be used as an interfacial material as an electron-transfer layer between the active layer and ZnO, which can significantly improve the performance of PSCs. When C-PCBSD was used as the interfacial layer, the PCE was further enhanced to 7.39%.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "C-PCBSD",
+        "interfacial layer",
+        "inverted device",
+        "electron transfer"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "UV-vis absorption spectra of HD-PDFc-DTBT in chlorobenzene show strong aggregation at room temperature, indicated by well-resolved peaks at 534 and 573 nm, which disappear and blue-shift to a single peak at 524 nm when heated to 80 °C.",
+      "evidence": "When the polymer solution was heated to 80 °C, the absorption spectrum was markedly blue-shifted, and the two well-resolved peaks in the low-energy region disappeared and a new featureless broad absorption peak appeared at 524 nm... the polymer chains of HD-PDFC-DTBT formed a strong aggregation in solution at room temperature.",
+      "complexity": "single-hop",
+      "keywords": [
+        "UV-vis spectroscopy",
+        "aggregation",
+        "temperature-dependent absorption"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Optimal device performance for HD-PDFc-DTBT:PC71BM was achieved using 1,2-dichlorobenzene (DCB) as the processing solvent without the need for processing additives.",
+      "evidence": "Figure 3 shows the best device performance with a blend film of HD-PDFC-DTBT:PC71BM in an optimal weight ratio of 1:3 spin-coated from DCB solution as the active layer... It is worth noting that the good performance was achieved without using any processing additive.",
+      "complexity": "single-hop",
+      "keywords": [
+        "processing solvent",
+        "dichlorobenzene",
+        "additives",
+        "fabrication"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Transmission electron microscopy (TEM) of the HD-PDFc-DTBT:PC71BM blend films reveals an interpenetrated bicontinuous network that facilitates efficient exciton dissociation and charge transport with low recombination.",
+      "evidence": "TEM image suggests that interpenetrated networks for electron and hole transport have been formed. Such ideal interpenetrating network would provide a suitable interface between the polymer and the PC71BM and ensure efficient exciton dissociation.",
+      "complexity": "single-hop",
+      "keywords": [
+        "TEM",
+        "morphology",
+        "bicontinuous network",
+        "exciton dissociation"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Fluorination of the carbazole unit in HD-PDFc-DTBT results in deeper HOMO (-5.32 eV) and LUMO (-3.30 eV) energy levels compared to non-fluorinated analogs, which contributes to a high open-circuit voltage (Voc) in solar cell devices.",
+      "evidence": "HOMO energy level of HD-PDFC-DTBT was calculated to be −5.32 eV... LUMO energy level of HD-PDFC-DTBT was calculated to be −3.30 eV... It is apparent that the fluoro-substituted polymers are of deeper HOMO and LUMO energy levels than the corresponding nonfluorosubstituted polymers, which is beneficial to achieving high Voc for devices.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "fluorination",
+        "HOMO",
+        "LUMO",
+        "Voc"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 11370,
+    "completion_tokens": 3006,
+    "total_tokens": 14376
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "paper_id": "d1tc03197j",
+  "paper_title": "A donor–acceptor liganded metal–organic framework showcases the hydrogen-bondenhanced sensing of N-heterocyclic explosives",
+  "qa_pairs": [
+    {
+      "question": "What are the specific chemical precursors and reaction conditions used to synthesize ZnMOF-1?",
+      "answer": "ZnMOF-1 is synthesized through a one-step solvothermal condensation using Zn(NO3)2·6H2O, biphenyl-4,4'-dicarboxylic acid (H2BPDC), and the donor-acceptor ligand 2,7-di(pyridin-4-yl)-9H-fluoren-9-one (DPyF). These components are mixed in a 2:2:1 molar ratio in N,N-dimethylformamide (DMF) and reacted at 100 °C for 48 hours, resulting in a yield of over 78%.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "A donor–acceptor liganded metal–organic framework showcases the hydrogen-bondenhanced sensing of N-heterocyclic explosives",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Describe the structural architecture and pore characteristics of the ZnMOF-1 framework.",
+      "answer": "ZnMOF-1 features a 3-fold interpenetrating 3D framework constructed from Zn2(-COO)4(-Py)2 pillared paddlewheel secondary building units (SBUs). This arrangement creates 1D channels with cross-sectional dimensions of approximately 5.3 Å × 15.1 Å, a calculated BET surface area of 670 m² g⁻¹, and an experimental pore volume of 0.41 cm³ g⁻¹.",
+      "category": "Structure-Property Relationships",
+      "source_title": "A donor–acceptor liganded metal–organic framework showcases the hydrogen-bondenhanced sensing of N-heterocyclic explosives",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "How does the sensitivity of ZnMOF-1 toward TriazFOX compare to its sensitivity toward traditional nitrobenzene?",
+      "answer": "ZnMOF-1 is significantly more sensitive to the N-heterocyclic explosive TriazFOX than to traditional nitroaromatic compounds. This is evidenced by a fluorescence quenching constant (Ks) of 3.22 × 10^4 M⁻¹ for TriazFOX, which is more than an order of magnitude higher than the Ks for nitrobenzene (1.14 × 10^3 M⁻¹).",
+      "category": "Performance Metrics",
+      "source_title": "A donor–acceptor liganded metal–organic framework showcases the hydrogen-bondenhanced sensing of N-heterocyclic explosives",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What are the limits of detection (LOD) for the N-heterocyclic explosives TriazFOX and TetrazFOX using ZnMOF-1?",
+      "answer": "ZnMOF-1 achieves a very low limit of detection for these explosives, specifically 0.14 ppm for TriazFOX and 0.32 ppm for TetrazFOX.",
+      "category": "Performance Metrics",
+      "source_title": "A donor–acceptor liganded metal–organic framework showcases the hydrogen-bondenhanced sensing of N-heterocyclic explosives",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Why does ZnMOF-1 exhibit weak photoluminescence in protic solvents like water and methanol compared to acetonitrile?",
+      "answer": "The photoluminescence intensity of ZnMOF-1 is solvent-dependent because protic solvents like water and methanol suppress the intramolecular hydrogen bonds within the MOF framework. In contrast, the MOF shows its strongest emission in acetonitrile (MeCN) where these bonds are not suppressed.",
+      "category": "Processing & Fabrication",
+      "source_title": "A donor–acceptor liganded metal–organic framework showcases the hydrogen-bondenhanced sensing of N-heterocyclic explosives",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Based on DFT calculations, why does TriazFOX have a higher binding energy with ZnMOF-1 than 1,4-dinitrobenzene?",
+      "answer": "TriazFOX exhibits a higher binding energy (-0.77 eV) because it forms synergetic hydrogen bonds and dipole-dipole interactions with the ZnMOF-1 framework. In contrast, 1,4-dinitrobenzene (1,4-DNB) has a lower binding energy (-0.70 eV) because it interacts with the framework primarily through weaker π-π interactions.",
+      "category": "Computational & Machine Learning",
+      "source_title": "A donor–acceptor liganded metal–organic framework showcases the hydrogen-bondenhanced sensing of N-heterocyclic explosives",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What is the primary mechanism responsible for the fluorescence quenching of ZnMOF-1 in the presence of N-heterocyclic explosives?",
+      "answer": "The fluorescence quenching is primarily attributed to strong host-guest interactions, specifically hydrogen bonding and dipole-dipole interactions between the MOF and the explosives. Experimental evidence suggests that this mechanism is dominant over alternative processes like electron transfer or energy transfer.",
+      "category": "Device Architecture & Physics",
+      "source_title": "A donor–acceptor liganded metal–organic framework showcases the hydrogen-bondenhanced sensing of N-heterocyclic explosives",
+      "difficulty": "hard",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How do the dipole moments of the DPyF ligand and the target explosives contribute to the sensing performance of ZnMOF-1?",
+      "answer": "The DPyF ligand in ZnMOF-1 possesses a significant dipole moment of 4.125 Debye, which enables strong dipole-dipole interactions with target explosives that have even higher dipole moments, such as TriazFOX (6.598 Debye) and TetrazFOX (6.646 Debye). These strong interactions facilitate the high sensitivity and effective quenching observed in the sensing process.",
+      "category": "Structure-Property Relationships",
+      "source_title": "A donor–acceptor liganded metal–organic framework showcases the hydrogen-bondenhanced sensing of N-heterocyclic explosives",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2695,
+    "completion_tokens": 2701,
+    "total_tokens": 5396
+  }
+}

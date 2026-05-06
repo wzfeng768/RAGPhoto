@@ -1,0 +1,157 @@
+{
+  "paper_id": "Adv_Materials_Inter_-_2016_-_Yu_-_A_RoomTemperature_Processable_PDIBased_ElectronTransporting_Layer_",
+  "paper_title": "A Room-Temperature Processable PDI-Based Electron-Transporting Layer for Enhanced Performance in PDI-Based Non-Fullerene Solar Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Adv Materials Inter - 2016 - Yu - A Room‐Temperature Processable PDI‐Based Electron‐Transporting Layer for Enhanced/auto/Adv Materials Inter - 2016 - Yu - A Room‐Temperature Processable PDI‐Based Electron‐Transporting Layer for Enhanced.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "PDIN is an amine-functionalized perylene-diimide derivative featuring two alkylamino side-chains that provide self-doping characteristics in the solid state.",
+      "evidence": "the PDIN with two alkylamino side-chains are soluble in alcohol/acetic acid and can serve as an efficient bottom ETL for improving the photovoltaic performance of inverted PDI-based OPVs because of its self-doping characteristics in solid-state film",
+      "complexity": "single-hop",
+      "keywords": [
+        "PDIN",
+        "perylene-diimide",
+        "amine-functionalized",
+        "self-doping"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "PDIN exhibits limited solubility in pure methanol (< 0.1 mg/mL) but becomes highly soluble and film-forming upon the addition of 0.4% acetic acid by volume.",
+      "evidence": "the solubility of PDIN in methanol is very limited (< 0.1 mg mL−1). However, when acetic acid (0.4% in volume, herein) was added in methanol its solubility was significantly increased to result in better film formation and proper thickness.",
+      "complexity": "single-hop",
+      "keywords": [
+        "solubility",
+        "methanol",
+        "acetic acid",
+        "processing"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "PDIN films become resistant to common organic solvents (toluene, chlorobenzene, DCB) and methanol after storage in ambient conditions overnight due to the evaporation of residual acetic acid.",
+      "evidence": "The PDIN films after being stored in ambient overnight possess good solvent resistance against common organic solvents... Interestingly, it also has good resistance to methanol because the evaporation of acetic acid after stored in ambient overnight reversed PDIN to its original low solubility in methanol.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "solvent resistance",
+        "orthogonal solvent",
+        "acetic acid",
+        "evaporation"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Inverted PTB7-Th:B-DIPDI solar cells using a PDIN ETL achieve a power conversion efficiency (PCE) of 6.14%, representing a 10% increase over the 5.52% PCE of the reference ZnO-based device.",
+      "evidence": "the ZnO-based reference device shows a decent PCE of 5.52%... when PDIN was used as the ETL to replace the ZnO, the derived device yielded a 10% enhancement in PCE to reach 6.14%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "PTB7-Th",
+        "B-DIPDI",
+        "PDIN",
+        "ZnO"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "A bilayer ETL consisting of ZnO modified with PDIN (ZnO/PDIN) achieves a PCE of 6.29%, which is a ~14% improvement over the pristine ZnO-based device.",
+      "evidence": "the PCE of this ZnO/PDIN-based device can further increase to 6.29%, representing a ≈14% enhancement compared to the pristine ZnO-based device.",
+      "complexity": "single-hop",
+      "keywords": [
+        "bilayer ETL",
+        "PCE",
+        "ZnO/PDIN",
+        "surface modification"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The use of PDIN as an ETL increases the electron mobility of the device to 1.8 x 10^-4 cm^2 V^-1 s^-1 (for PDIN) and 4.1 x 10^-4 cm^2 V^-1 s^-1 (for ZnO/PDIN), compared to 9.6 x 10^-5 cm^2 V^-1 s^-1 for a ZnO ETL.",
+      "evidence": "the μe of the devices using PDIN and ZnO/PDIN ETLs is higher than that of the ZnO-based device... (Table 1: 9.6E-05 for ZnO, 1.8E-04 for PDIN, 4.1E-04 for ZnO/PDIN)",
+      "complexity": "multi-hop",
+      "keywords": [
+        "electron mobility",
+        "SCLC",
+        "charge transport",
+        "PDIN"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "PDIN ETLs reduce bimolecular recombination and interfacial trap-assisted recombination in PDI-based solar cells, as indicated by a power law exponent (alpha) closer to 1 (0.902-0.913) and a smaller Voc-light intensity slope at low intensities.",
+      "evidence": "the fitted slope (α) by the power law is 0.895, 0.902, and 0.913 for the ZnO-, PDIN-, and ZnO/PDIN-based device... result clearly shows that the PDIN ETL can effectively alleviate interfacial trap-assisted recombination in device",
+      "complexity": "multi-hop",
+      "keywords": [
+        "recombination",
+        "bimolecular recombination",
+        "trap-assisted recombination",
+        "light intensity dependence"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Steady-state photoluminescence (PL) quenching is more pronounced for PTB7-Th:B-DIPDI films on PDIN compared to ZnO, and the PL lifetime is reduced from 1.70 ns on ZnO to less than 0.4 ns on PDIN.",
+      "evidence": "BHJ film grown on ZnO ETL possesses a PL lifetime of 1.70 ns and it is further reduced to < 0.4 ns when PDIN is used as the ETL. The shorter PL lifetime also verifies the more efficient charge transfer between the BHJ/PDIN interface",
+      "complexity": "multi-hop",
+      "keywords": [
+        "photoluminescence quenching",
+        "PL lifetime",
+        "charge transfer",
+        "time-correlated single photo counting"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "PDIN ETLs modulate the PTB7-Th:B-DIPDI active layer morphology to be smoother, reducing the root-mean-squared (RMS) surface roughness from 1.54 nm (on ZnO) to 0.82 nm.",
+      "evidence": "a more homogeneous and smoother surface morphology can also be observed in the BHJ film grown on PDIN than ZnO layer, wherein the RMS surface roughness of PDIN and ZnO samples is 0.82 and 1.54 nm respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "AFM",
+        "surface roughness",
+        "morphology",
+        "RMS"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS characterization reveals that PDIN ETLs promote a crystalline face-on orientation of polymer chains in the PTB7-Th:B-DIPDI layer, evidenced by a higher intensity lamellar correlation peak in the in-plane direction compared to the out-of-plane direction.",
+      "evidence": "PTB7-Th film grown on PDIN layer (Figure 5d) exhibits a higher intensity lamellar correlation peak along the in-plane direction than along the out-of-plane direction. This suggests that there is significant orientation of the polymer chains in a face-on configuration.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "GIWAXS",
+        "face-on orientation",
+        "crystallinity",
+        "lamellar peak"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "PDIN ETLs demonstrate thickness-insensitivity, maintaining a PCE of approximately 6% even when the layer thickness is increased to 25 nm.",
+      "evidence": "The derived device can maintain a PCE of ≈6% when the thickness of PDIN ETL is increased to ≈25 nm... Both the PDIN and ZnO/PDIN ETLs can preserve the high FF of the derived devices despite their increased thickness.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thickness tolerance",
+        "large-area manufacturing",
+        "fill factor",
+        "PCE"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The PDIN ETL improves device performance by increasing the shunt resistance (Rp) and decreasing the reverse saturation current density (J0), which enhances charge selectivity and reduces recombination losses.",
+      "evidence": "Both the increased RP (from 90.6 kΩ cm2 for ZnO to 171.5 kΩ cm2 for PDIN...) and decreased J0 (from 1.8 × 10−8 mA cm−2 (ZnO) to 3.8 × 10−9 mA cm−2 (PDIN)...) affirm that the PDIN ETL can effectively enhance both electron transport and selectivity",
+      "complexity": "single-hop",
+      "keywords": [
+        "shunt resistance",
+        "saturation current density",
+        "charge selectivity",
+        "diode parameters"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 11849,
+    "completion_tokens": 4309,
+    "total_tokens": 16158
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "paper_id": "Adv_Funct_Materials_-_2023_-_Peng_-_RealTime_Probing_and_Unraveling_the_Morphology_Formation_of_Blad",
+  "paper_title": "Real-Time Probing and Unraveling the Morphology Formation of Blade-Coated Ternary Nonfullerene Organic Photovoltaics with In Situ X-Ray Scattering",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Adv Funct Materials - 2023 - Peng - Real‐Time Probing and Unraveling the Morphology Formation of Blade‐Coated Ternary/auto/Adv Funct Materials - 2023 - Peng - Real‐Time Probing and Unraveling the Morphology Formation of Blade‐Coated Ternary.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The ternary organic solar cell system utilizes PM6 as the host polymer donor, N3 as the small molecule non-fullerene acceptor, and N2200 as a third-component polymer acceptor.",
+      "evidence": "In situ ultraviolet-visible (UV-vis) spectroscopy... to probe the morphology development of a high-efficiency ternary blend PM6:N3:N2200.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PM6",
+        "N3",
+        "N2200",
+        "ternary blend",
+        "non-fullerene acceptor"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The power conversion efficiency (PCE) of both binary (PM6:N3) and ternary (PM6:N3:N2200) blade-coated devices reaches its maximum at a coating speed of 20 mm/s.",
+      "evidence": "We found that the PCE increased first and then decreased with increasing coating speed, and the devices at 20 mm/s exhibited optimal photovoltaic characteristics.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "coating speed",
+        "photovoltaic performance",
+        "optimization"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The introduction of 10 wt.% N2200 into the PM6:N3 blend improves the open-circuit voltage (VOC) because the LUMO level of N2200 is slightly higher than that of N3.",
+      "evidence": "The improvement in VOC is ascribed to the slightly higher LUMO level of N2200 than N3... the optimized composition of N2200 in the ternary blend was determined to be 10 wt.% of the acceptor component.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "VOC",
+        "LUMO",
+        "energy level alignment",
+        "N2200"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "In situ GIWAXS identifies four stages of the blade-coating drying process: (I) dissolved state, (II) nucleation and growth, (III) solvent swollen state, and (IV) glassy state.",
+      "evidence": "As described in Figure 5a-h, there were four stages of the drying process, which are labeled with four different colors. Those stages comprise (I) dissolved state, (II) nucleation and growth, (III) solvent swollen state, and (IV) glassy state.",
+      "complexity": "single-hop",
+      "keywords": [
+        "in situ GIWAXS",
+        "drying stages",
+        "morphology evolution",
+        "nucleation"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The thickness of blade-coated PM6:N3:N2200 films increases monotonically with coating speeds from 5 to 40 mm/s, indicating the process operates in the Landau-Levich regime.",
+      "evidence": "In our study, the thickness of the blend films increased monotonically with the increase of the coating speed (from 5 to 40 mm/s) indicating that they are all in the Landau-Levich regime.",
+      "complexity": "single-hop",
+      "keywords": [
+        "blade coating",
+        "Landau-Levich regime",
+        "film thickness",
+        "coating speed"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The ternary blend PM6:N3:N2200 exhibits longer molecular $\\pi-\\pi$ stacking coherence lengths (CLs) compared to the binary PM6:N3 blend, facilitating better charge transport.",
+      "evidence": "the CLs of PM6 and N3 are larger in the ternary blends than in the binary blends, suggesting that the introduction of N2200 can further improve the order of molecular π-π stacking.",
+      "complexity": "single-hop",
+      "keywords": [
+        "coherence length",
+        "pi-pi stacking",
+        "charge transport",
+        "molecular order"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Chlorobenzene is selected as the processing solvent for blade coating because its high boiling point and slow evaporation rate allow for detailed real-time monitoring of morphology evolution.",
+      "evidence": "Chlorobenzene was chosen as the solvent in this work because it is a commonly used solvent with a high boiling point and slow solvent volatilization, which is conducive to the use of in situ characterization methods.",
+      "complexity": "single-hop",
+      "keywords": [
+        "chlorobenzene",
+        "solvent selection",
+        "evaporation rate",
+        "in situ characterization"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The relative number of face-on orientations ($rDoC^*$) in the blend films is maximized at a coating speed of 20 mm/s due to a larger relative degree of crystallinity (rDoC).",
+      "evidence": "the blend films at this coating speed had the most significant relative number of face-on orientations due to the larger rDoC.",
+      "complexity": "single-hop",
+      "keywords": [
+        "rDoC",
+        "face-on orientation",
+        "GIWAXS",
+        "crystallinity"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The characteristic phase separation size scale of the ternary blend at the optimal 20 mm/s coating speed is approximately 11 nm, which is smaller than the ~14 nm observed in the binary blend.",
+      "evidence": "When the coating speed was 20 mm/s, the characteristic size scale (≈11 nm) of the ternary blend was smaller than that of the binary blend (≈14 nm).",
+      "complexity": "single-hop",
+      "keywords": [
+        "phase separation",
+        "domain size",
+        "TEM",
+        "morphology"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "In situ UV-vis absorption measurements reveal that adding N2200 causes PM6 and N3 to aggregate and crystallize simultaneously across all coating speeds, balancing the nucleation process.",
+      "evidence": "For the ternary blend, the start time of 0-0 peak red shift of PM6 was the same as that of N3 at all coating speeds, suggesting that PM6 and N3 aggregated and crystallized simultaneously. These results represent that the addition of N2200 could balance the crystallization of PM6 and N3.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "UV-vis absorption",
+        "aggregation kinetics",
+        "nucleation",
+        "ternary strategy"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GISAXS analysis shows that the introduction of N2200 reduces the acceptor domain size from 32 nm in the binary blend to 30 nm in the ternary blend.",
+      "evidence": "the domain size of the acceptor of the ternary blends (30 nm) is smaller than that of the binary blends (32 nm), representing that the introduction of N2200 can minish the acceptor domain.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GISAXS",
+        "domain size",
+        "acceptor aggregation",
+        "phase separation"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The presence of N2200 leads to the formation of thick fiber structures in the active layer, as observed in AFM and TEM imaging, compared to the fine fibers in the binary PM6:N3 blend.",
+      "evidence": "The AFM height and phase images... showed that the ternary blend films exhibited apparent thick fibers and the binary blend films had fine fibers... which was attributed to the fiber structures of N2200.",
+      "complexity": "single-hop",
+      "keywords": [
+        "AFM",
+        "TEM",
+        "fiber structure",
+        "N2200 morphology"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 12716,
+    "completion_tokens": 3059,
+    "total_tokens": 15775
+  }
+}

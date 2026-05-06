@@ -1,0 +1,75 @@
+{
+  "paper_id": "c7tc01310h",
+  "paper_title": "Terminal π–π stacking determines three-dimensional molecular packing and isotropic charge transport in an A–π–A electron acceptor for non-fullerene organic solar cells",
+  "qa_pairs": [
+    {
+      "question": "What is the molecular architecture and composition of the electron acceptor ITIC?",
+      "answer": "ITIC is a fused-ring electron acceptor (FREA) that utilizes an A-π-A molecular architecture. This structure consists of a central fused-ring backbone flanked by terminal indenedione (IC) acceptor units.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Terminal π–π stacking determines three-dimensional molecular packing and isotropic charge transport in an A–π–A electron acceptor for non-fullerene organic solar cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Describe the molecular packing arrangement found in ITIC single crystals.",
+      "answer": "The ITIC single crystal exhibits a one-dimensional edge-to-face stacking structure. In this arrangement, two nonequivalent molecules (A and B) alternate along the b crystallographic axis, with the backbone edge of one molecule embedded between the pendant phenyl groups of the adjacent molecule.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Terminal π–π stacking determines three-dimensional molecular packing and isotropic charge transport in an A–π–A electron acceptor for non-fullerene organic solar cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Why does ITIC form 3D molecular packing in thin films rather than backbone-to-backbone π–π stacking?",
+      "answer": "In ITIC thin films, 3D molecular packing is driven by local π–π stacking between the terminal IC acceptor units. Stacking between the fused-ring backbones is inhibited by the large steric hindrance created by the four alkyl phenyl groups attached to the backbone.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Terminal π–π stacking determines three-dimensional molecular packing and isotropic charge transport in an A–π–A electron acceptor for non-fullerene organic solar cells",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "How does the electron mobility of ITIC thin films compare to its single-crystal form, and what is the nature of charge transport in each?",
+      "answer": "The electron mobility of ITIC in thin films is approximately 1.46 × 10⁻³ cm² V⁻¹ s⁻¹, which is nearly double the mobility of its single-crystal form (7.4 × 10⁻⁴ cm² V⁻¹ s⁻¹). Furthermore, thin films exhibit isotropic charge transport across three dimensions, whereas single crystals show highly anisotropic transport primarily along the b-axis.",
+      "category": "Performance Metrics",
+      "source_title": "Terminal π–π stacking determines three-dimensional molecular packing and isotropic charge transport in an A–π–A electron acceptor for non-fullerene organic solar cells",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What specific evidence from radial distribution function (RDF) analysis confirms the π–π stacking distance in ITIC films?",
+      "answer": "Radial distribution function (RDF) analysis of simulated ITIC films shows a distinct peak at approximately 0.37 nm for the center-of-mass of the terminal IC groups. This specific peak confirms the presence of local π–π stacking between these terminal units.",
+      "category": "Characterization Methods",
+      "source_title": "Terminal π–π stacking determines three-dimensional molecular packing and isotropic charge transport in an A–π–A electron acceptor for non-fullerene organic solar cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Compare the electronic coupling values of the terminal IC-IC stacks in ITIC films to the dominant packing mode in ITIC crystals.",
+      "answer": "The average electronic coupling for terminal IC-IC π–π stacks in ITIC films is 18.4 meV. This is significantly higher than the 10.8 meV coupling observed in the dominant packing mode (P_AB) of the ITIC single crystal.",
+      "category": "Computational & Machine Learning",
+      "source_title": "Terminal π–π stacking determines three-dimensional molecular packing and isotropic charge transport in an A–π–A electron acceptor for non-fullerene organic solar cells",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the thin-film electron mobility of the non-fullerene acceptor ITIC compare to the fullerene derivative PC71BM?",
+      "answer": "The fullerene derivative PC71BM exhibits a higher thin-film electron mobility of approximately 6.6 × 10⁻³ cm² V⁻¹ s⁻¹ compared to the non-fullerene acceptor ITIC, which has a mobility of approximately 1.46 × 10⁻³ cm² V⁻¹ s⁻¹.",
+      "category": "Performance Metrics",
+      "source_title": "Terminal π–π stacking determines three-dimensional molecular packing and isotropic charge transport in an A–π–A electron acceptor for non-fullerene organic solar cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What molecular design strategy is suggested to enhance the electron mobility of A-π-A fused-ring electron acceptors like ITIC?",
+      "answer": "To improve electron mobility, it is necessary to finely tune the terminal acceptor units to increase local intermolecular π–π interactions. A key part of this strategy is to enhance the LUMO distribution on these terminal units to increase the resulting electronic coupling in the π–π stacks.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Terminal π–π stacking determines three-dimensional molecular packing and isotropic charge transport in an A–π–A electron acceptor for non-fullerene organic solar cells",
+      "difficulty": "hard",
+      "reasoning_type": "single-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2695,
+    "completion_tokens": 3119,
+    "total_tokens": 5814
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "paper_id": "Advanced_Materials_-_2012_-_Fu_-_Intermixing_at_the_PentaceneFullerene_Bilayer_Interface_A_Molecular",
+  "paper_title": "Intermixing at the Pentacene-Fullerene Bilayer Interface: A Molecular Dynamics Study",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Materials - 2012 - Fu - Intermixing at the Pentacene‐Fullerene Bilayer Interface  A Molecular Dynamics Study/auto/Advanced Materials - 2012 - Fu - Intermixing at the Pentacene‐Fullerene Bilayer Interface  A Molecular Dynamics Study.md",
+  "knowledge_points": [
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Pentacene and C60 molecules exhibit significantly stronger binding when the pentacene face is parallel to the C60 cage (-9.44 kcal/mol) compared to a perpendicular orientation (-2.27 kcal/mol).",
+      "evidence": "The calculations indicate... that pentacene and C60 are more strongly bound when the pentacene face is parallel with the C60 cage (-9.44 kcal/mol [0.41 eV]... vs. perpendicular (-2.27 kcal/mol and -2.40 kcal/mol).",
+      "complexity": "single-hop",
+      "keywords": [
+        "binding energy",
+        "pentacene",
+        "C60",
+        "molecular orientation"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "C60 preferentially adsorbs onto the pentacene (010) face with a cohesive energy of 33.5 ± 2 kcal/mol (1.45 eV), which is nearly double the cohesive energy on the (001) face (18.9 ± 2 kcal/mol or 0.82 eV).",
+      "evidence": "We find that C60 preferentially binds to the pentacene (010) face (33.5 ± 2 kcal/mol [1.45 ± 0.09 eV] vs. the (001) face (18.9 ± 2 kcal/mol [0.82 ± 0.09 eV])).",
+      "complexity": "single-hop",
+      "keywords": [
+        "adsorption energy",
+        "cohesive energy",
+        "crystal face",
+        "fullerene"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The calculated surface energy for the pentacene (001) face is 53.0 mJ/m², while the (010) face is significantly higher at 91.8 mJ/m².",
+      "evidence": "For pentacene, the surface energies for the (001) and (010) are 53.0 and 91.8 mJ/m2, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "surface energy",
+        "pentacene",
+        "crystal planes"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Atomistic molecular dynamics simulations of the pentacene-C60 interface utilize the MM3 force field within an NVT ensemble, maintaining a temperature of 298 K and pressure of 1 atm.",
+      "evidence": "Our atomistic MD simulations are based on the MM3 force field... The simulations were carried out under the NVT ensemble... with temperature (298 K) and pressure (1 atm) maintained by the Berendsen thermostat and barostat.",
+      "complexity": "single-hop",
+      "keywords": [
+        "molecular dynamics",
+        "MM3 force field",
+        "NVT ensemble",
+        "simulation parameters"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Deposition of C60 on the pentacene (010) surface leads to a 'burrowing' effect where fullerenes displace pentacene molecules, resulting in an intermixed and disordered interface rather than a planar bilayer.",
+      "evidence": "The fullerenes tend to sit in the middle portion of the pentacene molecules and eventually 'burrow' or displace the pentacene molecules in the upper layer(s)... this leads to interfacial disorder and intermixing within the top pentacene layer.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "intermixing",
+        "burrowing effect",
+        "interface morphology",
+        "disorder"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "On the pentacene (001) surface, C60 molecules arrange themselves in the divots between upright pentacene molecules and form a hexagonal closed pack (hcp) configuration.",
+      "evidence": "For pentacene (001), the presence of C60 leads to a structural change of the top layer. The fullerenes position themselves in the divots between the pentacene molecules... the first fullerene layer takes on the hexagonal closed pack (hcp) configuration.",
+      "complexity": "single-hop",
+      "keywords": [
+        "hcp packing",
+        "pentacene (001)",
+        "molecular arrangement"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The presence of terraced or stepped surfaces in pentacene films increases the degree of disorder and interdiffusion with C60, disrupting the underlying molecular packing of pentacene layers.",
+      "evidence": "For the steps created in the pristine (010) interface [S3 and S4], the degree of disorder and interdiffusion is even larger... There is also disruption of the molecular packing of the pentacene layers underneath the exposure.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "terraced surfaces",
+        "interdiffusion",
+        "molecular packing",
+        "stepped surfaces"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Similarity in surface energies between the donor and acceptor lattices is a predictor for stronger interfacial interactions; C60 (surface energy ~88-98 mJ/m²) interacts more strongly with the pentacene (010) face (91.8 mJ/m²) than the (001) face (53.0 mJ/m²).",
+      "evidence": "stronger interfacial interactions between lattices can be expected when the surface energies are most similar... we anticipate that C60 interacts more strongly with the pentacene (010) surface than the (001) surface, given their more similar surface energies.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "surface energy matching",
+        "interfacial interactions",
+        "lattice matching"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Interfacial packing configurations and the 'rough' versus 'smooth' nature of the donor-acceptor interface can cause the rates of exciton dissociation and charge recombination to vary by several orders of magnitude.",
+      "evidence": "the rates of exciton dissociation, charge separation, and charge recombination can vary over several orders of magnitude depending on the interfacial packing configurations... also, the rough (i.e., intermixed) or smooth (i.e., clean) character of the interface has been shown to influence substantially the overall power conversion efficiency.",
+      "complexity": "single-hop",
+      "keywords": [
+        "exciton dissociation",
+        "charge recombination",
+        "interface roughness",
+        "PCE"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The center-of-mass distance for hcp-arranged C60 on a pentacene (001) surface is 9.87 ± 0.17 Å, which is a less than 2% deviation from the pure C60 crystal value of 10.05 ± 0.25 Å.",
+      "evidence": "we note that the center-of-mass distances for the hcp C60 on the pentacene (001) surface (9.87 ± 0.17 A) differ by less than 2% with respect to the pure C60 crystal (10.05 ± 0.25 Å).",
+      "complexity": "single-hop",
+      "keywords": [
+        "center-of-mass distance",
+        "lattice constant",
+        "C60 crystal"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 10067,
+    "completion_tokens": 3658,
+    "total_tokens": 13725
+  }
+}

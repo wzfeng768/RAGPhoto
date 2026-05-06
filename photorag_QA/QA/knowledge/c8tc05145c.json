@@ -1,0 +1,152 @@
+{
+  "paper_id": "c8tc05145c",
+  "paper_title": "New anthracene derivatives integrating high mobility and strong emission",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/c8tc05145c/auto/c8tc05145c.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Two new anthracene derivatives, 2-(anthracen-2-yl)-5-phenylthiophene (Ant-Th-Ph) and 2-(anthracen-2-yl)benzo[b]thiophene (Ant-ThPh), were synthesized to integrate high mobility and strong solid-state emission.",
+      "evidence": "In this context, we report two anthracene derivatives 2-(anthracen-2-yl)-5-phenylthiophene and 2-(anthracen-2-yl)benzo[b]thiophene (Ant-Th-Ph and Ant-ThPh in Scheme 1).",
+      "complexity": "single-hop",
+      "keywords": [
+        "Ant-Th-Ph",
+        "Ant-ThPh",
+        "anthracene derivatives",
+        "molecular design"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The single-crystal field-effect transistor mobility of Ant-Th-Ph and Ant-ThPh reached 1.1 cm² V⁻¹ s⁻¹ and 4.7 cm² V⁻¹ s⁻¹, respectively.",
+      "evidence": "Ant-Th-Ph and Ant-ThPh show high single crystal mobilities of 1.1 cm² V⁻¹ s⁻¹ and 4.7 cm² V⁻¹ s⁻¹.",
+      "complexity": "single-hop",
+      "keywords": [
+        "single crystal mobility",
+        "Ant-Th-Ph",
+        "Ant-ThPh",
+        "carrier mobility"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The photoluminescence quantum yield (PLQY) for single crystals of Ant-Th-Ph and Ant-ThPh was measured at 36.52% and 33.32%, respectively.",
+      "evidence": "Moreover, strong solid state emission was determined to be 36.52% and 33.32% for Ant-Th-Ph and Ant-ThPh respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PLQY",
+        "solid state emission",
+        "photoluminescence",
+        "quantum yield"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The highest occupied molecular orbital (HOMO) levels for Ant-Th-Ph and Ant-ThPh are -5.50 eV and -5.57 eV, respectively, calculated from onset oxidation potentials.",
+      "evidence": "the highest occupied molecular orbital level (HOMO) of Ant-Th-Ph and Ant-ThPh can be calculated to be -5.50 eV and -5.57 eV respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "HOMO",
+        "oxidation potential",
+        "energy level engineering"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Both Ant-Th-Ph and Ant-ThPh exhibit J-aggregation in the solid state, evidenced by a bathochromic shift in absorption spectra and an increased ratio of the first vibration peak intensity compared to the second.",
+      "evidence": "Comparing the curve of the solid powder with the curve in solution using dichloromethane (DCM), both materials show an obvious bathochromic shift. Moreover, an increased ratio of the first vibration peak intensity compared with the second one was observed, suggesting J-aggregation formation in the solid.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "J-aggregation",
+        "bathochromic shift",
+        "vibronic peaks",
+        "solid state packing"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Thin films of Ant-Th-Ph and Ant-ThPh (approximately 40 nm thick) were prepared using vapor deposition on OTS-modified SiO2/Si substrates for OFET fabrication.",
+      "evidence": "Thin-films of Ant-Th-Ph and Ant-ThPh of about 40 nm in thickness were prepared by vapour deposition... on OTS (octadecyltrichlorosilane) modified SiO2/Si substrates.",
+      "complexity": "single-hop",
+      "keywords": [
+        "vapor deposition",
+        "OTS modification",
+        "thin-film fabrication"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Single crystals of Ant-Th-Ph and Ant-ThPh were grown using Physical Vapor Transport (PVT) in a two-zone horizontal tube furnace with argon as the carrier gas.",
+      "evidence": "Single crystals of Ant-Th-Ph and Ant-ThPh were grown by sublimation with a tube furnace... A two-zone horizontal tube furnace was employed for PVT... High-purity argon was used as the carrier gas.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Physical Vapor Transport",
+        "PVT",
+        "single crystal growth",
+        "sublimation"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "In thin-film OFET devices, Ant-Th-Ph and Ant-ThPh exhibited mobilities of 0.2 cm² V⁻¹ s⁻¹ and 0.24 cm² V⁻¹ s⁻¹, with current on/off ratios of 5.12 × 10^8 and 1.43 × 10^8, respectively.",
+      "evidence": "we can calculate a mobility as high as 0.2 cm² V⁻¹ s⁻¹ and the current on/off ratio to be 5.12 × 10^8 [for Ant-Th-Ph]... calculate a mobility as high as 0.24 cm² V⁻¹ s⁻¹ and the current on/off ratio to be 1.43 × 10^8 [for Ant-ThPh].",
+      "complexity": "multi-hop",
+      "keywords": [
+        "thin-film mobility",
+        "on/off ratio",
+        "OFET performance"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Ant-Th-Ph and Ant-ThPh show high thermal stability with sublimation temperatures (5% weight loss) of 332 °C and 322 °C, respectively, and both share a melting point of 283 °C.",
+      "evidence": "Ant-Th-Ph and Ant-ThPh sublimated at 332 °C and 322 °C respectively... both of the two materials show the same melting point of 283 °C.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "sublimation temperature",
+        "melting point",
+        "TGA"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The optical band gaps (Eg) for Ant-Th-Ph and Ant-ThPh were determined to be 2.91 eV and 3.01 eV, respectively, leading to calculated LUMO levels of -2.59 eV and -2.56 eV.",
+      "evidence": "the optical band gap Eg which is measured to be 2.91 and 3.01 eV respectively... the lowest unoccupied molecular orbital level (LUMO) can be calculated to be -2.59 and -2.56 eV respectively.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "optical band gap",
+        "LUMO",
+        "energy level calculation"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The Stokes shift of the 0–0 peak in the solid state for Ant-Th-Ph (2765.9 cm⁻¹) and Ant-ThPh (2344.1 cm⁻¹) is significantly larger than in solution, indicating greater configuration differences between the excited and ground states in the solid.",
+      "evidence": "the Stokes shift of the 0–0 peak in the solid state of about 2765.9 cm⁻¹ is much larger than the Stokes shift in solution of ~1583.7 cm⁻¹... The larger solid state Stokes shift is probably because of the larger configuration difference between the excited state and the ground state for the solid state.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Stokes shift",
+        "solid state",
+        "excited state",
+        "photoluminescence"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Single-crystal transistors were fabricated using the 'gold-layer sticking' method to construct top-contact bottom-gate devices for charge transport investigation.",
+      "evidence": "For single crystal transistors, the ‘‘gold-layer sticking’’ method was used to construct the devices through depositing the source/drain electrode on an individual single crystal.",
+      "complexity": "single-hop",
+      "keywords": [
+        "gold-layer sticking",
+        "top-contact bottom-gate",
+        "SC-OFET",
+        "device fabrication"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 7091,
+    "completion_tokens": 3096,
+    "total_tokens": 10187
+  }
+}

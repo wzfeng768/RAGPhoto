@@ -1,0 +1,130 @@
+{
+  "paper_id": "d1tc03256a",
+  "paper_title": "High-throughput virtual screening for organic electronics: a comparative study of alternative strategies",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/d1tc03256a/auto/d1tc03256a.md",
+  "knowledge_points": [
+    {
+      "category": "Computational & Machine Learning",
+      "content": "High-throughput virtual screening (HTVS) in organic electronics is defined as the computational investigation of a set of compounds large enough to require independent statistical validation and automatic analysis rather than human inspection.",
+      "evidence": "For the purpose of this work we can define high-throughput virtual screening (HTVS) as the computational investigation of a large set of compounds or materials to assess their suitability for a particular function. By ‘‘large’’, here we simply mean sufficiently large to prevent the human inspection of the individual instances and requiring independent statistical validation.",
+      "complexity": "single-hop",
+      "keywords": [
+        "HTVS",
+        "statistical validation",
+        "computational screening"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "In TD-DFT calculations of excited state energies, pure functionals typically underestimate energies with a mean absolute error (MAE) of 0.35–0.4 eV, whereas functionals with 22% to 25% exact exchange, such as B3LYP, reduce the MAE to approximately 0.23 eV.",
+      "evidence": "It is found that pure functionals systematically underestimated the energies with mean absolute error (MAE) of approximately 0.35-0.4 eV whereas mixing in some exact exchange, optimally 22% to 25% , reduced the MAE to around 0.26 eV and 0.23 eV, as with the TPSSh and B3LYP functionals respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "TD-DFT",
+        "B3LYP",
+        "exact exchange",
+        "excited state energy"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The accuracy of LUMO energy levels calculated via DFT is often poor (R² ≈ 0), but it can be improved by calculating the energy gap and subtracting the HOMO energy eigenvalue from it.",
+      "evidence": "The LUMO eigenvalue calculated in ref. 92 is, unsurprisingly, found to be extremely inaccurate in comparison to experimental values (R² ≈ 0)... it was proposed that the LUMO accuracy can be increased by subtracting the HOMO energy eigenvalue from the gap energy.",
+      "complexity": "single-hop",
+      "keywords": [
+        "LUMO",
+        "HOMO",
+        "energy gap",
+        "DFT accuracy"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "The KMLYP functional is highly effective for evaluating ionization potential (IP), yielding a linear calibration with experimental data that results in an R² of 0.99 and an average error of 0.73 eV for small molecules.",
+      "evidence": "linear calibration with the experiment can yield predictive HOMO values, especially when functionals including exact exchange are used, such as KMLYP with R² ~ = 0.99 and an average error of 0.73 eV.",
+      "complexity": "single-hop",
+      "keywords": [
+        "KMLYP",
+        "ionization potential",
+        "HOMO",
+        "calibration"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "GFN2-xTB (tight-binding) methods are approximately 2–3 orders of magnitude faster than DFT for calculating redox potentials while maintaining comparable accuracy (MAD of 0.30 V vs 0.22 V for DFT).",
+      "evidence": "Their tight-binding based method (GFN2- xTB) was comparable with DFT (MAD = 0.30 V / R² = 0.94)... Ultimately, their novel tightbinding methodologies were approximately 2–3 orders of magnitude faster than the DFT counterparts.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GFN2-xTB",
+        "redox potential",
+        "computational efficiency"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "For singlet fission (SF) applications, the M06-2X functional combined with the def2-TZVP basis set provides an accuracy of 0.0405 eV (RMSD) for S1 energies and 0.0537 eV for T1 energies when calibrated against experimental data.",
+      "evidence": "In the following screening effort in ref. 37, the more widely available and similarly accurate M06-2X functional was adopted with the basis set lowered to def2-TZVP... the root-mean-square deviation (RMSD) for the calculated S1 energy with the experiment was 0.0405 eV... and RMSD = 0.0537 eV... for the T1 energy.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "M06-2X",
+        "singlet fission",
+        "S1 energy",
+        "T1 energy"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Hopping transport theory is insufficient for high-purity organic molecular crystals with mobilities > 1 cm² V⁻¹ s⁻¹, as their transport mechanism lies between hopping and band transport.",
+      "evidence": "It is evident that the measured charge mobilities of high purity crystals (> 1 cm² V⁻¹ s⁻¹) are too high to be rationalised with a simple hopping transport mechanism yet too low to be accurately consistent with the band transport.",
+      "complexity": "single-hop",
+      "keywords": [
+        "charge mobility",
+        "hopping transport",
+        "band transport",
+        "molecular crystals"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Transient Localization Theory (TLT) is an advanced theoretical framework capable of predicting charge carrier mobility in molecular crystals within ~35% of experimental values, making it suitable for HTVS when combined with approximate phonon calculations.",
+      "evidence": "Relying on this strategy and applying the transient localisation theory... the CSD was screened for high mobility materials. The absolute values of calculated mobilities in the framework of TLT are within ~ 35% of experimental data.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Transient Localization Theory",
+        "TLT",
+        "charge mobility",
+        "HTVS"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The Cambridge Structural Database (CSD) serves as a primary repository for HTVS of small organic and metal-organic molecules with known experimental crystalline structures for transport applications.",
+      "evidence": "Applying this theory to screen the CSD, as the world’s largest repository of small organic/metal–organic molecules whose crystalline structures are experimentally known, C. Schober et al. made an important contribution demonstrating... large scale screening of materials for transport applications is possible.",
+      "complexity": "single-hop",
+      "keywords": [
+        "CSD",
+        "crystalline structures",
+        "HTVS",
+        "small molecules"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Inelastic neutron scattering is a superior method to Raman and terahertz spectroscopy for validating low-frequency phonon calculations required for accurate charge mobility predictions.",
+      "evidence": "High-resolution inelastic neutron scattering measurement is shown to be a more useful method as it allows retrieving information on the low-energy phonons and recently has enabled the validation of low-frequency phonon calculations in the context of evaluating charge mobility.",
+      "complexity": "single-hop",
+      "keywords": [
+        "inelastic neutron scattering",
+        "phonons",
+        "charge mobility",
+        "characterization"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 11884,
+    "completion_tokens": 2866,
+    "total_tokens": 14750
+  }
+}

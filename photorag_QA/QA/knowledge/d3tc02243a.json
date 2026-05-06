@@ -1,0 +1,153 @@
+{
+  "paper_id": "d3tc02243a",
+  "paper_title": "Dithiene-fused quinoxalineimide-based all-acceptor polymers for n-type organic semiconductors",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/d3tc02243a/auto/d3tc02243a.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Dithiene-fused quinoxalineimide (DTQI) is a novel strong electron-deficient building block that combines the structural features of bithiophene imide (BTI) and quinoxaline (Qx).",
+      "evidence": "In this work, a strong electron-deficient building block, dithiene-fused quinoxalineimide (DTQI), containing electron-withdrawing quinoxaline and imide units, was synthesized and incorporated into a polymer backbone... Fig. 1 Molecular design strategy to develop electron-deficient building block DTQI, which combines the advantages of both BTI and Qx.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DTQI",
+        "quinoxalineimide",
+        "molecular design",
+        "building block"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The all-acceptor (A–A) type polymers PDTQI and P(DTQI-BTI) were synthesized via Stille coupling polymerization using Pd2(dba)3/P(o-tol)3 as the catalyst system.",
+      "evidence": "The polymerization of DTQI-2Br was carried out with comonomers bis(tributyltin) and distannylated BTI (BTI-Tin) via the Stille coupling reaction using Pd2(dba)3/P(o-tol)3 as the catalyst system to afford A–A type polymers PDTQI and P(DTQI-BTI)",
+      "complexity": "single-hop",
+      "keywords": [
+        "Stille coupling",
+        "polymerization",
+        "PDTQI",
+        "P(DTQI-BTI)"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The copolymer P(DTQI-BTI) exhibits a unipolar n-type electron mobility (μe) of 0.25 cm² V⁻¹ s⁻¹ in organic thin-film transistors.",
+      "evidence": "P(DTQI-BTI) showed a high μe of >0.25 cm2 V−1 s−1... while the copolymer P(DTQI-BTI) showed unipolar n-type charge transport and exhibited one order higher electron mobility of 0.25 cm2 V−1 s−1 than PDTQI.",
+      "complexity": "single-hop",
+      "keywords": [
+        "electron mobility",
+        "OTFT",
+        "P(DTQI-BTI)",
+        "n-type transport"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The homopolymer PDTQI exhibits ambipolar charge transport with a hole mobility (μh) of 0.005 cm² V⁻¹ s⁻¹ and an electron mobility (μe) of 0.012 cm² V⁻¹ s⁻¹.",
+      "evidence": "The homopolymer PDTQI exhibits ambipolar charge transport in OTFT. The PDTQI-based device showed μh and μe of 0.005 and 0.012 cm2 V−1 s−1, respectively",
+      "complexity": "single-hop",
+      "keywords": [
+        "PDTQI",
+        "ambipolar",
+        "hole mobility",
+        "electron mobility"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The incorporation of the dithiene-fused quinoxalineimide (DTQI) unit results in deep-lying LUMO energy levels (<-3.50 eV), which facilitates electron injection and suppresses hole accumulation.",
+      "evidence": "Due to the strong electron-withdrawing ability of the imide and quinoxaline groups, DTQI has significantly enhanced electron-deficient characteristics... DTQI-based acceptor–acceptor type polymers PDTQI and P(DTQI-BTI) showed deep FMO energy levels, which is beneficial for electron transport in OTFTs.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "LUMO",
+        "electron injection",
+        "structure-property relationship",
+        "quinoxalineimide"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "P(DTQI-BTI) thin films demonstrate higher crystallinity and stronger molecular aggregation compared to PDTQI, as evidenced by a higher root-mean-square (RMS) roughness of 0.515 nm versus 0.408 nm.",
+      "evidence": "For P(DTQI-BTI), its surfaces are rougher with higher RMS values of 0.515 nm, indicating higher crystallinity... the higher electron mobility of P(DTQI-BTI) might be due to its stronger aggregation of molecules to form films with higher crystallinity.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "AFM",
+        "RMS roughness",
+        "crystallinity",
+        "aggregation"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The OTFT devices were fabricated using a top-gate/bottom-contact (TGBC) structure with Ag gate electrodes and polymethyl methacrylate (PMMA) as the dielectric layer.",
+      "evidence": "OTFTs with a top-gate/bottom contact (TGBC) device structure were fabricated. Polymethyl methacrylate (PMMA) is used as the dielectric and Ag is used as the gate electrode.",
+      "complexity": "single-hop",
+      "keywords": [
+        "TGBC",
+        "OTFT",
+        "PMMA dielectric",
+        "device structure"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "DFT calculations show that the DTQI monomer possesses a completely planar structure with a calculated LUMO level of -2.60 eV, which is 0.3 eV lower than that of the BTI building block.",
+      "evidence": "The optimized molecular geometry of DTQI is a completely planar structure (Fig. S10, ESI†)... The LUMO level of the DTQI is 0.3 eV lower than the calculated LUMO level of the BTI.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DFT",
+        "planarity",
+        "LUMO",
+        "BTI"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Optimal OTFT performance for DTQI-based polymers was achieved by processing from chloroform solution at 5 mg/mL followed by thermal annealing at 100 °C for 20 minutes.",
+      "evidence": "Chloroform is chosen as the processing solvent and the concentration of organic semiconductors is controlled at 5 mg mL−1. Before evaluation, an annealing process at 100 °C for 20 min was conducted to achieve better morphology.",
+      "complexity": "single-hop",
+      "keywords": [
+        "processing solvent",
+        "thermal annealing",
+        "chloroform",
+        "fabrication optimization"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Both PDTQI and P(DTQI-BTI) polymers exhibit high thermal stability with 5% weight loss decomposition temperatures exceeding 400 °C.",
+      "evidence": "As shown in Fig. S9 (ESI†), both polymers exhibited excellent thermal stability with the decomposition temperature (5% weight loss) over 400 °C.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "TGA",
+        "decomposition temperature"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The optical band gaps (Eg^opt) for both PDTQI and P(DTQI-BTI) were determined to be 1.98 eV, based on the absorption onsets of the polymer films.",
+      "evidence": "The optical band gaps (Eg^opt s) of PDTQI and P(DTQI-BTI) are 1.98 eV, determined from the polymer film absorption onsets.",
+      "complexity": "single-hop",
+      "keywords": [
+        "optical band gap",
+        "Eg",
+        "absorption onset"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "P(DTQI-BTI) achieves an on/off current ratio (Ion/Ioff) of approximately 10^5 and a threshold voltage (Vth) of approximately 10 V in OTFT devices.",
+      "evidence": "Besides, a high on/off current (Ion/Ioff) ratio of around 10^5 and a relatively low threshold voltage (Vth) of 10 V are also achieved by P(DTQI-BTI).",
+      "complexity": "single-hop",
+      "keywords": [
+        "on/off ratio",
+        "threshold voltage",
+        "P(DTQI-BTI)"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 10610,
+    "completion_tokens": 3188,
+    "total_tokens": 13798
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "paper_id": "c9tc00443b",
+  "paper_title": "Realizing low-voltage operating crystalline monolayer organic field-effect transistors with a low contact resistance",
+  "qa_pairs": [
+    {
+      "question": "What are the lattice constants and the angle of HTEB monolayer crystals as determined by high-resolution atomic force microscopy (HR-AFM) and 2D fast Fourier transform (FFT) analysis?",
+      "answer": "The lattice constants of HTEB monolayer crystals are b = 5.6 Å and c = 7.5 Å, with an angle θ of 82.9°.",
+      "category": "Characterization Methods",
+      "source_title": "Realizing low-voltage operating crystalline monolayer organic field-effect transistors with a low contact resistance",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the molecular structure of HTEB (1,4-bis(5'-hexyl-2,2'-bithiophen-5-yl)ethynyl)benzene) facilitate the formation of 2D layered molecular crystals?",
+      "answer": "HTEB forms 2D layered crystals through a combination of strong intra-layer molecular interactions provided by the thiophene units, which drive efficient self-assembly for 2D growth, and relatively weak inter-layer interactions caused by the alkyl chains.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Realizing low-voltage operating crystalline monolayer organic field-effect transistors with a low contact resistance",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What is the relationship between crystal thickness and width-normalized contact resistance (Rc) in HTEB-based organic field-effect transistors?",
+      "answer": "There is a strong positive correlation between crystal thickness and contact resistance. The Rc values increase significantly with thickness: 1.77 kΩ cm for monolayers, 26.9 kΩ cm for 4-layer crystals, and 5.15 MΩ cm for 15-layer crystals.",
+      "category": "Performance Metrics",
+      "source_title": "Realizing low-voltage operating crystalline monolayer organic field-effect transistors with a low contact resistance",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Explain the two primary components that constitute the total contact resistance (Rc) in organic field-effect transistors.",
+      "answer": "The contact resistance (Rc) consists of interfacial injection resistance (Rc,int) and bulk injection resistance (Rc,bulk). Rc,int is caused by the potential barrier (non-ohmic contact) between the metal electrodes and the semiconductor, while Rc,bulk is related to the vertical structure and thickness of the semiconductor layer.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Realizing low-voltage operating crystalline monolayer organic field-effect transistors with a low contact resistance",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Why do monolayer molecular crystals (MMCs) exhibit lower contact resistance compared to thicker organic single crystals in vertical charge transport?",
+      "answer": "In thicker crystals, the bulk injection resistance (Rc,bulk) is often much higher than the channel resistance (Rch) because inter-layer transport is significantly weaker than intra-layer transport. Using MMCs minimizes this bulk injection resistance by eliminating the need for vertical charge transport across multiple layers.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Realizing low-voltage operating crystalline monolayer organic field-effect transistors with a low contact resistance",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What are the specific processing steps and solvent used to fabricate HTEB 2D molecular crystals?",
+      "answer": "HTEB 2D molecular crystals are fabricated by drop-casting a diluted chlorobenzene solution onto substrates treated with oxygen plasma. The crystals are then formed through room-temperature solvent evaporation in a Petri dish for at least 24 hours.",
+      "category": "Processing & Fabrication",
+      "source_title": "Realizing low-voltage operating crystalline monolayer organic field-effect transistors with a low contact resistance",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the use of HfO2 as a gate dielectric compare to SiO2 in terms of capacitance and its impact on HTEB device operation?",
+      "answer": "HfO2 has a much higher capacitance (Ci = 440 nF cm⁻²) compared to SiO2 (Ci = 10 nF cm⁻²). This higher dielectric constant enables more efficient charge accumulation at lower gate voltages, allowing HTEB MMC devices to operate at low voltages (e.g., -2V).",
+      "category": "Device Architecture & Physics",
+      "source_title": "Realizing low-voltage operating crystalline monolayer organic field-effect transistors with a low contact resistance",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Compare the stability of the Rc/Rtotal ratio between HTEB monolayer molecular crystals and 4-layer crystals as the channel length decreases.",
+      "answer": "HTEB MMCs maintain much more stable performance; when the channel length is reduced from 85.3 μm to 9.7 μm, the Rc/Rtotal ratio for MMCs only increases from 0.024 to 0.151. In contrast, for 4-layer single-crystal devices, the Rc/Rtotal ratio increases significantly from 0.19 to 0.84 over a similar range.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Realizing low-voltage operating crystalline monolayer organic field-effect transistors with a low contact resistance",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2700,
+    "completion_tokens": 2428,
+    "total_tokens": 5128
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "paper_id": "cphc_201500156_sm_miscellaneous_information",
+  "paper_title": "Folding-Induced Modulation of Excited-State Dynamics in an Oligophenylene–Ethynylene-Tethered Spiral Perylene Bisimide Aggregate",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/cphc_201500156_sm_miscellaneous_information/auto/cphc_201500156_sm_miscellaneous_information.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The synthesis of the oligophenylene–ethynylene (OPE) backbone B (4,5-di-n-hexyl-1,2-(phenylethynylene)benzene) involves a Sonogashira coupling reaction between 4,5-di-n-hexyl-1,2-ethynylbenzene and iodobenzene using Pd(PPh3)2Cl2 and CuI catalysts in diisopropylamine, followed by purification via recycling gel permeation chromatography (GPC).",
+      "evidence": "In a 50 mL flask were placed 66.2 mg (225 μmol) 4,5-di-n-hexyl-1,2-ethynylbenzene, 4.8 mg (25.2 μmol) copper(I) iodide, and 5.5 mg (7.84 μmol) bis(triphenylphosphino)palladium(II) dichloride... recycling GPC was used to get pure compound in the form of yellow viscous oil (19.9 mg, 44.6 μmol; 20%).",
+      "complexity": "single-hop",
+      "keywords": [
+        "OPE backbone",
+        "Sonogashira coupling",
+        "Synthesis",
+        "Recycling GPC"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "In the folded conformation of the F8 aggregate, the average center-to-center distance between neighboring perylene bisimide (PBI) units is significantly reduced to 3.38 Å, compared to 16.3 Å in the unfolded state.",
+      "evidence": "Table S2. Center-to-center distances... Unfolded Average: 16.3 Å; Folded Average: 3.38 Å.",
+      "complexity": "single-hop",
+      "keywords": [
+        "F8 aggregate",
+        "Perylene bisimide",
+        "Center-to-center distance",
+        "Folding"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The average azimuth angle (α) between transition dipole moments of neighboring PBI units in the F8 aggregate shifts from 117.2° in the unfolded conformation to 47.9° in the folded conformation.",
+      "evidence": "Table S2. ...Azimuth Angle (α) Unfolded Average: 117.2; Folded Average: 47.9.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Azimuth angle",
+        "Transition dipole moment",
+        "F8 aggregate",
+        "Conformation"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The OPE backbone reference compound B exhibits an absorption maximum at 281 nm (ε = 67,000 M⁻¹cm⁻¹), a fluorescence emission maximum at 368 nm, and a fluorescence quantum yield (φfl) of 0.30 in dichloromethane.",
+      "evidence": "UV/Vis (CH2Cl2): λmax (ε) = 266 (39600), 281 (67000), 317 nm (21600 M-1cm-1). Fluorescence (CH2Cl2): λmax = 368 nm; φfl = 0.30.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Quantum yield",
+        "Absorption",
+        "Fluorescence",
+        "OPE backbone"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The backbone-free perylene bisimide monomer M possesses a fluorescence lifetime (τD) of 3.9 ns and a fluorescence quantum yield (QD) of 0.89 in CHCl3.",
+      "evidence": "QD = 0.89; τD = 3.9 ns (see Figure S5 for the fluorescence decay profile).",
+      "complexity": "single-hop",
+      "keywords": [
+        "PBI monomer",
+        "Fluorescence lifetime",
+        "Quantum yield",
+        "CHCl3"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Electronic excitation transfer (EET) in the extended (unfolded) form of F8 can be modeled using the Förster-type incoherent energy hopping model, assuming homotransfer between identical PBI units with a calculated orientation factor (κ²) of 1.96.",
+      "evidence": "The extended structure of F8... can be treated with the point-dipole approximation, and the EET rates can also be mechanistically estimated by the Förster-type incoherent energy hopping model... κ2 = 1.96.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "EET",
+        "Förster transfer",
+        "Orientation factor",
+        "F8 aggregate"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The spectral overlap integral (J) for energy transfer between PBI units in the F8 system is calculated to be 2.26 × 10¹⁵ M⁻¹cm⁻¹nm⁴.",
+      "evidence": "J = 2.26 x 10^15 M-1cm-1nm4.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Spectral overlap",
+        "Energy transfer",
+        "PBI"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Fluorescence decay profiles for the F8 aggregate in CHCl3 show wavelength-dependent behavior; at 700 nm, the decay is dominated by a 3.0 ns component (66%) and a longer 20.1 ns component (34%).",
+      "evidence": "Table S1. F8 in CHCl3 at 700 nm: T2 = 3.0 ns (66), T3 = 20.1 ns (34).",
+      "complexity": "single-hop",
+      "keywords": [
+        "Fluorescence decay",
+        "Time-resolved spectroscopy",
+        "F8 aggregate"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Geometry optimizations for the F2 subunit were performed using dispersion-corrected DFT-D (B97D) with STO-3G basis sets to simulate folded and unfolded conformations corresponding to different solvent environments.",
+      "evidence": "we performed geometry optimizations with a dispersion-corrected DFT-D approach (B97D) and cost-efficient STO-3G basis sets in Gaussian 09... for the folded and unfolded conformations of F2.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DFT-D",
+        "B97D",
+        "Geometry optimization",
+        "F2 subunit"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The folding of OPE-tethered PBI aggregates is highly solvent-sensitive, where chloroform (CHCl3) induces a folded state, while tetrahydrofuran (THF) or methylcyclohexane (MCH) results in unfolded or different aggregate structures.",
+      "evidence": "With these methods the folded and unfolded conformations of F2 could be realized, which satisfyingly mimic our systems in CHCl3 and THF/MCH, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Solvent effects",
+        "Folding",
+        "CHCl3",
+        "THF",
+        "MCH"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "In smaller OPE-PBI systems like F2, the backbone undergoes out-of-plane distortion to reach a minimum energy state (approximately 4 kJ/mol lower than the non-distorted form), whereas the larger F8 scaffold is considered too ponderous for such reorientations.",
+      "evidence": "the backbone appears to be significantly distorted out of plane in order to achieve the conformation with the lowest energy (ca. 4 kJ/mol lower in energy than the non-distorted form)... for the larger F8 system, the scaffold is enlarged and thus more ponderous, so that such events are more unlikely.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Backbone distortion",
+        "Conformational energy",
+        "F2 vs F8"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 7835,
+    "completion_tokens": 3543,
+    "total_tokens": 11378
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "paper_id": "Adv_Funct_Materials_-_2019_-_Liu_-_Unconjugated_SideChain_Engineering_Enables_Small_Molecular_Accept",
+  "paper_title": "Unconjugated Side-Chain Engineering Enables Small Molecular Acceptors for Highly Efficient Non-Fullerene Organic Solar Cells: Insights into the Fine-Tuning of Acceptor Properties and Micromorphology",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Adv Funct Materials - 2019 - Liu - Unconjugated Side‐Chain Engineering Enables Small Molecular Acceptors for Highly/auto/Adv Funct Materials - 2019 - Liu - Unconjugated Side‐Chain Engineering Enables Small Molecular Acceptors for Highly.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The study utilizes an unconjugated side-chain strategy by attaching vertical aromatic moieties (thiophene, thieno[3,2-b]thiophene, or benzene) to a ladder-type benzo[1,2-b:4,5-b'] di(cyclopenta[2,1-b:3,4-b']dithiophene (BDCD) core to create small molecule acceptors (SMAs).",
+      "evidence": "In this work, we implemented side-chain engineering on BDCD by employing frequently used thiophene, thieno[3,2-b]thiophene and benzene as building moieties, and designed and synthesized three new fused-ring electron acceptors, namely, BTTIC-Th, BTTIC-TT, and BTTIC-Ph.",
+      "complexity": "single-hop",
+      "keywords": [
+        "side-chain engineering",
+        "BDCD core",
+        "small molecule acceptors",
+        "unconjugated side chains"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Organic solar cells based on the PBDB-T:BTTIC-TT blend achieved a peak power conversion efficiency (PCE) of 13.44%, with an open-circuit voltage (Voc) of 0.924 V, short-circuit current (Jsc) of 19.61 mA cm^-2, and fill factor (FF) of 74.2%.",
+      "evidence": "OSCs based on PBDB-T:BTTIC-TT realized a higher PCE of 13.44% with three slightly higher parameters (a Voc of 0.924 V, Jsc of 19.61 mA cm^-2, and an FF of 74.2%).",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "BTTIC-TT",
+        "PBDB-T",
+        "photovoltaic performance"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The LUMO energy levels of the SMAs are modulated by the strength of the δ-inductive effect between the vertical aromatic side chains and the electron-rich core; BTTIC-Ph (-3.78 eV) and BTTIC-TT (-3.80 eV) exhibit higher LUMO levels than BTTIC-Th (-3.90 eV).",
+      "evidence": "The LUMOs/HOMOs of BTTIC-Th, BTTIC-TT, and BTTIC-Ph were determined to be -3.90 eV/-5.49 eV, -3.80 eV/-5.54 eV, and -3.78 eV/-5.48 eV, respectively... The weaker electron-donating ability of benzene than that of thieno[3,2-b]thiophene further lessens the δ-inductive effect and therefore promotes the LUMO energy level.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "LUMO",
+        "δ-inductive effect",
+        "side-chain engineering",
+        "energy level tuning"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Aromatic side groups in these SMAs are considered 'unconjugated' because steric hindrance forces them into a twisted configuration relative to the backbone, preventing π-electron overlap and interrupting conjugation.",
+      "evidence": "Clearly, the aromatic side groups are forced to take the twisted configuration relative to the fused-ring backbone without HOMO and LUMO distributed on them, suggesting that the p-electrons (π electrons) between aromatic side chains and the fused-ring skeleton... do not overlap at all, and thus the conjugation is interrupted. According to these features, we called them unconjugated side chain.",
+      "complexity": "single-hop",
+      "keywords": [
+        "unconjugated side chain",
+        "steric hindrance",
+        "backbone planarity",
+        "electronic coupling"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The organic solar cell devices were fabricated using a conventional structure of ITO/PEDOT:PSS/PBDB-T:Acceptor/ZrAcac/Al.",
+      "evidence": "OSC devices with a structure of indium tin oxide (ITO)/poly(3,4- ethylenedioxythiophene):poly(styrenesulfonate)(PEDOT:PSS)/ PBDB-T:acceptor/zirconium acetylacetonate (ZrAcac)/Al were fabricated.",
+      "complexity": "single-hop",
+      "keywords": [
+        "conventional structure",
+        "device architecture",
+        "PBDB-T",
+        "ZrAcac"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Resonant soft X-ray scattering (RSoXS) revealed that the PBDB-T:BTTIC-TT blend has the smallest domain size (15.3 nm), while PBDB-T:BTTIC-Ph has the largest domain size (26.3 nm), which hinders exciton dissociation.",
+      "evidence": "The domain sizes of PBDB-T:BTTIC-Th, PBDB-T:BTTIC-TT, and PBDB-T:BTTIC-Ph blend films calculated from the RSoXS profiles... are 19.6, 15.3, and 26.3 nm, respectively... the domain size of 26.3 nm for the PBDB-T:BTTIC-Ph blend film lowers the probability for excitons to reach the donor-acceptor interface.",
+      "complexity": "single-hop",
+      "keywords": [
+        "RSoXS",
+        "domain size",
+        "phase separation",
+        "exciton dissociation"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis showed that BTTIC-Ph neat and blend films exhibit two distinct (010) diffraction halos in the out-of-plane direction (at ~1.52 and ~1.73 Å^-1), indicating the presence of multiple, disordered types of π-π stacking.",
+      "evidence": "It can be obviously observed from Figure 5c,f that there are two (010) diffraction halos for BTTIC-Ph neat and blend films in the qz direction at about 1.6 Å^-1. This phenomenon indicates that different types of π-π stacking exist in BTTIC-Ph neat and blend films, which is not conducive to efficient carrier transport.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "π-π stacking",
+        "molecular orientation",
+        "BTTIC-Ph"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The energy loss (Eloss) for the PBDB-T:BTTIC-TT device is calculated to be 0.550 eV, which is significantly lower than the typical 0.6 eV threshold for high-performance organic solar cells.",
+      "evidence": "In this work, the Eloss of three SMAs-based OSCs are all lower than 0.6 eV... Impressively, OSCs based on PBDB-T:BTTIC-TT realized a PCE of 13.44% with an Eloss of 0.55 eV.",
+      "complexity": "single-hop",
+      "keywords": [
+        "energy loss",
+        "Eloss",
+        "BTTIC-TT",
+        "PBDB-T"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Optimal device performance was achieved using a 1:1 donor-to-acceptor weight ratio, 0.25% 1,8-diiodooctane (DIO) as a solvent additive, and thermal annealing at 100°C.",
+      "evidence": "The optimal D:A weight ratio was 1:1... 1,8-Diiodooctane (DIO) was used as solvent additive (0.25%) during solution preparation and a thermal annealing (100 °C) step was performed after film formation.",
+      "complexity": "single-hop",
+      "keywords": [
+        "solvent additive",
+        "DIO",
+        "thermal annealing",
+        "device optimization"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "BTTIC-TT exhibits the highest electron mobility among the three studied SMAs in neat films, with a value of 9.28 × 10^-4 cm^2 V^-1 s^-1 measured by the space charge limited current (SCLC) method.",
+      "evidence": "The electron mobilities (μe) of BTTIC-Th, BTTIC-TT, and BTTIC-Ph neat films are 8.87 × 10^-4, 9.28 × 10^-4, and 7.28 × 10^-4 cm^2 V^-1 s^-1, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "electron mobility",
+        "SCLC",
+        "charge transport",
+        "BTTIC-TT"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 15138,
+    "completion_tokens": 3318,
+    "total_tokens": 18456
+  }
+}

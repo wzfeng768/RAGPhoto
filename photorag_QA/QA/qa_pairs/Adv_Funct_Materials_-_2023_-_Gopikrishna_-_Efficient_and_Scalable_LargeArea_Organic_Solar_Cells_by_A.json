@@ -1,0 +1,75 @@
+{
+  "paper_id": "Adv_Funct_Materials_-_2023_-_Gopikrishna_-_Efficient_and_Scalable_LargeArea_Organic_Solar_Cells_by_A",
+  "paper_title": "Efficient and Scalable Large-Area Organic Solar Cells by Asymmetric Nonfullerene Acceptors Based on 9H-Indeno[1,2-b]pyrazine-2,3,8-Tricarbonitrile",
+  "qa_pairs": [
+    {
+      "question": "What are the specific photovoltaic performance parameters for a 1 cm² active area organic solar cell based on the PM6-PBDBT(55):IPC1CN-BBO-IC2Cl blend?",
+      "answer": "The blade-coated organic solar cell using PM6-PBDBT(55):IPC1CN-BBO-IC2Cl with a 1 cm² active area achieved a power conversion efficiency (PCE) of 14.12%. The specific parameters include an open-circuit voltage (Voc) of 0.836 V, a short-circuit current density (Jsc) of 25.94 mA cm⁻², and a fill factor (FF) of 65.09%.",
+      "category": "Performance Metrics",
+      "source_title": "Efficient and Scalable Large-Area Organic Solar Cells by Asymmetric Nonfullerene Acceptors Based on 9H-Indeno[1,2-b]pyrazine-2,3,8-Tricarbonitrile",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the introduction of a cyano group at the 8th position of the 9H-indeno[1,2-b]pyrazine-2,3-dicarbonitrile (IPC) structure influence the molecular configuration of the resulting acceptor?",
+      "answer": "The introduction of a cyano group at the 8th position of the IPC structure (forming IPC1CN) prevents the formation of nonfullerene acceptor isomers. This is achieved through steric hindrance between the cyano group of IPC1CN and the sulfur atom of the thieno[3,2-b]thiophene (TT) core, which stabilizes a single conformer (TT-IPC1CN-I).",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Efficient and Scalable Large-Area Organic Solar Cells by Asymmetric Nonfullerene Acceptors Based on 9H-Indeno[1,2-b]pyrazine-2,3,8-Tricarbonitrile",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What is the monomeric composition and the corresponding molar ratio used to synthesize the random terpolymer PM6-PBDBT(55)?",
+      "answer": "The random terpolymer PM6-PBDBT(55) is synthesized from three monomers: 4,8-bis(5-(2-ethylhexyl)thiophen-2-yl)benzo[1,2-b:4,5-b']dithiophene (BDT), BDT-2F, and 1,3-bis(2-ethylhexyl)-5,7-di(thiophen-2-yl)-4H,8H-benzo[1,2-c:4,5-c']dithiophene-4,8-dione (BDD). These monomers are used in a molar ratio of 0.5:0.5:1, respectively.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Efficient and Scalable Large-Area Organic Solar Cells by Asymmetric Nonfullerene Acceptors Based on 9H-Indeno[1,2-b]pyrazine-2,3,8-Tricarbonitrile",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Compare the energy levels and absorption properties of the IPC1CN-BBO-IC2Cl and IPC1CN-BBO-IC2F acceptors.",
+      "answer": "IPC1CN-BBO-IC2Cl features deeper energy levels (HOMO: -5.69 eV, LUMO: -3.91 eV) compared to IPC1CN-BBO-IC2F (HOMO: -5.65 eV, LUMO: -3.89 eV) due to the strong electron-withdrawing nature of chlorine. Additionally, IPC1CN-BBO-IC2Cl shows a more red-shifted absorption maximum (821 nm vs. 815 nm) and a higher absorption coefficient (1.18 × 10⁵ cm⁻¹ vs. 1.02 × 10⁵ cm⁻¹) than its fluorine-substituted counterpart.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Efficient and Scalable Large-Area Organic Solar Cells by Asymmetric Nonfullerene Acceptors Based on 9H-Indeno[1,2-b]pyrazine-2,3,8-Tricarbonitrile",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "How does the choice of halogen substitution in the IPC1CN-BBO-IC2X acceptors affect trap-assisted recombination in the devices?",
+      "answer": "Chlorine substitution (IC2Cl) significantly reduces trap-assisted recombination compared to fluorine substitution (IC2F). This is evidenced by a lower ideality factor (n) of 1.27 for PM6-PBDBT(55):IPC1CN-BBO-IC2Cl-based devices, whereas the IPC1CN-BBO-IC2F-based devices exhibit a higher ideality factor of 1.75.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Efficient and Scalable Large-Area Organic Solar Cells by Asymmetric Nonfullerene Acceptors Based on 9H-Indeno[1,2-b]pyrazine-2,3,8-Tricarbonitrile",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What performance and scalability were demonstrated by the PM6-PBDBT(55):IPC1CN-BBO-IC2Cl-based large-area solar modules?",
+      "answer": "The solar modules based on PM6-PBDBT(55):IPC1CN-BBO-IC2Cl with an active area of 58.50 cm² achieved a power conversion efficiency (PCE) of 11.28%. This demonstrates high scalability, as the transition from 1 cm² cells to large-area modules resulted in only a minimal loss in fill factor.",
+      "category": "Performance Metrics",
+      "source_title": "Efficient and Scalable Large-Area Organic Solar Cells by Asymmetric Nonfullerene Acceptors Based on 9H-Indeno[1,2-b]pyrazine-2,3,8-Tricarbonitrile",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Based on SCLC measurements, how do the charge transport properties of the IPC1CN-BBO-IC2Cl blend compare to the IPC1CN-BBO-IC2F blend?",
+      "answer": "The PM6-PBDBT(55):IPC1CN-BBO-IC2Cl blend films exhibit higher and more balanced charge carrier mobilities than the IPC1CN-BBO-IC2F counterparts. Specifically, the IC2Cl-based blend showed an average hole mobility of 3.7 × 10⁻⁴ cm² V⁻¹ s⁻¹ and an electron mobility of 3.1 × 10⁻⁴ cm² V⁻¹ s⁻¹.",
+      "category": "Characterization Methods",
+      "source_title": "Efficient and Scalable Large-Area Organic Solar Cells by Asymmetric Nonfullerene Acceptors Based on 9H-Indeno[1,2-b]pyrazine-2,3,8-Tricarbonitrile",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What processing parameters, including donor-acceptor ratio and solvent additives, were optimized for blade-coated OSCs in this study?",
+      "answer": "The optimal performance for the blade-coated organic solar cells was achieved using a donor-acceptor weight ratio of 1:1. The active layer was processed using chloroform as the solvent with the addition of 1 vol% 1-chloronaphthalene (1-CN) as a solvent additive.",
+      "category": "Processing & Fabrication",
+      "source_title": "Efficient and Scalable Large-Area Organic Solar Cells by Asymmetric Nonfullerene Acceptors Based on 9H-Indeno[1,2-b]pyrazine-2,3,8-Tricarbonitrile",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 3129,
+    "completion_tokens": 3123,
+    "total_tokens": 6252
+  }
+}

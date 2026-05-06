@@ -1,0 +1,149 @@
+{
+  "paper_id": "d2tc00760f",
+  "paper_title": "Modulating electronic properties of dinitrosoarene polymers",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/d2tc00760f/auto/d2tc00760f.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Dinitrosoarene polymers are formed through the spontaneous formation of azodioxide bonds between monomers, such as 1,4-dinitrosobenzene, which results in stable 1-D polymer structures.",
+      "evidence": "Aromatic nitroso compounds are attractive for several reasons: (i) the azodioxide bond (which connects the monomers) is formed spontaneously, meaning that polymer formation is very straightforward.",
+      "complexity": "single-hop",
+      "keywords": [
+        "dinitrosoarene",
+        "azodioxide bond",
+        "1-D polymer",
+        "1,4-dinitrosobenzene"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The experimental optical band gap of the crystalline dinitrosobenzene polymer (C1) is 2.39 ± 0.02 eV, as determined by a Tauc plot from UV-vis diffuse reflectance spectroscopy.",
+      "evidence": "The value of Eg obtained using eqn (2) was 2.39 ± 0.02 eV (Fig. 2), confirming C1 is a wide-gap semiconductor.",
+      "complexity": "single-hop",
+      "keywords": [
+        "band gap",
+        "C1",
+        "Tauc plot",
+        "diffuse reflectance spectroscopy"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "The GW-BSE method combined with zero-gap renormalization (ZGR) predicts a band gap of 2.41 eV for the C1 polymer, which is in superior agreement with experimental values compared to hybrid TD-DFT (TD-HSE), which underestimates the gap by 0.23 eV.",
+      "evidence": "The band gap (Eg) and optical spectrum of 1 are calculated using both GW-BSE with zero-gap renormalization (ZGR) and hybrid TD-DFT, with the former method predicting a value (2.41 eV) in excellent agreement with our diffuse reflectance spectroscopy measurements (2.39 eV).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "GW-BSE",
+        "Zero-gap renormalization",
+        "ZGR",
+        "TD-DFT",
+        "HSE06"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The band gap of dinitrosoarene polymers exhibits a linear dependence on the torsional angle (θ) between the azodioxide and phenyl planes, with an estimated slope of 0.034 eV per degree for the crystalline form.",
+      "evidence": "Comprehensive hybrid TD-DFT calculations find that the effects of substituents on Eg and on transport properties can mostly be explained through changes in the torsional angle θi, and predict a linear dependence between θ and Eg. ... Linear regression yields Eg = 0.034 θ eV per ° + 0.07 eV (R2 = 0.99982) for C1.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "torsional angle",
+        "structure-property",
+        "backbone torsion",
+        "band gap modulation"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Extending the conjugation of the aromatic core from benzene to anthracene (A16) or tetracene (A18) narrows the band gap (to 1.84 eV and 1.68 eV, respectively) and significantly reduces the effective masses of electrons and holes.",
+      "evidence": "Introducing anthracene (A16) narrows Eg to 1.84 eV and strongly decreases the electron (~40%) and hole (~50%) effective mass. ... tetracene-based A18 is found to have the lowest gap (Eg = 1.68 eV) of all the investigated compounds.",
+      "complexity": "single-hop",
+      "keywords": [
+        "aromatic core",
+        "conjugation",
+        "anthracene",
+        "tetracene",
+        "effective mass"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Adsorption of the dinitrosobenzene polymer onto a Au(111) surface leads to significant polymer planarization (reducing θ to 12.7°) and a dramatic reduction of the band gap to 0.68 eV.",
+      "evidence": "spectroscopic ellipsometry... showing a significant narrowing of the band gap to 0.68 eV, in good agreement with TD-DFT predictions. ... Relaxation of 1 on a (111) gold surface... results in an almost complete planarization (θ1@Au = 12.7°).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Au(111)",
+        "surface adsorption",
+        "planarization",
+        "band gap narrowing",
+        "ellipsometry"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Solid-state packing in dinitrosobenzene polymers significantly screens Coulombic interactions, reducing the exciton binding energy from 1.44 eV in an isolated strand (1) to 0.53 eV in the crystal (C1).",
+      "evidence": "The exciton binding energies Exb calculated by TD-DFT and GW-BSE are dramatically different... GW-BSE-ZGR... separating the contribution arising from... (ii) the change in the screened Coulombic interaction, which strongly affects the exciton binding energies. ... Exb [GW-BSE] 0.53 [C1] 1.44 [1].",
+      "complexity": "multi-hop",
+      "keywords": [
+        "exciton binding energy",
+        "Coulombic interaction",
+        "solid-state packing",
+        "GW-BSE"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The IR spectrum of the dinitrosobenzene polymer is characterized by a prominent asymmetric azodioxide stretching signal in the 1200–1300 cm⁻¹ range and the absence of a free nitroso group signal at 1520 cm⁻¹.",
+      "evidence": "The most prominent signal, corresponding to the asymmetric v(-ON=NO) azodioxide stretching, occurs in the 1200–1300 cm−1 range. ... Signal corresponding to the free nitroso group (around 1520 cm−1) is completely absent, suggesting that the length of polymer strands is very large.",
+      "complexity": "single-hop",
+      "keywords": [
+        "IR spectroscopy",
+        "azodioxide stretching",
+        "nitroso group",
+        "polymer length"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The dinitrosobenzene polymer C1 shows similar band curvatures along the polymer chain (x-direction) and the π–π stacking direction (z-direction), suggesting potential 2-D electrical conductivity.",
+      "evidence": "This translates to similar mobility along the polymer chain (x) and the direction of π-π stacking (z), suggesting that even polycrystalline films of C1 may show electrical conductivity with doping.",
+      "complexity": "single-hop",
+      "keywords": [
+        "charge transport",
+        "band curvature",
+        "mobility",
+        "2-D conductivity",
+        "pi-pi stacking"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Drop-casting 1,4-dinitrosobenzene onto Au(111) results in island-like surface morphology with island heights between 15–30 nm and lateral sizes ranging from 50–150 nm, as observed by Atomic Force Microscopy (AFM).",
+      "evidence": "The height-profile analysis of AFM data indicates that the heights of islands are mostly in the range from 15 to 30 nm, while their lateral sizes vary from about 50 to 150 nm (Fig. 4c).",
+      "complexity": "single-hop",
+      "keywords": [
+        "AFM",
+        "drop-casting",
+        "surface morphology",
+        "thin films",
+        "Au(111)"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Adding substituents to the phenyl ring of dinitrosobenzene polymers (S2–S9) generally widens the band gap and increases effective masses because steric hindrance forces an increase in the torsional angle θ.",
+      "evidence": "Instead, introducing a substituent invariably widens the band gap and decreases dispersion, resulting in larger hole and electron effective masses... this can mostly be explained by an increase in θ caused by steric hindrance between the substituent and the azodioxide group.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "substituent effects",
+        "steric hindrance",
+        "effective mass",
+        "torsion"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 15126,
+    "completion_tokens": 4272,
+    "total_tokens": 19398
+  }
+}

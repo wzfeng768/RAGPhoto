@@ -1,0 +1,140 @@
+{
+  "paper_id": "Chinese_Journal_of_Chemistry_-_2023_-_Xu_-_Recent_Progress_in_AllSolutionProcessed_Organic_Solar_Cel",
+  "paper_title": "Recent Progress in All-Solution-Processed Organic Solar Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Chinese Journal of Chemistry - 2023 - Xu - Recent Progress in All‐Solution‐Processed Organic Solar Cells/auto/Chinese Journal of Chemistry - 2023 - Xu - Recent Progress in All‐Solution‐Processed Organic Solar Cells.md",
+  "knowledge_points": [
+    {
+      "category": "Performance Metrics",
+      "content": "All-solution-processed organic solar cells have achieved a record power conversion efficiency (PCE) of 15.26% using an alcohol-dispersed conducting polymer complex and a PM6:PC71BM:BTP-eC9 active layer.",
+      "evidence": "However, the PCEs of all-solutionprocessed devices are relatively low, with the highest PcE of 15.26% [14] lagging behind the devices based on ITO bottom electrodes... with PM6:PC71BM:BTP-eC9 blend and spray-coated AgNws top electrode, the small-area (0.041 cm^-2) device achieved a PCE of 15.26%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "all-solution-processed",
+        "BTP-eC9"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The surface roughness of silver nanowire (AgNW) electrodes can be significantly reduced from approximately 11 nm to 5 nm by wrapping them with aluminum-doped ZnO (AZO) and filling the gaps between wires.",
+      "evidence": "the bottom electrode AgNWs were wrapped around by AZO and the holes of AgNWs were effectively filled by AzO (Figure 2b), which efficiently reduced the roughness of AgNws (from ~11 nm to ~5 nm).",
+      "complexity": "single-hop",
+      "keywords": [
+        "AgNWs",
+        "AZO",
+        "surface roughness"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Replacing the PSS counter ion in PEDOT:PSS with perfluorinated sulfonic acid (PFSA) creates PEDOT:F, which is alcohol/water-soluble and solves the wetting issues between non-fullerene acceptors and conventional water-dispersed PEDOT:PSS.",
+      "evidence": "Zhou et al. replaced counter ion PSS in PEDOT:PsS with perfluorinated sulfonic acid (PFSA) and the final product was defined as PEDoT:F.4) The alcohol/water-soluble PEDOt:F avoided long-standing shortcomings of the conventional PEDOt:Pss formulation dispersing only in water, thereby the wetting issues between NFAs and PEDOT: PSS have been successfully solved.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PEDOT:F",
+        "PFSA",
+        "wetting issue",
+        "non-fullerene acceptors"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Hydrogen molybdenum bronze (HxMoO3) serves as an effective hole transport layer (HTL) in all-solution-processed OSCs due to its deep Fermi level of -5.44 eV and good wettability with ethanol processing.",
+      "evidence": "The deep fermi level (-5.44 eV) of solution-processed HxMoO3 can extract holes effectively (Figure 2d). At the same time. ethanol-processed HxMoO3 with good wettability can successfully solve the wetting issue between NFAs and PEDOT:PSs.",
+      "complexity": "single-hop",
+      "keywords": [
+        "HxMoO3",
+        "Fermi level",
+        "HTL",
+        "wettability"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The conductivity of PEDOT:PSS electrodes can be enhanced to 4200 S/cm by using a layer-by-layer (LBL) co-doping strategy involving sulfuric acid and ethylene glycol (EG) to remove insulating PSS components.",
+      "evidence": "Superimposing two PEDOT:PSS thin layers that were gradually treated with sulfuric acid and ethylene glycol... The highest conductivity of PEDOT:PSS electrode was 4200 S/cm.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PEDOT:PSS",
+        "conductivity",
+        "sulfuric acid",
+        "ethylene glycol"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Hot pressing is a technique used to firmly integrate AgNWs into PEDOT:PSS films, which reduces the composite electrode's roughness and prevents device failure caused by protruding nanowires while improving mechanical bending performance.",
+      "evidence": "Moreover, the AgNWs were firmly integrated into PEDOT:PSS via hot pressing, resulting in a further reduction of composite electrode roughness... This integration effectively prevents device failure caused by protruding AgNws and significantly improves the bending performance of devices.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "hot pressing",
+        "AgNWs",
+        "PEDOT:PSS",
+        "mechanical stability"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The ferroconcrete-like AZO@AgNWs@AZO (AAA) composite electrode provides 3D long-range pathways for charge transfer and collection, enabling semi-transparent OSCs with an average visible transmittance (AVT) of 26.64% and a PCE of 10.90%.",
+      "evidence": "Huang et al. reported ferroconcrete-like AZO@AgNWs@AzO (AAA) electrodes. AAA electrodes provide 3D long-range pathways for charge transfer and collection... high average transmittance (AvT) of 26.64% and a PCE of 10.90% was obtained.",
+      "complexity": "single-hop",
+      "keywords": [
+        "AAA electrode",
+        "composite electrode",
+        "AVT",
+        "3D pathways"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "All-solution-processed OSCs using transfer-printed PEDOT:PSS electrodes co-doped with acid and EG can maintain approximately 91% of their initial PCE after 300 days of storage in an inert atmosphere.",
+      "evidence": "The device remained a high PCE (about 91% of the initial value) (Figure 3c) after being stored in an inert gas atmosphere for 300 d.",
+      "complexity": "single-hop",
+      "keywords": [
+        "stability",
+        "shelf life",
+        "PEDOT:PSS"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Incorporating the cross-linker (3-glycidyloxypropyl)trimethoxysilane (GOPS) into PEDOT:PSS electrodes improves the stability of fully inkjet-printed OSCs in high-humidity environments by preventing shunts caused by the polymer's hygroscopicity.",
+      "evidence": "Bihar et al. introduced the methoxysilane-based cross-linker (3-glycidyloxypropyl)trimethoxysilane (GOPS) in PEDOT:PSS... to prevent shunts of devices. Notably, the packaged device exhibited excellent stability in a real-world wet environment.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GOPS",
+        "cross-linker",
+        "humidity stability",
+        "inkjet printing"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "A composite top electrode consisting of PH 1000, Graphene Oxide (GO), and AI 4083 improves device yield to 85% because the hydrophilicity of GO prevents capillary force damage during the spin-coating and drying process.",
+      "evidence": "With the excellent hydrophilicity of GO, it could effectively prevent the damage of electrode layer caused by capillary force during spin coating and drying process, thus improving the yield to approximately 85%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Graphene Oxide",
+        "yield",
+        "PH 1000",
+        "capillary force"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Spray deposition of silver nanowires (AgNWs) using femtoliter-volume aerosol droplets allows for electrode fabrication without solvent erosion of underlying layers because the droplets dry rapidly in microseconds.",
+      "evidence": "Specifically, the sprayed femtoliter-volume aerosol droplets dry rapidly in microseconds, therefore, the electrode solvent effects little on the underlying layer, avoiding unwanted interactions.",
+      "complexity": "single-hop",
+      "keywords": [
+        "spray coating",
+        "solvent erosion",
+        "AgNWs"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 14949,
+    "completion_tokens": 3096,
+    "total_tokens": 18045
+  }
+}

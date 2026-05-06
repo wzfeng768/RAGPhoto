@@ -1,0 +1,137 @@
+{
+  "paper_id": "Journal_of_Polymer_Science_Part_A_Polymer_Chemistry_-_2017_-_Santos_Silva_-_Oligo_and_poly_fullerene",
+  "paper_title": "Oligo- and Poly(fullerene)s for Photovoltaic Applications: Modeled Electronic Behaviors and Synthesis",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Journal of Polymer Science Part A  Polymer Chemistry - 2017 - Santos Silva - Oligo‐ and poly fullerene s for photovoltaic/auto/Journal of Polymer Science Part A  Polymer Chemistry - 2017 - Santos Silva - Oligo‐ and poly fullerene s for photovoltaic.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Atom transfer radical addition polymerization (ATRAP) is a polycondensation-like method used to synthesize main-chain poly(fullerene)s by reacting C60 with bis-functional comonomers such as 1,4-dibromomethyl-2,5-dialkoxyphenylene.",
+      "evidence": "The atom transfer radical addition polymerization (ATRAP) of fullerene to give poly(fullerene)s (PFs) for organic electronics is explored... PFs and main-chain oligo(fullerene)s can be prepared using this chemistry.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ATRAP",
+        "poly(fullerene)",
+        "C60",
+        "synthesis"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Poly(fullerene)s prepared via ATRAP exhibit electron affinities and LUMO energy levels comparable to fullerene bis-adducts (e.g., bis-PCBM or ICBA), even though the ATRAP process only disrupts a single C60 double bond per monomer unit.",
+      "evidence": "Surprisingly, it is found that PFs should demonstrate electron affinities and LUMO energy levels closer to the bis-derivatives than the monoadducts, even though only one C60 double-bond is used in PF chain formation.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "LUMO",
+        "electron affinity",
+        "bis-adduct",
+        "structure-property"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The molecular weight of poly(fullerene)s synthesized via ATRAP is significantly influenced by side-chain engineering; comonomers with linear -OC16H33 chains yield peak molecular weights (Mp) of approximately 21,000 g/mol, the highest reported for this method.",
+      "evidence": "While comonomers with -OC16H33 linear side-chains lead to the highest known ATRAP molecular weights of 21000 g mol-1.",
+      "complexity": "single-hop",
+      "keywords": [
+        "molecular weight",
+        "side-chain engineering",
+        "solubility"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The presence of 1,4-bis-addition products in poly(fullerene) chains can be identified by a characteristic broad UV-visible absorption peak at approximately 445 nm.",
+      "evidence": "1,4-bis adducts exhibit a broad absorption at around 440 nm... the size of the broad peak at 445 alone is the best indicator of the proportion of 1,4-addition products in the polymer chain.",
+      "complexity": "single-hop",
+      "keywords": [
+        "UV-vis",
+        "1,4-bis adduct",
+        "regioregularity"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Theoretical calculations show that ATRAP-based poly(fullerene)s possess reorganization energies (approximately 220 meV) that are roughly double those of pristine C60 (135 meV), attributed to the influence of the comonomer on charge accommodation.",
+      "evidence": "Generally speaking, ATRAP molecules should have reorganization energies that are around twice those of C60... ATRAP (220.1 meV) vs C60 (135.4 meV).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "reorganization energy",
+        "DFT",
+        "Marcus theory"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Charge transport modeling of ATRAP dimers reveals that the trans configuration exhibits lower electron mobility (2.12 x 10^-7 cm^2 V^-1 s^-1) compared to the cis configuration (1.88 x 10^-6 cm^2 V^-1 s^-1).",
+      "evidence": "it does, however, clearly indicate that the electron mobility is generally lower in trans configurations (Table 3).",
+      "complexity": "single-hop",
+      "keywords": [
+        "electron mobility",
+        "cis-trans isomers",
+        "charge transport"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Soxhlet extraction using acetone followed by n-hexane is the optimal purification strategy for poly(fullerene)s to remove catalyst residues and unreacted C60 while protecting the material from oxygen and UV-induced crosslinking.",
+      "evidence": "Soxhlet extraction was the most appropriate purification technique as it can be performed in the dark and under inert atmosphere... Acetone removed 2,2'-bipyridine, CuBr and CuBr2. A second wash with n-hexane removed unreacted C60.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Soxhlet extraction",
+        "purification",
+        "crosslinking",
+        "stability"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Cyclic voltammetry shows that poly(fullerene)s synthesized via ATRAP (e.g., HSS-12) have a LUMO level of approximately -3.38 eV, which is roughly 0.4 eV higher than that of the standard acceptor PCBM (-3.8 eV).",
+      "evidence": "all LUMO energy levels are higher than that of PCBM by around 0.4 eV... HSS-12f1 (3.38 eV) ... PCBM (3.8 eV).",
+      "complexity": "single-hop",
+      "keywords": [
+        "LUMO",
+        "cyclic voltammetry",
+        "PCBM",
+        "Voc"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The thermal degradation of ATRAP poly(fullerene)s occurs in four distinct steps: residual solvent evaporation (~80 °C), loss of side-chains (~290 °C), C60 release (~380 °C), and loss of bromomethyl groups (~440 °C).",
+      "evidence": "the first differentials of the thermal process show a comparable set of four peaks... first peak, around 80 °C... second, at 290 °C... third peak, around 380 °C... last peak at 440 °C.",
+      "complexity": "single-hop",
+      "keywords": [
+        "TGA",
+        "thermal stability",
+        "degradation mechanism"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "FTIR spectroscopy identifies a fingerprint band at 1064 cm^-1 in ATRAP poly(fullerene)s, which corresponds to the symmetric twisting of the C60-comonomer linkage via methylene bridges.",
+      "evidence": "For HSS12, a band centered at 1064 cm-1... is due to the symmetric twisting of the C60-comonomer groups via the linking methylenes and can be considered as a fingerprint of the polymerization link.",
+      "complexity": "single-hop",
+      "keywords": [
+        "FTIR",
+        "fingerprint",
+        "methylene bridge"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Poly(fullerene)s with -OC12 side-chains (HSS-12) demonstrate superior regioregularity compared to those with shorter or more branched side-chains, as evidenced by the intensity of the 1,4-bis-addition UV-vis absorption signature.",
+      "evidence": "The HSS-12 comonomer gives the strongest evidence of this attack... suggesting that the comonomer with the -OC12 side-chains gives the most regular additions.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "regioregularity",
+        "side-chain effect",
+        "HSS-12"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 15487,
+    "completion_tokens": 4005,
+    "total_tokens": 19492
+  }
+}

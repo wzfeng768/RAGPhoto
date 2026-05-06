@@ -1,0 +1,146 @@
+{
+  "paper_id": "d0tc03326j",
+  "paper_title": "2,3-Thienoimide-ended oligothiophenes as ambipolar semiconductors for multifunctional single-layer light-emitting transistors",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/d0tc03326j/auto/d0tc03326j.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The introduction of a 2,3-thienoimide (TI) group, fully fused to a quaterthiophene core, effectively switches the material behavior from unipolar p-type to ambipolar and electroluminescent.",
+      "evidence": "the insertion of a thienoimide group (TI or N), which is fully fused to the quaterthiophene core, emerged as an alternative and powerful approach to switch from unipolar thiophene-based materials to ambipolar and electroluminescent ones.",
+      "complexity": "single-hop",
+      "keywords": [
+        "2,3-thienoimide",
+        "ambipolar",
+        "quaterthiophene",
+        "electroluminescent"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The symmetric compound NT4N exhibits high charge mobilities of 7 x 10^-3 cm^2 V^-1 s^-1 for holes and 0.55 cm^2 V^-1 s^-1 for electrons.",
+      "evidence": "NT4N showed the best p- and n-type charge mobilities with respect to all non-symmetric compounds, i.e. 7 x 10^-3 cm^2 V^-1 s^-1 and 0.55 cm^2 V^-1 s^-1 for holes and electrons, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "NT4N",
+        "charge mobility",
+        "hole mobility",
+        "electron mobility"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Symmetry in TI-ended oligothiophenes like NT4N leads to a LUMO delocalized over the entire molecule, whereas asymmetric derivatives (T4N, HT4N, FT4N) have LUMOs localized primarily on the TI moiety.",
+      "evidence": "all TI-compounds reported the HOMO to be delocalized over the entire molecule, while the LUMO had high probability to be localized on the TI moiety... Diversely, NT4N showed a LUMO that is delocalized over the entire molecule, which is likely due to the symmetry of the structure.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "LUMO delocalization",
+        "symmetry",
+        "NT4N",
+        "frontier orbitals"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The crystal packing of NT4N deviates from the typical herringbone structure of oligothiophenes, adopting a slipped π-π stacking mode with an interplanar distance of approximately 3.51 Å.",
+      "evidence": "The crystal packing of NT4N molecules was indeed different from the typical herringbone structure of oligothiophenes and consisted of a slipped π-π stacking packing mode with an interplanar distance of about 3.51 Å",
+      "complexity": "single-hop",
+      "keywords": [
+        "crystal packing",
+        "π-π stacking",
+        "NT4N",
+        "interplanar distance"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Modifying the inner core of NT4N with unsaturated bridges like ethylene (NTE) or azomethine (NTI) red-shifts the absorption (to 465 nm and 471 nm respectively), while an ethinyl bridge (NTA) blue-shifts it to 433 nm.",
+      "evidence": "spectroscopic characterization showed an absorption band strongly red-shifted for NTE (465 nm) and NTI (471 nm) while a blue-shift was evidenced for NTA (433 nm) when compared to NT4N (451 nm)",
+      "complexity": "single-hop",
+      "keywords": [
+        "inner core modification",
+        "NTE",
+        "NTI",
+        "NTA",
+        "absorption spectra"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Substituting the quaterthiophene inner core with bithiazole (NTzN) results in purely n-type transport with an electron mobility of 0.16 cm^2 V^-1 s^-1.",
+      "evidence": "NTzN had exclusively n-type charge transport with an electron mobility μe = 0.16 cm^2 V^-1 s^-1",
+      "complexity": "single-hop",
+      "keywords": [
+        "NTzN",
+        "bithiazole",
+        "n-type transport",
+        "electron mobility"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The use of thienothiophene in the inner core (NThTN) enhances electron mobility to 0.3 cm^2 V^-1 s^-1 but results in a significantly lower hole mobility of 6.4 x 10^-5 cm^2 V^-1 s^-1.",
+      "evidence": "NThTN showed an excellent electron charge mobility μe = 0.3 cm^2 V^-1 s^-1 and hole charge mobility μh = 6.4 x 10^-5 cm^2 V^-1 s^-1.",
+      "complexity": "single-hop",
+      "keywords": [
+        "NThTN",
+        "thienothiophene",
+        "electron mobility",
+        "hole mobility"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Increasing the alkyl side chain length from C3 to C8 in NT4N derivatives enhances the electroluminescence intensity in OLET devices, with C8-NT4N providing the most balanced ambipolar transport.",
+      "evidence": "Interestingly, C8-NT4N showed the most balanced ambipolar charge transport characteristics. Despite significant variations in thin-film structural arrangement and charge mobility not being observed among NT4N-derivatives, a slight increase of the electroluminescence intensity was reported on the increasing tail length from C3 to C8.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "side chain engineering",
+        "C8-NT4N",
+        "electroluminescence",
+        "ambipolar balance"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Organic light-emitting transistors (OLETs) allow for the horizontal movement of the emission stripe within the channel by controlling gate and drain voltages, which helps reduce exciton quenching at the metal electrodes.",
+      "evidence": "the presence of a third electrode (gate) enables a control on two perpendicularly oriented electric fields... it is therefore possible to horizontally move the emission stripe within the transistor channel, thus reducing exciton quenching processes at the electrodes",
+      "complexity": "single-hop",
+      "keywords": [
+        "OLET",
+        "gate control",
+        "emission zone",
+        "exciton quenching"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "High-energy LUMO levels in organic semiconductors make injected electrons susceptible to reactions with oxygen or water, affecting the ambient stability of n-type materials.",
+      "evidence": "if the lowest unoccupied molecular orbital (LUMO) has high energy, the electron residing in the LUMO is prone to react with O2 or H2O. It follows that... molecules might also be not very stable under ambient conditions.",
+      "complexity": "single-hop",
+      "keywords": [
+        "LUMO energy",
+        "ambient stability",
+        "n-type stability",
+        "oxidation"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Conformational polymorphism in NT4N derivatives is carbon-number dependent; even-numbered alkyl substituents allow for both Phase A (columnar stacks) and Phase B (brick wall) packing, while odd-numbered substituents exclusively form Phase B.",
+      "evidence": "NT4N including odd alkyl substituents in TIs displayed exclusively syn–anti–syn conformation and B-type packaging. Diversely, the use of even alkyl substituents in TIs allowed the conformational polymorphism of NT4N.",
+      "complexity": "single-hop",
+      "keywords": [
+        "polymorphism",
+        "alkyl chain length",
+        "Phase A",
+        "Phase B",
+        "molecular packing"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 12889,
+    "completion_tokens": 3924,
+    "total_tokens": 16813
+  }
+}

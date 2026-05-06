@@ -1,0 +1,75 @@
+{
+  "paper_id": "Adv_Funct_Materials_-_2023_-_Hua_-_Constructing_HighEfficiency_OrangeRed_Thermally_Activated_Delayed",
+  "paper_title": "Constructing High-Efficiency Orange-Red Thermally Activated Delayed Fluorescence Polymers by Excited State Energy Levels Regulation via Backbone Engineering",
+  "qa_pairs": [
+    {
+      "question": "What are the specific chemical units used to construct the joint backbone and the emitting unit of the orange-red TADF polymers in this study?",
+      "answer": "The orange-red TADF polymers are constructed using dibenzothiophene (DBT) and carbazole (Cz) units as a joint backbone, while naphthalimide-dimethylacridine (NAI-DMAc) is utilized as the TADF emitting unit.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Constructing High-Efficiency Orange-Red Thermally Activated Delayed Fluorescence Polymers by Excited State Energy Levels Regulation via Backbone Engineering",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What is the maximum external quantum efficiency (EQEmax) of the pNAI3705 polymer, and how does its efficiency change at a luminance of 500 cd/m²?",
+      "answer": "The pNAI3705 polymer achieves a maximum external quantum efficiency (EQEmax) of 20.16%. At a luminance of 500 cd/m², it maintains an EQE of 10.61%, indicating the degree of efficiency roll-off.",
+      "category": "Performance Metrics",
+      "source_title": "Constructing High-Efficiency Orange-Red Thermally Activated Delayed Fluorescence Polymers by Excited State Energy Levels Regulation via Backbone Engineering",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the connection position of the dibenzothiophene (DBT) unit (3,7-linked vs. 2,8-linked) influence the HOMO distribution in the pNAI polymer series?",
+      "answer": "The connection position significantly impacts the HOMO distribution: in the 3,7-linked pNAI37 series, the HOMO is more widely stretched across the joint backbone. Conversely, in the 2,8-linked pNAI28 series, the HOMO is more twisted and localized, with a significant contribution coming from the sulfur atom in the DBT unit.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Constructing High-Efficiency Orange-Red Thermally Activated Delayed Fluorescence Polymers by Excited State Energy Levels Regulation via Backbone Engineering",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Explain how the energy level alignment between the singlet charge transfer state (¹CT) and the localized triplet state (³LE) affects the reverse intersystem crossing (RISC) in the pNAI37 series.",
+      "answer": "The pNAI37 series facilitates a more efficient RISC process because it possesses a smaller energy gap between the ¹CT and ³LE states compared to the pNAI28 series. The ³LE state acts as a mediator, helping excitons spin-flip from the triplet state back to the singlet state.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Constructing High-Efficiency Orange-Red Thermally Activated Delayed Fluorescence Polymers by Excited State Energy Levels Regulation via Backbone Engineering",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What specific OLED device architecture and host material were used to evaluate the performance of the pNAI TADF polymers?",
+      "answer": "The solution-processed OLED architecture used is ITO / PEDOT:PSS (30 nm) / Doped Emitter (40 nm) / TmPyPB (60-70 nm) / LiF (0.9 nm) / Al (130 nm). The emitting layer consists of 10 wt% of the TADF polymer doped into a 9H-carbazole-3-carbonitrile (mCP-CN) host to balance carrier injection and transport.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Constructing High-Efficiency Orange-Red Thermally Activated Delayed Fluorescence Polymers by Excited State Energy Levels Regulation via Backbone Engineering",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What evidence from temperature-dependent photoluminescence studies confirms the thermally activated delayed fluorescence nature of pNAI3705?",
+      "answer": "The TADF nature was confirmed by temperature-dependent transient photoluminescence decay, which showed that the reverse intersystem crossing rate (kRISC) is temperature-sensitive, increasing from 1.44 × 10^5 s⁻¹ at 77 K to 7.20 × 10^5 s⁻¹ at 300 K.",
+      "category": "Characterization Methods",
+      "source_title": "Constructing High-Efficiency Orange-Red Thermally Activated Delayed Fluorescence Polymers by Excited State Energy Levels Regulation via Backbone Engineering",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the backbone configuration of the pNAI37 series contribute to its higher photoluminescence quantum yield (PLQY) compared to the pNAI28 series?",
+      "answer": "The pNAI37 series features a more stretched backbone configuration that provides a larger space occupation volume. This structure effectively inhibits the aggregation of polymer chains, which reduces aggregation-induced quenching of triplet excitons and results in a higher PLQY.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Constructing High-Efficiency Orange-Red Thermally Activated Delayed Fluorescence Polymers by Excited State Energy Levels Regulation via Backbone Engineering",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What are the reported thermal stability parameters (Td and Tg) for the synthesized orange-red TADF polymers?",
+      "answer": "The polymers exhibit high thermal stability with decomposition temperatures (Td) exceeding 400 °C and glass transition temperatures (Tg) ranging between 90 and 156 °C.",
+      "category": "Stability & Degradation",
+      "source_title": "Constructing High-Efficiency Orange-Red Thermally Activated Delayed Fluorescence Polymers by Excited State Energy Levels Regulation via Backbone Engineering",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2811,
+    "completion_tokens": 2965,
+    "total_tokens": 5776
+  }
+}

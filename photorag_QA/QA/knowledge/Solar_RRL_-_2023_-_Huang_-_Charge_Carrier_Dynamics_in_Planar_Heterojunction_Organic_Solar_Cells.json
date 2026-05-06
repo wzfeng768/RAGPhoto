@@ -1,0 +1,144 @@
+{
+  "paper_id": "Solar_RRL_-_2023_-_Huang_-_Charge_Carrier_Dynamics_in_Planar_Heterojunction_Organic_Solar_Cells",
+  "paper_title": "Charge Carrier Dynamics in Planar Heterojunction Organic Solar Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Solar RRL - 2023 - Huang - Charge Carrier Dynamics in Planar Heterojunction Organic Solar Cells/auto/Solar RRL - 2023 - Huang - Charge Carrier Dynamics in Planar Heterojunction Organic Solar Cells.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The ionization energy (IE) and electron affinity (EA) of the non-fullerene acceptors ITIC, IT-2Cl, and IT-4Cl can be systematically tuned via terminal functional group chlorination, resulting in IE values of -5.67 eV, -5.73 eV, and -5.77 eV, respectively.",
+      "evidence": "As presented in Figure 1c, the IE/EA of PM6, IT-4Cl, IT-2Cl, and ITIC are -5.22/-3.4 eV, -5.77/-4.26 eV, -5.73/-4.18 eV and -5.67/-4.07 eV respectively, enabling a cascaded IE ranging from 0.45 to 0.55 eV.",
+      "complexity": "single-hop",
+      "keywords": [
+        "chlorination",
+        "ITIC derivatives",
+        "ionization energy",
+        "electron affinity"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The PM6/IT-4Cl planar heterojunction (PHJ) solar cell achieved a power conversion efficiency (PCE) of 12.1%, which is higher than the efficiencies of PM6/IT-2Cl (11.3%) and PM6/ITIC (8.2%) PHJ devices.",
+      "evidence": "The PM6/IT-4Cl PHJ device exhibits a PCE of 12.1%... The doublechlorine substitution in the PM6/IT-2Cl PHJ device results in a slightly lower PCE of 11.3%... The PM6/ITIC device yielded only a modest PCE of 8.2%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "planar heterojunction",
+        "PM6",
+        "IT-4Cl"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "An ionization energy (IE) offset of approximately 0.5 eV between the donor and acceptor is required in planar heterojunction organic solar cells to ensure efficient exciton-to-charge-transfer (CT)-state conversion and subsequent free charge generation.",
+      "evidence": "We conclude that in PHJ an IE offset of ≈ 0.5 eV is required for efficient exciton-to-CT-state conversion similar to BHJ OSCs.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "IE offset",
+        "charge generation",
+        "hole transfer",
+        "CT-state"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Planar heterojunction (PHJ) organic solar cells typically exhibit higher open-circuit voltages (Voc) than their bulk heterojunction (BHJ) counterparts, often by approximately 20 mV, due to reduced donor-acceptor interface area which limits recombination.",
+      "evidence": "In particular, the open-circuit voltage (Voc) of the PHJ OSCs was higher (≈ 20 mV) compared to that of BHJ OSCs... which may stem from the reduced donor-acceptor interfaces in the bilayer structure.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Voc",
+        "PHJ",
+        "BHJ",
+        "interface area"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "High-quality planar heterojunction films can be fabricated using orthogonal solvents such as chloroform (CF) for the donor layer and dichloromethane (DCM) for the acceptor layer to prevent the washing away of the underlying polymer layer.",
+      "evidence": "the PHJ OSCs PM6/IT-4Cl, PM6/IT-2Cl, and PM6/ITIC were fabricated using orthogonal solvents, namely, chloroform (CF) and dichloromethane (DCM). ... the PM6 layer was washed away when CF was used [for the top layer].",
+      "complexity": "single-hop",
+      "keywords": [
+        "orthogonal solvents",
+        "sequential deposition",
+        "bilayer",
+        "chloroform"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Hole transfer efficiency from the non-fullerene acceptor to the donor can be quantified using time-resolved photoluminescence (TRPL) by measuring the photoluminescence quenching efficiency (PLQE) of the acceptor's singlet exciton lifetime.",
+      "evidence": "In NFA-based systems, PLQE is a measure of the hole transfer efficiency... PLQ efficiencies of 80.4%, 76.4%, and 73.1% were attained for PM6/IT-4Cl, PM6/IT-2Cl, and PM6/ITIC, respectively.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "TRPL",
+        "PLQE",
+        "hole transfer efficiency",
+        "singlet exciton"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Increased ionization energy (IE) offsets in PM6/ITIC-derivative systems correlate with suppressed triplet state generation, as observed through transient absorption spectroscopy (TAS) where the triplet-induced absorption band at ~1 eV is absent in the high-offset PM6/IT-4Cl system.",
+      "evidence": "Notably, the TA spectra of all neat films showed the presence of triplet exciton-induced absorption at around 1eV, which is absent only in PM6/IT-4Cl bilayers.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "triplet generation",
+        "TAS",
+        "IE offset",
+        "recombination"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Free charge carrier generation efficiency (f) increases with the ionization energy offset, reaching 97% for PM6/IT-4Cl (0.55 eV offset) compared to only 66% for PM6/ITIC (0.45 eV offset).",
+      "evidence": "TAS measurements showed that the subsequent free charge generation efficiency was 97% for PM6/IT-4Cl, 89% for PM6/IT-2Cl, and 66% for PM6/ITIC.",
+      "complexity": "single-hop",
+      "keywords": [
+        "free charge generation",
+        "f",
+        "TAS",
+        "IT-4Cl"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Charge carrier mobilities in planar heterojunction (PHJ) devices are generally higher than in bulk heterojunction (BHJ) devices; for PM6/IT-4Cl PHJ, the electron mobility (μe) and hole mobility (μh) were 3.90 × 10^-4 and 2.28 × 10^-4 cm^2 V^-1 s^-1, respectively.",
+      "evidence": "Interestingly, the hole and electron mobilities of the PHJ OSCs are slightly higher than that of the BHJ OSCs... the μe and μh of PM6/IT-4Cl are 3.90 × 10^-4 and 2.28 × 10^-4 cm^2 V^-1 s^-1.",
+      "complexity": "single-hop",
+      "keywords": [
+        "charge carrier mobility",
+        "SCLC",
+        "PHJ",
+        "electron mobility"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Grazing-incidence wide-angle X-ray scattering (GIWAXS) analysis reveals that PM6/IT-4Cl films possess a smaller π-π stacking distance and longer crystalline coherence length (CCL) compared to BHJ films, indicating enhanced molecular ordering.",
+      "evidence": "the π-π stacking distance in PM6/IT-4Cl films is smaller, indicating improved crystallinity... the CCL of the bilayer film is longer than that of the BHJs.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "π-π stacking",
+        "crystallinity",
+        "CCL"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Bimolecular recombination in these PHJ systems follows a dispersive model, where the dispersion parameter (γ) is closer to unity (0.99) for PM6/IT-4Cl, suggesting fewer trap states compared to the PM6/ITIC system (γ = 0.75).",
+      "evidence": "we obtained dispersion parameters (γ) of 0.99 for PM6/IT-4Cl, 0.91 for PM6/IT-2Cl, and 0.75 for PM6/ITIC. ... a closer-to-unity dispersive parameter and a faster time constant imply fewer traps in the PM6/IT-4Cl.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "bimolecular recombination",
+        "dispersion parameter",
+        "trap states",
+        "photo-CELIV"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 13317,
+    "completion_tokens": 2971,
+    "total_tokens": 16288
+  }
+}

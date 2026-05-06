@@ -1,0 +1,133 @@
+{
+  "paper_id": "c7tc04750a",
+  "paper_title": "2D expanded conjugated polymers with non-fullerene acceptors for efficient polymer solar cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/c7tc04750a/auto/c7tc04750a.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The polymers PBDTTz-BP and PBDTTz-N utilize a 2D-expanded conjugation strategy by appending biphenyl and naphthalenyl groups, respectively, to the benzo[1,2-b:4,5-b']dithiophene (BDT) unit.",
+      "evidence": "Biphenyl and naphthalenyl groups are appended to the BDT unit to extend the conjugation length, respectively. ... we have developed two benzodithiophene (BDT)–benzotriazole alternative copolymers PBDTTz-BP and PBDTTz-N.",
+      "complexity": "single-hop",
+      "keywords": [
+        "benzodithiophene",
+        "2D conjugation",
+        "biphenyl",
+        "naphthalenyl",
+        "side chain engineering"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "A polymer solar cell based on the PBDTTz-BP:ITIC blend achieved a maximum power conversion efficiency (PCE) of 8.03%, with an open-circuit voltage (Voc) of 0.81 V and a short-circuit current (Jsc) of 17.74 mA cm⁻².",
+      "evidence": "For PBDTTz-BP, a maximum PCE of 8.03% was achieved with a Voc of 0.81 V, a Jsc of 17.74 mA cm−2 and an FF of 0.56.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "Voc",
+        "Jsc",
+        "PBDTTz-BP",
+        "ITIC"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "PBDTTz-BP and PBDTTz-N exhibit wide optical bandgaps of 1.93 eV and 1.95 eV, respectively, which are complementary to the absorption of the non-fullerene acceptor ITIC.",
+      "evidence": "The optical band gaps are calculated to be 1.93 eV (PBDTTz-BP) and 1.95 eV (PBDTTz-N) from the absorption onset, which is complementary to the absorption of ITIC.",
+      "complexity": "single-hop",
+      "keywords": [
+        "optical bandgap",
+        "PBDTTz-BP",
+        "PBDTTz-N",
+        "absorption"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Grazing incident wide-angle X-ray diffraction (GIWAXS) analysis shows that both PBDTTz-BP and PBDTTz-N prefer a face-on orientation relative to the substrate, with (010) diffraction peaks located at qz ≈ 1.63 Å⁻¹ and qz ≈ 1.61 Å⁻¹, respectively.",
+      "evidence": "PBDTTz-BP shows an obvious (010) diffraction peak located at qz ≈ 1.63 Å−1, indicating a strong preference for the face-on orientation... Similarly, PBDTTz-N exhibits a (010) peak at qz ≈ 1.61 Å−1 in the out-of-plane direction.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "face-on orientation",
+        "crystallinity",
+        "pi-pi stacking"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The addition of 1% chloronaphthalene (CN) as a processing additive in PBDTTz-BP:ITIC devices led to a reduction in PCE from 8.03% to 6.99% due to an increase in series resistance (Rs) and a decrease in short-circuit current (Jsc).",
+      "evidence": "As CN was used as processing additive, the PCE is reduced to 6.99%. ... it is observed that the addition of CN can induce the increase of Rs and reduction of Rsh in spite of retention of the FF value, which would reduce the Jsc of the device.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "chloronaphthalene",
+        "processing additive",
+        "series resistance",
+        "Jsc"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The HOMO energy level of PBDTTz-BP is -5.25 eV (measured by CV) or -5.11 eV (measured by UPS), which is slightly lower than that of PBDTTz-N (-5.23 eV CV / -5.01 eV UPS), contributing to a higher Voc in PBDTTz-BP devices.",
+      "evidence": "The HOMO level of PBDTTz-BP was determined to be -5.25 eV, which is slightly lower than the HOMO level of PBDTTz-N (-5.23 eV). ... According to the UPS results, the HOMO energy levels of PBDTTz-BP and PBDTTz-N were -5.11 eV and -5.01 eV, respectively.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "HOMO",
+        "Voc",
+        "CV",
+        "UPS",
+        "energy levels"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "PBDTTz-BP:ITIC blend films exhibit more balanced hole and electron mobilities (1.32 x 10⁻⁴ and 0.38 x 10⁻⁴ cm² V⁻¹ s⁻¹) compared to PBDTTz-N:ITIC, leading to a higher fill factor (FF) of 0.56.",
+      "evidence": "The hole (μh)/electron (μe) mobilities of PBDTTz-BP:ITIC are 1.32 × 10−4/0.38 × 10−4 cm2 V−1 s−1 for a pristine blend film... It is observed that PBDTTz-BP:ITIC shows more balanced hole/electron mobilities than PBDTTz-N:ITIC... As a result, the PBDTTz-BP:ITIC blend exhibits a higher FF value.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "carrier mobility",
+        "SCLC",
+        "fill factor",
+        "charge transport"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "PBDTTz-BP and PBDTTz-N demonstrate high thermal stability with decomposition temperatures (Td) of 370 °C and 389 °C, respectively, as determined by thermogravimetric analysis (TGA).",
+      "evidence": "The decomposition temperatures were 370 °C and 389 °C for PBDTTz-BP and PBDTTz-N, respectively, which indicate that both polymers are stable for photovoltaic device fabrication.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "TGA",
+        "decomposition temperature"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Density functional theory (DFT) calculations confirm that PBDTTz-BP has a slightly lower HOMO level (-4.92 eV) than PBDTTz-N (-4.90 eV), supporting the experimental electrochemical and UPS data.",
+      "evidence": "Comparatively, PBDTTz-BP exhibits a slightly lower HOMO level than PBDTTz-N (−4.92 eV vs. −4.90 eV), which is consistent with the CV and UPS experimental results.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DFT",
+        "HOMO",
+        "theoretical calculation"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The conventional device architecture used for these non-fullerene polymer solar cells is ITO/PEDOT:PSS/polymer:ITIC/Ca/Al, with active layers spin-coated from hot chlorobenzene solution.",
+      "evidence": "fullerene-free polymer solar cell devices were fabricated with the conventional architecture of indium–tin oxide (ITO)/poly(3,4-ethylenedioxythiophene):poly(styrenesulfonate) (PEDOT:PSS)/polymer:ITIC/Ca/Al. All the active layers are spincoated from a hot chlorobenzene solution.",
+      "complexity": "single-hop",
+      "keywords": [
+        "device architecture",
+        "ITO",
+        "PEDOT:PSS",
+        "chlorobenzene"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 9789,
+    "completion_tokens": 3279,
+    "total_tokens": 13068
+  }
+}

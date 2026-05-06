@@ -1,0 +1,70 @@
+# PhotoRAG QA Extractor Configuration
+# Copy this file to config.yaml and customize as needed
+
+# LLM API Configuration
+llm:
+  # API endpoint (OpenAI-compatible)
+  base_url: ""
+
+  # API key - fill in your key here directly
+  api_key: ""
+
+  # Model to use
+  model: "gemini-3-flash-preview"
+
+  # Generation parameters
+  temperature: 0.7
+  max_tokens: 200000
+
+  # Request settings
+  timeout: 120
+  retry_attempts: 3
+  retry_delay: 5
+
+# Pipeline Configuration
+pipeline:
+  # Input directory containing markdown files
+  input_dir: "/home/wzfeng/MySearch/PhotoRag/MD"
+
+  # Output directory for results
+  output_dir: "/home/wzfeng/MySearch/PhotoRag/QA"
+
+  # Processing batch size
+  batch_size: 10
+
+  # Checkpoint save interval (papers)
+  checkpoint_interval: 5
+
+# QA Generation Settings
+qa_settings:
+  # Target QA pairs per paper
+  min_qa_per_paper: 4
+  max_qa_per_paper: 8
+
+  # Enable cross-document QA generation
+  enable_cross_doc: true
+
+  # Number of papers to sample for cross-doc QA
+  cross_doc_sample_size: 20
+
+# Knowledge Categories
+categories:
+  - "Materials Design & Synthesis"
+  - "Performance Metrics"
+  - "Structure-Property Relationships"
+  - "Device Architecture & Physics"
+  - "Processing & Fabrication"
+  - "Characterization Methods"
+  - "Stability & Degradation"
+  - "Computational & Machine Learning"
+
+# Monitoring Configuration
+monitoring:
+  # Show live log in console
+  show_live_log: true
+
+  # Log file path
+  log_file: "/home/wzfeng/MySearch/PhotoRag/QA/qa_extractor.log"
+
+  # Save token statistics
+  save_token_stats: true

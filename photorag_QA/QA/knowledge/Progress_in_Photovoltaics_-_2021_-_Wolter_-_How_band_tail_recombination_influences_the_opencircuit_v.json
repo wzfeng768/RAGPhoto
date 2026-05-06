@@ -1,0 +1,156 @@
+{
+  "paper_id": "Progress_in_Photovoltaics_-_2021_-_Wolter_-_How_band_tail_recombination_influences_the_opencircuit_v",
+  "paper_title": "How band tail recombination influences the open-circuit voltage of solar cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Progress in Photovoltaics - 2021 - Wolter - How band tail recombination influences the open‐circuit voltage of solar cells/auto/Progress in Photovoltaics - 2021 - Wolter - How band tail recombination influences the open‐circuit voltage of solar cells.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Alkali post-deposition treatments (PDT) using heavier elements such as potassium (K), rubidium (Rb), and cesium (Cs) have enabled record power conversion efficiencies in CIGSe solar cells, reaching up to 23.35%.",
+      "evidence": "the recent increases in efficiency from 20.3% in 2011 to the current record efficiency of 23.35% in early 2019 are due to the usage of the heavier alkali elements such as K, Rb, and Cs.",
+      "complexity": "single-hop",
+      "keywords": [
+        "CIGSe",
+        "alkali post-deposition treatment",
+        "power conversion efficiency",
+        "rubidium"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "State-of-the-art CIGSe solar cells demonstrate open-circuit voltages (Voc) ranging from approximately 0.58 V to 0.72 V, depending on the alkali treatment and the bandgap energy (Eg), which varies between 1.00 eV and 1.15 eV.",
+      "evidence": "Table 1 summarizes important selected sample properties... Voc /V [ranges from 0.581 to 0.716]... Eg/eV [ranges from 1.000 to 1.148].",
+      "complexity": "single-hop",
+      "keywords": [
+        "open-circuit voltage",
+        "bandgap",
+        "CIGSe",
+        "efficiency"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The incorporation of alkali atoms (Na and Rb) into CIGSe absorbers significantly reduces the Urbach energy (EU), with heavier alkali species like Rb providing a stronger reduction in band tailing compared to Na alone.",
+      "evidence": "These results thus clearly reveal a strong influence of the alkali atoms on the band tails: A reduction of the Urbach energy in the CIGSe absorber that contains Na (L2) compared to the one that does not contain any alkalis (L3). In addition, the presence of the heavier alkali atoms Rb (L1) leads to an additional decrease of the Urbach energy.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Urbach energy",
+        "band tails",
+        "alkali atoms",
+        "disorder"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "While band tails in CIGSe generally decrease with an increasing [Cu]/([Ga]+[In]) (CGI) ratio, the application of alkali post-deposition treatments has a more dominant effect on reducing Urbach energy than the stoichiometry (CGI ratio) itself.",
+      "evidence": "the presence of alkali atoms in the absorbers influences the band tails more than the CGI ratio.",
+      "complexity": "single-hop",
+      "keywords": [
+        "CGI ratio",
+        "stoichiometry",
+        "Urbach energy",
+        "alkali treatment"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "There is a universal empirical linear relationship between the open-circuit voltage deficit (VocSQ - Voc) and the Urbach energy across diverse solar cell technologies, including GaAs, c-Si, perovskites, CdTe, and CIGSe.",
+      "evidence": "The data in Figure 4 exhibit a reduction of the voltage losses with decreasing Urbach energies... an empiric trend (gray dashed line) is observable that suggests that the voltage losses are caused by the Urbach tails.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "voltage deficit",
+        "Shockley-Queisser limit",
+        "Urbach energy",
+        "universal trend"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Band tails increase radiative recombination losses because charge carriers thermalize into sub-bandgap tail states, which increases the radiative equilibrium recombination rate according to the principle of detailed balance.",
+      "evidence": "Radiative recombination is increased because carriers thermalize into the tail states and nonradiative recombination of free carriers in the bands is increased because of Shockley-Read-Hall recombination through the tail states.",
+      "complexity": "single-hop",
+      "keywords": [
+        "radiative recombination",
+        "thermalization",
+        "detailed balance",
+        "tail states"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Theoretical modeling indicates that an increase in Urbach energy of only 1 meV results in an open-circuit voltage loss of approximately 10 mV, split roughly equally between additional radiative and nonradiative (SRH) recombination.",
+      "evidence": "through the models, we demonstrate that, in fact, an increase in Urbach energy of only 1 meV leads to an increase in voltage loss as high as 10 mV. The modeled contributions of radiative and nonradiative recombination to the additional voltage loss are about 5 mV each.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "voltage loss",
+        "Urbach energy",
+        "SRH recombination",
+        "radiative recombination"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Urbach energy (EU) can be accurately extracted from the low-energy slope of the absorption coefficient (α) determined via room-temperature photoluminescence (PL) spectroscopy using Planck’s generalized law.",
+      "evidence": "Extracting the absorption coefficient from photoluminescence spectra recorded at room temperature involves determining the QFLS and the absorptivity from the PL spectra, by analyzing them in terms on Planck's generalized law. An exponential fit to the low-energy slope... then enables us to extract the Urbach energy EU.",
+      "complexity": "single-hop",
+      "keywords": [
+        "photoluminescence",
+        "absorption coefficient",
+        "Planck's law",
+        "Urbach energy"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "In high-efficiency CIGSe devices, the difference between the quasi-Fermi level splitting (QFLS) of the absorber and the Voc of the finished device is typically less than 10 mV, suggesting recombination occurs primarily in the quasi-neutral region rather than the space-charge region.",
+      "evidence": "We have already previously demonstrated that the difference between QFLS and Voc is very small (below 10 mV) in state-of-the-art Cu(ln,Ga)Se2 devices. This observation indicates that the recombination mechanisms leading to the Voc loss occur in the quasi-neutral region of the absorber, not in the space-charge region.",
+      "complexity": "single-hop",
+      "keywords": [
+        "quasi-Fermi level splitting",
+        "QFLS",
+        "recombination",
+        "space-charge region"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Experimental Voc losses in solar cells are approximately twice as high as predicted by standard radiative and Shockley-Read-Hall (SRH) models of band tail recombination, implying additional nonradiative channels such as tunneling near charged defects.",
+      "evidence": "The comparison between the measured data and the calculated losses indicates that band tails lead to about a factor of 2 more Voc loss than expected from radiative and SRH recombination processes... One possible nature of this additional channel could be nonlocal recombination processes through tails that involve tunneling of electrons and holes.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "nonradiative recombination",
+        "tunneling",
+        "SRH",
+        "voltage loss"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Alkali post-deposition treatment involves the deposition of alkali fluorides onto the surface of a CIGSe absorber after growth, followed by heating to allow the alkali atoms to diffuse into the bulk material.",
+      "evidence": "The alkali PDT is a process where alkali fluorides are deposited onto the surface of the absorber after growth. When done at elevated temperatures, the alkali atoms can diffuse into the absorber.",
+      "complexity": "single-hop",
+      "keywords": [
+        "alkali fluoride",
+        "post-deposition treatment",
+        "diffusion",
+        "CIGSe"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Electrostatic potential fluctuations, which contribute to Urbach tailing in CIGSe, arise from the random distribution of charged defects in the compensated Cu-poor semiconductor material.",
+      "evidence": "Electrostatic potential fluctuations arise from local inhomogeneities of charged defects, which is a consequence of Cu-poor (i.e., state of the art) ClGSe being a compensated semiconductor. The randomly distributed charged defects exert a Coulomb potential onto the charge carriers in the bands, leading to fluctuations of the bands.",
+      "complexity": "single-hop",
+      "keywords": [
+        "electrostatic potential fluctuations",
+        "charged defects",
+        "compensated semiconductor",
+        "disorder"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 13432,
+    "completion_tokens": 4023,
+    "total_tokens": 17455
+  }
+}

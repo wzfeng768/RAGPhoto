@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+*.egg
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Database files (too large for git; rebuild via docker compose)
+data_pipeline/config/milvus_data/
+data_pipeline/milvus_data/
+
+# Evaluation result data (large JSON files)
+evaluation/results/
+
+# Codex / Claude local state
+.codex
+.claude/
+**/codex.sqlite3*
+**/secret_key
+
+# Cache and log directories (any location)
+**/cache/
+**/config/logs/
+
+# Large exported data
+kg_export.json
+kg_export_full.json
+pm6_relations_report.txt

@@ -1,0 +1,143 @@
+{
+  "paper_id": "Advanced_Materials_-_2016_-_Guo_-_A_VinyleneBridged_PerylenediimideBased_Polymeric_Acceptor_Enabling",
+  "paper_title": "A Vinylene-Bridged Perylenediimide-Based Polymeric Acceptor Enabling Efficient All-Polymer Solar Cells Processed under Ambient Conditions",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Materials - 2016 - Guo - A Vinylene‐Bridged Perylenediimide‐Based Polymeric Acceptor Enabling Efficient/auto/Advanced Materials - 2016 - Guo - A Vinylene‐Bridged Perylenediimide‐Based Polymeric Acceptor Enabling Efficient.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "PDI-V is a polymeric acceptor designed with vinylene linkers between PDI units to reduce steric hindrance at the PDI bay region, thereby increasing backbone planarity and π–π stacking ability.",
+      "evidence": "Our main design rationale is to improve the planarity of the polymer backbone by reducing the steric hindrance near the bay region of PDI, which should increase the π-π stacking ability of the polymer backbone and thus enhancing electron transport. With such a design guideline, a new polymer, PDI-V, composed of PDI units joined by vinylene linkers is synthesized.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PDI-V",
+        "vinylene linker",
+        "backbone planarity",
+        "steric hindrance"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "All-polymer solar cells using PTB7-Th as the donor and PDI-V as the acceptor achieved a peak power conversion efficiency (PCE) of 7.57%, with an open-circuit voltage (Voc) of 0.74 V, a short-circuit current (Jsc) of 15.9 mA/cm², and a fill factor (FF) of 0.63.",
+      "evidence": "The current density-voltage curve of a representative PTB7-Th:PDI-V cell illustrated in Figure 3a presenting a PCE of 7.57% with Voc = 0.74 V, Jsc = 15.9 mA cm-2, and FF = 0.63.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "7.57%",
+        "PTB7-Th",
+        "all-polymer solar cell"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "PDI-V based solar cells exhibit high tolerance to ambient processing, maintaining a PCE of 7.49% when fabricated in air with 90% humidity without encapsulation.",
+      "evidence": "The devices fabricated in ambient air with humidity of 90% without encapsulation still afford PCEs as high as 7.49% ... the photovoltaic performance of the PTB7-Th:PDI-V device is relatively insensitive to the oxygen and water levels in air.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ambient stability",
+        "humidity",
+        "90% humidity",
+        "non-encapsulated"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "DFT calculations indicate that the PDI-V backbone is highly planar, with dihedral angles between adjacent PDI units ranging from only 2° to 9°, significantly lower than the 50° to 70° angles observed in PDI-thiophene copolymers.",
+      "evidence": "Specifically, the dihedral angle between the adjacent PDIs ranges from 2° to 9°... Twisting angle between two adjacent PDI in poly(PDI-thiophene) backbone was estimated to be about 50° to 70°.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "DFT",
+        "dihedral angle",
+        "coplanarity",
+        "backbone"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "PDI-V possesses a LUMO level of -4.03 eV and an optical bandgap of 1.74 eV, which is determined from an absorption onset at 714 nm.",
+      "evidence": "An optical bandgap of 1.74 eV is estimated for the polymer based on the absorption onset at 714 nm... the lowest unoccupied molecular orbital (LUMO) level of PDI-V is determined to be -4.03 eV.",
+      "complexity": "single-hop",
+      "keywords": [
+        "LUMO",
+        "bandgap",
+        "1.74 eV",
+        "-4.03 eV"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The electron mobility of PDI-V thin films, measured via the space-charge-limited-current (SCLC) method, is approximately 1.5 x 10^-3 cm² V^-1 s^-1, which is comparable to fullerene derivatives like PCBM.",
+      "evidence": "the electron mobility of the PDI-V film was estimated to about 1.5 × 10^-3 cm² V^-1 s^-1, which is on the same order with fullerene derivatives such as PCBM.",
+      "complexity": "single-hop",
+      "keywords": [
+        "electron mobility",
+        "SCLC",
+        "PDI-V"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "High-performance PTB7-Th:PDI-V devices do not require solvent additives (such as DIO or CN) or post-annealing treatments, which simplifies large-scale production compared to other polymer systems.",
+      "evidence": "This high efficiency was achieved from pristine polymer-blend films processed without using the additives, nor was post-annealing treatment needed. ... Processing using different D/A weight ratio or solvent additives such as 1,8-diiodooctane and 1-chloronaphthalene resulted in lower PCEs.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "additive-free",
+        "annealing-free",
+        "processing",
+        "large-scale"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "PTB7-Th:PDI-V blend films show efficient charge transfer, evidenced by photoluminescence (PL) quenching of over 95% and balanced charge transport with a hole/electron mobility ratio of 3.1.",
+      "evidence": "Blending PDI-V with PTB7-Th results in fluorescence quenching of over 95%... The hole and electron mobilities were calculated to be 1.3 × 10^-3 and 4.2 × 10^-4 cm² V^-1 s^-1 respectively, corresponding to a reasonably balanced charge transport (μh/μe = 3.1).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "PL quenching",
+        "charge transport",
+        "mobility ratio",
+        "95% quenching"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS characterization of PDI-V films reveals a strong (001) backbone peak at q = 0.77 Å^-1, indicating high structural regularity and a backbone orientation predominantly in the plane of the film.",
+      "evidence": "Another strong feature that appears in the GIWAXS 2-D pattern is a well-defined (001)-like peak at q = 0.77 Å^-1 that corresponds to the polymer backbone. The observed texture indicates that the backbone direction is predominantly in the plane of the film.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "backbone peak",
+        "structural regularity",
+        "crystallinity"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The PTB7-Th:PDI-V blend forms an interpenetrating network with small domain sizes of 10–20 nm, as confirmed by AFM phase and TEM imaging.",
+      "evidence": "The AFM phase image and TEM image show that the domain size of the pristine PTB7-Th:PDI-V blend film is about 10-20 nm which is similar to that of high-performance N2200-based BHJ blends.",
+      "complexity": "single-hop",
+      "keywords": [
+        "domain size",
+        "AFM",
+        "TEM",
+        "morphology"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "PDI-V is synthesized via Stille polymerization using a regioisomer mixture of 1,6- and 1,7-dibromoperylenediimide without isomer separation, which reduces the cost of material production.",
+      "evidence": "A regioisomer mixture of 1,6- and 1,7-PDI-Br2 (at a molar ratio of ≈1:4...) obtained from the bromination reaction was used for the polymerization without isomer separation.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Stille polymerization",
+        "regioisomer",
+        "synthesis cost",
+        "PDI-Br2"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 12201,
+    "completion_tokens": 3375,
+    "total_tokens": 15576
+  }
+}

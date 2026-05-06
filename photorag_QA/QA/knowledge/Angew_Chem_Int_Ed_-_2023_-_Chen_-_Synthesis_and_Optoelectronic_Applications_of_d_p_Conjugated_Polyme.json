@@ -1,0 +1,157 @@
+{
+  "paper_id": "Angew_Chem_Int_Ed_-_2023_-_Chen_-_Synthesis_and_Optoelectronic_Applications_of_d_p_Conjugated_Polyme",
+  "paper_title": "Synthesis and Optoelectronic Applications of dπ-pπ Conjugated Polymers with a Di-metallaaromatic Acceptor",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Angew Chem Int Ed - 2023 - Chen - Synthesis and Optoelectronic Applications of d  p  Conjugated Polymers with a/auto/Angew Chem Int Ed - 2023 - Chen - Synthesis and Optoelectronic Applications of d  p  Conjugated Polymers with a.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "A novel di-metallaaromatic acceptor building block was synthesized by connecting two electron-deficient metallaaromatic units through a π-conjugated bridge, resulting in an acceptor-donor-acceptor (A-d-A) configuration.",
+      "evidence": "two electron-deficient metallaaromatic units were connected through a π-conjugated bridge, leading to a di-metallaaromatic unit 1, which is in an acceptor-donor-acceptor (A-dA) type configuration.",
+      "complexity": "single-hop",
+      "keywords": [
+        "di-metallaaromatic",
+        "acceptor building block",
+        "A-d-A configuration",
+        "osmaaromatic"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Organic solar cells utilizing the polycarbolong P9 as an electron transport layer (ETL) achieved a champion power conversion efficiency (PCE) of 18.28% in a PM6:EH-HD-4F non-fullerene system.",
+      "evidence": "Specifically, the champion PCE based on P9 was enhanced to 18.28%. ... based on the PM6:EH-HD-4F non-fullerene system.",
+      "complexity": "single-hop",
+      "keywords": [
+        "power conversion efficiency",
+        "P9",
+        "PM6:EH-HD-4F",
+        "PCE"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The charged triphenylphosphonium substituents in the di-metallaaromatic monomer are the primary drivers of its strong electron-accepting nature, lowering the calculated LUMO energy level to -7.38 eV.",
+      "evidence": "The calculated LUMO of 1 could reach -7.38 eV ... It suggests that the charged triphenylphosphonium substituents are the key for the acceptor nature.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "triphenylphosphonium",
+        "LUMO",
+        "electron-deficient",
+        "DFT"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Polycarbolong electron transport layers (P1, P7, and P9) facilitate efficient charge dissociation in OSCs, with dissociation probabilities (P(E, T)) ranging from 98.67% to 99.45%.",
+      "evidence": "The P(E, T)s of P1, P7, and P9 modified devices are 99.28% 98.67% and 99.45% respectively ... indicating the efficient charge dissociation in the polycarbolong modified devices.",
+      "complexity": "single-hop",
+      "keywords": [
+        "charge dissociation",
+        "electron transport layer",
+        "P(E, T)",
+        "OSC"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The electron mobility of polycarbolong P9 is measured at 2.07 x 10^-3 cm^2 V^-1 s^-1, which is notably higher than that of the common ETL material PDINO (8.58 x 10^-4 cm^2 V^-1 s^-1).",
+      "evidence": "This may be partly due to their higher electron mobility (1.85 x 10^-3, 1.78 x 10^-3, and 2.07 x 10^-3 cm^2 V^-1 s^-1, respectively) in comparison with that of the PDINO modified device (8.58 x 10^-4 cm^2 V^-1 s^-1)",
+      "complexity": "single-hop",
+      "keywords": [
+        "electron mobility",
+        "SCLC",
+        "PDINO",
+        "P9"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The A2 + B2 type double-monomer metal carbyne shuttling polymerization methodology enables the synthesis of polycarbolongs with a wide range of functional groups, including nitro, halogen, cyano, and formyl groups.",
+      "evidence": "Common substituents, such as dimethylamino (2b), nitro (2c), alkoxyl (2j and 2u), halogen (2m-20), hydroxyphenyl (2p), cyano (2q), formyl (2r), methoxylcarbonyl (2s), and terminal alkenyl (2v) are all compatible with the polymerization route.",
+      "complexity": "single-hop",
+      "keywords": [
+        "A2 + B2 polymerization",
+        "metal carbyne shuttling",
+        "functional group tolerance",
+        "polycarbolongs"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Polycarbolong P13, which incorporates a bithiophene spacer, exhibits a narrow optical bandgap of 1.47 eV and strong absorption extending into the near-infrared (NIR) region due to efficient intramolecular charge transfer (ICT).",
+      "evidence": "the polycarbolong with the bithiophene spacer (P13) shows broad and strong absorption in the entire UV/Vis region, even extending to the near-infrared (NIR) region. ... the optical band gaps (Eg) of polycarbolongs are calculated to range from 1.47 eV (P13)",
+      "complexity": "multi-hop",
+      "keywords": [
+        "P13",
+        "bithiophene",
+        "optical bandgap",
+        "NIR absorption",
+        "ICT"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The di-metallaaromatic monomers and resulting polycarbolongs achieve high solubility without long alkyl or alkoxy side chains due to their cationic nature and the presence of bulky ligands on the metal centers.",
+      "evidence": "unlike common organic acceptors that long alkyl or alkoxy side chains are usually needed to improve their solubility, no such chains are necessary for the di-metallaaromatic unit 1. This is due to not only the bulky ligands on the metal weakening π-π stacking of molecules, but also its cationic nature.",
+      "complexity": "single-hop",
+      "keywords": [
+        "solubility",
+        "cationic",
+        "bulky ligands",
+        "side chain engineering"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The metal carbyne shuttling polymerization mechanism was elucidated using in situ 31P and 1H NMR spectroscopy, which tracked the shift of the metal carbyne (Os≡C) from a dormant state to an active state upon acid addition.",
+      "evidence": "To reveal the polymerization mechanism, in situ 31P and 1H NMR spectroscopies were further performed ... the added acid caused the carbyne shift to an adjacent fivemembered ring (1a'), leaving the carbyne without bulky neighbours in the active state",
+      "complexity": "multi-hop",
+      "keywords": [
+        "in situ NMR",
+        "polymerization mechanism",
+        "metal carbyne shift",
+        "kinetics"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Devices utilizing polycarbolong ETLs show reduced bimolecular recombination compared to PDINO-based devices, with α values for P1, P7, and P9 being 0.998, 0.995, and 0.999, respectively.",
+      "evidence": "the α values for P1, P7, and P9-based devices are 0.998, 0.995, and 0.999, respectively ... even lower than that in the PDINO modified device (a = 0.985).",
+      "complexity": "single-hop",
+      "keywords": [
+        "bimolecular recombination",
+        "α value",
+        "charge recombination dynamics",
+        "ETL"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Most polycarbolongs synthesized in this study possess n-type semiconductor characteristics, evidenced by LUMO levels generally lower than -3.50 eV.",
+      "evidence": "the LUMOs (ELUMO) of polycarbolongs except P8 were found to be lower than -3.50 eV indicative of their n-type characteristics.",
+      "complexity": "single-hop",
+      "keywords": [
+        "n-type semiconductor",
+        "LUMO",
+        "cyclic voltammetry",
+        "energy level"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The charge extraction times for OSCs modified with polycarbolong ETLs P1 (0.647 μs) and P9 (0.526 μs) are significantly shorter than the 1.059 μs observed for PDINO-based control devices.",
+      "evidence": "the charge extraction times of the P1, P7, and P9 modified devices were fitted and found to be 0.647, 0.869 and 0.526 μs, respectively, shorter than that in the PDINO-based device (1.059 μs)",
+      "complexity": "single-hop",
+      "keywords": [
+        "charge extraction time",
+        "transient photocurrent",
+        "TPC",
+        "P9"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 9914,
+    "completion_tokens": 3756,
+    "total_tokens": 13670
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "paper_id": "c7tc05245f",
+  "paper_title": "Bromination of the benzothioxanthene Bloc: toward new π-conjugated systems for organic electronic applications",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/c7tc05245f/auto/c7tc05245f.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Benzothioxanthene-3,4-dicarboximide (BTxI) can be selectively monobrominated at the 7-position (β position relative to the sulfur atom) using dilute bromine gas (Br2), whereas N-bromosuccinimide (NBS) is ineffective regardless of solvent or reaction time.",
+      "evidence": "Regardless of the concentration, nature of the solvent, and reaction time, no trace of a brominated compound was detected and only the starting imide-based derivative BTxI was systematically recovered... when exposed to a dilute solution of bromine (gas), the formation of a single product could be efficiently monitored... monobrominated... at the β position with regards to the sulphur atom (position 7).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "BTxI",
+        "bromination",
+        "regioselectivity",
+        "bromine gas",
+        "NBS"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Density functional theory (DFT) calculations at the OT-ωB97X-D/6-31G(d,p) level indicate that the 7-position is the most thermodynamically stable site for monobromination of BTxI, with a reaction free energy (ΔG) of -44.20 kcal/mol.",
+      "evidence": "DFT calculations suggest that the lowest energy Br-BTxI has the bromine atom located on the rylene core at the β position with regards to the sulphur atom (position 7). The free energy (ΔG) for the reaction is -44.20 kcal mol-1.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DFT",
+        "thermodynamics",
+        "free energy",
+        "BTxI"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "The lack of dibrominated BTxI formation, even with excess bromine, is attributed to a kinetic barrier rather than thermodynamics, as the formation of 5,7-dibrominated BTxI is thermodynamically favorable with a free energy of -32.17 kcal/mol.",
+      "evidence": "The free energy for reaction to form (stepwise) 5,7-dibrominated BTxI is -32.17 kcal mol-1... Given the favorable thermodynamic driving force for the addition of a second bromine, it is hypothesized that it is a kinetic barrier that is responsible for the lack of formation of the dibrominated system.",
+      "complexity": "single-hop",
+      "keywords": [
+        "kinetic barrier",
+        "dibromination",
+        "thermodynamics",
+        "BTxI"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The monobrominated BTxI building block (Br-BTxI) is compatible with major cross-coupling reactions including Stille, Suzuki-Miyaura, Sonogashira, and direct (hetero)arylation, allowing for the synthesis of diverse pi-conjugated molecular structures.",
+      "evidence": "The major cross-coupling reactions, namely the Stille, Suzuki-Miyaura, Sonogashira and direct (hetero)arylation were successfully applied demonstrating the versatility of the Br-BTxI to afford simple and original molecular structures in high yields.",
+      "complexity": "single-hop",
+      "keywords": [
+        "cross-coupling",
+        "palladium catalyst",
+        "synthetic versatility",
+        "Br-BTxI"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The BTxI-based molecular donor (compound 4) exhibits a maximum absorption wavelength (λmax) of 409 nm in chloroform and an optical energy gap (Eg opt) of 2.17 eV in thin-film form.",
+      "evidence": "The latter indeed exhibits in solution a maximum absorption wavelength centered at 409 nm... absorption onset measured at ca. 570 nm, corresponding to an optical energy gap (Eg opt) of 2.17 eV.",
+      "complexity": "single-hop",
+      "keywords": [
+        "absorption spectrum",
+        "optical bandgap",
+        "compound 4",
+        "BTxI"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Compound 4, featuring an indacenodithiophene (IDT) core end-capped with BTxI, possesses a HOMO level of -5.19 eV and a LUMO level of -3.15 eV, making it suitable as a donor material when paired with PC61BM.",
+      "evidence": "Based on the onsets of the first oxidation and reduction potentials, 4 would appear to be compatible as an electron donor with the archetypal electron acceptor [6,6]-phenyl-C61-butyric acid methyl ester (PC61BM). ... HOMO (ev) 5.19, LUMO (ev) 3.15.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "HOMO",
+        "LUMO",
+        "energy level engineering",
+        "IDT",
+        "BTxI"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Organic solar cells using compound 4 as the donor and PC61BM as the acceptor in a conventional architecture (ITO/PEDOT:PSS/4:PC61BM/LiF/Al) achieved a maximum power conversion efficiency (PCE) of 2.08%.",
+      "evidence": "bulk heterojunction solar cells with the architecture: ITO/PEDOT-PSS/4:PC61BM/LiF/Al were fabricated... promising average power conversion efficiency (PCE) of 1.91% was reached with a maximum PCE of 2.08%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "organic solar cell",
+        "PC61BM",
+        "donor material"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The organic solar cells based on the 4:PC61BM blend consistently yielded high open-circuit voltages (Voc) exceeding 1.0 V, with a maximum recorded Voc of 1.03 V.",
+      "evidence": "In these conditions, the average short-circuit current density (Jsc) open-circuit voltage (Voc) and fill-factor (FF) were 6.74 mA cm-2 1.03 V and 28% respectively. ... it is noteworthy that a Voc > 1 V was consistently reached.",
+      "complexity": "single-hop",
+      "keywords": [
+        "open-circuit voltage",
+        "Voc",
+        "device performance"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Optimal organic solar cell performance for the 4:PC61BM system was achieved using a 1:3 weight ratio in chloroform, with active layers spun-cast at 1000 rpm from a 10 mg/mL solution.",
+      "evidence": "Maximum power conversion efficiencies were reached with films spun-cast at 1000 rpm from chloroform solution containing 10 mg mL-1 of 4 and PC61BM in a 1:3 weight to weight ratio.",
+      "complexity": "single-hop",
+      "keywords": [
+        "spin-coating",
+        "solvent processing",
+        "blend ratio",
+        "fabrication"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The monobrominated structure of Br-BTxI was unequivocally confirmed through X-ray diffraction on single crystals, which validated the regioselectivity predicted by DFT calculations.",
+      "evidence": "single crystals... analyzed by X-ray diffraction. The molecular X-ray structure confirmed the DFT results that bromination occurs at the β position (Fig. 4).",
+      "complexity": "single-hop",
+      "keywords": [
+        "X-ray diffraction",
+        "single crystal",
+        "structural characterization"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 6712,
+    "completion_tokens": 2938,
+    "total_tokens": 9650
+  }
+}

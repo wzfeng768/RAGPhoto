@@ -1,0 +1,133 @@
+{
+  "paper_id": "Adv_Funct_Materials_-_2021_-_Wan_-_Enhancing_the_Photovoltaic_Performance_of_LadderType_Heteroheptac",
+  "paper_title": "Enhancing the Photovoltaic Performance of LadderType Heteroheptacene-based Nonfullerene Acceptors by Incorporating Halogen Atoms on Their Ending Groups",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Adv Funct Materials - 2021 - Wan - Enhancing the Photovoltaic Performance of Ladder‐Type Heteroheptacene‐based Nonfullerene/auto/Adv Funct Materials - 2021 - Wan - Enhancing the Photovoltaic Performance of Ladder‐Type Heteroheptacene‐based Nonfullerene.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The study introduces three A-D-A type nonfullerene acceptors (M5, M6, M7) based on a ladder-type heteroheptacene core, benzo[1,2-b:4,5-b']bis(4-H-dithieno[3,2-b;2',3'd]pyrrole) (BDTPT), which lacks traditional sp3 carbon-bonded side chains.",
+      "evidence": "three acceptor-donor-acceptor (A-D-A) type nonfullerene acceptors (M5, M6, and M7), which are constructed by using a Iadder-type heteroheptacene core without the traditional sp 3 carbon-bonded side chains as the electron-rich core",
+      "complexity": "single-hop",
+      "keywords": [
+        "A-D-A type",
+        "heteroheptacene",
+        "BDTPT",
+        "nonfullerene acceptor"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "A record-high power conversion efficiency (PCE) of 15.45% was achieved for a binary polymer solar cell using PM6 as the donor and M6 (the chlorinated acceptor) with an aluminum (Al) top electrode.",
+      "evidence": "the best-performance PM6:M6- based device showed an outstanding PCE of 15.45% ... which is the best value for binary PSCs based on all A-D-A type nonfullerene acceptors with the chlorinated ending groups.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "M6",
+        "PM6",
+        "chlorinated ending groups"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Halogenation of the ending groups in M6 (Cl) and M7 (Br) results in narrower optical bandgaps (1.38 eV) and down-shifted HOMO/LUMO levels compared to the non-halogenated M5 (1.47 eV).",
+      "evidence": "The optical bandgaps (Eg opt) calculated from the absorption onsets for M5, M6, and M7 are 1.47, 1.38, and 1.38 eV, respectively... Compared to M5, both M6 and M7 exhibit down-shifted energy levels",
+      "complexity": "multi-hop",
+      "keywords": [
+        "halogenation",
+        "bandgap",
+        "energy levels",
+        "HOMO",
+        "LUMO"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis reveals that the chlorinated acceptor M6 possesses the shortest π-π interaction distance (3.49 Å) and the longest coherence length (28.61 Å) among the three acceptors, enhancing charge transport.",
+      "evidence": "the π-π interaction distances for M6 and M7 films were estimated to be 3.49 and 3.57 Å, respectively... pure M6 and M7 films not only have larger CLs for their π-π interaction peaks (28.61 and 15.92 Å for M6 and M7, respectively)",
+      "complexity": "multi-hop",
+      "keywords": [
+        "GIWAXS",
+        "π-π stacking",
+        "coherence length",
+        "M6"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "DFT calculations indicate that halogenated acceptors M6 and M7 have larger positive electrostatic potential (ESP) areas on their conjugated surfaces, which increases the intermolecular electric field (IEF) to facilitate exciton dissociation.",
+      "evidence": "the positive areas of ESP distributions in the conjugated surfaces of M6 and M7 are larger than that of M5. Therefore... the intermolecular electric field (IEF) values for the halogenated nonfullerene systems (M6 and M7) would be higher than that for the non-halogenated system (M5).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "DFT",
+        "ESP",
+        "intermolecular electric field",
+        "exciton dissociation"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The PM6:M6 blend exhibits a hole mobility (μh) of 6.19 × 10⁻⁴ cm² V⁻¹ s⁻¹ and an electron mobility (μe) of 1.45 × 10⁻⁴ cm² V⁻¹ s⁻¹, representing the most balanced charge transport among the studied blends.",
+      "evidence": "Hole mobilities of PM6:M6, and PM6:M7 blends were 6.19 × 10 -4 and 4.58 × 10 -4 cm 2 V -1 s -1 respectively... The electron mobility for ... PM6:M6-based (1.45 × 10 -4 cm 2 V -1 s -1) counterparts.",
+      "complexity": "single-hop",
+      "keywords": [
+        "hole mobility",
+        "electron mobility",
+        "SCLC",
+        "PM6:M6"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The use of aluminum (Al) as a top electrode instead of silver (Ag) in PM6:M6 devices improved the Fill Factor (FF) from 63.61% to 70.30% due to better ohmic contact facilitated by the low work function of PDIN/Al.",
+      "evidence": "when the top cathode of the PM6:M6-based device was changed from Ag to Al, the best-performance device exhibited a further enhanced PCE of 15.45% with an increased FF of 70.30%... The enhanced performance with Al as the top electrode could be due to the low work function of PDIN/Al, allowing them to form better ohmic contact",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Al electrode",
+        "Fill Factor",
+        "ohmic contact",
+        "PDIN"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Chlorinated ending groups are identified as superior to brominated groups for this heteroheptacene core because they induce a closer π-π stacking distance and improved molecular ordering, leading to higher electron mobility.",
+      "evidence": "the chlorinated acceptor (M6) has a closer intermolecular π-π interaction distance and an improved molecular ordering than the brominated acceptor (M7) thus leading to a higher electron mobility as well as improved photovoltaic performance",
+      "complexity": "single-hop",
+      "keywords": [
+        "chlorination",
+        "bromination",
+        "π-π distance",
+        "molecular ordering"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "AFM imaging shows that the PM6:M6 blend film possesses a more distinct nanofibrillar phase-separated structure compared to M5 and M7 blends, which is advantageous for charge transport.",
+      "evidence": "phase separation with a nanofribillar structure is more obvious for the M6-based blend film in comparison with the other two blend films, which is favorable for the efficient exciton dissociation and charge transportation.",
+      "complexity": "single-hop",
+      "keywords": [
+        "AFM",
+        "nanofibrillar structure",
+        "morphology",
+        "M6"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Bimolecular recombination is more effectively suppressed in M6-based devices, as evidenced by a higher power-law exponent (α = 0.952) in the Jsc vs. light intensity relationship compared to M5 (α = 0.898) and M7 (α = 0.918).",
+      "evidence": "The slopes (α) of linear fitted log(J SC ) versus log(P light ) plots for the devices based on the three acceptors are 0.898, 0.952, and 0.918, respectively... the M6 and M7-based devices, especially for the M6-based device, showed limited bimolecular recombination",
+      "complexity": "single-hop",
+      "keywords": [
+        "bimolecular recombination",
+        "light intensity",
+        "Jsc",
+        "recombination mechanism"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 13676,
+    "completion_tokens": 3061,
+    "total_tokens": 16737
+  }
+}

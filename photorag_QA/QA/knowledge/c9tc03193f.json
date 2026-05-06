@@ -1,0 +1,156 @@
+{
+  "paper_id": "c9tc03193f",
+  "paper_title": "Impact of new skeletal isomerization in polymer semiconductors",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/c9tc03193f/auto/c9tc03193f.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "A skeletal isomerization strategy was employed to design two isomeric polymers, P(DPPT-TT) and P(DPPTT-T), using asymmetric thiophene-flanked diketopyrrolopyrrole (DPP) units and thieno[3,2-b]thiophene (TT) building blocks.",
+      "evidence": "Two novel isomeric polymers P(DPPT-TT) and P(DPPTT-T) based on thiophene-flanked diketopyrrolopyrrole, thieno[3,2-b]thiophene and thiophene building units were designed and synthesized via a new skeletal isomerization strategy.",
+      "complexity": "single-hop",
+      "keywords": [
+        "skeletal isomerization",
+        "diketopyrrolopyrrole",
+        "asymmetric units",
+        "P(DPPT-TT)",
+        "P(DPPTT-T)"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "P(DPPTT-T) exhibits a high average hole mobility of 2.14 cm² V⁻¹ s⁻¹ in air-tested OFETs, which is approximately three times higher than that of its isomer P(DPPT-TT).",
+      "evidence": "In particular, its average hole mobility reaches 2.14 cm² V⁻¹ s⁻¹, triple that of P(DPPT-TT).",
+      "complexity": "single-hop",
+      "keywords": [
+        "hole mobility",
+        "OFET",
+        "P(DPPTT-T)",
+        "charge transport"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The optimized OFETs based on P(DPPTT-T) show a current on/off ratio (Ion/Ioff) of approximately 4.0 × 10⁵ and a low threshold voltage (VT) of 1.9 V.",
+      "evidence": "P(DPPTT-T)-based OFETs showed more excellent hole transport properties with the average mobility reaching 2.14 cm² V⁻¹ s⁻¹ and the Ion/Ioff around 4.0 × 10⁵ and the VT below 2 V.",
+      "complexity": "single-hop",
+      "keywords": [
+        "on/off ratio",
+        "threshold voltage",
+        "P(DPPTT-T)",
+        "device performance"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The superior mobility of P(DPPTT-T) compared to P(DPPT-TT) is attributed to a smaller π–π stacking distance of 3.52 Å versus 3.57 Å, respectively.",
+      "evidence": "The π–π stacking distances of P(DPPT-TT) and P(DPPTT-T) thin films were about 3.57 and 3.52 Å, respectively. A relatively closer π–π stacking distance of the P(DPPTT-T) conjugated chains may contribute to its better charge carrier transport.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "π–π stacking distance",
+        "charge transport",
+        "crystallinity",
+        "isomerism"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Both isomeric polymers P(DPPT-TT) and P(DPPTT-T) exhibit very similar optical bandgaps of 1.40 eV and similar HOMO energy levels (-5.12 eV and -5.22 eV, respectively).",
+      "evidence": "The HOMO energy levels of P(DPPT-TT) (-5.12 eV) and P(DPPTT-T) (-5.22 eV) were calculated... Both polymers show similar light absorption properties... Eg opt (eV) 1.40 [for both].",
+      "complexity": "single-hop",
+      "keywords": [
+        "HOMO",
+        "bandgap",
+        "energy level engineering",
+        "optical properties"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Grazing incidence wide-angle X-ray scattering (GIWAXS) reveals that both polymer films exhibit a predominantly 'edge-on' molecular orientation relative to the substrate.",
+      "evidence": "In the out-of-plane diffraction patterns, both polymer films only showed strong Bragg peaks of (100)... It can be concluded that both polymer films exhibited predominantly edge-on molecular packing, respective to substrates.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "molecular orientation",
+        "edge-on packing",
+        "X-ray scattering"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The optimal annealing temperature for enhancing the field-effect mobility of both P(DPPT-TT) and P(DPPTT-T) thin films was found to be 135 °C.",
+      "evidence": "The optimized 135 °C-annealed films of polymer-based OFETs was mainly performed... The optimized 135 °C-annealed films of new polymer-based OFETs exhibit obviously improved field-effect mobility.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal annealing",
+        "optimization",
+        "film processing",
+        "OFET fabrication"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The isomeric polymers demonstrate high thermal stability with decomposition temperatures (Td) exceeding 410 °C.",
+      "evidence": "They also exhibit high thermostability at decomposition temperatures (Td) over 410 °C.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "decomposition temperature",
+        "thermostability"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Density functional theory (DFT) calculations show that both polymers possess good backbone co-planarity, with dihedral angles between units being less than 20°.",
+      "evidence": "The absolute values of the backbone dihedral angles in these model molecules are less than 20°, indicating good co-planarity of the conjugated backbones.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DFT",
+        "dihedral angle",
+        "planarity",
+        "backbone structure"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Significant redshifts of approximately 80 nm in the absorption maxima were observed when cooling chlorobenzene solutions from 90 °C to room temperature, indicating strong molecular aggregation.",
+      "evidence": "When the chlorobenzene solutions were cooled from 90 °C to room temperature, significant redshifts of ~80 nm in the absorption maxima were observed. This can be attributed to the molecular aggregation and stacking effects in solution.",
+      "complexity": "single-hop",
+      "keywords": [
+        "UV-vis absorption",
+        "aggregation",
+        "redshift",
+        "temperature-dependent"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The polymers were synthesized via Stille cross-coupling polycondensation and purified through Soxhlet extraction using methanol, petroleum ether, toluene, and finally chloroform.",
+      "evidence": "Typical Stille cross-coupling polycondensation... purified by Soxhlet extraction with dried methanol, petroleum ether, and toluene, and then with dried chloroform.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Stille coupling",
+        "Soxhlet extraction",
+        "purification",
+        "polycondensation"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "AFM imaging indicates that P(DPPTT-T) forms a thicker and more interconnected nanofibrillar network morphology compared to P(DPPT-TT), facilitating more efficient charge transport.",
+      "evidence": "P(DPPTT-T) thin films possess not only a small RMS value (~1.07 nm), but also a thicker nanofibrillar structure, which are favourable for charge carrier transport.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "AFM",
+        "morphology",
+        "nanofibrillar network",
+        "surface roughness"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 8855,
+    "completion_tokens": 3008,
+    "total_tokens": 11863
+  }
+}

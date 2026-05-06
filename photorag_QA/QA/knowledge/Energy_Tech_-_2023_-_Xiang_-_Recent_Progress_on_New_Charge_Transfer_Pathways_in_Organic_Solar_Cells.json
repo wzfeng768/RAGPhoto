@@ -1,0 +1,156 @@
+{
+  "paper_id": "Energy_Tech_-_2023_-_Xiang_-_Recent_Progress_on_New_Charge_Transfer_Pathways_in_Organic_Solar_Cells",
+  "paper_title": "Recent Progress on New Charge Transfer Pathways in Organic Solar Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Energy Tech - 2023 - Xiang - Recent Progress on New Charge Transfer Pathways in Organic Solar Cells/auto/Energy Tech - 2023 - Xiang - Recent Progress on New Charge Transfer Pathways in Organic Solar Cells.md",
+  "knowledge_points": [
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The fundamental difference between traditional donor-acceptor (D-A) devices and Z-type devices lies in how they combine energy from active layers: D-A devices superimpose currents, whereas Z-type devices superimpose voltages.",
+      "evidence": "In D-A device, the currents from both layers are superimposed, while in Z-type device, the voltages from the two light-active layers are superimposed.",
+      "complexity": "single-hop",
+      "keywords": [
+        "D-A device",
+        "Z-type device",
+        "voltage superposition",
+        "current superposition"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "A bilayer organic solar cell mimicking natural photosynthesis using chlorophyll derivatives (Chl-A and Chl-D) achieved a maximum power conversion efficiency (PCE) of 1.3%.",
+      "evidence": "A bilayer device was successfully fabricated to mimic the Z-scheme process of oxygenic photosynthesis, which achieved a maximum efficiency of 1.3%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "chlorophyll",
+        "PCE",
+        "bilayer device",
+        "biosolar cells"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The red shift observed in the absorption spectra of chlorophyll thin films prepared by spin-coating is attributed to J-aggregation of the molecules.",
+      "evidence": "Compared with the monomeric material in tetrahydrofuran (THF) solution, the red shift observed in the absorption spectra (Figure 2c) of the Chl thin film prepared by spin-coating is attributed to J-aggregation.",
+      "complexity": "single-hop",
+      "keywords": [
+        "J-aggregation",
+        "red shift",
+        "chlorophyll",
+        "absorption spectra"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Incorporating a $TiO_2$-Chl-C sensitized layer as an electron extraction layer in a trilayer biosolar cell increased the short-circuit current density ($J_{SC}$) to 10.66 $mA/cm^2$ and the PCE to 4.14%.",
+      "evidence": "The addition of 1% Chl-C2 to the mixture results in a significant increase in $J_{SC}$ from 9.34 to 10.66 $m\text{Acm}^{-2}$... leading to a higher PCE of 4.14% (Figure 3f).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "trilayer device",
+        "PCE",
+        "JSC",
+        "chlorophyll-sensitized TiO2"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Using a Z-type bilayer hole transport layer (HTL) composed of Chl-A and $H_2$-Chl in perovskite solar cells resulted in a power conversion efficiency of 14.1%.",
+      "evidence": "Compared with monolayer Chl-based PSCs, this approach exhibits enhanced stability and achieved a higher PCE of 14.1% (Figure 4c).",
+      "complexity": "single-hop",
+      "keywords": [
+        "perovskite solar cells",
+        "PCE",
+        "hole transport layer",
+        "chlorophyll"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "X-ray photoelectron spectroscopy (XPS) analysis of the $Chl-A/C_{60}$ interface shows that electrons flow from Chl-A toward $C_{60}$, creating an electric dipole layer that establishes an intrinsic electric field.",
+      "evidence": "By analyzing the change of the binding energy of inner-shell electrons in Chl-A upon deposition of $C_{60}$ they found that the electrons in Chl-A flow toward the $C_{60}$, forming an electric dipole layer pointing from Chl-A toward $C_{60}$.",
+      "complexity": "single-hop",
+      "keywords": [
+        "XPS",
+        "electric dipole layer",
+        "binding energy",
+        "built-in electric field"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "In Z-type devices, the open-circuit voltage ($V_{OC}$) is determined by the difference between the quasi-Fermi level of the electrons in one active material (e.g., Chl-A) and the quasi-Fermi level of the holes in the other (e.g., $C_{60}$).",
+      "evidence": "It is known that the $V_{OC}$ is determined by the difference between the quasi-Fermi level of the electrons in Chl-A and that of the holes in $C_{60}$ when the heterojunction formed a complete circuit with an external circuit... $V_{OC} = E^n_{F-Chl-A} - E^p_{F-C60}$",
+      "complexity": "multi-hop",
+      "keywords": [
+        "VOC",
+        "quasi-Fermi level",
+        "Z-type CT",
+        "equilibrium"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Treating Chl-A films with ethylenediamine (EDA) reduces its work function from 4.73 eV to 4.65 eV, which enhances the built-in electric field at the interface and increases device efficiency by 280%.",
+      "evidence": "the treatment of EDA results in a decrease in the work function of Chl-A from 4.73 to 4.65 eV... the overall efficiency of the device increases by 280%",
+      "complexity": "single-hop",
+      "keywords": [
+        "EDA treatment",
+        "work function",
+        "chlorophyll",
+        "interface engineering"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The Z-type charge transfer characteristic is experimentally observed in IPCE measurements when the maximum charge generation efficiency occurs at the overlap of the absorption spectra of the two photoactive materials.",
+      "evidence": "in the IPCE test of the Z-characteristic device, the efficiency of charge generation would be highest when there is a greatest overlap of the absorption spectra of two photoactive materials.",
+      "complexity": "single-hop",
+      "keywords": [
+        "IPCE",
+        "absorption spectra overlap",
+        "Z-characteristic",
+        "monochromatic excitation"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The 'small injection hypothesis' in organic semiconductors is limited because their low equilibrium carrier concentration means photogenerated nonequilibrium carriers significantly influence the built-in electric field.",
+      "evidence": "the applicability of small injection assumption is limited for organic semiconductors. It is mainly because organic semiconductors have a lower equilibrium carrier concentration than inorganic semiconductors, and light-generated nonequilibrium carriers cause a significant influence to the equilibrium carriers.",
+      "complexity": "single-hop",
+      "keywords": [
+        "small injection hypothesis",
+        "organic semiconductors",
+        "nonequilibrium carriers",
+        "carrier concentration"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "In Z-type devices, the recombination of photogenerated holes from one layer and photogenerated electrons from the other at the interface serves as the primary current generator, whereas in D-A devices, this process is considered leakage current.",
+      "evidence": "In the operation of D-A type devices, $I_1$ plays a crucial role in generating the main current... while $I_2$ serves as the leakage current. On the other hand, in the operation of Z-type devices, $I_1$ acts as the leakage current, while $I_2$ [electron movement from lower LUMO to higher HOMO] becomes the primary current generator.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "recombination",
+        "current generator",
+        "leakage current",
+        "Z-type CT"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The interconnecting layer (ICL) in tandem organic solar cells facilitates a Z-type charge transfer process to connect the subcells.",
+      "evidence": "In tandem devices, two subcells are usually composed of traditional D-A structured OSCs. And their ICL forms the Z-type CT.",
+      "complexity": "single-hop",
+      "keywords": [
+        "tandem OSCs",
+        "interconnecting layer",
+        "Z-type CT",
+        "subcells"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 13004,
+    "completion_tokens": 3204,
+    "total_tokens": 16208
+  }
+}

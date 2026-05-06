@@ -1,0 +1,130 @@
+{
+  "paper_id": "Angew_Chem_Int_Ed_-_2018_-_Purkait_-_Regiospecific_NArylation_of_Aliphatic_Amines_under_Mild_and_Met",
+  "paper_title": "Regiospecific N-Arylation of Aliphatic Amines under Mild and Metal-Free Reaction Conditions",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Angew Chem Int Ed - 2018 - Purkait - Regiospecific N‐Arylation of Aliphatic Amines under Mild and Metal‐Free Reaction/auto/Angew Chem Int Ed - 2018 - Purkait - Regiospecific N‐Arylation of Aliphatic Amines under Mild and Metal‐Free Reaction.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "A transition metal-free N-arylation method for primary and secondary aliphatic amines utilizes diaryliodonium salts as arylating reagents in the presence of an inorganic base.",
+      "evidence": "A transition metal-free N-arylation of primary and secondary amines with diaryliodonium salts is presented. Both acyclic and cyclic amines are well tolerated, providing a large set of N-alkyl anilines.",
+      "complexity": "single-hop",
+      "keywords": [
+        "N-arylation",
+        "diaryliodonium salts",
+        "metal-free",
+        "aliphatic amines"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The optimized reaction conditions for nitrophenylation of primary amines (e.g., aniline) achieve high yields, such as 91% for product 3o, using a 1:1 ratio of amine to iodonium salt.",
+      "evidence": "Aromatic amines can also be employed, as demonstrated by the transformation of aniline into the diarylamine 3o in 91% yield... The optimization was performed with the primary amine 1a and the nitrophenyliodonium salts 2 in a 1:1 ratio.",
+      "complexity": "single-hop",
+      "keywords": [
+        "yield",
+        "nitrophenylation",
+        "primary amines",
+        "aniline"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The optimal reaction conditions for the N-arylation process involve using toluene as a solvent and sodium carbonate (Na2CO3) as a base at a temperature of 110 °C.",
+      "evidence": "sodium carbonate pleasingly delivered 3a in 81% yield (entry 5)... The diaryliodonium salt 2 (0.1 mmol) and Na2CO3 (0.1 mmol, 1.0 equiv) were added... anhydrous and degassed toluene (0.5 mL), and the mixture was stirred at 110 °C.",
+      "complexity": "single-hop",
+      "keywords": [
+        "toluene",
+        "sodium carbonate",
+        "reaction conditions",
+        "optimization"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The choice of counterion in the diaryliodonium salt significantly affects reactivity; triflate (OTf) and tosylate (OTs) provide high yields (81% and 77% respectively), while bromide (Br) results in poor conversion (4%).",
+      "evidence": "The counterion of the diaryliodonium salts 2 proved important, as reactions with the iodonium bromide 2b were severely retarded, whereas the tetrafluoroborate 2c and tosylate 2d were more compatible (entries 6-8).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "counterion",
+        "triflate",
+        "tosylate",
+        "reactivity"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Unsymmetric diaryliodonium salts can be used with trimethoxyphenyl (TMP) as a 'dummy group' to facilitate chemoselective aryl transfer and improve atom efficiency.",
+      "evidence": "The reaction was also evaluated with the trimethoxyphenyl (TMP) salts 2e and 2f, as TMP has recently proven to be an efficient 'dummy group' in arylations with unsymmetric iodonium salts.",
+      "complexity": "single-hop",
+      "keywords": [
+        "unsymmetric diaryliodonium salts",
+        "dummy group",
+        "trimethoxyphenyl",
+        "chemoselectivity"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The methodology tolerates a wide range of functional groups on the amine substrate, including methoxy, bromide, pyridyl, silicate, and even sterically hindered adamantyl groups.",
+      "evidence": "Substrates containing a variety of functional groups, including methoxy, bromide, pyridyl, and silicate proved suitable (3j-m). Importantly, the arylation of (R)-1-phenylethylamine proceeded without erosion of the ee value (3n).",
+      "complexity": "single-hop",
+      "keywords": [
+        "functional group tolerance",
+        "steric hindrance",
+        "adamantyl amine",
+        "stereochemistry"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Secondary cyclic amines exhibit higher reactivity than primary amines, with piperidines and pyrrolidine reaching yields as high as 98-99%.",
+      "evidence": "Piperidines, morpholine, and thiomorpholine provided the products 5a-d in good to excellent yields with 2a... pyrrolidine and tetrahydroisoquinoline were efficiently arylated, delivering 5f and 5g, respectively, in excellent yields [99% and 95%].",
+      "complexity": "single-hop",
+      "keywords": [
+        "cyclic amines",
+        "piperidines",
+        "pyrrolidine",
+        "yield"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The reaction mechanism is proposed to proceed via a regiospecific ligand coupling at the iodine(III) center rather than through radical or aryne pathways.",
+      "evidence": "Control reactions with the radical scavenger 1,1-diphenylethylene (DPE) and the aryne trap furan were conducted... and found to not alter the reaction outcome... we hence suggest that the arylation proceeds by the commonly accepted ligand coupling mechanism.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "ligand coupling",
+        "mechanism",
+        "iodine(III)",
+        "regiospecificity"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The process enables the transfer of both electron-withdrawing groups (e.g., NO2, CF3, CN) and electron-donating groups (e.g., methyl, methoxy) from the diaryliodonium salt to the amine.",
+      "evidence": "The reactions are high-yielding without excess reagents, and tolerate diaryliodonium salts with both electron-withdrawing (EWG) and electron-donating (EDG) substituents.",
+      "complexity": "single-hop",
+      "keywords": [
+        "electron-withdrawing groups",
+        "electron-donating groups",
+        "aryl transfer"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Diaryliodonium salts are identified as bench-stable iodine(III) reagents, making them suitable for practical synthetic applications in material science.",
+      "evidence": "Diaryliodonium salts are bench-stable iodine(III) reagents that can be easily synthesized from iodoarenes or arenes by one-pot reactions.",
+      "complexity": "single-hop",
+      "keywords": [
+        "bench-stable",
+        "iodine(III)",
+        "stability"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 7944,
+    "completion_tokens": 2889,
+    "total_tokens": 10833
+  }
+}

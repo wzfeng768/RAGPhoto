@@ -1,0 +1,129 @@
+{
+  "paper_id": "Adv_Funct_Materials_-_2018_-_Shi_-_An_Electron_Acceptor_with_Broad_Visible_NIR_Absorption_and_Unique",
+  "paper_title": "An Electron Acceptor with Broad Visible-NIR Absorption and Unique Solid State Packing for As-Cast High Performance Binary Organic Solar Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Adv Funct Materials - 2018 - Shi - An Electron Acceptor with Broad Visible NIR Absorption and Unique Solid State Packing/auto/Adv Funct Materials - 2018 - Shi - An Electron Acceptor with Broad Visible NIR Absorption and Unique Solid State Packing.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "6TIC-4F is an A-D-A type electron acceptor designed with a strongly electron-donating terthieno[3,2-b]thiophene (6T) core and two flanking electron-withdrawing 2-(5,6-difluoro-3-oxo-2,3-dihydro-1H-inden-1-ylidene)malononitrile (IC-2F) units.",
+      "evidence": "Herein, we report a novel low bandgap acceptor 6TIC-4F with a strongly electron-donating core unit terthieno[3,2-b] thiophene (6T) and two flanking strongly electron-withdrawing acceptor units 2-(5,6-difluoro-3-oxo-2,3-dihydro-1Hinden-1-ylidene)malononitrile (IC-2F)",
+      "complexity": "single-hop",
+      "keywords": [
+        "6TIC-4F",
+        "A-D-A structure",
+        "terthieno[3,2-b]thiophene",
+        "IC-2F"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Binary organic solar cells using as-cast PBDB-T:6TIC-4F blends achieved a power conversion efficiency (PCE) of 11.14% with a short-circuit current (JSC) of 23.00 mA cm⁻², an open-circuit voltage (VOC) of 0.723 V, and a fill factor (FF) of 0.67.",
+      "evidence": "The as-cast solar cells based on ... (PBDB-T):6TIC-4F exhibit a high PCE of 11.14% and a high JSC of 23.00 mA cm-2 and a fill factor (FF) of 0.67",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "JSC",
+        "PBDB-T",
+        "6TIC-4F",
+        "as-cast"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Extending the fused-ring core from 4T (in 4TIC-4F) to 6T (in 6TIC-4F) results in a redshifted absorption edge from approximately 940 nm to 1000 nm and a reduction in the optical bandgap to 1.24 eV.",
+      "evidence": "In solid-state, the absorption of 6TIC-4F further redshifted to ≈1000 nm, while 4TIC-4F had an absorption edge at ≈940 nm... 6TIC-4F with terthieno[3,2-b]thiophene (6T) as the core unit... exhibits an extraordinarily narrow bandgap (≈1.24 eV)",
+      "complexity": "multi-hop",
+      "keywords": [
+        "core extension",
+        "bandgap",
+        "NIR absorption",
+        "6T core"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The 6TIC-4F molecule maintains a rigid, isomer-free geometry due to intramolecular [S...O] interactions between the terminal IC-2F groups and the central 6T core.",
+      "evidence": "The high rigidity of 6TIC-4F benefits from the unique interaction between the terminal IC-2F group and the central 6T group, with terminal IC-2F units and central 6T unit interlocked via the intimate [S...O] interactions... which also ensures an isomer-free molecular geometry.",
+      "complexity": "single-hop",
+      "keywords": [
+        "S...O interactions",
+        "molecular rigidity",
+        "isomer-free",
+        "conformation control"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "X-ray crystallographic analysis of 6TIC-4F reveals close intermolecular π-π stacking distances of 3.522 Å between adjacent IC-2F groups and 3.359 Å between IC-2F and the outmost thieno[3,2-b]thiophene (TT) units.",
+      "evidence": "the adjacent IC-2F groups can form a close intermolecular π-π stacking with a distance of ≈3.522 Å: the IC-2F units can also interact with adjacent outmost TT unit of 6T via π-π interaction (distance: ≈3.359 Å).",
+      "complexity": "single-hop",
+      "keywords": [
+        "X-ray crystallography",
+        "π-π stacking",
+        "intermolecular distance"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The PBDB-T:6TIC-4F device exhibits a relatively low VOC loss of 0.517 V, calculated as the difference between the optical bandgap (Eg) and the open-circuit voltage (VOC).",
+      "evidence": "Another particularly noteworthy is its relatively low VOC loss of 0.517 V (VOC loss = eEg^OPT - VOC).",
+      "complexity": "single-hop",
+      "keywords": [
+        "VOC loss",
+        "energy loss",
+        "low bandgap"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "6TIC-4F exhibits higher electron mobility (4.52 × 10⁻⁴ cm² V⁻¹ s⁻¹) compared to 4TIC-4F (2.23 × 10⁻⁴ cm² V⁻¹ s⁻¹), which is attributed to the more ordered packing motif observed in its solid state.",
+      "evidence": "The hole and electron mobility ... were estimated to be ... 2.23 × 10-4 cm2 V-1 s-1 for 4TIC-4F and ... 4.52 × 10-4 cm2 V-1 s-1 for 6TIC-4F... The higher mobility of 6TIC-4F is attributed to the unique ordered packing motif observed in its solid-state.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "electron mobility",
+        "SCLC",
+        "charge transport",
+        "molecular packing"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "High performance in PBDB-T:6TIC-4F devices is achieved in the as-cast state, meaning no solvent additives or post-treatments like thermal annealing are required to reach the peak PCE of 11.14%.",
+      "evidence": "It was found that further treatments with solvent additives and thermal annealing do not enhance the overall efficiency... OSC devices of PBDB-T:6TIC-4F without any solvent additive or post-treatment exhibit a high PCE of 11.14%",
+      "complexity": "single-hop",
+      "keywords": [
+        "as-cast",
+        "no additives",
+        "thermal annealing",
+        "device optimization"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The light intensity-dependent JSC measurement for 6TIC-4F devices yielded an alpha (α) value of 0.974, indicating minimal charge recombination loss during extraction.",
+      "evidence": "The JSC for device based on 6TIC-4F exhibits an index of 0.974 with the light intensity... The close to unity light intensity dependence (α value) in 6TIC-4F device indicates less charge recombination loss",
+      "complexity": "single-hop",
+      "keywords": [
+        "light intensity dependence",
+        "recombination",
+        "charge extraction"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Resonant soft X-ray scattering (RSOXS) at 285 eV revealed a center-to-center phase separation distance of 60 nm in the PBDB-T:6TIC-4F blend.",
+      "evidence": "Blended thin film phase separation was investigated using resonant soft X-ray scattering (RSOXS) using 285 eV photon energy. A more pronounced scattering hump feature was seen at around 0.011 Å-1 giving a center-to-center distance of 60 nm.",
+      "complexity": "single-hop",
+      "keywords": [
+        "RSOXS",
+        "phase separation distance",
+        "domain size"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 11413,
+    "completion_tokens": 3467,
+    "total_tokens": 14880
+  }
+}

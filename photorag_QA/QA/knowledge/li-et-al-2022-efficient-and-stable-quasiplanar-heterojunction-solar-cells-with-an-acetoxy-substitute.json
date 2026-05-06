@@ -1,0 +1,152 @@
+{
+  "paper_id": "li-et-al-2022-efficient-and-stable-quasiplanar-heterojunction-solar-cells-with-an-acetoxy-substitute",
+  "paper_title": "Efficient and Stable Quasiplanar Heterojunction Solar Cells with an AcetoxySubstituted Wide-Bandgap Polymer",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/li-et-al-2022-efficient-and-stable-quasiplanar-heterojunction-solar-cells-with-an-acetoxy-substituted-wide-bandgap/auto/li-et-al-2022-efficient-and-stable-quasiplanar-heterojunction-solar-cells-with-an-acetoxy-substituted-wide-bandgap.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Two new wide-bandgap copolymers, PNTB-OAc and PNTB-OH, were synthesized by incorporating acetoxy and hydroxy groups, respectively, onto the termini of alkyl chains of electron-deficient units.",
+      "evidence": "Herein, we report two new copolymers for Q-PHJ solar cells synthesized by the addition of hydroxy (PNTB-OH) and acetoxy groups (PNTB-OAc) onto electron-deficient units.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PNTB-OAc",
+        "PNTB-OH",
+        "side chain engineering",
+        "acetoxy group"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The PNTB-OAc:N3-based quasiplanar heterojunction (Q-PHJ) solar cell achieved a power conversion efficiency (PCE) of 16.53%, which is approximately 2.4 times higher than the 6.79% PCE achieved by the PNTB-OH:N3 device.",
+      "evidence": "PNTB-OAc-based Q-PHJ OSCs realized the highest photovoltaic performance of 16.53%, which is ~2.4 times higher than 6.79% obtained from the PNTB-OH-based Q-PHJ OSCs.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "N3 acceptor",
+        "Q-PHJ",
+        "photovoltaic performance"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Single-crystal analysis reveals that the acetoxy-substituted unit (NTI-OAc) forms regular hydrogen bonds with adjacent molecules, leading to a shorter π-π stacking distance and more ordered molecular packing compared to the hydroxy-substituted unit.",
+      "evidence": "The single-crystal data reveals more regular stacking and order orientation driven by hydrogen bonding, of the acetoxy-substituted electron-deficient units... NTI-OAc possesses a shorter π··π stacking distance and ordered molecular packing in the solid state.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "hydrogen bonding",
+        "π-π stacking",
+        "molecular packing",
+        "single-crystal XRD"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "PNTB-OAc:N3 devices exhibit higher and more balanced charge transport, with hole and electron mobilities of 4.2 x 10^-4 cm^2 V^-1 s^-1 and 3.2 x 10^-4 cm^2 V^-1 s^-1, respectively.",
+      "evidence": "the measured hole mobilities of the PNTB-OAc:N3... are 4.2 x 10^-4 cm^2 V^-1 s^-1... The electron mobilities for PNTB-OAc:N3-based Q-PHJ devices are 3.2 x 10^-4 cm^2 V^-1 s^-1... Higher hole/ electron mobility and also more balanced charge transport were exhibited by PNTB-OAc:N3-based Q-PHJ devices.",
+      "complexity": "single-hop",
+      "keywords": [
+        "charge mobility",
+        "hole mobility",
+        "electron mobility",
+        "SCLC"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The PNTB-OAc-based device demonstrates lower nonradiative energy loss (ΔE3 = 0.213 eV) compared to the PNTB-OH-based device (ΔE3 = 0.231 eV), contributing to a higher open-circuit voltage.",
+      "evidence": "The ΔE3 values of PNTB-OAc:N3- and PNTB-OH:N3-based Q-PHJ devices are 0.213 and 0.231, respectively. Hence, the presence of the acetoxy functional group reduces the overall energy losses, which are attributed to low nonradiative energy losses (ΔE3).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "nonradiative energy loss",
+        "Voc",
+        "energy loss analysis"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis shows that PNTB-OAc has a longer crystal coherence length (CCL) of 35.30 Å in the (100) direction and 9.81 Å in the (010) direction, indicating higher crystallinity than PNTB-OH.",
+      "evidence": "The crystal coherence length (CCL) of PNTB-OAc and PNTB-OH neat film in the (100) direction are 35.30 and 29.82 Å, respectively. In the (010) direction, the crystal coherence length (CCL) of PNTB-OAc is 9.81 Å, which is much longer than that observed for PNTB-OH (8.69 Å).",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "crystal coherence length",
+        "crystallinity",
+        "molecular orientation"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "PNTB-OAc:N3 Q-PHJ devices exhibit excellent photostability, retaining over 85% of their initial PCE after 1050 hours of continuous illumination under nitrogen.",
+      "evidence": "PNTB-OAc device demonstrated superior photostability and storage stability, retained more than 85% of the initial PCE after illumination for 1050h.",
+      "complexity": "single-hop",
+      "keywords": [
+        "photostability",
+        "operational lifetime",
+        "PCE retention"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The storage stability of PNTB-OAc:N3 devices is robust, with 90% of the initial PCE retained after 1600 hours of storage in a nitrogen atmosphere.",
+      "evidence": "PNTB-OAc device... retained... 90% of the initial PCE under nitrogen for 1600h.",
+      "complexity": "single-hop",
+      "keywords": [
+        "storage stability",
+        "shelf life",
+        "nitrogen atmosphere"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The Q-PHJ active layers were fabricated using sequential solution processing with orthogonal solvents, where the polymer donor was dissolved in chlorobenzene and the N3 acceptor in chloroform.",
+      "evidence": "In quasiplanar heterojunction (Q-PHJ) solar cells, the active layers were prepared by sequential processing with orthogonal solvents... using a solution of polymers in chlorobenzene and a solution of N3 in chloroform.",
+      "complexity": "single-hop",
+      "keywords": [
+        "sequential processing",
+        "orthogonal solvents",
+        "chlorobenzene",
+        "chloroform"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Dynamic X-ray photoelectron spectroscopy (DXPS) confirmed the vertical distribution of the Q-PHJ films, showing an enrichment of the N3 acceptor (identified by fluorine signals) in the upper layer of the film.",
+      "evidence": "In both the polymers Q-PHJ as the etching depth increases, the F 1s signals gradually weaken until they disappear... indicating the enrichment of N3 in the upper layer of the Q-PHJ films.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "DXPS",
+        "vertical composition",
+        "active layer morphology",
+        "fluorine signal"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Atomic force microscopy (AFM) reveals that the PNTB-OAc:N3 film has a much smoother surface (Rq = 0.56 nm) compared to the PNTB-OH:N3 film (Rq = 2.3 nm), facilitating better interface contact.",
+      "evidence": "the PNTB-OAc:N3 Q-PHJ film exhibits a root-mean-square surface roughness (Rq) value of 0.56 nm while that for PNTB-OH:N3 Q-PHJ film is 2.3 nm.",
+      "complexity": "single-hop",
+      "keywords": [
+        "AFM",
+        "surface roughness",
+        "Rq",
+        "morphology"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "PNTB-OAc and PNTB-OH polymers exhibit high thermal stability with 5% weight loss temperatures of 409 °C and 345 °C, respectively, as determined by thermogravimetric analysis (TGA).",
+      "evidence": "5% weight loss was recorded for PNTB-OAc at 409 °C, and by PNTB-OH at 345 °C. Both polymers have enough thermal stability to tolerate device fabrication.",
+      "complexity": "single-hop",
+      "keywords": [
+        "TGA",
+        "thermal stability",
+        "decomposition temperature"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 15032,
+    "completion_tokens": 3177,
+    "total_tokens": 18209
+  }
+}

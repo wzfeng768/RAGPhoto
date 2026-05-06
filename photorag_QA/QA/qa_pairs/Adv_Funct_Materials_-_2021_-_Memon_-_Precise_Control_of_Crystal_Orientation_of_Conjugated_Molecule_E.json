@@ -1,0 +1,75 @@
+{
+  "paper_id": "Adv_Funct_Materials_-_2021_-_Memon_-_Precise_Control_of_Crystal_Orientation_of_Conjugated_Molecule_E",
+  "paper_title": "Precise Control of Crystal Orientation of Conjugated Molecule Enables Anisotropic Charge Transport Properties",
+  "qa_pairs": [
+    {
+      "question": "How are the highly oriented polyethylene (PE) substrates prepared for use in epitaxial crystallization, and what is their typical thickness?",
+      "answer": "Highly oriented polyethylene (PE) substrates are prepared using a melt-drawn technique. The resulting films have a thickness ranging between 30 and 50 nm.",
+      "category": "Processing & Fabrication",
+      "source_title": "Precise Control of Crystal Orientation of Conjugated Molecule Enables Anisotropic Charge Transport Properties",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What is the maximum charge carrier mobility achieved for aligned ZR1 films along the molecular backbone, and how does it compare to the mobility in the perpendicular direction?",
+      "answer": "The aligned ZR1 films achieve a maximum charge carrier mobility of 9.91 × 10⁻² cm² V⁻¹ s⁻¹ along the molecular backbone direction. This value is approximately 35 times higher than the mobility measured in the perpendicular direction (2.84 × 10⁻³ cm² V⁻¹ s⁻¹).",
+      "category": "Performance Metrics",
+      "source_title": "Precise Control of Crystal Orientation of Conjugated Molecule Enables Anisotropic Charge Transport Properties",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the choice of substrate (oriented PE vs. silicon) affect the π-π stacking distance and crystallite coherence length (CCL) of ZR1?",
+      "answer": "Using oriented PE substrates instead of silicon substrates reduces the π-π stacking distance of ZR1 from 3.674 Å to 3.593 Å and significantly increases the crystallite coherence length (CCL) from 42.12 Å to 75.53 Å.",
+      "category": "Characterization Methods",
+      "source_title": "Precise Control of Crystal Orientation of Conjugated Molecule Enables Anisotropic Charge Transport Properties",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Explain why ZR1 and ZR2-C3 molecules exhibit uniaxial alignment on oriented PE while Y6 molecules show random orientation.",
+      "answer": "The alignment is dependent on the native orientation of the molecules: conjugated small molecules with an edge-on orientation (like ZR1 and ZR2-C3) can epitaxially grow and align uniaxially on the oriented PE substrate. In contrast, Y6 molecules possess a face-on orientation, which results in random molecular alignment in the films.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Precise Control of Crystal Orientation of Conjugated Molecule Enables Anisotropic Charge Transport Properties",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What is the proposed epitaxial mechanism for the growth of small molecules on oriented polyethylene substrates?",
+      "answer": "The mechanism is based on crystal lattice matching. Specifically, the π-π stacking distance of the small molecules (approximately 3.6 Å) closely matches the (200) lattice distance of the oriented PE substrate (approximately 3.7 Å).",
+      "category": "Device Architecture & Physics",
+      "source_title": "Precise Control of Crystal Orientation of Conjugated Molecule Enables Anisotropic Charge Transport Properties",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Quantify the degree of molecular alignment for ZR1 and Y6 using the dichroic ratio (DR) and molecular orientation factor (Smol).",
+      "answer": "ZR1 achieves a high degree of alignment with a dichroic ratio (DR) of 5.06 and a molecular orientation factor (Smol) of 0.66. In comparison, Y6 shows poor alignment with an Smol of only 0.16.",
+      "category": "Characterization Methods",
+      "source_title": "Precise Control of Crystal Orientation of Conjugated Molecule Enables Anisotropic Charge Transport Properties",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Compare the charge transport anisotropy of ZR2-C3 with that of Y6 on oriented PE substrates.",
+      "answer": "ZR2-C3 shows high charge transport anisotropy of 37.2, with parallel mobility (8.97 × 10⁻² cm² V⁻¹ s⁻¹) being much higher than perpendicular mobility (2.41 × 10⁻³ cm² V⁻¹ s⁻¹). Y6 exhibits much lower anisotropy, with an electron mobility anisotropy of 3.83 and a hole mobility anisotropy of 1.09, indicating relatively isotropic electrical properties.",
+      "category": "Performance Metrics",
+      "source_title": "Precise Control of Crystal Orientation of Conjugated Molecule Enables Anisotropic Charge Transport Properties",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What role do tie-chains play in the charge transport of aligned ZR1 and ZR2-C3 films?",
+      "answer": "Tie-chains interconnect neighboring ordered crystalline domains, providing additional conductive routes. This reduces charge carrier hopping and the presence of traps at grain boundaries, thereby enhancing charge transport along the drawing direction.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Precise Control of Crystal Orientation of Conjugated Molecule Enables Anisotropic Charge Transport Properties",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2733,
+    "completion_tokens": 2108,
+    "total_tokens": 4841
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "paper_id": "zhong-et-al-2020-soft-porous-blade-printing-of-nonfullerene-organic-solar-cells",
+  "paper_title": "Soft Porous Blade Printing of Nonfullerene Organic Solar Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/zhong-et-al-2020-soft-porous-blade-printing-of-nonfullerene-organic-solar-cells/auto/zhong-et-al-2020-soft-porous-blade-printing-of-nonfullerene-organic-solar-cells.md",
+  "knowledge_points": [
+    {
+      "category": "Processing & Fabrication",
+      "content": "Soft Porous Blade Printing (SPBP) utilizes a soft porous material, such as filter paper, as a printing blade in direct contact with the substrate, eliminating the suspended liquid meniscus required in conventional blade or slot-die coating.",
+      "evidence": "SPBP is a robust process because it eliminates the suspended liquid meniscus as the soft blade is in direct contact with the substrate. ... uses a layer of soft porous material such as filter paper as the printing blade.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Soft Porous Blade Printing",
+        "SPBP",
+        "filter paper",
+        "meniscus-free"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The SPBP method generates a high shear rate of approximately 1000 s⁻¹, which is significantly higher than the 10-100 s⁻¹ typically produced by conventional rigid blade or slot-die coating.",
+      "evidence": "we estimate the representative shear rate for SPBP to be ~1000 s⁻¹. Therefore, SPBP provides stronger shearing effects than those of the conventional rigid blade coating (10–100 s⁻¹).",
+      "complexity": "single-hop",
+      "keywords": [
+        "shear rate",
+        "fluid dynamics",
+        "microstructure"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The dry-film thickness (hf) in the SPBP process is governed by the relationship hf = (Q * φ) / (U * W), where Q is the feeding flow rate, φ is the volume concentration, U is the printing speed, and W is the printing width.",
+      "evidence": "The dry-film thickness hf by SPBP is governed by mass conservation ... hf = Qφ / (UW)",
+      "complexity": "single-hop",
+      "keywords": [
+        "film thickness",
+        "mass conservation",
+        "processing parameters"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Additive-free PM6:Y6 organic solar cells fabricated via SPBP achieved a champion power conversion efficiency (PCE) of 14.75%, surpassing the 13.44% achieved by spin-coated counterparts.",
+      "evidence": "Y6:PM6 cells printed by SPBP without any additive exhibit power conversion efficiencies up to 14.75% ... Devices of PM6:Y6 printed at U = 2.5 mm s⁻¹ showed a maximum PCE of 14.75% (Table 1).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "PCE",
+        "PM6:Y6",
+        "nonfullerene acceptor",
+        "efficiency"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The molecular structure of the nonfullerene acceptor significantly influences the film morphology under SPBP; the planar fused rings of IDIC lead to high surface roughness (RMS = 11.25 nm) and large domains, whereas the twisted structure of Y6 results in smoother films (RMS = 1.08 nm) with fine nanofibrillar structures.",
+      "evidence": "IDIC consists of linearly fused acceptor–donor–acceptor (A–D–A) aromatic backbones... resulted in higher roughness (11.25 nm). In comparison, Y6 contains... two twisted planar units in the center, which prevent overaggregation and tend to form a smooth film (1.08 nm).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "surface roughness",
+        "IDIC",
+        "Y6",
+        "molecular structure"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis reveals that SPBP-processed PM6:Y6 films exhibit a tighter π–π stacking distance of 3.52 Å compared to 3.57 Å in spin-coated films, indicating more compact molecular packing.",
+      "evidence": "This shift corresponds to the decrease of the π–π stacking distance from 3.57 to 3.52 Å, which suggests that the molecular packing is tighter in the printed film.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "molecular packing",
+        "pi-pi stacking"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "SPBP-processed PM6:Y6 devices exhibit higher charge carrier mobilities compared to spin-coated ones, with electron mobility reaching 9.09 × 10⁻⁴ cm² V⁻¹ s⁻¹ and hole mobility reaching 5.96 × 10⁻⁴ cm² V⁻¹ s⁻¹.",
+      "evidence": "The electron and hole mobilities of the SC and the best SPBP PM6:Y6 devices are μe = 6.16 × 10⁻⁴ ... μh = 3.92 × 10⁻⁴ ... and μe = 9.09 × 10⁻⁴ ... μh = 5.96 × 10⁻⁴ ... respectively.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "carrier mobility",
+        "SCLC",
+        "electron mobility",
+        "hole mobility"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "SPBP reduces trap-assisted recombination in OSCs, as evidenced by lower slopes in the Voc vs. light intensity plots (1.11 kT/q for PTQ10:IDIC and 1.43 kT/q for PM6:Y6) compared to spin-coated devices.",
+      "evidence": "The lower slopes of the SPBP films for both systems suggest that the SPBP films have less trap-assisted recombination. ... slopes of the spin-coated and SPBP PTQ10:IDIC films are 1.31 kT/q and 1.11 kT/q, while those of the spin-coated and SPBP PM6:Y6 films are 1.50 and 1.43 kT/q.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "trap-assisted recombination",
+        "Voc",
+        "light intensity dependence"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The liquid leveling time (τ) for SPBP using filter paper is approximately 1 ms, which allows for a uniform, non-wavy film surface despite the porous microstructure of the blade.",
+      "evidence": "For SPBP, λ ~ 50 μm, corresponding to τ ~ 1 ms which is sufficiently quick for the liquid to level before complete solvent evaporation. As a result, the produced film is quite uniform.",
+      "complexity": "single-hop",
+      "keywords": [
+        "leveling time",
+        "surface tension",
+        "film uniformity"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "A limitation of using filter paper as an SPBP blade is its low durability; after 3 meters of continuous printing, the blade shows visible signs of delamination and its thickness can double.",
+      "evidence": "After 3 m, SPB shows visible signs of delamination and the blade thickness is doubled. These data suggest that the filter paper behaves differently after a few meters of printing.",
+      "complexity": "single-hop",
+      "keywords": [
+        "durability",
+        "delamination",
+        "filter paper"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 14568,
+    "completion_tokens": 2886,
+    "total_tokens": 17454
+  }
+}

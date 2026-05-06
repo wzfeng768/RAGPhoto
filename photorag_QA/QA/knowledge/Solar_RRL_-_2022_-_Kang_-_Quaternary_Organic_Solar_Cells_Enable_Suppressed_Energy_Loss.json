@@ -1,0 +1,155 @@
+{
+  "paper_id": "Solar_RRL_-_2022_-_Kang_-_Quaternary_Organic_Solar_Cells_Enable_Suppressed_Energy_Loss",
+  "paper_title": "Quaternary Organic Solar Cells Enable Suppressed Energy Loss",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Solar RRL - 2022 - Kang - Quaternary Organic Solar Cells Enable Suppressed Energy Loss/auto/Solar RRL - 2022 - Kang - Quaternary Organic Solar Cells Enable Suppressed Energy Loss.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The newly synthesized polymer donor L20 possesses a HOMO energy level of -5.39 eV and a LUMO energy level of -3.42 eV, providing an energetic cascade relative to PM6, Y6, and PC71BM.",
+      "evidence": "Based on the results of CV measurements... the highest occupied molecular orbital (HOMO) and lowest unoccupied molecular orbital (LUMO) of L20, estimated... are -5.39 and -3.42 eV respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "L20",
+        "energy levels",
+        "HOMO",
+        "LUMO",
+        "polymer donor"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The optimized quaternary OSC (PM6:L20:Y6:PC71BM) achieves a power conversion efficiency (PCE) of 16.92%, with an open-circuit voltage (Voc) of 0.846 V, a short-circuit current (Jsc) of 25.79 mA/cm², and a fill factor (FF) of 77.46%.",
+      "evidence": "Regarding the quaternary device (PM6:L20:Y6:PC71BM), an optimized PCE of 16.92% was attained with a Voc of 0.846 V, a Jsc of 25.79 mAcm-2, and an FF of 77.46%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "quaternary OSC",
+        "fill factor",
+        "Voc",
+        "Jsc"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The quaternary OSC exhibits a total energy loss (ΔEloss) of 0.616 eV, which is a reduction of approximately 40 meV compared to the PM6:Y6 binary device (0.657 eV).",
+      "evidence": "Of note, the ΔEloss in the quaternary cell is reduced by 40 meV, regarding that of the binary device... amounts to 0.657... and 0.616 eV for PM6:L20:Y6:PC71BM OSCs.",
+      "complexity": "single-hop",
+      "keywords": [
+        "energy loss",
+        "voltage loss",
+        "PM6:Y6",
+        "quaternary"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The reduction in Voc loss in quaternary devices is specifically linked to lower radiative recombination loss below the bandgap (ΔE2 = 0.143 eV) and lower non-radiative recombination loss (ΔE3 = 0.216 eV).",
+      "evidence": "The suppression on ΔVoc is attributed to the reduced radiative recombination loss below the bandgap (0.143 V) and non-radiative voltage loss (0.216 V).",
+      "complexity": "single-hop",
+      "keywords": [
+        "radiative loss",
+        "non-radiative loss",
+        "Voc loss",
+        "recombination"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis reveals that the quaternary blend film has a crystal coherence length (CCL) of 1.94 nm for the (010) π-π stacking peak in the out-of-plane direction, which is higher than the binary (1.81 nm) and ternary (1.91 nm) blends.",
+      "evidence": "For the binary BHJ film, a CCL of 1.81 nm... was found to increase to 1.91 nm in the ternary blends and further to 1.94 nm in the quaternary BHJ film.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "CCL",
+        "crystal coherence length",
+        "π-π stacking"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Co-mixing L20 and PM6 donors at a 0.1:0.9 ratio in the quaternary blend results in a network-like morphology that facilitates hole transport and improves mobility balance between carriers.",
+      "evidence": "With morphological analysis, we find that by co-mixing the L20 and PM6 donors (L20:PM6 = 0.1:0.9), network-like morphology could be obtained to facilitate the hole transport that better matches with that of the electron counterpart in the blends, leading to a more satisfactory mobility balance.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "morphology",
+        "mobility balance",
+        "L20",
+        "hole transport"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The quaternary BHJ device demonstrates a lower ideality factor (n = 1.251) compared to the binary (n = 1.382) and ternary (n = 1.373) systems, indicating suppressed trap-assisted Shockley-Read-Hall (SRH) recombination.",
+      "evidence": "Through fittings (see Figure 4b), n values of 1.382, 1.373 and 1.251 were determined... indicating that the quaternary BHJ device suffers from the lowest trap-assisted recombination.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ideality factor",
+        "SRH recombination",
+        "trap-assisted recombination"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The quaternary device achieves a higher charge collection efficiency (Pc) of 98.11% under short-circuit conditions, compared to 96.89% for the binary and 97.26% for the ternary devices.",
+      "evidence": "the highest Pc of 98.11% (short-circuit condition)... was found in the quaternary device, versus a Pc of 96.89% in the binary device and Pc of 97.26% in the ternary device.",
+      "complexity": "single-hop",
+      "keywords": [
+        "charge collection efficiency",
+        "short-circuit",
+        "fill factor"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Transient photovoltage (TPV) and transient photocurrent (TPC) measurements indicate that quaternary devices exhibit both retarded charge recombination and shortened charge sweep-out times (39.72 ns).",
+      "evidence": "A considerable increase of τTPV was found in the quaternary device, pointing to the retardation on charge recombination... quaternary devices exhibit shortened charge sweep-out processes (τextr = 39.72 ns) with regard to that in the binary cell (τextr = 41.17 ns).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "TPV",
+        "TPC",
+        "charge sweep-out",
+        "recombination time"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The charge transfer (CT) state energy (E_CT) determined by FTPS-EQE is 1.49 eV for the quaternary system, which is higher than the binary (1.41 eV) and ternary (1.47 eV) systems.",
+      "evidence": "Based on the results of FTPS-EQE, the ECT of the binary, ternary and quaternary devices was determined to be 1.41, 1.47 and 1.49 eV respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "FTPS-EQE",
+        "ECT",
+        "charge transfer state",
+        "energy levels"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The quaternary device exhibits an electroluminescence external quantum efficiency (EQE_EL) of 2.24 × 10⁻⁴, which is significantly higher than the binary device (1.51 × 10⁻⁴).",
+      "evidence": "Notably, the quaternary device yields a higher EQE_EL of 2.24 × 10-4 in comparison with the binary (EQE_EL = 1.51 × 10-4) and ternary (EQE_EL = 1.59 × 10-4) systems.",
+      "complexity": "single-hop",
+      "keywords": [
+        "EQE_EL",
+        "electroluminescence",
+        "non-radiative loss"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The inclusion of PC71BM as a guest acceptor expands the absorption spectrum of the PM6:Y6 system to cover the 350 to 900 nm range, facilitating increased photocurrent.",
+      "evidence": "Upon addition of PC71BM, a broadened absorption spectrum coverage (between 350 and 900 nm) can be achieved, which will merit the increase in the photocurrent in OSCs.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PC71BM",
+        "absorption spectrum",
+        "photocurrent",
+        "guest acceptor"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 13048,
+    "completion_tokens": 4393,
+    "total_tokens": 17441
+  }
+}

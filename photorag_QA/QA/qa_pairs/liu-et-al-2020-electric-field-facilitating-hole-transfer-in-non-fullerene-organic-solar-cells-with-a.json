@@ -1,0 +1,75 @@
+{
+  "paper_id": "liu-et-al-2020-electric-field-facilitating-hole-transfer-in-non-fullerene-organic-solar-cells-with-a",
+  "paper_title": "Electric Field Facilitating Hole Transfer in Non-Fullerene Organic Solar Cells with a Negative HOMO Offset",
+  "qa_pairs": [
+    {
+      "question": "What are the key performance metrics of the organic solar cell based on the PTQ10:ZITI-C blend with a 1:1 ratio?",
+      "answer": "The PTQ10:ZITI-C device, which possesses a positive HOMO offset of 0.05 eV, achieves a power conversion efficiency (PCE) of 13.13%. It exhibits a short-circuit current density (Jsc) of 20.42 mA/cm², an open-circuit voltage (Voc) of 0.93 V, and a fill factor (FF) of 68.9%.",
+      "category": "Performance Metrics",
+      "source_title": "Electric Field Facilitating Hole Transfer in Non-Fullerene Organic Solar Cells with a Negative HOMO Offset",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the hole transfer time differ between the PTQ10:ZITI-C and PTQ10:ZITI-N systems, and how does this relate to their HOMO offsets?",
+      "answer": "The hole transfer process is significantly faster in the PTQ10:ZITI-C system (3.7 ps), which has a positive HOMO offset of 0.05 eV. In contrast, the PTQ10:ZITI-N system, which has a negative HOMO offset of -0.07 eV, shows a much slower hole transfer time of 14.3 ps. This indicates that a negative HOMO offset acts as a barrier that slows down the hole transfer kinetics.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Electric Field Facilitating Hole Transfer in Non-Fullerene Organic Solar Cells with a Negative HOMO Offset",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "By what mechanism is photocurrent primarily generated in 'dilute donor' bulk heterojunctions with a 1:9 donor-to-acceptor ratio?",
+      "answer": "In dilute donor devices (1:9 ratio), the incident photons are predominantly absorbed by the acceptor phase. Consequently, the photocurrent is primarily generated through the hole transfer process from the acceptor to the donor.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Electric Field Facilitating Hole Transfer in Non-Fullerene Organic Solar Cells with a Negative HOMO Offset",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Compare the impact of a -1.5 V reverse bias on the integrated Jsc of PTQ10:ZITI-N and PTQ10:ZITI-C devices.",
+      "answer": "The application of a -1.5 V reverse bias has a much stronger impact on the PTQ10:ZITI-N device (negative HOMO offset), resulting in a 57.2% enhancement in integrated Jsc. In comparison, the PTQ10:ZITI-C device (positive HOMO offset) shows only a 4.7% enhancement under the same conditions, demonstrating that the electric field is critical for facilitating exciton dissociation in systems with negative offsets.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Electric Field Facilitating Hole Transfer in Non-Fullerene Organic Solar Cells with a Negative HOMO Offset",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What specific signal is monitored in time-resolved transient absorption (TA) spectroscopy to determine the hole transfer kinetics in PTQ10-based blends?",
+      "answer": "Hole transfer kinetics are measured by monitoring the rise of the ground-state bleaching signal of the polymer donor, PTQ10. The rise of this signal corresponds to the arrival of holes in the donor phase following transfer from the acceptor.",
+      "category": "Characterization Methods",
+      "source_title": "Electric Field Facilitating Hole Transfer in Non-Fullerene Organic Solar Cells with a Negative HOMO Offset",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What are the processing solvent and thermal treatment conditions used for the fabrication of PTQ10-based active layers?",
+      "answer": "The active layers were spin-coated from a chloroform solution. Following deposition, they were subjected to thermal annealing at a temperature of 120 °C for a duration of 10 minutes.",
+      "category": "Processing & Fabrication",
+      "source_title": "Electric Field Facilitating Hole Transfer in Non-Fullerene Organic Solar Cells with a Negative HOMO Offset",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does temperature affect the charge separation efficiency in PTQ10:ZITI-C and PTQ10:ZITI-N dilute donor devices?",
+      "answer": "Charge separation in both the PTQ10:ZITI-C and PTQ10:ZITI-N dilute devices is temperature-independent over a wide range. This is evidenced by the charge carrier densities remaining constant when the temperature is varied between 300 K (room temperature) and 240 K.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Electric Field Facilitating Hole Transfer in Non-Fullerene Organic Solar Cells with a Negative HOMO Offset",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Why does the PTQ10:ZITI-N system exhibit a higher electroluminescence quantum efficiency (EQE_EL) than the PTQ10:ZITI-C system?",
+      "answer": "The PTQ10:ZITI-N system achieves an EQE_EL of 3.1 x 10^-4, which is nearly an order of magnitude higher than the 1.1 x 10^-5 observed for PTQ10:ZITI-C. This improvement occurs because the negative HOMO offset in the ZITI-N-based device acts as a favorable driving force for hole injection when the device is operated in LED mode.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Electric Field Facilitating Hole Transfer in Non-Fullerene Organic Solar Cells with a Negative HOMO Offset",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2447,
+    "completion_tokens": 2804,
+    "total_tokens": 5251
+  }
+}

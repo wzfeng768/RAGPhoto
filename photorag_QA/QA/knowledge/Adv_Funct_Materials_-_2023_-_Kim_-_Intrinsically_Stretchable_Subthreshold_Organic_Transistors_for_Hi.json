@@ -1,0 +1,139 @@
+{
+  "paper_id": "Adv_Funct_Materials_-_2023_-_Kim_-_Intrinsically_Stretchable_Subthreshold_Organic_Transistors_for_Hi",
+  "paper_title": "Intrinsically Stretchable Subthreshold Organic Transistors for Highly Sensitive Low-Power Skin-Like Active-Matrix Temperature Sensors",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Adv Funct Materials - 2023 - Kim - Intrinsically Stretchable Subthreshold Organic Transistors for Highly Sensitive/auto/Adv Funct Materials - 2023 - Kim - Intrinsically Stretchable Subthreshold Organic Transistors for Highly Sensitive.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The semiconducting layer utilizes a blend of DPPT-TT [poly-[2,5] bis(2-octyldodecyl)-3,6-di(thiophen-2-yl) pyrrolo [3,4-c]pyrrole1,4(2H,5H)-dionel-alt-thieno [3,2-b]thiophene] and SEBS (styrene-ethylene-butylene-styrene) elastomer to form nanoconfined nanofibers.",
+      "evidence": "Figure 1a shows a schematic diagram of an intrinsically stretchable subthreshold OTFT based on nanoconfined [poly-[2,5] bis(2-octyldodecyl)-3,6-di(thiophen-2-yl) pyrrolo [3,4-c]pyrrole1,4(2H,5H)-dionel-alt-thieno [3,2-b]thiophene](DPPT-TT) nanofibers in styrene-ethylene-butylene-styrene (SEBs) elastomer.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DPPT-TT",
+        "SEBS",
+        "nanoconfined nanofibers",
+        "elastomer blend"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The stretchable subthreshold organic transistor exhibits a high temperature sensitivity of 9.4% °C⁻¹.",
+      "evidence": "The highly temperature-dependent hopping transport of the fully stretchable subthreshold transistor exhibits high-temperature sensitivity (9.4% °C⁻¹)",
+      "complexity": "single-hop",
+      "keywords": [
+        "temperature sensitivity",
+        "9.4% °C⁻¹",
+        "subthreshold"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The device operates at ultralow power consumption levels of less than 1 nW, with a maximum recorded value of 670 pW at -1 V operating voltage.",
+      "evidence": "Our OTFT showed a steep subthreshold slope at low voltage... leading to... ultralow power consumption [ < 1 nW: maximum 670 pW",
+      "complexity": "single-hop",
+      "keywords": [
+        "power consumption",
+        "670 pW",
+        "ultralow power"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Operating in the subthreshold regime enables higher temperature sensitivity compared to the saturation regime (7.5 times higher) because charge transport is dominated by diffusion, which has a higher thermal activation energy than drift-dominated transport.",
+      "evidence": "Moreover, the response in the subthreshold regime is 7.5 times higher than that in the saturation regime (1.2% °C⁻¹... reflecting higher activation energy for carrier diffusion in the subthreshold regime compared to that for carrier drift in the saturation regime.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "subthreshold regime",
+        "diffusion",
+        "activation energy",
+        "saturation regime"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "A homojunction interface between the SEBS-based semiconductor and the SEBS dielectric layer minimizes interface charge traps and thermal expansion coefficient mismatch compared to heterojunctions.",
+      "evidence": "The homojunction between the semiconductor and the dielectric films could efficiently minimize the interface charge trap and thermal expansion coefficient mismatch for better interface compatibility than heterojunction.",
+      "complexity": "single-hop",
+      "keywords": [
+        "homojunction",
+        "interface charge traps",
+        "thermal expansion coefficient",
+        "SEBS"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The stretchable sensor module is fabricated using a transfer printing method for the semiconductor/dielectric layers and thermal evaporation for Ag source, drain, and gate electrodes.",
+      "evidence": "the active-matrix transistor array was fabricated on a SEBS substrate using a transfer printing method with thermally evaporated Ag metallization for stretchable source, drain, and gate electrodes.",
+      "complexity": "single-hop",
+      "keywords": [
+        "transfer printing",
+        "thermal evaporation",
+        "Ag electrodes",
+        "fabrication"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The OTFT maintains sensing stability and consistent temperature response up to 100% strain in both parallel and perpendicular directions relative to the channel.",
+      "evidence": "The initial NS-current value and temperature response remained stable with a small Vth (< 1 V) up to 100% strain in both directions",
+      "complexity": "single-hop",
+      "keywords": [
+        "strain stability",
+        "100% strain",
+        "mechanical robustness"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The sensor achieves a fast response time of 300 ms and a temperature sensing resolution of 0.5 °C.",
+      "evidence": "indicating a response time of 300 ms... the typical temperature-sensing resolution of our OTFTs was estimated to be 0.5 °C",
+      "complexity": "single-hop",
+      "keywords": [
+        "response time",
+        "sensing resolution",
+        "0.5 °C"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The charge trap density (Nt) of the device was calculated to be 1.5 × 10¹¹ cm⁻² eV⁻¹, derived from a measured subthreshold swing (SS) of 0.8 V dec⁻¹.",
+      "evidence": "The charge trap density (Nt, 1.5 × 10¹¹ cm⁻² eV), calculated as a function of SS (0.8 V dec⁻¹), remained almost unchanged",
+      "complexity": "single-hop",
+      "keywords": [
+        "charge trap density",
+        "subthreshold swing",
+        "Nt"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The 5x5 active-matrix array enables 2D temperature mapping with a converted temperature accuracy of 94.9% at 25 °C under various deformations including bending, compressing, and twisting.",
+      "evidence": "Each subthreshold current of the sensor module was converted into a temperature value with an accuracy of 94.9% at 25 °C... The sensor exhibited consistent responses despite sequential bending, compressing, and twisting.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "active-matrix",
+        "temperature mapping",
+        "accuracy",
+        "3D deformation"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Neat DPPT-TT films exhibit unstable subthreshold behavior and electrical deterioration under strain due to grain boundaries acting as hole-trapping sites and film cracking, whereas the nanofiber-based blend avoids these issues.",
+      "evidence": "These results indicate that the semicrystalline, neat DPPT-TT thin film has numerous grain boundaries that provide hole-trapping sites... In addition, this thin film is easily cracked and disconnected by external stretching, resulting in electrical deterioration.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "grain boundaries",
+        "neat DPPT-TT",
+        "trapping sites",
+        "cracking"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 11116,
+    "completion_tokens": 2959,
+    "total_tokens": 14075
+  }
+}

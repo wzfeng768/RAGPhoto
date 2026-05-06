@@ -1,0 +1,165 @@
+{
+  "paper_id": "Advanced_Materials_-_2018_-_Huynh_-_Autonomous_Flexible_Sensors_for_Health_Monitoring",
+  "paper_title": "Autonomous Flexible Sensors for Health Monitoring",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Materials - 2018 - Huynh - Autonomous Flexible Sensors for Health Monitoring/auto/Advanced Materials - 2018 - Huynh - Autonomous Flexible Sensors for Health Monitoring.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "A hybrid piezoelectric generator can be synthesized by combining zinc oxide (ZnO) nanowires with poly(vinylidene difluoride) (PVDF) using a solution-casting technique.",
+      "evidence": "A hybrid composite, using ZnO nanowires and piezoelectric polymers, such as PVDF, was developed using a simple and inexpensive solution-casting technique.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ZnO nanowires",
+        "PVDF",
+        "piezoelectric generator",
+        "solution-casting"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "A piezoelectric generator based on ZnO nanowires and PVDF can deliver a maximum open-circuit voltage of 6.9 V and a short-circuit current of 0.96 μA under uniaxial compression.",
+      "evidence": "This generator delivered a maximum open-circuit voltage of 6.9 V and a short-circuit current of 0.96 μA resulting from a uniaxial compression.",
+      "complexity": "single-hop",
+      "keywords": [
+        "open-circuit voltage",
+        "short-circuit current",
+        "PVDF",
+        "ZnO"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The addition of a cerium(III) complex to a PVDF matrix enhances the output voltage to approximately 32 V by promoting the formation of electroactive β and γ phases through hydrogen bonding between the complex and the polymer.",
+      "evidence": "By replacing the ZnO nanowires with cerium(III) complex in PVDF matrix, the generator produced a remarkable enhancement of the output voltage of up to ≈32 V... This is believed to result from the formation of hydrogen bonds... causing the formation of the β and γ phase PVDF -- the electroactive phases.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "cerium(III) complex",
+        "PVDF",
+        "beta phase",
+        "hydrogen bonding"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "A stretchable and transparent triboelectric nanogenerator can be fabricated using silver nanowires (AgNWs) embedded in a copolymer matrix of poly(3,4-ethylenedioxythiophene)-poly(styrenesulfonate) and polyurethane (PEDOT-PSS/PU).",
+      "evidence": "More interestingly, electrical generation happens when Ag nanowires (AgNWs) rub against each other in a copolymer matrix of poly(3,4-ethylenedioxythiophene)- poly(styrenesulfonate)/polyurethane (PEDOT-PSS/PU).",
+      "complexity": "single-hop",
+      "keywords": [
+        "AgNWs",
+        "PEDOT-PSS",
+        "polyurethane",
+        "triboelectric"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Graphene-based triboelectric nanogenerators using a PEDOT-PSS composite can achieve a current density of 2.4 μA cm⁻² and a power output of 12 μW.",
+      "evidence": "with graphene... in the polymer PEDOT-PSS-based composite, the nanogenerator had a current density as high as 2.4 μA cm⁻² and 12 μW in power.",
+      "complexity": "single-hop",
+      "keywords": [
+        "graphene",
+        "PEDOT-PSS",
+        "current density",
+        "power output"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The use of poly(vinylidene difluoride) (PVDF) as a piezoelectric material relies on its ability to generate electric charge in response to mechanical stress, specifically through its electroactive crystalline phases.",
+      "evidence": "Piezoelectric effect is the ability of materials (e.g., quartz, silk, poly(vinylidene difluoride) (PVDF)...) to generate an electric charge in response to applied mechanical stress (mainly compression).",
+      "complexity": "single-hop",
+      "keywords": [
+        "PVDF",
+        "piezoelectric effect",
+        "mechanical stress"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Intrinsic self-healing in polymers is achieved through reversible molecular interactions such as hydrogen bonding, π-π stacking, and metal-ligand coordination, allowing for repair without external triggers.",
+      "evidence": "Intrinsic self-healing is based on molecular interactions (e.g., hydrogen bonding, π-π stacking, and metal-ligand coordination)... Self-healing must occur at ambient conditions without the need for any trigger or external stimulus.",
+      "complexity": "single-hop",
+      "keywords": [
+        "intrinsic self-healing",
+        "hydrogen bonding",
+        "reversible interactions"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "A self-healing conductive composite made of urea-based polymers and nickel microparticles can recover 90% of its original conductivity within 15 seconds at room temperature.",
+      "evidence": "The composite is highly responsive to the healing process, with 90% of its original conductivity being recovered within 15 s at room temperature.",
+      "complexity": "single-hop",
+      "keywords": [
+        "self-healing",
+        "nickel microparticles",
+        "conductivity recovery"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The rGO/polyborosiloxane (rGO/PBS) composite utilizes dynamic dative bonds between boron and oxygen and hydrogen bonds between residual hydroxyl groups to achieve intrinsic self-healing.",
+      "evidence": "PBS is a supramolecular polymer of an intrinsic self-healing character due to its dynamic dative bonds between boron and oxygen in the Si-O groups and hydrogen bonds between residual -OH groups.",
+      "complexity": "single-hop",
+      "keywords": [
+        "polyborosiloxane",
+        "dative bonds",
+        "rGO",
+        "self-healing"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The rGO/polyborosiloxane (rGO/PBS) composite exhibits a high electron conductivity of approximately 8 × 10³ S cm⁻¹ due to its uniform honeycomb structure and low percolation threshold of 0.5 wt%.",
+      "evidence": "The first highlight of this hybrid material is its very high electron conductivity of ≈ 8 × 10³ S cm⁻¹... Second is a low percolation threshold (0.5 wt%) of rGO used in this composite.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "conductivity",
+        "rGO/PBS",
+        "percolation threshold",
+        "honeycomb structure"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "In self-healing polyurethane derivatives, the efficiency and speed of healing are determined by the density of hydrogen bonds from urea groups and the presence of reversible disulfide bonds.",
+      "evidence": "Its self-healing mechanism is based on reformation of hydrogen and disulfide bonds between polymer chains... Healing time and efficiency of this PU depend on the density of hydrogen bonds, created by the urea groups of PU, and on disulfide bonds.",
+      "complexity": "single-hop",
+      "keywords": [
+        "polyurethane",
+        "disulfide bonds",
+        "urea groups",
+        "self-healing efficiency"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Laser-lift-off techniques can be used to transfer piezoelectric PbZr0.52Ti0.48O3 (PZT) thin films onto flexible polyimide substrates to maintain functionality under deformation.",
+      "evidence": "A piezoelectric PbZr0.52Ti0.48O3 (PZT) thin film turns flexible when fabricated on polyimine substrate by the laser-lift-off technique.",
+      "complexity": "single-hop",
+      "keywords": [
+        "laser-lift-off",
+        "PZT",
+        "polyimide",
+        "flexible substrate"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Passive RFID tags for health monitoring can be powered via inductive coupling from an active RF source in the high frequency (13.56 MHz) or ultrahigh frequency (400-1000 MHz) bands.",
+      "evidence": "a passive RFID tag can power itself from the inductance of the loop antenna by extracting power from an active RF source... incoming radio signal, either in high frequency (HF, 13.56 MHz) or ultrahigh frequency (UHF, 400 MHz) bands.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "RFID",
+        "inductive coupling",
+        "HF band",
+        "UHF band"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 13541,
+    "completion_tokens": 3055,
+    "total_tokens": 16596
+  }
+}

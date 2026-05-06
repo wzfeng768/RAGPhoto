@@ -1,0 +1,75 @@
+{
+  "paper_id": "Advanced_Materials_-_2023_-_Son_-_Highly_Ordered_Supramolecular_Materials_of_PhaseSeparated_Block_Mo",
+  "paper_title": "Highly Ordered Supramolecular Materials of Phase-Separated Block Molecules for Long-Range Exciton Transport",
+  "qa_pairs": [
+    {
+      "question": "What are the measured exciton diffusivity values for CBT(Si15)3 and CBT(Si15b)3, and how do they compare to known crystalline semiconductors?",
+      "answer": "CBT(Si15)3 and CBT(Si15b)3 exhibit exciton diffusivities of 0.047 ± 0.036 cm² s⁻¹ and 0.028 ± 0.021 cm² s⁻¹, respectively. These values are highly competitive as they are comparable to the diffusivity found in crystalline tetracene, which is approximately 0.04 cm² s⁻¹.",
+      "category": "Performance Metrics",
+      "source_title": "Highly Ordered Supramolecular Materials of Phase-Separated Block Molecules for Long-Range Exciton Transport",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Why does the hydrosilylation reaction between the CBT core and oDMS side chains require a prolonged reaction time of two weeks?",
+      "answer": "The reaction requires two weeks because the carbonyl-bridged triarylamine trisamide (CBT) cores exhibit strong supramolecular aggregation. This aggregation creates a sterically hindered environment that prevents the Karstedt’s catalyst and the hydride-functionalized oDMS from easily accessing the terminal alkenes on the CBT core.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Highly Ordered Supramolecular Materials of Phase-Separated Block Molecules for Long-Range Exciton Transport",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the use of oligodimethylsiloxane (oDMS) side chains contribute to the long-range exciton transport observed in CBT-based materials?",
+      "answer": "Functionalization with oDMS side chains prevents the bundling of CBT nanofibers, which effectively reduces structural defects and electronic perturbations within the molecular columns. This leads to a high degree of coherence and enhanced exciton delocalization, resulting in an estimated exciton diffusion length (LD) of greater than 100 nm, which spans more than 340 aligned CBT molecules.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Highly Ordered Supramolecular Materials of Phase-Separated Block Molecules for Long-Range Exciton Transport",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Compare the thermal properties of CBT functionalized with linear oDMS (Si15) versus branched oDMS (Si15b).",
+      "answer": "The branched variant, CBT(Si15b)3, exhibits a higher side-chain softening temperature (130–140 °C) compared to the linear CBT(Si15)3 (100–110 °C). However, CBT(Si15b)3 has a lower initial isotropization temperature (180 °C) than CBT(Si15)3 (210 °C), which is attributed to the greater bulkiness of the branched oDMS chains.",
+      "category": "Processing & Fabrication",
+      "source_title": "Highly Ordered Supramolecular Materials of Phase-Separated Block Molecules for Long-Range Exciton Transport",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What structural arrangement and dimensions were identified for the oDMS-functionalized CBT molecules using Medium-angle X-ray scattering (MAXS)?",
+      "answer": "MAXS analysis revealed that the molecules form hexagonally arranged columnar structures. The average center-to-center intercolumnar distance (dcol) for these structures was determined to be 4.3 ± 0.1 nm.",
+      "category": "Characterization Methods",
+      "source_title": "Highly Ordered Supramolecular Materials of Phase-Separated Block Molecules for Long-Range Exciton Transport",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Based on spectroscopic evidence, what type of molecular aggregates are formed by CBT(Si15)3 and CBT(Si15b)3, and which material shows higher electronic order?",
+      "answer": "Both materials form H-type aggregates, indicated by the suppression of the (0,0) electronic transition in absorption and emission spectra. CBT(Si15)3 shows a higher degree of electronic order than the branched CBT(Si15b)3, as evidenced by the complete absence of the (0,0) transition in its annealed film spectra compared to the merely suppressed transition in the branched version.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Highly Ordered Supramolecular Materials of Phase-Separated Block Molecules for Long-Range Exciton Transport",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What processing conditions are required to produce large, highly ordered domains of CBT(Si15)3, and what is the maximum domain size achieved?",
+      "answer": "Large domains are produced by slow cooling the material from its isotropic melt at a rate of 1 °C min⁻¹. This process results in highly ordered, birefringent domains of aligned nanofibers, with the largest observed domains for CBT(Si15)3 reaching dimensions of 125 x 70 µm².",
+      "category": "Processing & Fabrication",
+      "source_title": "Highly Ordered Supramolecular Materials of Phase-Separated Block Molecules for Long-Range Exciton Transport",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Describe the experimental setup used to track the broadening of the exciton distribution and calculate diffusivity in these CBT materials.",
+      "answer": "The setup uses a pulsed laser excitation at a wavelength of 470 nm combined with spatially resolved emission detection. Time-correlated single-photon counting (TCSPC) is employed to measure the exciton lifetime and track the spatial broadening of the exciton distribution over time, which is then analyzed using Gaussian fits to derive the diffusivity.",
+      "category": "Characterization Methods",
+      "source_title": "Highly Ordered Supramolecular Materials of Phase-Separated Block Molecules for Long-Range Exciton Transport",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2840,
+    "completion_tokens": 2297,
+    "total_tokens": 5137
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "paper_id": "Advanced_Materials_-_2014_-_Zang_-_Integrated_Molecular_Interfacial_and_Device_Engineering_towards_H",
+  "paper_title": "Integrated Molecular, Interfacial, and Device Engineering towards High-Performance Non-Fullerene Based Organic Solar Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Materials - 2014 - Zang - Integrated Molecular  Interfacial  and Device Engineering towards High‐Performance/auto/Advanced Materials - 2014 - Zang - Integrated Molecular  Interfacial  and Device Engineering towards High‐Performance.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "PBDTT-F-TT is a pseudo-two-dimensional (2D) conjugated polymer with alkylthienyl side chains, selected as a donor for its deep HOMO energy level and red-shifted absorption compared to PBDTTT-C-T.",
+      "evidence": "PBDTT-F-TT was selected because of its deeper HOMO and red-shifted absorption that form a better match with di-PBI compared to those for PBDTTT-C-T.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PBDTT-F-TT",
+        "pseudo-2D polymer",
+        "donor material",
+        "molecular design"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The HOMO energy level of PBDTT-F-TT is -5.38 eV, which contributes to a higher open-circuit voltage (VOC) of 0.80 V in non-fullerene OSCs compared to 0.72 V for PBDTTT-C-T based devices.",
+      "evidence": "The HOMO energy level of PBDTT-F-TT was estimated to be around -5.38 eV... The devices with PBDTT-F-TT as donor have a significantly higher VOC (0.80 V) than the devices with PBDTTT-C-T (0.72 V), which is consistent with its deeper HOMO energy level.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "HOMO",
+        "open-circuit voltage",
+        "PBDTT-F-TT",
+        "energy level engineering"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The optimized PBDTT-F-TT:di-PBI inverted organic solar cell with a SAM-modified ZnO interlayer achieved a maximum power conversion efficiency (PCE) of 5.90% and an average PCE of 5.73%.",
+      "evidence": "the average PCE of the SAM-modified device could be further increased from (5.28 ± 0.03)% to (5.73 ± 0.17)% [PCEmax of 5.90%].",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "power conversion efficiency",
+        "inverted structure",
+        "SAM modification"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Optimal bulk-heterojunction (BHJ) morphology for the PBDTT-F-TT:di-PBI system was achieved using binary solvent additives consisting of 1.0% 1,8-diiodooctane (DIO) and 2.0% 1-chloronaphthalene (CN) in ortho-dichlorobenzene (oDCB).",
+      "evidence": "the photovoltaic properties can be significantly improved by using binary additives with 1.0% DIO and 2.0% CN in ortho-dichorobenzene (oDCB) (v/v).",
+      "complexity": "single-hop",
+      "keywords": [
+        "solvent additives",
+        "DIO",
+        "1-chloronaphthalene",
+        "morphology optimization"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Inverted device architectures for PBDTT-F-TT:di-PBI show higher PCE (5.28%) than conventional structures (4.04%) due to superior light harvesting and more favorable exciton generation profiles centered in the BHJ layer.",
+      "evidence": "the average PCE of the inverted device ((5.28 ± 0.03)%) is much higher than that of the conventional one ((4.04 ± 0.07)%)... the inverted device shows higher exciton generation than the conventional device. Notably, the generated excitons in the inverted device are broadly distributed with a peak centered at the BHJ layer.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "inverted architecture",
+        "exciton generation",
+        "optical modeling",
+        "device configuration"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The PBDTT-F-TT:di-PBI blend demonstrates highly imbalanced charge transport, with a hole mobility of 4.36 x 10^-2 cm^2 V^-1 s^-1 and an electron mobility of 3.32 x 10^-5 cm^2 V^-1 s^-1.",
+      "evidence": "The estimated electron mobility (μe)... is around 3.32 × 10^-5 cm^2 V^-1 s^-1, which is 3 orders of magnitude lower than that for hole mobility (μh = 4.36 × 10^-2 cm^2 V^-1 s^-1).",
+      "complexity": "single-hop",
+      "keywords": [
+        "carrier mobility",
+        "SCLC",
+        "charge transport",
+        "mobility imbalance"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "PBDTT-F-TT:di-PBI devices processed from the non-halogenated solvent o-xylene achieved a PCE of 5.20%, demonstrating feasibility for environmentally friendly large-scale manufacturing.",
+      "evidence": "the performance of PBDTT-F-TT:di-PBI BHJ-based devices processed from o-xylene showed a quite high PCE of ca. 5.20%, which is comparable to that obtained using o-DCB.",
+      "complexity": "single-hop",
+      "keywords": [
+        "non-halogenated solvent",
+        "o-xylene",
+        "green solvent",
+        "large-area fabrication"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "PC61BM-SAM modification on the ZnO interlayer suppresses interfacial trap-assisted Shockley-Read-Hall (SRH) recombination, as indicated by the reduction of the VOC light-intensity dependence slope from 1.46 kT/q to 1.10 kT/q.",
+      "evidence": "the device without SAM modification possesses a strong VOC dependence on light intensity with a slope of 1.46 kT/q... while the device with SAM modification shows a unique slope of 1.10 kT/q... the SAM-modified ZnO effectively passivates the inorganic surface trap states to suppress interfacial trap-assisted recombination.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "SRH recombination",
+        "trap passivation",
+        "light-intensity dependence",
+        "interfacial engineering"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The PBDTT-F-TT:di-PBI system exhibits high thickness tolerance, maintaining an average PCE of 4.47% at an active layer thickness of 170 nm, which is approximately 80% of its peak efficiency.",
+      "evidence": "the PBDTT-F-TT:di-PBI device maintained ca. 80% of its PCE value as the BHJ thickness increased from 105 to 170 nm... an average PCE of (4.47 ± 0.07)% can be achieved in devices with a 170 nm thick BHJ layer.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thickness tolerance",
+        "active layer thickness",
+        "PCE",
+        "large-area processing"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 11393,
+    "completion_tokens": 3746,
+    "total_tokens": 15139
+  }
+}

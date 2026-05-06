@@ -1,0 +1,150 @@
+{
+  "paper_id": "Supplemental_Material_Relationship_between_fill_factor_and_light_intensity_in_solar_cells_based_on_o",
+  "paper_title": "Supplemental Material: Relationship between fill factor and light intensity in solar cells based on organic disordered semiconductors: The role of tail states",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Supplemental Material Relationship between fill factor and light intensity in solar cells based on organic disordered semiconductors The role of tail states/auto/Supplemental Material Relationship between fill factor and light intensity in solar cells based on organic disordered semiconductors The role of tail states.md",
+  "knowledge_points": [
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The inverted device architecture used for the organic solar cells is ITO / ZnO (30 nm) / PFN (5 nm) / PTB7-Th:Acceptor / MoO3 (10 nm) / Ag (70 nm).",
+      "evidence": "The device structure was ITO / ZnO / PFN / PTB7-Th: Acceptor / MoO3 / Ag. ... The ZnO precursor solution was spin-coated on the ITO-coated glass to form a 30 nm electron-transport layer. ... a thin layer of PFN (5nm) was spin-coated on top of the ZnO layer.",
+      "complexity": "single-hop",
+      "keywords": [
+        "inverted structure",
+        "ZnO",
+        "PFN",
+        "active layer"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "PTB7-Th:PC71BM active layers are processed using a mixed solvent of 97% Chlorobenzene (CB) and 3% 1,8-Diiodooctane (DIO) at a concentration of 25 mg/ml.",
+      "evidence": "PTB7-Th: PC71BM blend was dissolved into a mixed solvent containing 97% Chlorobenzene (CB) and 3% 1,8-Diiodooctane (DIO) with a concentration of 25 mg/ml.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Chlorobenzene",
+        "1,8-Diiodooctane",
+        "solvent processing",
+        "PC71BM"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "In the tail state-mediated recombination model, the ideality factor (nid,t) is determined by the characteristic energy of the tail states (Et) according to the relation nid,t = 2Et / (Et + kBT).",
+      "evidence": "Therefore, the ideality factor nid,t can be expressed as nid,t = (kBT / 2Et + 1/2)^-1 ... nid,t = 2Et / (Et + kBT)",
+      "complexity": "multi-hop",
+      "keywords": [
+        "ideality factor",
+        "tail states",
+        "characteristic energy",
+        "recombination"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "For organic solar cells with carrier mobility lower than 10^-1 cm^2 V^-1 s^-1, the fill factor (FF) typically shows a negative dependence on light intensity due to transport resistance.",
+      "evidence": "For low mobility (< 10^-1 cm^2 V^-1 s^-1), FF becomes negatively dependent on light intensity. This result can be rationalized using an increased transport resistance in the diode equation.",
+      "complexity": "single-hop",
+      "keywords": [
+        "carrier mobility",
+        "fill factor",
+        "light intensity",
+        "transport resistance"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The open-circuit voltage (Voc) in a system dominated by tail state-mediated recombination is expressed as Voc = Eg/q - (nid,t * kT / q) * ln(Bt * Nt * Nc / (CG * I)).",
+      "evidence": "The Voc can then be written as ... Voc = Eg/q - (nid,t * kT / q) * ln(Bt * Nt * Nc / (CG * I))",
+      "complexity": "single-hop",
+      "keywords": [
+        "open-circuit voltage",
+        "tail state recombination",
+        "bandgap"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The dark ideality factor (nid,d) is extracted from the exponential regime of dark J-V curves at voltages below the onset of the Ohmic regime to eliminate series resistance effects.",
+      "evidence": "Therefore, to avoid influence from series resistive effect, the dark ideality factor nid,d can only be obtained by fitting the exponential regime of the dark current-voltage curves at voltages below the onset of the Ohmic regime.",
+      "complexity": "single-hop",
+      "keywords": [
+        "dark ideality factor",
+        "J-V characteristics",
+        "series resistance"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Drift-diffusion modeling using gpvdm confirms that the voltage at the maximum power point (Vm) is linearly proportional to the open-circuit voltage (Voc) for light intensities ranging from 10^-8 to 1 Sun.",
+      "evidence": "Figure S8 shows that the assumption that Vm ∝ Voc is reliable for the light intensity dependent analysis for devices limited by either direct or tail state mediated recombination. ... light intensity, which was changed from 10^-8 Suns to 1 Sun.",
+      "complexity": "single-hop",
+      "keywords": [
+        "gpvdm",
+        "drift-diffusion",
+        "maximum power point",
+        "open-circuit voltage"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Contact injection barriers at the cathode reduce the absolute fill factor but do not create a positive FF-light intensity dependence in either trap-free or trap-active organic solar cells.",
+      "evidence": "Therefore, the presence of contact barriers cannot contribute to a positive FF-I dependence. ... the introduction of contact injection barrier reduces FF at each light intensity, however, the same FF-I trend, i.e. negative dependency, is maintained.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "contact barriers",
+        "fill factor",
+        "light intensity dependence",
+        "injection barrier"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The light ideality factor (nid,l) is derived from the slope of the Voc versus the natural logarithm of light intensity (I) plot.",
+      "evidence": "The light ideality factor nid,l can then be obtained by fitting the Voc-Sun plot. ... Voc = nid,l * (kBT/q) * ln(I) + C2",
+      "complexity": "single-hop",
+      "keywords": [
+        "light ideality factor",
+        "Voc-Sun plot",
+        "photovoltage"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "A positive dependence of fill factor (FF) on light intensity is an indicator that the device performance is limited by trap-involved recombination rather than direct recombination.",
+      "evidence": "Fig. S9b shows that the positive dependence of FF on light intensity is only present when traps are involved.",
+      "complexity": "single-hop",
+      "keywords": [
+        "fill factor",
+        "trap-mediated recombination",
+        "light intensity"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The internal voltage at the maximum power point (Vint,m) is defined as the difference between the built-in voltage (Vbi) and the voltage at maximum power point (Vm).",
+      "evidence": "the internal voltage at MPP, Vint,m is given by Vint,m = Vbi - Vm",
+      "complexity": "single-hop",
+      "keywords": [
+        "internal voltage",
+        "built-in voltage",
+        "maximum power point"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "In the tail state-mediated model, the charge transport mechanism is assumed to be drift-dominated, and the mobility is treated as a function of both free and trapped charge carrier densities.",
+      "evidence": "TABLE S1. ... Charge transport mechanism: Drift-dominated. ... Mobility: nf / (nf + nt) * u",
+      "complexity": "single-hop",
+      "keywords": [
+        "drift-dominated transport",
+        "mobility",
+        "trapped carriers"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 12183,
+    "completion_tokens": 3637,
+    "total_tokens": 15820
+  }
+}

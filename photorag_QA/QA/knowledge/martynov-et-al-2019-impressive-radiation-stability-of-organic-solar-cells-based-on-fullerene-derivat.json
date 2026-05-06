@@ -1,0 +1,131 @@
+{
+  "paper_id": "martynov-et-al-2019-impressive-radiation-stability-of-organic-solar-cells-based-on-fullerene-derivat",
+  "paper_title": "Impressive Radiation Stability of Organic Solar Cells Based on Fullerene Derivatives and Carbazole-Containing Conjugated Polymers",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/martynov-et-al-2019-impressive-radiation-stability-of-organic-solar-cells-based-on-fullerene-derivatives-and-carbazole/auto/martynov-et-al-2019-impressive-radiation-stability-of-organic-solar-cells-based-on-fullerene-derivatives-and-carbazole.md",
+  "knowledge_points": [
+    {
+      "category": "Stability & Degradation",
+      "content": "Organic solar cells based on PCDTBT/[60]PCBM blends maintain more than 80% of their initial power conversion efficiency after exposure to gamma rays with a total absorbed dose of 6500 Gy.",
+      "evidence": "In particular, the PCDTBT/[60]PCBM composite films demonstrated an outstanding radiation stability while maintaining more than 80% of the initial photovoltaic efficiency after exposure to y rays with a maximum absorbed dose of 6500 Gy.",
+      "complexity": "single-hop",
+      "keywords": [
+        "gamma radiation",
+        "PCDTBT",
+        "PCE retention",
+        "radiation dose"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "PCDTBT (P1) exhibits significantly higher radiation stability than PCDTTBTBTT (P2), likely due to the absence of solubilizing alkyl groups on thiophene rings or the absence of bithiophene fragments in its structure.",
+      "evidence": "The obtained results reveal a significantly lower radiation stability of polymer P2 as compared to P1... Probably, the radiation stability decreased because of the solubilizing alkyl groups attached to the thiophene rings in P2 or the presence of bithiophene fragments in the structure of this polymer, which are missing in P1.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "PCDTBT",
+        "PCDTTBTBTT",
+        "molecular structure",
+        "alkyl groups"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Gamma radiation induces the formation of ESR-silent defects in [60]PCBM and PCDTTBTBTT that act as deep traps, increasing trap-assisted monomolecular recombination and reducing open-circuit voltage (Voc) and short-circuit current (Jsc).",
+      "evidence": "The obtained results suggested that y rays induce high concentration of ESR-silent defects... defect formation increases the density of states (DOs) within the band gap of the material, which are known to lead to significant VOC losses... the presence of defects functioning as deep traps results in trap-assisted recombination of charge carriers, thus decreasing JSC.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "ESR-silent defects",
+        "deep traps",
+        "trap-assisted recombination",
+        "Voc loss"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Fullerene-polymer composites exhibit higher resistance to gamma radiation damage compared to the bulk samples of the individual pristine materials.",
+      "evidence": "The fullerene-polymer composites were much more resistant with respect to the radiation damage than the bulk samples of pristine materials.",
+      "complexity": "single-hop",
+      "keywords": [
+        "composites",
+        "pristine materials",
+        "radiation resistance",
+        "blends"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Gamma radiation exposure can lead to radiation-induced doping in PCDTBT/[60]PCBM films, which results in a significant increase in local conductivity (approximately 20-fold).",
+      "evidence": "Notable also is the significant (~20 fold) increase in the conductivity of the P1/[60]PCBM films, presumably due to the radiation-induced doping.",
+      "complexity": "single-hop",
+      "keywords": [
+        "radiation-induced doping",
+        "conductivity",
+        "PCDTBT",
+        "PCBM"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Based on NASA's estimated annual radiation dose of 160 Gy for satellites in geocentric Earth orbits, PCDTBT/[60]PCBM-based organic solar cells are projected to have operational lifetimes exceeding 10 years.",
+      "evidence": "Considering an average annual radiation dose of 160 Gy according to the NASA estimations for satellites at geocentric Earth orbits organic solar cells based on PCDTBT/[60]PCBM blends hold a promise to deliver lifetimes well above 10 years.",
+      "complexity": "single-hop",
+      "keywords": [
+        "NASA",
+        "satellite",
+        "operational lifetime",
+        "geocentric orbit"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Transient photovoltage (TPV) measurements show that gamma radiation increases the characteristic decay time (τ1/2) in P1/[60]PCBM blends from ~7 μs to ~13 μs after 6500 Gy, indicating radiation-induced trap formation.",
+      "evidence": "The characteristic time τ1/2 (time when the TPV signal decays to 50% of the maximal amplitude) for the blends exposed to 6500 Gy (~13 μs) was almost twice as long as that for the pristine films (~7 μs).",
+      "complexity": "single-hop",
+      "keywords": [
+        "TPV",
+        "decay time",
+        "trap formation",
+        "transient photovoltage"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "In PCDTBT/[60]PCBM systems, gamma radiation improves the balance between hole and electron mobilities, which helps maintain or improve the device fill factor (FF) despite radiation damage.",
+      "evidence": "Importantly, the hole and electron mobilities become more balanced for the P1/ [60]PCBM system after radiation exposure, which might explain the experimentally observed increase in the device fill factor.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "charge carrier mobility",
+        "fill factor",
+        "PCDTBT",
+        "mobility balance"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Organic solar cells show superior radiation stability compared to triple-cation perovskite solar cells, which lose over 40% of their initial efficiency after only 500 Gy of gamma radiation.",
+      "evidence": "In comparison, the perovskite solar cells based on \"triple-cation\" Cs0.15MA0.10FA0.75Pb(Br0.17I0.83)3 formulation lost >40% of their initial PCE after being exposed to 500 Gy under the same conditions.",
+      "complexity": "single-hop",
+      "keywords": [
+        "perovskite solar cells",
+        "stability comparison",
+        "PCE loss"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Kelvin probe force microscopy (KPFM) reveals that the surface potential of PCDTTBTBTT (P2) drops significantly (from -520 to -820 mV) after 500 Gy exposure, indicating severe electronic property modification compared to the stable potential of PCDTBT.",
+      "evidence": "On the contrary, the average surface potential of P2 dropped dramatically from -520 to -820 mV after 500 Gy exposure... The surface potential of P1 films just slightly increased from -630 in average to -570 mV after 6500 Gy exposure.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "KPFM",
+        "surface potential",
+        "PCDTTBTBTT",
+        "electronic modification"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 13327,
+    "completion_tokens": 2532,
+    "total_tokens": 15859
+  }
+}

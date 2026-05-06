@@ -1,0 +1,153 @@
+{
+  "paper_id": "Advanced_Materials_-_2021_-_Tao_-_Organic_Single_Crystals_with_High_Photoluminescence_Quantum_Yields",
+  "paper_title": "Organic Single Crystals with High Photoluminescence Quantum Yields Close to 100% and High Mobility for Optoelectronic Devices",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Materials - 2021 - Tao - Organic Single Crystals with High Photoluminescence Quantum Yields Close to 100  and High/auto/Advanced Materials - 2021 - Tao - Organic Single Crystals with High Photoluminescence Quantum Yields Close to 100  and High.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The molecular design of TPA-An and TBA-An involves introducing triphenylamine and 1,3-diphenylbenzene groups at the 9,10 positions of an anthracene core via triple bond connections to expand the π-conjugation length and improve mobility.",
+      "evidence": "two compounds 9,10-bis([N,N-diphenyl] 4'-phenylethynyl)anthracene (TPA-An) and 9,10-bis([1',3'-diphenyl]-5'-phenylethynyl)anthracene (TBA-An) are synthesized by introducing two different luminescent groups... at the 9,10 positions of anthracene via triple bond connection.",
+      "complexity": "single-hop",
+      "keywords": [
+        "anthracene",
+        "triple bond",
+        "molecular design",
+        "conjugation"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "TPA-An and TBA-An single crystals exhibit exceptionally high photoluminescence quantum yields (PLQYs) of 98% and 99%, respectively, at room temperature.",
+      "evidence": "Single crystals based on TPA-An and TBA-An... exhibit high photoluminescence quantum yields (PLQYs) of 98% and 99% at room temperature",
+      "complexity": "single-hop",
+      "keywords": [
+        "PLQY",
+        "photoluminescence",
+        "quantum yield",
+        "room temperature"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The hole mobilities of TPA-An and TBA-An in single-crystal organic field-effect transistors (SC-OFETs) reach maximum values of 0.45 cm² V⁻¹ s⁻¹ and 0.15 cm² V⁻¹ s⁻¹, respectively.",
+      "evidence": "remarkable hole mobilities of 0.45 and 0.15 cm² V⁻¹ s⁻¹ in single-crystal organic field-effect transistors (SC-OFETs).",
+      "complexity": "single-hop",
+      "keywords": [
+        "hole mobility",
+        "SC-OFET",
+        "charge transport"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "TPA-An exhibits higher mobility than TBA-An because it possesses more intermolecular C-H...π interactions (2.868–2.949 Å) and a more delocalized HOMO electron cloud distribution, despite having larger dihedral angles (44.06° vs. ~3-6°).",
+      "evidence": "Although the dihedral angles of TBA-An molecule are smaller than that of TPA-An molecule, there are more intermolecular interactions in TPA-An single crystals... The electron cloud distribution of TPA-An HOMO energy level is more delocalized than that of TBA-An, indicating that TPA-An has better charge carrier mobility",
+      "complexity": "multi-hop",
+      "keywords": [
+        "dihedral angle",
+        "intermolecular interactions",
+        "HOMO delocalization",
+        "mobility"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The HOMO levels of TPA-An and TBA-An are -5.32 eV and -5.60 eV, respectively, while their optical bandgaps are 2.22 eV and 2.19 eV.",
+      "evidence": "The highest occupied molecular orbital (HOMO) levels for TPA-An and TBA-An were -5.32 and -5.60 eV... The respective optical bandgaps for TPA-An and TBA-An calculated by the onset absorption in their films were 2.22 and 2.19 eV",
+      "complexity": "single-hop",
+      "keywords": [
+        "HOMO",
+        "bandgap",
+        "energy levels",
+        "cyclic voltammetry"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "TPA-An and TBA-An UV phototransistors achieve ultrahigh detectivities (D*) of 1.40 x 10^16 Jones and 1.60 x 10^17 Jones, respectively, under 370 nm light illumination.",
+      "evidence": "the detectivities exceeding 1.40 x 10^16 and 1.60 x 10^17 Jones... upon an illumination of 370 nm light.",
+      "complexity": "single-hop",
+      "keywords": [
+        "detectivity",
+        "UV phototransistor",
+        "Jones",
+        "photoresponse"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The exciton binding energies (Eb) for TPA-An and TBA-An single crystals are 53.57 meV and 83.29 meV, respectively, which facilitates temperature-activated exciton dissociation into photogenerated carriers at room temperature.",
+      "evidence": "the lower binding energies, EB, of 53.57 meV (TPA-An) and 83.29 meV (TBA-An) were obtained... the fluorescence emission intensities... decrease with the increase of temperature, due to the temperature-activated exciton dissociation",
+      "complexity": "multi-hop",
+      "keywords": [
+        "exciton binding energy",
+        "exciton dissociation",
+        "photogenerated carriers"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Single crystals of TPA-An and TBA-An with ribbon morphology were grown using a slow solvent vapor-diffusion method, utilizing chloroform/n-hexane and chloroform/methanol solvent systems.",
+      "evidence": "Two crystals of TPA-An and TBA-An are prepared by the slow solvent vapor-diffusion method... high-quality ribbon crystals were grown in chloroform/n-hexane solution and chloroform/methanol solution, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "solvent vapor-diffusion",
+        "ribbon crystals",
+        "crystal growth",
+        "chloroform"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The quality and orientation of the single crystals on substrates were confirmed using X-ray diffraction (XRD), which showed (00h) facet reflections corresponding to interlayer distances of 14.38 Å for TPA-An and 17.44 Å for TBA-An.",
+      "evidence": "The diffraction peaks corresponding to (00h) facet reflections for TPA-An and TBA-An single crystals on substrates were observed... The interlayer distances in TPA-An and TBA-An crystals on substrates... were 14.38 and 17.44 Å",
+      "complexity": "single-hop",
+      "keywords": [
+        "XRD",
+        "interlayer distance",
+        "facet reflection",
+        "crystallinity"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Thermogravimetric analysis (TGA) indicates that TPA-An and TBA-An are thermally stable up to 489 °C and 522 °C, respectively (based on 5% weight loss).",
+      "evidence": "TPA-An and TBA-An show good stability sublimating at 489 and 522 °C from thermogravimetric analysis (TGA) data (corresponding to 5% weight loss)",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "TGA",
+        "sublimation",
+        "weight loss"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The high PLQY in the solid state (near 100%) compared to the solution state (~80%) is attributed to the restriction of intramolecular vibration and rotation of the benzene rings within the compact crystal packing.",
+      "evidence": "The reason for higher PLQYs of TPA-An and TBA-An single crystals is that the intermolecular interactions in the single crystals restricted the vibration and rotation of benzene rings... resulting in the enhancement of the fluorescence emission",
+      "complexity": "multi-hop",
+      "keywords": [
+        "solid-state emission",
+        "molecular rotation",
+        "non-radiative recombination",
+        "PLQY enhancement"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Under 370 nm illumination at an intensity of 0.0002 mW cm⁻², the TPA-An phototransistor exhibits a photoresponsivity (R) of 7.19 x 10^5 A/W.",
+      "evidence": "Under 0.0002 mW cm⁻² 370 nm wavelength illumination... ultrahigh photoresponsivities reached 7.19 x 10^5... A W⁻¹",
+      "complexity": "single-hop",
+      "keywords": [
+        "photoresponsivity",
+        "UV light",
+        "phototransistor"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 12101,
+    "completion_tokens": 3748,
+    "total_tokens": 15849
+  }
+}

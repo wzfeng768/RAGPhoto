@@ -1,0 +1,156 @@
+{
+  "paper_id": "Adv_Funct_Materials_-_2022_-_Wen_-_PhenolFunctionalized_Perylene_Bisimides_as_AmineFree_Electron_Tra",
+  "paper_title": "Phenol-Functionalized Perylene Bisimides as Amine-Free Electron Transporting Interlayers for Stable Nonfullerene Organic Solar Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Adv Funct Materials - 2022 - Wen - Phenol‐Functionalized Perylene Bisimides as Amine‐Free Electron Transporting Interlayers/auto/Adv Funct Materials - 2022 - Wen - Phenol‐Functionalized Perylene Bisimides as Amine‐Free Electron Transporting Interlayers.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "PBI-2P is a cathode interlayer material designed by functionalizing a perylene bisimide (PBI) core with two 2,6-di-tert-butylphenol units at the bay positions.",
+      "evidence": "A new type of cathode interlayer composed of 2,6-di-tert-butyl-phenolfunctionalized perylene bisimide (PBI-2P) is successfully applied... based on a perylene bisimide (PBI) dye equipped with two 2,6-di-tert-butylphenol units (PBI-2P, shown in Scheme 1).",
+      "complexity": "single-hop",
+      "keywords": [
+        "PBI-2P",
+        "perylene bisimide",
+        "phenol-functionalized",
+        "molecular design"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Organic solar cells using PBI-2P as a cathode interlayer in a PM6:Y6:PC71BM active layer system achieved a champion power conversion efficiency (PCE) of 17.20%.",
+      "evidence": "The OSCs based on the PBI-2P interlayer show a power conversion efficiency up to 17.20%... By using PBI-2P as the cathode interlayer a champion PCE up to 17.20% was achieved.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "17.20%",
+        "PM6:Y6:PC71BM",
+        "champion efficiency"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "OSCs utilizing PBI-2P interlayers exhibit superior photostability compared to amine-based interlayers, maintaining 90% of their initial PCE for 12 days under continuous white-LED irradiation, while PFN-Br and PEIE devices reach this decay point in approximately 6 days.",
+      "evidence": "The time for the decays to 90% of the initial PCE values is 12 d for PBI-2P based device while it is only ≈6 d for the others (PFN-Br, PDINO, and PEIE).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "photostability",
+        "T90 lifetime",
+        "amine-free",
+        "device degradation"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "PBI-2P demonstrates high solubility in polar alcohol solvents like methanol (up to 20 mg/mL), which is essential for solution-processing cathode interlayers on top of active layers without causing solvent corrosion.",
+      "evidence": "Assisted with the hydroxy groups, PBI-2P is even soluble in polar alcohol solvents like methanol or ethanol, i.e., the solubility in methanol is up to ≈20 mg mL⁻¹.",
+      "complexity": "single-hop",
+      "keywords": [
+        "solubility",
+        "methanol",
+        "alcohol-soluble",
+        "solution processing"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The application of a PBI-2P interlayer reduces the work function of the silver (Ag) cathode from -4.58 eV to -3.81 eV, which increases the open-circuit voltage (Voc) of the device.",
+      "evidence": "The WF of the Ag electrode was -4.58 eV, which is decreased to -3.81 eV by coating a thin layer of PBI-2P... The decreased WF of the cathode by application of PBI-2P corresponds well to the increased Voc.",
+      "complexity": "single-hop",
+      "keywords": [
+        "work function",
+        "silver electrode",
+        "UPS",
+        "open-circuit voltage"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The 2,6-di-tert-butylphenol groups in PBI-2P undergo deprotonation and oxidation to form stable biradicals, which enhances the material's conductivity (2.98 x 10⁻⁵ S/cm) compared to its precursor PBI-2Br.",
+      "evidence": "the electron-withdrawing effect on the para-position of the phenol enhances its acidity and thus affords easily deprotonation into phenolates and subsequent oxidation into radical and biradical species... the conductivities of PBI-2P (2.98 × 10⁻⁵ S cm⁻¹) are higher than that of PBI-2Br (0.96 × 10⁻⁵ S cm⁻¹).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "biradicals",
+        "conductivity",
+        "deprotonation",
+        "phenol groups"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "PBI-2P shows significantly better thickness tolerance than PFN-Br; a 20 nm thick PBI-2P layer yields an average PCE of 15.47%, whereas a PFN-Br layer of the same thickness results in a drastic performance drop to 1.56% with an S-shaped J-V curve.",
+      "evidence": "the thickness tolerance observed for PBI-2P is much better than that for PFN-Br... 20 nm PBI-2P afforded a PCE of 15.47% while already for the 15 nm PFN-Br layer a serious decrease of the PCE to only 8.94% with S-shaped J-V curve was observed. (Table 1 shows 20nm PFN-Br at 1.56%).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "thickness tolerance",
+        "PFN-Br",
+        "S-shaped J-V curve",
+        "film thickness"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The chemical instability of amine-based interlayers with nonfullerene acceptors like Y6 is caused by electron transfer from the amine groups to the dicyanomethylene indanone (IC) termini of the acceptor, leading to decomposition.",
+      "evidence": "the contact between the fused-ring acceptors and the amine-group containing interlayer materials is unstable... attributed to the electron transfer from amine groups of the conventional cathode interlayer materials to the IC groups.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Y6 acceptor",
+        "amine degradation",
+        "electron transfer",
+        "IC termini"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Transient photocurrent measurements reveal that PBI-2P interlayers facilitate faster charge extraction, with a decay time of 0.96 µs compared to 1.34 µs for PFN-Br and 1.24 µs for PDINO.",
+      "evidence": "When employing PBI-2P as a cathode interlayer, a much faster decay time of 0.96 µs, relative to the device with PFN-Br (1.34 µs), PDINO (1.24 µs) interlayers... was observed.",
+      "complexity": "single-hop",
+      "keywords": [
+        "transient photocurrent",
+        "charge extraction",
+        "decay time",
+        "carrier dynamics"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Electron-only devices using PBI-2P exhibit an apparent electron mobility of 6.24 x 10⁻³ cm² V⁻¹ s⁻¹ (measured via SCLC), which is more than two orders of magnitude higher than that of neat Y6 (3.75 x 10⁻⁵ cm² V⁻¹ s⁻¹).",
+      "evidence": "The device with neat Y6 film gave a poor SCLC mobility of 3.75 × 10⁻⁵ cm² V⁻¹ s⁻¹... the device with PBI-2P cathode interlayer showed a value of more than two orders of magnitude higher, reaching 6.24 × 10⁻³ cm² V⁻¹ s⁻¹.",
+      "complexity": "single-hop",
+      "keywords": [
+        "SCLC",
+        "electron mobility",
+        "Y6",
+        "charge transport"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The design principle of using 2,6-di-tert-butylphenol-functionalized pigments is generalizable; a diketopyrrolopyrrole-based version (DPP-2P) also functioned effectively as a cathode interlayer, achieving a PCE of 16.95%.",
+      "evidence": "by using another 2,6-di-tert-butyl-phenol-functionalized pigment dye, i.e., twofold functionalized diketopyrrolopyrrole (DPP-2P)... we could gain a good device performance with PCE value of 16.95% without further optimization.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DPP-2P",
+        "diketopyrrolopyrrole",
+        "design strategy",
+        "pigment chromophores"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Electron paramagnetic resonance (EPR) spectroscopy demonstrates that the presence of the Y6 acceptor increases the production of radical species in the PBI-2P layer, likely due to proton interaction between Y6 IC termini and the phenol groups.",
+      "evidence": "the EPR spectra implies that the electron acceptor Y6 could increase the production of radical species in PBI-2P, which might due to the proton interaction between IC termini and bulky hydroxyl groups.",
+      "complexity": "single-hop",
+      "keywords": [
+        "EPR",
+        "radical species",
+        "proton interaction",
+        "Y6 interaction"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 10028,
+    "completion_tokens": 4459,
+    "total_tokens": 14487
+  }
+}

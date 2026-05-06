@@ -1,0 +1,153 @@
+{
+  "paper_id": "Adv_Funct_Materials_-_2014_-_Tan_-_InSitu_Switching_from_BarrierLimited_to_Ohmic_Anodes_for_Efficien",
+  "paper_title": "In-Situ Switching from Barrier-Limited to Ohmic Anodes for Efficient Organic Optoelectronics",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Adv Funct Materials - 2014 - Tan - In‐Situ Switching from Barrier‐Limited to Ohmic Anodes for Efficient Organic/auto/Adv Funct Materials - 2014 - Tan - In‐Situ Switching from Barrier‐Limited to Ohmic Anodes for Efficient Organic.md",
+  "knowledge_points": [
+    {
+      "category": "Processing & Fabrication",
+      "content": "Methanol treatment of a buried anode interface (underneath an organic semiconductor layer) acts as a general method to switch anodes from barrier-limited to ohmic hole injection/extraction.",
+      "evidence": "Treatment using polar non-solvents switches polar anode surfaces, including PEDOT:PSS and ITO, from barrierlimited hole injection and extraction to ohmic behaviour. This is caused by an in-situ modification of the anode surface that is buried under a layer of organic semiconductor.",
+      "complexity": "single-hop",
+      "keywords": [
+        "methanol treatment",
+        "buried interface",
+        "ohmic contact",
+        "anode modification"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "In ITO/PEDOT:PSS/PBDTTT-CT:PC71BM/Al photovoltaic devices, methanol treatment increases the power conversion efficiency (PCE) from 6.2% to 7.4% by improving the open-circuit voltage (VOC) from 0.73 V to 0.78 V and the fill factor (FF) from 49% to 56%.",
+      "evidence": "Exposure of an uncapped ITO/PEDOT:PSS/PBDTTT-CT:PC71BM substrate to methanol results in an increase of device open-circuit voltage (Voc) from 0.73 V to 0.78 V and the fill factor from 49% to 56%, thereby increasing the power conversion efficiency from 6.2% to 7.4%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "VOC",
+        "fill factor",
+        "PBDTTT-CT"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Methanol treatment of ITO-only (no PEDOT:PSS) PBDTTT-CT:PC71BM solar cells increases PCE from 2.5% to 5.2%, with VOC rising from 0.46 V to 0.67 V.",
+      "evidence": "All the key performance parameters improved on the methanol treated ITO-only device, with Voc improving from 0.46 V to 0.67 V... Power conversion efficiency in the ITO-only device was significantly higher at 5.2% after methanol treatment, compared to only 2.5% on the control device.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ITO",
+        "PCE",
+        "VOC",
+        "organic solar cells"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Methanol treatment increases the work function of PEDOT:PSS from 5.2 eV to 5.5 eV and the work function of ITO from 4.75 eV to 4.9 eV.",
+      "evidence": "the work function of PEDOT:PSS increased from 5.2 eV to 5.5 eV and that of ITO increased from 4.75 eV to 4.9 eV upon methanol treatment.",
+      "complexity": "single-hop",
+      "keywords": [
+        "work function",
+        "PEDOT:PSS",
+        "ITO",
+        "UPS"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The increase in anode work function via methanol treatment is caused by the removal of polar hydroxyl (-OH) groups (likely associated with adsorbed water) from the anode surface.",
+      "evidence": "We show, using infrared spectroscopy, that the increase in work function is related to the removal of hydroxyl groups at the polar substrate interface... We attribute the loss of -OH groups to the removal of surface hydroxyl species by methanol, possibly associated with adsorbed water.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "hydroxyl groups",
+        "work function",
+        "surface chemistry",
+        "ATR-FTIR"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "In PBDTTT-CT:PC71BM devices, the increased work function of PEDOT:PSS leads to Fermi level pinning and p-doping of the organic semiconductor at the interface, which doubles the hole extraction rate.",
+      "evidence": "In the case of ITO/PEDOT:PSS/PBDTTT-CT:PC71BM/Al photovoltaic devices, the higher work function promotes charge transfer, leading to p-doping of the organic semiconductor at the interface. This results in a two-fold increase in hole extraction rates...",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Fermi level pinning",
+        "p-doping",
+        "hole extraction",
+        "charge transfer"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "For F8BT-based polymer light-emitting diodes (PLEDs), methanol treatment improves luminance intensity and current density by approximately 3 orders of magnitude.",
+      "evidence": "In ITO/PEDOT:PSS/F8BT/AI polymer light-emitting diodes... the increased work function enhances hole injection efficiency and luminance intensity by 3 orders of magnitude.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PLED",
+        "F8BT",
+        "luminance",
+        "charge injection"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Methanol-treated PEDOT:PSS anodes achieve hole injection rates into F8BT (HOMO level ~5.95 eV) that are equivalent to those achieved using molybdenum trioxide (MoO3).",
+      "evidence": "In particular, hole injection rates from PEDOT:PSS anodes are equivalent to those achievable using MoO3... The near-symmetric profiles for hole injection in the methanol-treated PEDOT:PSS device indicate that the treated PEDOT:PSS can inject nearly as well as MoO3.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "hole injection",
+        "MoO3",
+        "F8BT",
+        "ohmic contact"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Electroabsorption (EA) spectroscopy reveals that methanol treatment increases the built-in potential (V_null) of organic optoelectronic devices by approximately 0.3 V.",
+      "evidence": "The built-in potential, as estimated from Vnull increased by approximately 0.3 V in all devices upon methanol treatment.",
+      "complexity": "single-hop",
+      "keywords": [
+        "electroabsorption spectroscopy",
+        "built-in potential",
+        "V_null"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Transient photocurrent measurements demonstrate that the charge carrier residence time in these optimized devices is limited by interfacial extraction rates rather than bulk field-driven transport.",
+      "evidence": "The photocurrent decay rates at 0.2 V forward bias are very similar to the rates at short-circuit, indicating that the residence time of charge carriers in the devices is primarily limited by the interfacial charge extraction rates rather than by field-driven charge transport within the bulk active layer.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "transient photocurrent",
+        "extraction rate",
+        "charge transport"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The enhancement in hole injection efficiency provided by methanol treatment is stable under ambient conditions for at least 9 weeks.",
+      "evidence": "This enhanced hole injection can be effectively retained at ambient conditions over a long period of time, as shown by J-V measurements of the hole-only devices after 9 weeks of storage.",
+      "complexity": "single-hop",
+      "keywords": [
+        "stability",
+        "ambient storage",
+        "hole injection"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "In-situ ATR-FTIR suggests that methanol treatment leads to the compacting of the polymer film towards the substrate, potentially reducing the tunneling barrier for charges.",
+      "evidence": "The appearance of polymer IR absorption bands is likely due to the compacting of the polymer film towards the substrate... This would account for better contact between the polymer and the anode substrate surface, decreasing the tunnelling barrier for charges traversing the interface.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "ATR-FTIR",
+        "film morphology",
+        "tunneling barrier",
+        "interfacial contact"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 11371,
+    "completion_tokens": 2749,
+    "total_tokens": 14120
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "paper_id": "liu-et-al-2020-electric-field-facilitating-hole-transfer-in-non-fullerene-organic-solar-cells-with-a",
+  "paper_title": "Electric Field Facilitating Hole Transfer in Non-Fullerene Organic Solar Cells with a Negative HOMO Offset",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/liu-et-al-2020-electric-field-facilitating-hole-transfer-in-non-fullerene-organic-solar-cells-with-a-negative-homo/auto/liu-et-al-2020-electric-field-facilitating-hole-transfer-in-non-fullerene-organic-solar-cells-with-a-negative-homo.md",
+  "knowledge_points": [
+    {
+      "category": "Performance Metrics",
+      "content": "The organic solar cell based on the PTQ10:ZITI-C blend (1:1 ratio) with a positive HOMO offset of 0.05 eV achieves a power conversion efficiency (PCE) of 13.13%, a short-circuit current density (Jsc) of 20.42 mA/cm², and a fill factor (FF) of 68.9%.",
+      "evidence": "The PTQ10:ZITI-C devices with a positive 0.05 eV HOMO show superior performance, with a Jsc of 20.42 mA cm−2, open circuit voltage (Voc) of 0.93 V, FF of 68.9% and PCE of 13.1%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "Jsc",
+        "PTQ10",
+        "ZITI-C",
+        "HOMO offset"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The organic solar cell based on the PTQ10:ZITI-N blend (1:1 ratio) with a negative HOMO offset of -0.07 eV maintains a PCE of 7.39%, a Jsc of 12.81 mA/cm², and a Voc of 0.97 V.",
+      "evidence": "The ZITI-N-based devices are less efficient, but still maintain a decent Jsc of 12.81 mA cm−2, Voc of 0.97 V, and FF of 59.7% as well as the PCE of 7.4% even with a HOMO of −0.07 eV.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "Jsc",
+        "ZITI-N",
+        "negative HOMO offset"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "A negative HOMO offset (ΔHOMO = -0.07 eV) in the PTQ10:ZITI-N system significantly slows down the hole transfer process to 14.3 ps, compared to 3.7 ps for the PTQ10:ZITI-C system which has a positive offset of 0.05 eV.",
+      "evidence": "The hole transfer time of the ZITI-C-based blend is 3.7 ps, which is shorter than the hole transfer time (14.3 ps) in ZITI-N blended with PTQ10.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "hole transfer kinetics",
+        "transient absorption spectroscopy",
+        "HOMO offset"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "In 'dilute donor' bulk heterojunctions (D:A ratio of 1:9), the photocurrent is primarily generated through hole transfer from the acceptor to the donor because incident photons are mainly absorbed by the acceptor phase.",
+      "evidence": "In dilute donor devices, due to the fact that the incident photons are mainly absorbed in the acceptor phase, the photocurrent is dominated by the contribution via the hole transfer process from acceptor to donor.",
+      "complexity": "single-hop",
+      "keywords": [
+        "dilute donor",
+        "hole transfer",
+        "photocurrent generation"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The electric field facilitates exciton dissociation in OSCs with negative HOMO offsets, as evidenced by the 57.2% enhancement in integrated Jsc for PTQ10:ZITI-N under a -1.5 V reverse bias compared to only 4.7% for PTQ10:ZITI-C.",
+      "evidence": "The field-dependent EQE shows that a large bias generates a much stronger impact on the device with a negative HOMO... enhancement in the ZITI-N-based device is 11.2%... slightly larger enhancements (34.6% and 57.2%) are observed under larger biases (−1.0 and −1.5 V).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "electric field",
+        "exciton dissociation",
+        "reverse bias",
+        "EQE"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Time-resolved transient absorption (TA) spectroscopy is used to measure hole transfer kinetics by monitoring the rise of the polymer donor's (PTQ10) ground-state bleaching signal.",
+      "evidence": "As presented in Figure 3c, there is a rise process of the PTQ10 ground-state bleaching in PTQ10:ZITI-C, which corresponds to the hole transfer process from ZITI-C in the blend film.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Transient Absorption Spectroscopy",
+        "ground-state bleaching",
+        "hole transfer"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Active layers for the PTQ10-based devices were spin-coated from chloroform solution and subjected to thermal annealing at 120 °C for 10 minutes.",
+      "evidence": "Subsequently, the active layers were spin-coated from chloroform solution... and then treated with thermal annealing at 120 °C for 10 min.",
+      "complexity": "single-hop",
+      "keywords": [
+        "chloroform",
+        "thermal annealing",
+        "spin-coating"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Charge separation in both PTQ10:ZITI-C and PTQ10:ZITI-N dilute devices is found to be temperature-independent between 300 K and 240 K, as indicated by constant charge carrier densities in this range.",
+      "evidence": "For both dilute devices, the charge densities remain constant from room temperature to around 240 K, which means that in both devices charge separation is not affected by temperature in a wide range.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "temperature dependence",
+        "charge separation",
+        "charge carrier density"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "ZITI-N-based devices show a higher electroluminescence quantum efficiency (EQE_EL) of 3.1 x 10^-4 compared to 1.1 x 10^-5 for ZITI-C-based devices because the negative HOMO offset acts as a favorable driving force for hole injection in LED mode.",
+      "evidence": "The EQE_EL of the ZITI-N-based device is 3.1 × 10^−4, almost 1 order of magnitude higher than that of the ZITI-C-based device (1.1 × 10^−5). The increased EQE_EL in PTQ10:ZITI-N further confirmed the existence of a negative HOMO.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "EQE_EL",
+        "hole injection",
+        "electroluminescence"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 13948,
+    "completion_tokens": 3440,
+    "total_tokens": 17388
+  }
+}

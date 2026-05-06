@@ -1,0 +1,132 @@
+{
+  "paper_id": "Angew_Chem_Int_Ed_-_2016_-_Higashino_-_Fusing_Porphyrins_and_Phospholes_Synthesis_and_Analysis_of_a_",
+  "paper_title": "Fusing Porphyrins and Phospholes: Synthesis and Analysis of a Phosphorus-Containing Porphyrin",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Angew Chem Int Ed - 2016 - Higashino - Fusing Porphyrins and Phospholes  Synthesis and Analysis of a Phosphorus‐Containing/auto/Angew Chem Int Ed - 2016 - Higashino - Fusing Porphyrins and Phospholes  Synthesis and Analysis of a Phosphorus‐Containing.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The phosphole-fused porphyrin dimer 12 is synthesized through the acid-catalyzed condensation of bis(pyrrolo)phosphole 8 and tripyrrane dicarbinol 11 using 0.4 equivalents of methanesulfonic acid (MSA) in 1,2-dichloroethane, followed by oxidation with DDQ.",
+      "evidence": "we finally succeeded in isolating the desired porphyrin dimer 12 in 0.7% yield upon condensation of 8 and 11 with 0.4 equiv of methanesulfonic acid (MSA) at 60 °C in 1,2-dichloroethane for 1 h followed by oxidation with 6 equiv of 2,3-dichloro-5,6-dicyanobenzoquinone (DDQ)",
+      "complexity": "single-hop",
+      "keywords": [
+        "synthesis",
+        "phosphole-fused porphyrin",
+        "methanesulfonic acid",
+        "DDQ oxidation"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "X-ray crystal structure analysis of the porphyrin dimer 12 reveals two almost co-planar porphyrin macrocycles, which facilitates effective pi-conjugation across the phosphole moiety.",
+      "evidence": "The crystal structure of 12 revealed two almost co-planar porphyrin macrocycles, which suggests effective pi-conjugation over the two porphyrin moieties (Figure 3).",
+      "complexity": "single-hop",
+      "keywords": [
+        "X-ray crystallography",
+        "planar conformation",
+        "pi-conjugation",
+        "porphyrin dimer"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "In the solid state, the phosphole-fused porphyrin dimer 12 forms a slipped face-to-face pi-stacked dimeric structure with an intermolecular distance of approximately 3.5 Å.",
+      "evidence": "In the packing structure, 12 forms a face-to-face dimeric structure, in which the intermolecular distance is approximately 3.5 Å (Figure S5). Notably, this dimeric structure forms a slipped pi-pi stacked structure",
+      "complexity": "single-hop",
+      "keywords": [
+        "pi-pi stacking",
+        "intermolecular distance",
+        "crystal packing",
+        "slipped stack"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The Q band of the phosphole-fused porphyrin dimer 12 is observed at 668 nm, representing a red shift of 43 nm compared to the porphyrin monomer 13 (625 nm).",
+      "evidence": "The lowest-energy Q band of 12 (lambda = 668 nm) is red-shifted by Delta lambda = 43 nm relative to that of 13 (lambda = 625 nm)",
+      "complexity": "single-hop",
+      "keywords": [
+        "UV-Vis absorption",
+        "Q band",
+        "red shift",
+        "optical properties"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The phosphole-fused porphyrin dimer 12 exhibits high electron affinity with an estimated LUMO level of -3.61 eV, which is nearly identical to the common electron acceptor [60]PCBM (ca. -3.7 eV).",
+      "evidence": "the LUMO level of 12 was estimated to be -3.61 eV. [15] This value is close to that of [60]PCBM (ca. -3.7 eV, [16] a representative fullerene derivative that is used as an electron-accepting material",
+      "complexity": "multi-hop",
+      "keywords": [
+        "LUMO level",
+        "electron affinity",
+        "PCBM",
+        "cyclic voltammetry"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The fusion of two porphyrin moieties with a phosphole ring significantly stabilizes the LUMO because the LUMO orbital is delocalized over both the porphyrin macrocycles and the phosphole ring.",
+      "evidence": "the LUMO of 12a is well delocalized over the two porphyrin moieties as well as the phosphole ring (Figure 5b). ... As the LUMO displays a large orbital distribution on the phosphole ring, the LUMO possesses phosphole character to a large extent.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "LUMO stabilization",
+        "orbital delocalization",
+        "DFT calculations",
+        "phosphole moiety"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Flash photolysis time-resolved microwave conductivity (FP-TRMC) measurements show that the maximum transient conductivity (Phi*Sigma*mu) of the porphyrin dimer 12 is 5.5 x 10^-5 cm^2 V^-1 s^-1, which is ten times higher than that of the monomer 13.",
+      "evidence": "Importantly, the (Phi*Sigma*mu)max value for 12 (5.5 x 10^-5 cm^2 V^-1 s^-1) is one order of magnitude larger than that for 13 (6.5 x 10^-6 cm^2 V^-1 s^-1).",
+      "complexity": "single-hop",
+      "keywords": [
+        "FP-TRMC",
+        "transient conductivity",
+        "carrier mobility",
+        "charge transport"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Nucleus-independent chemical shift (NICS) calculations for the porphyrin dimer 12 show a large positive value of +8.33 ppm at the center of the phosphole ring, attributed to the double diatropic ring current effect from the adjacent porphyrin macrocycles.",
+      "evidence": "the NICS value at the center of the phosphole ring is +8.33 ppm. This large positive NICS value results from the double diatropic ring current effect of the two porphyrin macrocycles.",
+      "complexity": "single-hop",
+      "keywords": [
+        "NICS",
+        "aromaticity",
+        "ring current",
+        "DFT"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The phosphole-fused porphyrin dimer 12 undergoes three quasi-reversible one-electron reduction processes at -1.19, -1.44, and -1.90 V vs Fc/Fc+, indicating effective electronic communication between the two porphyrin moieties.",
+      "evidence": "12 underwent three quasi-reversible reductions at -1.19, -1.44, and -1.90 V ... The three one-electron reduction processes of 12 reflect distinct electronic communication over the two porphyrin moieties through the phosphole moiety.",
+      "complexity": "single-hop",
+      "keywords": [
+        "reduction potentials",
+        "electronic communication",
+        "cyclic voltammetry",
+        "n-type character"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The precursor bis(pyrrolo)phosphole 7 is synthesized as a P=S derivative to ensure stability under ambient conditions, as the P(III) derivative is unstable.",
+      "evidence": "Whereas the P(III) derivative is unstable under ambient atmosphere, the P=S compound 7 is sufficiently stable to be used as the precursor.",
+      "complexity": "single-hop",
+      "keywords": [
+        "phosphorus stability",
+        "P=S bond",
+        "synthetic precursor",
+        "bis(pyrrolo)phosphole"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 9751,
+    "completion_tokens": 3003,
+    "total_tokens": 12754
+  }
+}

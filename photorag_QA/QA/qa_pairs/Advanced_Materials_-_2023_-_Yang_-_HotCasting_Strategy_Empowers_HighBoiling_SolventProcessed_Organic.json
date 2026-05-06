@@ -1,0 +1,75 @@
+{
+  "paper_id": "Advanced_Materials_-_2023_-_Yang_-_HotCasting_Strategy_Empowers_HighBoiling_SolventProcessed_Organic",
+  "paper_title": "Hot-Casting Strategy Empowers High-Boiling Solvent-Processed Organic Solar Cells with Over 18.5% Efficiency",
+  "qa_pairs": [
+    {
+      "question": "What is the record power conversion efficiency (PCE) and fill factor (FF) achieved by binary organic solar cells using the PM6:BTP-eC9 blend processed with hot ortho-xylene?",
+      "answer": "Binary organic solar cells based on the PM6:BTP-eC9 blend processed with a hot ortho-xylene (OX) solution achieved a record power conversion efficiency (PCE) of 18.52% and a fill factor (FF) of 80.31%.",
+      "category": "Performance Metrics",
+      "source_title": "Hot-Casting Strategy Empowers High-Boiling Solvent-Processed Organic Solar Cells with Over 18.5% Efficiency",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the hot-casting strategy modify the processing window for high-boiling solvents like chlorobenzene and ortho-xylene?",
+      "answer": "The hot-casting strategy involves using a hot solution (typically 50-100 °C) which increases the dissolving capacity and the volatilization rate of high-boiling solvents. This widen the processing window, allowing the organic solar cells to achieve a PCE over 17.8% across a broad temperature range of 50-100 °C.",
+      "category": "Processing & Fabrication",
+      "source_title": "Hot-Casting Strategy Empowers High-Boiling Solvent-Processed Organic Solar Cells with Over 18.5% Efficiency",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "According to in situ UV-vis absorption spectroscopy, how does the film-forming kinetics of PM6:BO-4Cl differ between hot-casting and room-temperature casting?",
+      "answer": "Hot-casting facilitates the synchronous molecular assembly of both the PM6 donor and BO-4Cl acceptor during film formation. In contrast, room-temperature casting leads to sequential aggregation where the BO-4Cl acceptor aggregates (indicated by a redshift at ≈3.4 s) while the PM6 donor absorption remains unchanged at that same time.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Hot-Casting Strategy Empowers High-Boiling Solvent-Processed Organic Solar Cells with Over 18.5% Efficiency",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What does the TOF-SIMS depth profiling reveal about the vertical phase separation in PM6:BO-4Cl films prepared via hot-casting?",
+      "answer": "TOF-SIMS depth profiling shows that hot-casting creates a more favorable vertical phase separation with a higher concentration of the PM6 donor near the bottom anode. This is demonstrated by a lower falling slope for PM6 (0.16) in hot-casting films compared to room-temperature casting films (0.25).",
+      "category": "Characterization Methods",
+      "source_title": "Hot-Casting Strategy Empowers High-Boiling Solvent-Processed Organic Solar Cells with Over 18.5% Efficiency",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the hot-casting strategy affect the charge extraction time and carrier mobility in PM6:BO-4Cl solar cells?",
+      "answer": "Hot-casting improves charge transport and extraction, resulting in a shorter charge extraction time (τ_ext) of 0.23 ± 0.03 μs and a higher photo-CELIV mobility of (5.23 ± 0.19) × 10⁻⁴ cm² V⁻¹ s⁻¹.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Hot-Casting Strategy Empowers High-Boiling Solvent-Processed Organic Solar Cells with Over 18.5% Efficiency",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What structural improvements are observed in the PM6:BO-4Cl blend films through GIWAXS analysis when using the hot-casting strategy?",
+      "answer": "GIWAXS analysis reveals that hot-casting enhances the face-on orientation and molecular packing of the PM6:BO-4Cl blends. This is evidenced by steeper diffraction peaks with stronger intensities and larger crystal coherence length (CCL) values in both the out-of-plane (010) and in-plane (100) directions.",
+      "category": "Characterization Methods",
+      "source_title": "Hot-Casting Strategy Empowers High-Boiling Solvent-Processed Organic Solar Cells with Over 18.5% Efficiency",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does hot-casting influence bimolecular and trap-assisted recombination based on light-intensity dependent J-V measurements?",
+      "answer": "The hot-casting strategy suppresses both types of recombination. It results in an increased 'α' parameter of approximately 0.99, indicating weaker bimolecular recombination, and a decreased 's' parameter of approximately 1.02, which demonstrates lower trap-assisted charge recombination compared to room-temperature casting.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Hot-Casting Strategy Empowers High-Boiling Solvent-Processed Organic Solar Cells with Over 18.5% Efficiency",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What are the characteristics of ortho-xylene (OX) that make it an attractive alternative to halogenated solvents in organic solar cell fabrication?",
+      "answer": "Ortho-xylene (OX) is a non-halogenated 'green' solvent with a high boiling point of 143–145 °C. It serves as an environmentally friendly alternative to halogenated solvents like chlorobenzene or chloroform while still enabling high device performance when paired with strategies like hot-casting.",
+      "category": "Processing & Fabrication",
+      "source_title": "Hot-Casting Strategy Empowers High-Boiling Solvent-Processed Organic Solar Cells with Over 18.5% Efficiency",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2532,
+    "completion_tokens": 3081,
+    "total_tokens": 5613
+  }
+}

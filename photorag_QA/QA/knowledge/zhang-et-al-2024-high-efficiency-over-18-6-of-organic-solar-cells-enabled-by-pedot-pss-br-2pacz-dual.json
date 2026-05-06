@@ -1,0 +1,154 @@
+{
+  "paper_id": "zhang-et-al-2024-high-efficiency-over-18-6-of-organic-solar-cells-enabled-by-pedot-pss-br-2pacz-dual",
+  "paper_title": "High Efficiency over 18.6% of Organic Solar Cells Enabled by PEDOT:PSS/Br-2PACz Dual-Anode Interface",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/zhang-et-al-2024-high-efficiency-over-18-6-of-organic-solar-cells-enabled-by-pedot-pss-br-2pacz-dual-anode-interface/auto/zhang-et-al-2024-high-efficiency-over-18-6-of-organic-solar-cells-enabled-by-pedot-pss-br-2pacz-dual-anode-interface.md",
+  "knowledge_points": [
+    {
+      "category": "Performance Metrics",
+      "content": "The organic solar cell utilizing a PEDOT:PSS/Br-2PACz dual-anode interface achieved a peak power conversion efficiency (PCE) of 18.61%, with a short-circuit current (Jsc) of 27.84 mA cm⁻² and a fill factor (FF) of 78.17%.",
+      "evidence": "As a result, the Jsc and FF of the device are significantly improved, and the highest efficiency is up to 18.61%, which is obviously higher than that of pure Br-2PACz (16.58%) and PEDOT:PSS (17.64%) anode interface.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "Jsc",
+        "Fill Factor",
+        "efficiency"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The device architecture consists of a conventional structure: ITO/PEDOT:PSS/Br-2PACz/PBDBTCl-DTBT:BTP-4F/PDINN/Ag.",
+      "evidence": "Organic solar cells were fabricated on ITO glass substrates with an ITO/PEDOT:PSS/active layer/PDINN/Ag conventional structure... where the HTL is a dual-anode interface composed of PEDOT:PSS and Br-2PACz.",
+      "complexity": "single-hop",
+      "keywords": [
+        "device structure",
+        "conventional structure",
+        "HTL",
+        "active layer"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The optimal concentration of the Br-2PACz solution used to modify the PEDOT:PSS layer is 0.1 mg/mL in ethanol, with higher or lower concentrations leading to a decrease in Jsc and FF.",
+      "evidence": "The results show that the device performs best when the Br-2PACz concentration is 0.1 mg/mL, but Jsc and FF decrease significantly with a further increase or decrease of the concentration.",
+      "complexity": "single-hop",
+      "keywords": [
+        "processing conditions",
+        "concentration optimization",
+        "Br-2PACz",
+        "solvent"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The conductivity of the PEDOT:PSS/Br-2PACz dual-layer film is 6.29 × 10⁻⁴ S m⁻¹, which is nearly double the conductivity of a single PEDOT:PSS film (3.38 × 10⁻⁴ S m⁻¹).",
+      "evidence": "The calculated results show that the conductivity of the PEDOT:PSS/Br-2PACz film is 6.29 × 10⁻⁴ S m⁻¹, which is significantly higher than that of PEDOT:PSS film (3.38 × 10⁻⁴ S m⁻¹).",
+      "complexity": "single-hop",
+      "keywords": [
+        "conductivity",
+        "PEDOT:PSS",
+        "bilayer film"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Deposition of Br-2PACz on PEDOT:PSS washes away a significant portion of the insulating PSS component, reducing the PSS:PEDOT ratio from 7.5:1 to 5:1 and thereby increasing the relative content of conductive PEDOT.",
+      "evidence": "The ratio of PSS to PEDOT was calculated to be 7.5:1 and 5:1 for PEDOT:PSS and PEDOT:PSS/Br-2PACz films, respectively, which indicates that a mass of PSS was washed away during the deposition of Br-2PACz.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "PSS:PEDOT ratio",
+        "XPS",
+        "surface modification",
+        "conductivity"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The work function (WF) of the anode interface increases from 5.03 eV for PEDOT:PSS to 5.18 eV for the PEDOT:PSS/Br-2PACz dual-anode interface, which facilitates more favorable charge transfer.",
+      "evidence": "The results indicate that the WF values of PEDOT:PSS, the PEDOT:PSS/Br-2PACz dual-anode interface, and Br-2PACz are 5.03, 5.18, and 5.46 eV, respectively... the higher work function indicates that the HTL is more favorable for charge transfer.",
+      "complexity": "single-hop",
+      "keywords": [
+        "work function",
+        "UPS",
+        "energy level alignment",
+        "charge transfer"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The use of the dual-layer HTL results in a hole mobility (μh) of 2.92 × 10⁻⁴ cm² V⁻¹ s⁻¹ and a more balanced carrier transport ratio (μh/μe) of 0.800 compared to single-layer PEDOT:PSS (μh/μe of 0.384).",
+      "evidence": "The data in the table revealed that the μh value of the dual-layer HTL device (2.92 × 10⁻⁴ cm² V⁻¹ s⁻¹) is significantly higher than that of the single-layer HTL device. Additionally, the μh/μe ratio (0.8) is closer to 1, suggesting a more balanced carrier transmission.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "carrier mobility",
+        "SCLC",
+        "balanced transport",
+        "hole mobility"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The PEDOT:PSS/Br-2PACz dual-anode interface effectively suppresses charge recombination, as evidenced by a bimolecular recombination coefficient (α) of 0.996, which is closer to unity than the 0.963 observed for PEDOT:PSS.",
+      "evidence": "The α values of the devices based on PEDOT:PSS and the dual-anode interface PEDOT:PSS/Br-2PACz are 0.963 and 0.996, respectively. Obviously, the optimal-device α value... is closer to 1, indicating that the second-order recombination generated during charge transfer is negligible.",
+      "complexity": "single-hop",
+      "keywords": [
+        "charge recombination",
+        "bimolecular recombination",
+        "light intensity dependence"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Devices using the PEDOT:PSS/Br-2PACz dual-anode interface maintain 94.7% of their initial efficiency after 500 hours of storage in a nitrogen environment, compared to only 76.9% for single-layer PEDOT:PSS devices.",
+      "evidence": "the device with the PEDOT:PSS/Br-2PACz dual-anode interface still maintains an initial efficiency of 94.7% after 500 h of storage... In contrast, the device based on PEDOT:PSS only maintained an initial efficiency of 76.9%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "stability",
+        "nitrogen environment",
+        "lifetime",
+        "degradation"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The improved stability of the dual-anode interface is attributed to Br-2PACz forming a protective layer that mitigates the acidic corrosion of the ITO electrode by PSS and isolates the active layer from environmental moisture.",
+      "evidence": "In addition, Br-2PACz will form a thin film on PEDOT:PSS, which can effectively protect the active layer from the erosion of water in the environment... Br-2PACz can reduce the acid corrosion of ITO by PSS.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "corrosion",
+        "PSS acidity",
+        "encapsulation effect",
+        "ITO corrosion"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Atomic force microscopy (AFM) analysis shows that the surface roughness (RMS) of the PEDOT:PSS/Br-2PACz film is 1.57 nm, which is smoother than single-layer Br-2PACz (2.60 nm) and provides an optimized morphology for carrier transport.",
+      "evidence": "The average surface roughness (RMS) of Br-2PACz is about 2.60 nm... The roughness of the PEDOT:PSS/Br-2PACz film is between two monolayer films, about 1.57 nm. The optimized morphology is more conducive to carrier transport.",
+      "complexity": "single-hop",
+      "keywords": [
+        "AFM",
+        "surface roughness",
+        "morphology",
+        "RMS"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The dual-anode interface demonstrates broad compatibility by improving the Jsc and FF of OSCs based on other active layer systems, specifically PM6:Y6 and PM6:BTP-eC9.",
+      "evidence": "In addition, the PEDOT:PSS/Br-2PACz dual-anode interface was applied to the devices with active layers of PM6:Y6 and PM6:BTP-eC9, respectively... the dual-anode interface can still improve the Jsc and FF of the device.",
+      "complexity": "single-hop",
+      "keywords": [
+        "universality",
+        "non-fullerene acceptors",
+        "PM6:Y6",
+        "PM6:BTP-eC9"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 15570,
+    "completion_tokens": 4808,
+    "total_tokens": 20378
+  }
+}

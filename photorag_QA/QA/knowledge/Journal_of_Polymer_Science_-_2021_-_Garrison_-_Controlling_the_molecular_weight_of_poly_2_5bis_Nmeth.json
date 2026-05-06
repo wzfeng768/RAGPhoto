@@ -1,0 +1,127 @@
+{
+  "paper_id": "Journal_of_Polymer_Science_-_2021_-_Garrison_-_Controlling_the_molecular_weight_of_poly_2_5bis_Nmeth",
+  "paper_title": "Controlling the molecular weight of poly(2,5-bis[N-methyl-N-hexylamino]phenylene vinylene) using nitrobenzene as an inhibitor",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Journal of Polymer Science - 2021 - Garrison - Controlling the molecular weight of poly 2 5‐bis N‐methyl‐N‐hexylamino (1)/auto/Journal of Polymer Science - 2021 - Garrison - Controlling the molecular weight of poly 2 5‐bis N‐methyl‐N‐hexylamino (1).md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Nitrobenzene acts as a radical inhibitor during the Gilch polymerization of BAM-PPV to produce low-molecular weight polymers ranging from 5 to 46 kDa.",
+      "evidence": "In this work, the molecular weight of BAM-PPV was modulated with nitrobenzene. At nitrobenzene loading as low as 0.9 mol%, the polymerization reaction produced low-molecular weight BAM-PPV (Mw = 5–46 kDa).",
+      "complexity": "single-hop",
+      "keywords": [
+        "BAM-PPV",
+        "nitrobenzene",
+        "Gilch polymerization",
+        "molecular weight control"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Uninhibited Gilch polymerization of BAM-PPV typically yields high-molecular weight polymers (Mw > 100 kDa) with high variability in Mw (130–205 kDa) and PDI (2.4–7.9).",
+      "evidence": "The uninhibited reaction (0 mol% nitrobenzene) was performed multiple times, and HMw BAM-PPV (Mw > 100 kDa) was isolated for each uninhibited reaction... Mw values ranging between 130–205 kDa and PDI values between 2.4–7.9.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Mw",
+        "PDI",
+        "BAM-PPV",
+        "polydispersity"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "BAM-PPV exhibits poor solubility in common organic solvents (typically below 1 wt%) when the molecular weight exceeds 100 kDa, which hinders its large-scale processing.",
+      "evidence": "BAM-PPV exhibits poor solubility at high-molecular weights (Mw > 100 kDa) which limits its applications... often below 1 wt%, which makes the polymer difficult to process and use in large-scale applications.",
+      "complexity": "single-hop",
+      "keywords": [
+        "solubility",
+        "molecular weight",
+        "processability",
+        "BAM-PPV"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Increasing nitrobenzene loading above 12 mol% leads to more uniform BAM-PPV distributions with PDI values between 1.3 and 2.6.",
+      "evidence": "The molecular weight distribution of the polymer also became more uniform with PDI values ranging from 1.3 to 2.6 at nitrobenzene loadings > 12 mol%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PDI",
+        "nitrobenzene",
+        "uniformity"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "BAM-PPV is used as an anti-corrosion coating for aluminum alloys, an active material in organic light-emitting diodes (OLEDs), and a polymer scaffold for methyl ammonium lead halide (MAPbI3) perovskite crystals.",
+      "evidence": "Specifically, poly(2,5-bis[N-methyl-N-hexylamino]phenylene vinylene) (BAM-PPV, Scheme 1) has shown superior corrosion protection for aluminum alloys... the semi-conducting polymer has been studied as an OLED, and recently, as a polymer scaffold for methyl ammonium lead halide perovskite (MAPbI3) crystals.",
+      "complexity": "single-hop",
+      "keywords": [
+        "OLED",
+        "perovskite scaffold",
+        "corrosion protection",
+        "BAM-PPV"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Nitrobenzene does not chemically modify the BAM-PPV chain or act as a permanent endcap, as confirmed by the absence of nitro group signals in FTIR and identical 1H NMR spectra for high and low molecular weight samples.",
+      "evidence": "LMw did not show nitro functional group peaks, and the spectra of the LMw and HMw were similar... the absence of additional peaks in the NMR spectra further demonstrates that nitrobenzene does not chemically modify BAM-PPV during chain propagation.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "FTIR",
+        "NMR",
+        "chemical modification",
+        "endcap"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The Gilch polymerization mechanism involves the formation of a p-quinodimethane intermediate (active monomer) and a diradical dimer that acts as the polymerization initiator.",
+      "evidence": "In the first step, potassium tert-butoxide (KOtBu) is added to a 1,4-bis(halomethyl)-benzene to form a p-quinodimethane via E2 elimination... The polymerization initiator is a diradical formed from dimerization of the active monomer.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Gilch mechanism",
+        "p-quinodimethane",
+        "diradical initiator"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The presence of nitrobenzene at high loadings (e.g., 92 mol%) acts as a reaction diluent, slowing the formation of the p-quinodimethane active monomer from the premonomer.",
+      "evidence": "The high-premonomer concentration throughout the reaction suggests that nitrobenzene also inhibits formation of the active monomer from the premonomer... the high-nitrobenzene loading (92 mol%) initially serves as a reaction diluent to prevent formation of active monomer.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "kinetics",
+        "active monomer",
+        "diluent effect"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "LC-MS analysis of the inhibited reaction reveals the formation of [2.2]paracyclophanes and doubly dehydrohalogenated derivatives, indicating that intramolecular cyclization of the dimer becomes favorable over chain growth in the presence of nitrobenzene.",
+      "evidence": "In the LC-MS results for the inhibited reaction, chloro-[2.2]paracycloph-ene and the doubly dehydrohalogenated [2.2]paracyclophane product were observed... The formation of [2.2]paracyclophanes suggests that nitrobenzene inhibits the chain propagation reaction between the active monomer and diradical initiator.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "LC-MS",
+        "[2.2]paracyclophane",
+        "cyclization"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "In BAM-PPV synthesis, the amino-substituent on the phenylene ring is believed to promote the elimination of chlorides from [2.2]paracyclophane intermediates more effectively than alkoxy-substituents found in other PPVs.",
+      "evidence": "The amino-substituent is a better electron donor than the alkoxy-substituent and thus may promote the second dehydrohalogenation by donating electron density into the π system to eliminate the nearby halide... the presence of the amino functionality may better promote elimination from the [2.2]paracyclophanes than the alkoxy functionality.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "amino-substituent",
+        "dehydrohalogenation",
+        "electron donor"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 12999,
+    "completion_tokens": 3893,
+    "total_tokens": 16892
+  }
+}

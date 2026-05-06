@@ -1,0 +1,75 @@
+{
+  "paper_id": "1-s20-S0038092X21005193-main",
+  "paper_title": "A scientometric review of trends in solar photovoltaic waste management research",
+  "qa_pairs": [
+    {
+      "question": "What was the total global cumulative capacity of installed photovoltaic systems by the end of 2020?",
+      "answer": "By the end of 2020, the relative global capacity of installed photovoltaic systems reached approximately 760.4 Gwdc.",
+      "category": "Performance Metrics",
+      "source_title": "A scientometric review of trends in solar photovoltaic waste management research",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What are the projected estimates for solar photovoltaic panel waste accumulation by the year 2050?",
+      "answer": "The accumulation of solar photovoltaic panel waste is expected to grow exponentially, reaching an estimated 60 to 70 million tonnes by the year 2050.",
+      "category": "Stability & Degradation",
+      "source_title": "A scientometric review of trends in solar photovoltaic waste management research",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Why are polymer solar cells increasingly favored over silicon-based solar cells in recent optoelectronic research?",
+      "answer": "Polymer solar cells are preferred because they utilize environmentally harmless materials, offer a lower cost, and provide physical advantages such as being lightweight and mechanically flexible compared to traditional silicon-based cells.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "A scientometric review of trends in solar photovoltaic waste management research",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Which processing techniques are commonly used to control the morphology of fullerene composites in bulk heterojunction solar cells?",
+      "answer": "Morphology control in fullerene-based bulk heterojunction solar cells is typically achieved through solvent annealing and thermal annealing processes.",
+      "category": "Processing & Fabrication",
+      "source_title": "A scientometric review of trends in solar photovoltaic waste management research",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the nanostructure of polymer nanowire/fullerene bulk heterojunction systems influence their performance?",
+      "answer": "In polymer nanowire/fullerene bulk heterojunction systems, the nanostructure is a critical determinant that directly dictates the resulting photovoltaic properties of the device.",
+      "category": "Structure-Property Relationships",
+      "source_title": "A scientometric review of trends in solar photovoltaic waste management research",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What are the three critical factors identified for the successful commercialization of polymer solar cells, and what architectural trend helps address these?",
+      "answer": "The three critical factors for commercialization are cost, durability, and power conversion efficiency. To improve performance and stability, research has trended toward the use of inverted polymer solar cell architectures and modifications to these cell structures.",
+      "category": "Device Architecture & Physics",
+      "source_title": "A scientometric review of trends in solar photovoltaic waste management research",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "How can the morphology of P3HT/PCBM blends be specifically modified during the fabrication process?",
+      "answer": "The morphology of P3HT/PCBM (poly(3-hexylthiophene)/[6,6]-phenyl-C61-butyric acid methyl ester) blends can be modified by the introduction of n-dodecylthiol as a processing additive.",
+      "category": "Processing & Fabrication",
+      "source_title": "A scientometric review of trends in solar photovoltaic waste management research",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What hazardous materials are found in traditional thin-film PV modules like CIGS and CdTe that contribute to waste management concerns?",
+      "answer": "Traditional thin-film modules such as Copper Indium Gallium Selenide (CIGS) and Cadmium Telluride (CdTe) contain hazardous heavy metals, specifically Cadmium (Cd) and Lead (Pb). CIGS also contains Selenide (Se).",
+      "category": "Stability & Degradation",
+      "source_title": "A scientometric review of trends in solar photovoltaic waste management research",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2526,
+    "completion_tokens": 2277,
+    "total_tokens": 4803
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "paper_id": "Angew_Chem_Int_Ed_-_2019_-_Kong_-_Electrochemical_Access_to_AzaPolycyclic_Aromatic_Hydrocarbons_Rhod",
+  "paper_title": "Electrochemical Access to Aza-Polycyclic Aromatic Hydrocarbons: Rhoda-Electrocatalyzed Domino Alkyne Annulations",
+  "qa_pairs": [
+    {
+      "question": "What are the optimal electrochemical conditions for the synthesis of aza-polycyclic aromatic hydrocarbon (aza-PAH) 3aa?",
+      "answer": "The optimal conditions for synthesizing aza-PAH 3aa involve using the cationic rhodium catalyst [Cp*Rh(CH3CN)3](SbF6)2, KOAc as the base, and 1-adamantanecarboxylic acid (AdOH) as an additive. The reaction is performed in methanol (MeOH) as the solvent within an undivided cell at a constant current of 2.0 mA.",
+      "category": "Processing & Fabrication",
+      "source_title": "Electrochemical Access to Aza-Polycyclic Aromatic Hydrocarbons: Rhoda-Electrocatalyzed Domino Alkyne Annulations",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Which specific electrode materials are utilized in the undivided cell for the rhoda-electrocatalyzed domino alkyne annulation?",
+      "answer": "The electrochemical synthesis is carried out using a graphite felt (GF) anode and a platinum (Pt) plate cathode in an undivided cell configuration.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Electrochemical Access to Aza-Polycyclic Aromatic Hydrocarbons: Rhoda-Electrocatalyzed Domino Alkyne Annulations",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the applied current affect the yield and stability of the rhoda-electrocatalyzed annulation process?",
+      "answer": "The yield of the reaction is sensitive to the applied current; for example, lowering the current from 4.0 mA to 2.0 mA increased the yield of aza-PAH 3aa to 75%. High applied potentials or prolonged electrolysis can lead to undesired side reactions or the decomposition of the product.",
+      "category": "Stability & Degradation",
+      "source_title": "Electrochemical Access to Aza-Polycyclic Aromatic Hydrocarbons: Rhoda-Electrocatalyzed Domino Alkyne Annulations",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What evidence supports the existence of an anodic oxidation-induced reductive elimination pathway in this synthesis?",
+      "answer": "Cyclic voltammetry studies of a key rhodacycle intermediate (complex 5) in the presence of alkyne 2b showed a low oxidation peak at 0.23 V vs. ferrocene. This low oxidation potential suggests that the reaction mechanism involves an oxidatively induced reductive elimination step.",
+      "category": "Characterization Methods",
+      "source_title": "Electrochemical Access to Aza-Polycyclic Aromatic Hydrocarbons: Rhoda-Electrocatalyzed Domino Alkyne Annulations",
+      "difficulty": "hard",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Describe the structural transformation that occurs during the single-step synthesis of aza-PAHs using rhoda-electrocatalysis.",
+      "answer": "The synthesis involves a domino process characterized by a threefold C-H activation. In a single step, six new bonds are formed: specifically four C-C bonds and two C-N bonds, resulting in the complex aza-polycyclic aromatic hydrocarbon structure.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Electrochemical Access to Aza-Polycyclic Aromatic Hydrocarbons: Rhoda-Electrocatalyzed Domino Alkyne Annulations",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What is the redox potential of the cationic nitrogen-doped nanographene 6, and how is it synthesized?",
+      "answer": "Cationic nitrogen-doped nanographene 6 is synthesized by treating aza-PAH 3aa with iodomethane, achieving a 93% yield. It exhibits reversible redox behavior with its radical form at a low potential of E1/2 = -1.72 V vs. ferrocene.",
+      "category": "Performance Metrics",
+      "source_title": "Electrochemical Access to Aza-Polycyclic Aromatic Hydrocarbons: Rhoda-Electrocatalyzed Domino Alkyne Annulations",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the rhoda-electrocatalyzed cascade C-H activation demonstrate high functional group tolerance?",
+      "answer": "The process is notable for tolerating highly reactive and sensitive functional groups that typically fail under electrochemical conditions, specifically iodo and azido groups (as seen in the synthesis of 3ai).",
+      "category": "Structure-Property Relationships",
+      "source_title": "Electrochemical Access to Aza-Polycyclic Aromatic Hydrocarbons: Rhoda-Electrocatalyzed Domino Alkyne Annulations",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Explain how aza-PAH 3aj can be used to synthesize a dendrimer and the properties of the resulting molecule.",
+      "answer": "Aza-PAH 3aj, which contains six pendant azide groups, can undergo an azide-alkyne Huisgen cycloaddition reaction with an 88% yield. This process converts it into dendrimer 8, which possesses a hydrophobic core and a hydrophilic periphery.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Electrochemical Access to Aza-Polycyclic Aromatic Hydrocarbons: Rhoda-Electrocatalyzed Domino Alkyne Annulations",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2524,
+    "completion_tokens": 2250,
+    "total_tokens": 4774
+  }
+}

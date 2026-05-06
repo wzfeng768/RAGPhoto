@@ -1,0 +1,132 @@
+{
+  "paper_id": "chem_201402003_sm_miscellaneous_information",
+  "paper_title": "Combining Electronic and Steric Effects For Highly Stable Unsymmetric Pentacenes",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/chem_201402003_sm_miscellaneous_information/auto/chem_201402003_sm_miscellaneous_information.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Unsymmetric 6,13-disubstituted pentacenes are synthesized through a sequential two-step addition of different organolithium reagents to 6,13-pentacenequinone, followed by reductive aromatization.",
+      "evidence": "0.73 mL (1.2 mmol) nbutyllithium (1.6 M) in hexanes was added to a solution of 0.13 g (1.3 mmol) phenylacetylene... The reaction mixture was added dropwise to 0.4 g (1.30 mmol) of 6,13-pentacenequinone... 13-hydroxy-13-(phenylethynyl)pentacen-6(13H)-one... A 2-bromo-1,3-disubstituted benzene derivative was dissolved in dry THF. n-Butyllithium in hexanes was added... 13-hydroxy-13-(phenylethynyl)pentacen-6(13H)-one above was then added.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "pentacene",
+        "synthesis",
+        "organolithium",
+        "6,13-pentacenequinone"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The reductive aromatization of the dihydroxy or hydroxy-ketone pentacene intermediates is achieved using tin(II) chloride dihydrate in a 10% H2SO4 aqueous solution.",
+      "evidence": "The reaction mixture was then dissolved in THF and treated with 10% H2SO4 aqueous solution saturated with tin(II) chloride dihydrate and vigorously stirred at room temperature for 3 hours.",
+      "complexity": "single-hop",
+      "keywords": [
+        "reductive aromatization",
+        "tin(II) chloride",
+        "H2SO4",
+        "pentacene synthesis"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The introduction of a phenylethynyl group at the 6-position of pentacene significantly lowers the LUMO level compared to the diphenyl-substituted counterpart, which enhances electronic stability.",
+      "evidence": "Table S1. Frontier molecular orbital energies... 1 [6,13-diphenylpentancene] LUMO -2.60 eV; 2 [6,13-bis(phenylethynyl)pentacenes] LUMO -3.02 eV; 3 [6-phenyl-13-(phenylethynyl)pentacene] LUMO -2.81 eV.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "LUMO",
+        "phenylethynyl",
+        "electronic stabilization",
+        "DFT"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Unsymmetric pentacenes containing both a phenylethynyl group and a 2,6-dialkylphenyl group (compounds 4 and 5) exhibit HOMO levels around -4.80 eV and LUMO levels around -2.83 eV.",
+      "evidence": "Table S1... 4: HOMO -4.80 eV, LUMO -2.83 eV; 5: HOMO -4.80 eV, LUMO -2.83 eV.",
+      "complexity": "single-hop",
+      "keywords": [
+        "HOMO",
+        "LUMO",
+        "unsymmetric pentacene",
+        "energy levels"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Among the tested derivatives, 6-(2,6-diethylphenyl)-13-(phenylethynyl)pentacene (compound 5) shows the highest photostability when subjected to broadband visible light irradiation in air-equilibrated chloroform.",
+      "evidence": "Figure S3. Decomposition of pentacenes 1-5 in air-equilibrated CHCl3 at initial concentrations of 50 μM upon broadband visible light irradiation (λ > 400 nm)... [Compound 5 shows the slowest rate of degradation in the plot].",
+      "complexity": "single-hop",
+      "keywords": [
+        "photostability",
+        "degradation",
+        "pentacene",
+        "steric protection"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The absence of aggregation in 6-phenyl-13-(phenylethynyl)pentacene (compound 3) solutions in chloroform is confirmed by normalized absorbance spectra that remain consistent over a 100-fold concentration range.",
+      "evidence": "Figure S2. Normalized absorbance spectra of compound 3 over 100-fold range of concentration, which indicates of lack of aggregation at these concentrations.",
+      "complexity": "single-hop",
+      "keywords": [
+        "aggregation",
+        "UV-vis",
+        "absorbance",
+        "concentration dependence"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The photostability kinetics of pentacene derivatives were evaluated using methylene blue as a photosensitizer to generate singlet oxygen (1O2) under 665 nm irradiation.",
+      "evidence": "Irradiation of the methylene blue photosensitizer to generate 1O2 was performed with a 200 W Hg/Xe lamp... with a 665 nm high-pass filter... 9, 10-diphenylanthracene was used as reference for 1-5.",
+      "complexity": "single-hop",
+      "keywords": [
+        "kinetics",
+        "singlet oxygen",
+        "methylene blue",
+        "photosensitizer"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "6-(2,6-diethylphenyl)-13-(phenylethynyl)pentacene (compound 5) crystallizes in the monoclinic P2/n space group with a unit cell volume of 1557.11(17) Å³ at 100 K.",
+      "evidence": "Table S2. Crystal data and structure refinement for JZ_Pentacene... Space group P2/n... Volume 1557.11(17) A3... Temperature 100(2) K.",
+      "complexity": "single-hop",
+      "keywords": [
+        "X-ray crystallography",
+        "monoclinic",
+        "space group",
+        "crystal structure"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Frontier molecular orbital energies for the pentacene derivatives were calculated using Density Functional Theory (DFT) at the B3LYP/6-311G(d,p) level.",
+      "evidence": "All DFT calculations were performed using the B3LYP functional and the 6-311(d,p) basis set using the Gaussian 09 package... Table S1. Frontier molecular orbital energies... determined by DFT calculations at the B3LYP/6-311G(d,p) level.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DFT",
+        "B3LYP",
+        "molecular orbitals",
+        "computational chemistry"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The photo-oxidation of 6-phenyl-13-(phenylethynyl)pentacene (compound 3) results in the formation of an endoperoxide (3-O2), as confirmed by HRMS with a found mass of 487.1697 for the (M+H)+ ion.",
+      "evidence": "Figure S1. 1H and 13C NMR of 3 and 3-O2 in CDCl3. HRMS calcd for 3-O2: C36H22O2 (M+H)+, 487.1693; found, 487.1697.",
+      "complexity": "single-hop",
+      "keywords": [
+        "photo-oxidation",
+        "endoperoxide",
+        "HRMS",
+        "degradation product"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 7348,
+    "completion_tokens": 3121,
+    "total_tokens": 10469
+  }
+}

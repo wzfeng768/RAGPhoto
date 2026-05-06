@@ -1,0 +1,121 @@
+{
+  "paper_id": "c6tc03325c",
+  "paper_title": "Highly ordered bimolecular crystalline blends for low-noise and high-detectivity polymeric photodiodes",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/c6tc03325c/auto/c6tc03325c.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The study utilizes a bulk heterojunction (BHJ) system composed of poly(2,5-bis(3-tetradecyllthiophene-2-yl)thieno[3,2-b]thiophene) (pBTTT) as the donor and phenyl-C61-butyric acid methyl ester (PCBM) as the acceptor, which forms a bimolecular crystalline structure.",
+      "evidence": "For the model bulk heterojunction (BHJ) system, we used poly(2,5-bis(3-tetradecyllthiophene-2-yl)- thieno[3,2-b]thiophene) (pBTTT) as the donor and phenyl-C61- butyric acid methyl ester (PCBM) as the acceptor... pBTTT:PCBM BHJ is known to form bimolecular crystalline structure when a eutectic composition (~44% PCBM) is used.",
+      "complexity": "single-hop",
+      "keywords": [
+        "pBTTT",
+        "PCBM",
+        "bimolecular crystalline structure",
+        "bulk heterojunction"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The optimized polymeric photodiode with 80% PCBM content achieved a specific detectivity (D*) of 1.95 x 10^12 Jones at a -5 V bias and 430 nm illumination wavelength.",
+      "evidence": "The photodiode with 80% PCBM content showed the highest D* values of 1.95 x 10^12 Jones at -5 V and illumination wavelength of 430 nm.",
+      "complexity": "single-hop",
+      "keywords": [
+        "specific detectivity",
+        "D*",
+        "Jones",
+        "PCBM content"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The pBTTT:PCBM photodiodes exhibit a high linear dynamic range (LDR) of 94 dB and a 3 dB bandwidth of 1 kHz.",
+      "evidence": "The resulting optimized photodiodes with 80% PCBM content showed a high detectivity value of 1.95 x 10^12 Jones, a high bandwidth of 1 kHz, and a high 94 dB linear dynamic range.",
+      "complexity": "single-hop",
+      "keywords": [
+        "linear dynamic range",
+        "LDR",
+        "bandwidth",
+        "frequency response"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The intercalation of PCBM between the side chains of pBTTT increases the lamellar d-spacing from 21.15 Å in pristine films to 30.2 Å in the blend films.",
+      "evidence": "The GIXD patterns of the pristine pBTTT films were consistent with previous reports by showing (m00) Bragg diffraction peak series up to (400) along the qz axis, with a lamellar d-spacing of 21.15 Å... all the other GIXD patterns obtained from the pBTTT:PCBM BHJ films with various blend ratios showed increased lamellar d-spacing of 30.2 Å.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "d-spacing",
+        "intercalation",
+        "pBTTT",
+        "PCBM",
+        "GIXD"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The paracrystalline disorder parameter (g) for pBTTT:PCBM blend films remains low (approximately 3-4%), indicating high crystalline perfection similar to pristine pBTTT (g = 3.4%).",
+      "evidence": "Interestingly, all the blend films revealed a low level of paracrystalline disorder (g = ~3–4%), which is even similar to that of the pristine pBTTT film (g = 3.4%).",
+      "complexity": "single-hop",
+      "keywords": [
+        "paracrystalline disorder",
+        "g parameter",
+        "crystalline perfection",
+        "GIXD"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Structural perfection in the bimolecular crystalline active layer reduces energetic disorder, which suppresses undesired charge injection into localized energy states during reverse saturation operation, leading to low dark currents (< 4 nA/cm² at -5 V).",
+      "evidence": "Structural localization (caused by either lattice disorder or orientation disorder) gives rise to energetic disorder... the obtained relatively low paracrystalline disorder (g = ~3–4%) and high degree of orientation ordering of pBTTT:PCBM can lead to low dark current... all the other blend films yielded a significant low-dark-current behavior with a current density less than 4 nA cm^-2 at -5 V.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "energetic disorder",
+        "dark current",
+        "localized energy states",
+        "reverse saturation"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Active layers were fabricated by spin-coating pBTTT:PCBM from chlorobenzene at a concentration of 40 mg/mL, followed by thermal annealing at 190 °C for 5 minutes to enhance intermolecular crystalline order.",
+      "evidence": "All the BHJ films with varying weight ratio of the blend were annealed at 190 °C for 5 min to increase the intermolecular crystalline order... solubilized overnight in chlorobenzene (CB) at a total concentration of 40 mg mL^-1.",
+      "complexity": "single-hop",
+      "keywords": [
+        "chlorobenzene",
+        "thermal annealing",
+        "spin-coating",
+        "fabrication"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The 1 kHz bandwidth of the pBTTT:PCBM photodiodes is transit-time limited, as evidenced by the increase in bandwidth with higher reverse bias and the close agreement between measured and theoretical bandwidth (1.393 kHz).",
+      "evidence": "As the reverse bias was increased to negative values, the 3 dB bandwidth tended to increase, implying that the bandwidth was transit-time limited... The calculated theoretical estimation of the bandwidth is 1.393 kHz, which is very close to the actually measured bandwidth value of 1 kHz.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "transit-time limited",
+        "bandwidth",
+        "reverse bias",
+        "frequency response"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Pole figure analysis of pBTTT:PCBM blends indicates a preferential edge-on crystalline orientation, with edge-on to face-on area ratios (Aedge-on/Aface-on) ranging from 0.8 to 0.9.",
+      "evidence": "the values of Aedge-on/Aface-on obtained from all the other blend films also ranged from 0.8 to 0.9, indicating that preferential edge-on structures were retained even for an excess amount of PCBM.",
+      "complexity": "single-hop",
+      "keywords": [
+        "pole figure",
+        "edge-on orientation",
+        "crystalline orientation",
+        "GIXD"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 9971,
+    "completion_tokens": 2851,
+    "total_tokens": 12822
+  }
+}

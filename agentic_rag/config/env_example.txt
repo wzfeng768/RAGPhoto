@@ -1,0 +1,120 @@
+# ========================================
+# Agentic RAG v2 Configuration
+# ========================================
+# Copy this file to .env and fill in your values
+# cp config/env_example.txt .env
+
+# ========================================
+# OpenAI API Configuration (Required)
+# ========================================
+OPENAI_API_KEY=your_openai_api_key_here
+OPENAI_BASE_URL=https://api.openai.com/v1
+# Alternative: Use compatible API endpoint
+# OPENAI_BASE_URL=https://www.dmxapi.cn/v1
+
+# LLM Model for generation
+LLM_MODEL=gpt-4o-mini
+LLM_TEMPERATURE=0.3
+LLM_MAX_TOKENS=2000
+
+# Embedding Model
+EMBEDDING_MODEL=text-embedding-3-small
+EMBEDDING_DIMENSIONS=1536
+EMBEDDING_BATCH_SIZE=100
+
+# Embedding API (Optional: defaults to OPENAI_API_KEY if not set)
+# If you use a different API endpoint for embeddings, set these:
+# EMBEDDING_API_KEY=your_embedding_api_key_here
+# EMBEDDING_BASE_URL=https://api.openai.com/v1
+
+# ========================================
+# Milvus Configuration (Reuse RAGPhoto_5)
+# ========================================
+MILVUS_HOST=localhost
+MILVUS_PORT=19530
+MILVUS_COLLECTION=academic_papers
+MILVUS_INDEX_TYPE=IVF_FLAT
+MILVUS_METRIC_TYPE=COSINE
+
+# ========================================
+# Neo4j Configuration (Reuse RAGPhoto_5)
+# ========================================
+NEO4J_URI=bolt://localhost:7688
+NEO4J_USER=neo4j
+NEO4J_PASSWORD=password
+NEO4J_DATABASE=neo4j
+
+# ========================================
+# Agent Configuration
+# ========================================
+# Maximum number of iterations (1-5)
+MAX_ITERATIONS=3
+
+# Quality threshold for deciding when to stop (0-1)
+QUALITY_THRESHOLD=0.7
+
+# Enable early stopping for high-quality results
+ENABLE_EARLY_STOPPING=true
+EARLY_STOP_THRESHOLD=0.9
+
+# Enable verbose logging
+VERBOSE=false
+
+# ========================================
+# Retrieval Configuration
+# ========================================
+# Vector retrieval
+VECTOR_TOP_K=15
+
+# Reranking (optional but recommended)
+ENABLE_RERANKING=true
+RERANKER_MODEL=qwen3-reranker-8b
+RERANKER_TOP_N=5
+RERANKER_API_KEY=your_api_key_here
+RERANKER_BASE_URL=https://www.dmxapi.cn/v1
+
+# Knowledge Graph
+KG_MAX_ENTITIES=10
+KG_MAX_RELATIONSHIPS=20
+
+# ========================================
+# Web Search Configuration (Optional)
+# ========================================
+ENABLE_WEB_SEARCH=false
+WEB_SEARCH_RESULTS=5
+WEB_SEARCH_ENGINE=duckduckgo
+# Start web search from which iteration (1 means first iteration)
+WEB_SEARCH_START_ITERATION=1
+# Search strategy: academic / duckduckgo / both
+WEB_SEARCH_MODE=both
+# Comma-separated academic providers: arxiv,pubmed,semantic_scholar,core
+WEB_ENABLED_SOURCES=arxiv,pubmed,semantic_scholar,core
+# Optional API keys / metadata for academic providers
+SEMANTIC_SCHOLAR_API_KEY=
+CORE_API_KEY=
+PUBMED_EMAIL=your-email@example.com
+# Request timeout (seconds)
+WEB_SEARCH_TIMEOUT=10
+
+# ========================================
+# Performance Optimization
+# ========================================
+# Enable caching for repeated queries
+ENABLE_CACHE=true
+CACHE_SIZE=1000
+CACHE_TTL=3600
+
+# Enable parallel tool execution
+PARALLEL_TOOL_EXECUTION=true
+
+# ========================================
+# Data Source (Reuse RAGPhoto_5)
+# ========================================
+DATA_SOURCE=/home/wzfeng/RAGPhoto/Data/AI_MDs
+
+# ========================================
+# Logging
+# ========================================
+LOG_LEVEL=INFO
+LOG_FILE=logs/agentic_rag.log
+

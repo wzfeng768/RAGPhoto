@@ -1,0 +1,127 @@
+{
+  "paper_id": "Adv_Materials_Inter_-_2021_-_Haldar_-_Antenna_Doping_The_Key_for_Achieving_Efficient_Optical_Wavelen",
+  "paper_title": "Antenna Doping: The Key for Achieving Efficient Optical Wavelength Conversion in Crystalline Chromophoric Heterolayers",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Adv Materials Inter - 2021 - Haldar - Antenna Doping  The Key for Achieving Efficient Optical Wavelength Conversion in/auto/Adv Materials Inter - 2021 - Haldar - Antenna Doping  The Key for Achieving Efficient Optical Wavelength Conversion in.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The study utilizes three core-substituted naphthalenediimide (cNDI) linkers for a wavelength conversion cascade: bis-ethoxy-naphthalenediimide (cNDI-G) for green/blue absorption, ethoxy-cyclohexylamine-naphthalenediimide (cNDI-O) as an intermediate, and bis-cyclohexylamine-naphthalenediimide (cNDI-R) for red emission.",
+      "evidence": "The approach presented here is based on three complementary core-substituted naphthalenediimide-based linkers (cNDIs)... bis-ethoxy-naphthalenediimide (cNDI-G), ethoxy-cyclohexylamine-naphthalenediimide (cNDI-O), and bis-cyclohexylamine-naphthalenediimide (cNDI-R).",
+      "complexity": "single-hop",
+      "keywords": [
+        "naphthalenediimide",
+        "cNDI",
+        "chromophoric linkers",
+        "molecular design"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The Zn-SURMOF-2 structure consists of ditopic dicarboxylate linkers connected to Zn++ ions forming paddle-wheel secondary building units in a 2D square-grid-like structure with P4 symmetry.",
+      "evidence": "The basic MOF type used for the present study is Zn-SURMOF-2. The key structural elements... are ditopic dicarboxylate linkers, which are connected to Zn++ ions yielding so-called paddle-wheels. These secondary building units then form 2D square-grid-like structures exhibiting a P4 symmetry.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Zn-SURMOF-2",
+        "paddle-wheel",
+        "P4 symmetry",
+        "secondary building units"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "In neat chromophoric SURMOFs, Forster energy transport is highly anisotropic, being efficient parallel to the substrate due to J-aggregate coupling but approximately 1000 times lower in the direction perpendicular to the layers.",
+      "evidence": "As a result of this pronounced structural anisotropy, Forster energy transport is very efficient parallel to the substrate but very poor (lower by a factor of 1000) perpendicular to the layers.",
+      "complexity": "single-hop",
+      "keywords": [
+        "anisotropy",
+        "FRET",
+        "J-aggregate",
+        "energy transport"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The 'antenna doping' strategy involves introducing a small percentage of energy acceptor linkers (e.g., 1.6% cNDI-O into a Zn-cNDI-G layer) to facilitate more isotropic energy coupling and enable interlayer transfer in crystalline heterostructures.",
+      "evidence": "We introduced dopants in the form of different MOF linkers with the same length... The bottom Zn-cNDI-G layer was doped with acceptor cNDI-O linkers... we chose 1.6% cNDI-O/Zn-cNDI-G as the bottom layer.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "antenna doping",
+        "dopant concentration",
+        "interlayer energy transfer"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "A three-layer SURMOF heterostructure (HL-2) utilizing optimized antenna doping achieved an overall optical wavelength conversion efficiency of approximately 75%.",
+      "evidence": "Using optimized fabrication parameters and dopant concentrations, a three-layer, two-step cascade with an overall optical conversion efficiency of ≈75% is realized.",
+      "complexity": "single-hop",
+      "keywords": [
+        "conversion efficiency",
+        "optical cascade",
+        "HL-2"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The fluorescence quantum yield of the antenna-doped trilayer heterostructure (HL-2) reached approximately 10.5%, which is a fourfold increase compared to the individual pristine SURMOFs (e.g., 2.3% for Zn-cNDI-G).",
+      "evidence": "The fluorescence quantum yield of HL-2 was found to be ≈10.5 ± 1% which is higher than that for pristine Zn-cNDI-G (≈2.3 ± 0.5%) and Zn-cNDI-R (≈2.9 ± 0.4%).",
+      "complexity": "single-hop",
+      "keywords": [
+        "fluorescence quantum yield",
+        "PLQY",
+        "HL-2"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The chromophoric SURMOF thin films were fabricated using a layer-by-layer (lbl) spin-coating method on hydroxyl-terminated surfaces to ensure high crystallinity and [001] orientation.",
+      "evidence": "The stacked trilayer SURMOF system was deposited on hydroxyl-terminated surfaces using an lbl spincoating fabrication method... fabricated structurally well-defined Zn-SURMOF-2 thin films with [001] orientation.",
+      "complexity": "single-hop",
+      "keywords": [
+        "layer-by-layer",
+        "spin-coating",
+        "hydroxyl-terminated",
+        "thin film fabrication"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "X-ray diffraction (XRD) analysis confirmed that the three different chromophoric SURMOFs are isostructural, with linkers stacking along the [010] crystallographic direction and an inter-linker distance of 6.8 Å.",
+      "evidence": "The X-ray diffraction (XRD) data revealed that the three SURMOFs were isostructural... with the cNDI-based linkers stacked along the [010] crystallographic direction... and an inter-linker distance of 6.8 Å.",
+      "complexity": "single-hop",
+      "keywords": [
+        "XRD",
+        "isostructural",
+        "stacking distance",
+        "crystallography"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Long-range Forster resonance energy transfer (LR-FRET) in these doped MOF systems can occur over distances exceeding 10 nm, which is significantly farther than standard FRET processes.",
+      "evidence": "As expected for LR-FRET, the energy transfer occurs over rather far distances of >10 nm, which are substantially longer than those in normal FRET processes.",
+      "complexity": "single-hop",
+      "keywords": [
+        "LR-FRET",
+        "transfer distance",
+        "exciton transport"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The maintenance of identical unit cell parameters across different core-substituted NDI linkers is a critical requirement for successful heteroepitaxial growth of the trilayer SURMOF system.",
+      "evidence": "we thus conclude that the modification of the core substitution group in the NDI linkers did not alter the unit cell parameters of these chromophoric crystalline structures, a key requirement for achieving good heteroepitaxial growth.",
+      "complexity": "single-hop",
+      "keywords": [
+        "heteroepitaxy",
+        "unit cell",
+        "structural modification"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 7899,
+    "completion_tokens": 2753,
+    "total_tokens": 10652
+  }
+}

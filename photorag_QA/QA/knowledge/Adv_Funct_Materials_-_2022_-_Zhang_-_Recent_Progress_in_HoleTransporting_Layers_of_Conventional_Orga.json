@@ -1,0 +1,155 @@
+{
+  "paper_id": "Adv_Funct_Materials_-_2022_-_Zhang_-_Recent_Progress_in_HoleTransporting_Layers_of_Conventional_Orga",
+  "paper_title": "Recent Progress in Hole-Transporting Layers of Conventional Organic Solar Cells with p-i-n Structure",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Adv Funct Materials - 2022 - Zhang - Recent Progress in Hole‐Transporting Layers of Conventional Organic Solar Cells with p/auto/Adv Funct Materials - 2022 - Zhang - Recent Progress in Hole‐Transporting Layers of Conventional Organic Solar Cells with p.md",
+  "knowledge_points": [
+    {
+      "category": "Stability & Degradation",
+      "content": "The standard HTL material PEDOT:PSS exhibits an acidic nature with a pH between 1 and 2, which leads to the corrosion of Indium Tin Oxide (ITO) anodes and the subsequent diffusion of indium into the photoactive layer, causing device degradation.",
+      "evidence": "In addition, the acidity (pH = 1-2) of PEDOT:PSS can corrode the ITO surface, resulting in the diffusion of indium into the photoactive layer, causing device degradation.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PEDOT:PSS",
+        "acidity",
+        "ITO corrosion",
+        "degradation"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Incorporating tungsten oxide (WOx) nanoparticles into PEDOT:PSS allows for the tuning of the surface energy (γS) of the HTL, which helps optimize the nanomorphology of the subsequent photoactive layer.",
+      "evidence": "In our previous works, we proposed the incorporation of WOx nanoparticles into PEDOT:PSS emulsion as the HTL for mediating γS of the PEDOT:PSS based HTL, which led to optimizing the morphology of the photoactive layer.",
+      "complexity": "single-hop",
+      "keywords": [
+        "tungsten oxide",
+        "WOx",
+        "surface energy",
+        "morphology control"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Organic solar cells utilizing a WOx-modified PEDOT:PSS HTL achieved a high fill factor (FF) of 80.79% and a certified power conversion efficiency (PCE) of 14.15%.",
+      "evidence": "As a result, a champion FF of 80.79% with a certified efficiency of 14.15% was realized in OSCs.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "Fill Factor",
+        "WOx",
+        "PEDOT:PSS"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The built-in potential (Vbi) in organic solar cells, which drives charge carrier separation and drift, primarily originates from the work function (WF) difference between the two electrodes, rather than homojunction doping as seen in silicon photovoltaics.",
+      "evidence": "Differing from silicon solar cells where Vbi is created through doping of the homojunction, the Vbi in OsCs originates from the work function (WF) difference of electrodes.",
+      "complexity": "single-hop",
+      "keywords": [
+        "built-in potential",
+        "work function",
+        "charge separation",
+        "Vbi"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Electrochemical polymerization is a preferred method for fabricating in situ conjugated microporous polymer (CMP) films because it bypasses the poor solubility issues associated with CMPs synthesized via standard surface-initiated or cross-linking methods.",
+      "evidence": "However, the poor solubility of CMPs limits the application of CMPs synthesized by the above methods in photovoltaic devices. Compared to the above methods, electrochemical polymerization is considered to be a more effective method for fabricating in situ CMPs.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "electrochemical polymerization",
+        "CMPs",
+        "solubility",
+        "film fabrication"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The use of the conjugated polyelectrolyte CPE-K as an HTL in p-DTS(PTTh2)2:PC71BM solar cells yields a hole mobility of 1.5 × 10⁻⁵ cm² V⁻¹ s⁻¹, which is approximately two orders of magnitude higher than the mobility in PEDOT:PSS-based devices (1.2 × 10⁻⁷ cm² V⁻¹ s⁻¹).",
+      "evidence": "The hole mobility of the CPE-K based device is 1.5 × 10⁻⁵ cm² V⁻¹ s⁻¹ which is an enhancement of ≈ 2 order than PEDOT:PSS based device (1.2 × 10⁻⁷ cm² V⁻¹ s⁻¹)",
+      "complexity": "single-hop",
+      "keywords": [
+        "CPE-K",
+        "hole mobility",
+        "SCLC",
+        "charge transport"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "PCP-Na is a pH-neutral, self-doping conjugated polymer that functions as an HTL with a deep HOMO level of -5.22 eV and an electrical conductivity of 1.66 × 10⁻³ S cm⁻¹, which is superior to standard PEDOT:PSS (1.35 × 10⁻³ S cm⁻¹).",
+      "evidence": "PCP-Na exhibited a strong self-doping effect in an aqueous solution, and the PCP-Na thin film exhibits a deep HOMO level of -5.22 eV. Moreover... PCP-Na has a higher electrical conductivity of 1.66 × 10⁻³ S cm⁻¹ compared to 1.35 × 10⁻³ S cm⁻¹ of PEDOT:PSS.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "PCP-Na",
+        "self-doping",
+        "HOMO",
+        "conductivity"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The conjugated polyelectrolyte PCPDT-T exhibits high thickness insensitivity, allowing organic solar cell devices to maintain a PCE of 7.1% even when the HTL thickness is increased to 50 nm.",
+      "evidence": "Notably, PCPDT-T shows excellent thickness insensitivity, with OSC devices maintaining a PCE of 7.1% even when the thickness of PCPDT-T is increased to 50 nm.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCPDT-T",
+        "thickness insensitivity",
+        "HTL optimization"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Metal nanoparticles (Al, Ag, Au) incorporated into HTLs improve device performance through Localized Surface Plasmon Resonance (LSPR) and by increasing the light-harvesting effect via wide-angle scattering of incident light.",
+      "evidence": "The addition of metal nanoparticles (NPs) in OPVs has two main effects; the first is LSPR, and the second one is to utilize wide-angle scattering of incident light to increase the light-harvesting effect.",
+      "complexity": "single-hop",
+      "keywords": [
+        "LSPR",
+        "metal nanoparticles",
+        "light scattering",
+        "optical enhancement"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The bithiophene derivative PFS is a versatile interface material that can serve as both the hole transport layer (anode interface) and the electron transport layer (cathode interface) in organic solar cells.",
+      "evidence": "Hou and co-workers synthesized a bithiophene derivative that can be used as an anode as well as a cathode interface layer, named PFS.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PFS",
+        "bifunctional interface",
+        "HTL",
+        "ETL"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "In tandem organic solar cells, the use of CPEPh-Na as an interconnection layer (ICL) improves the open-circuit voltage (Voc) due to its deep work function, which matches the HOMO energy level of the donor material more effectively than CPE-K.",
+      "evidence": "The tandem device using CPEPh-Na shows a significant enhancement in Voc... This is mainly due to the deeper WF of CPEPh-Na, which can better match the HOMO energy level of the donor material.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "tandem solar cells",
+        "interconnection layer",
+        "CPEPh-Na",
+        "energy level matching"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The incorporation of silver (Ag) nanoparticles larger than 50 nm into the PEDOT:PSS HTL significantly enhances light absorption in OSCs due to strong plasmonic scattering effects, whereas particles smaller than 30 nm provide minimal enhancement.",
+      "evidence": "The smaller-sized Ag NPs (below 30 nm) did not enhance the light absorption much, while the larger Ag NPs (above 50 nm) can enhance the light absorption due to their stronger plasmonic scattering effects.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Ag nanoparticles",
+        "plasmonic scattering",
+        "size effect",
+        "light absorption"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 14151,
+    "completion_tokens": 4182,
+    "total_tokens": 18333
+  }
+}

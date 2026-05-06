@@ -1,0 +1,154 @@
+{
+  "paper_id": "Advanced_Materials_-_2017_-_Guo_-_Improved_Performance_of_AllPolymer_Solar_Cells_Enabled_by",
+  "paper_title": "Improved Performance of All-Polymer Solar Cells Enabled by Naphthodiperylenetetraimide-Based Polymer Acceptor",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Materials - 2017 - Guo - Improved Performance of All‐Polymer Solar Cells Enabled by/auto/Advanced Materials - 2017 - Guo - Improved Performance of All‐Polymer Solar Cells Enabled by.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "NDP-V is a polymer acceptor featuring a backbone of alternating naphthodiperylenetetraimide (NDP) and vinylene units, designed to reduce conformational disorder by covalently fusing vinylene linkers to the bay regions of adjacent perylenediimide (PDI) units.",
+      "evidence": "By covalently fusing half of the vinylene linkers in PDI-V backbone to the bay region of adjacent PDI units on both sides, larger, shape-persistent NDP units are obtained, based on which a new polymer (NDP-V) featuring a poly(NDP-vinylene) backbone is designed and synthesized",
+      "complexity": "single-hop",
+      "keywords": [
+        "NDP-V",
+        "perylenediimide",
+        "conformational disorder",
+        "molecular design"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The all-polymer solar cell based on the PTB7-Th:NDP-V blend achieved a record-high power conversion efficiency (PCE) of 8.59% with an average value of 8.48%.",
+      "evidence": "With this polymer acceptor, a new record power-conversion efficiencies (PCE) of 8.59% has been achieved for all-PSCs... an average PCE of 8.48% is obtained",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "all-polymer solar cells",
+        "PTB7-Th",
+        "record efficiency"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The PTB7-Th:NDP-V device exhibits a short-circuit current density (Jsc) of 17.07 mA cm⁻², an open-circuit voltage (Voc) of 0.74 V, and a fill factor (FF) of 0.67.",
+      "evidence": "All these factors contribute to a short-circuit current density (Jsc) of 17.07 mA cm-2... a Voc of 0.74 V... With a fill factor (FF) of 0.67",
+      "complexity": "single-hop",
+      "keywords": [
+        "Jsc",
+        "Voc",
+        "FF",
+        "photovoltaic parameters"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "NDP-V possesses a LUMO level of -4.03 eV and a HOMO level of -5.94 eV; the HOMO is lowered by 0.17 eV compared to PDI-V due to the reduced density of vinylene donor units in the main chain.",
+      "evidence": "NDP-V possesses a lowest unoccupied molecular orbital (LUMO) of about -4.03 eV... the highest occupied molecular orbital (HOMO) of NDP-V is lowered by more than 0.1 eV relative to that of PDI-V... The partially locked backbone of NDP-V reduced the density of vinylene donor units in the main chain, which originated the lower lying HOMO",
+      "complexity": "multi-hop",
+      "keywords": [
+        "LUMO",
+        "HOMO",
+        "energy level engineering",
+        "bandgap"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The electron mobility of neat NDP-V film measured by the space-charge limited current (SCLC) method is 2.5 x 10⁻³ cm² V⁻¹ s⁻¹, which is higher than that of PDI-V (1.9 x 10⁻³ cm² V⁻¹ s⁻¹).",
+      "evidence": "the electron mobility of NDP-V is calculated to be about 2.5 x 10-3 cm2 V-1 s-1, which is evidently higher than that of PDI-V.",
+      "complexity": "single-hop",
+      "keywords": [
+        "electron mobility",
+        "SCLC",
+        "NDP-V",
+        "charge transport"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The PTB7-Th:NDP-V blend shows more balanced charge transport than PTB7-Th:PDI-V, with a hole-to-electron mobility ratio (μh/μe) of 3.3 compared to 3.8.",
+      "evidence": "The smaller μh/μe value of the former is also beneficial for improving FF of the solar cell. (Table 2: NDP-V μh/μe = 3.3, PDI-V μh/μe = 3.8)",
+      "complexity": "multi-hop",
+      "keywords": [
+        "mobility ratio",
+        "charge balance",
+        "fill factor",
+        "PTB7-Th"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "High-performance NDP-V based all-PSCs are fabricated using chlorobenzene (CB) as the solvent without the need for solvent additives or post-treatments like thermal annealing.",
+      "evidence": "No solvent additive or post-treatment of the cells is required for achieving such high performance (Table S1, Supporting Information).",
+      "complexity": "single-hop",
+      "keywords": [
+        "chlorobenzene",
+        "additive-free",
+        "processing",
+        "device fabrication"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS characterization of the PTB7-Th:NDP-V blend film indicates a preferential face-on orientation, with (100) peaks observed in the in-plane (IP) direction and (010) peaks in the out-of-plane (OOP) direction.",
+      "evidence": "The (100) and (010) peaks are observable preferentially in IP and OOP directions, respectively, indicating preferential face-on orientation is exhibited",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "face-on orientation",
+        "molecular packing",
+        "crystallinity"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "NDP-V exhibits an optical bandgap of 1.91 eV and shows enhanced absorption at 402 nm and 547 nm compared to PDI-V, providing a better spectral complement to the donor PTB7-Th.",
+      "evidence": "The optical bandgap of NDP-V is slightly widened compared to that of PDI-V... The extinction coefficients of the absorption peaks at 400 and 545 nm... are both substantially increased",
+      "complexity": "multi-hop",
+      "keywords": [
+        "optical bandgap",
+        "UV-vis absorption",
+        "complementary absorption"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The performance of NDP-V based all-PSCs is relatively insensitive to the length of the alkyl side chains (ranging from 1-pentylhexyl to 1-octylnonyl), which is attributed to the large, shape-persistent NDP backbone dominating the material morphology.",
+      "evidence": "When the side chain length is extended from 1-pentylhexyl to 1-octylnonyl, the solar cell performance exhibits only insignificant fluctuations... the relatively insensitive dependence of the polymer acceptor performance on the side-chain length is likely related to the unique geometry of NDP structure.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "side chain engineering",
+        "morphology",
+        "structure-property relationship"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Atomic force microscopy (AFM) reveals that the PTB7-Th:NDP-V blend forms a smooth surface with a root-mean-square (RMS) roughness of 0.86 nm.",
+      "evidence": "The height and phase images reveal that the PTB7-Th:NDP-V blend forms relatively smooth and uniform surface with a root-mean-square (RMS) roughness of 0.86 nm",
+      "complexity": "single-hop",
+      "keywords": [
+        "AFM",
+        "surface roughness",
+        "morphology",
+        "RMS"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The optimized device uses an inverted structure consisting of ITO/ZnO/PTB7-Th:NDP-V/V2O5/Al with an active layer thickness of approximately 120 nm.",
+      "evidence": "using the inverted device configuration of ITO/ZnO/PTB7-Th:NDP-V/V2O5/Al... obtain a thickness of ≈120 nm",
+      "complexity": "single-hop",
+      "keywords": [
+        "inverted structure",
+        "V2O5",
+        "ZnO",
+        "device architecture"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 8725,
+    "completion_tokens": 3830,
+    "total_tokens": 12555
+  }
+}

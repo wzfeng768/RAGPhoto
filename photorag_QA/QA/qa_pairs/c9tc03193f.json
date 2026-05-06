@@ -1,0 +1,75 @@
+{
+  "paper_id": "c9tc03193f",
+  "paper_title": "Impact of new skeletal isomerization in polymer semiconductors",
+  "qa_pairs": [
+    {
+      "question": "What specific building blocks and design strategy were used to synthesize the isomeric polymers P(DPPT-TT) and P(DPPTT-T)?",
+      "answer": "The polymers P(DPPT-TT) and P(DPPTT-T) were synthesized using a skeletal isomerization strategy. They are composed of asymmetric thiophene-flanked diketopyrrolopyrrole (DPP) units and thieno[3,2-b]thiophene (TT) building blocks.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Impact of new skeletal isomerization in polymer semiconductors",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the hole mobility of P(DPPTT-T) compare to its isomer P(DPPT-TT) in organic field-effect transistors (OFETs)?",
+      "answer": "P(DPPTT-T) exhibits significantly higher performance with an average hole mobility of 2.14 cm² V⁻¹ s⁻¹ in air-tested OFETs. This value is approximately three times higher than the hole mobility observed for its isomer, P(DPPT-TT).",
+      "category": "Performance Metrics",
+      "source_title": "Impact of new skeletal isomerization in polymer semiconductors",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What are the key device parameters for optimized OFETs based on P(DPPTT-T), including the on/off ratio and threshold voltage?",
+      "answer": "The optimized P(DPPTT-T) based OFETs show a current on/off ratio (Ion/Ioff) of approximately 4.0 × 10⁵ and a low threshold voltage (VT) of 1.9 V.",
+      "category": "Performance Metrics",
+      "source_title": "Impact of new skeletal isomerization in polymer semiconductors",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Based on the structural characterization of thin films, why does P(DPPTT-T) demonstrate superior charge transport compared to P(DPPT-TT)?",
+      "answer": "The superior charge transport in P(DPPTT-T) is attributed to its closer π–π stacking distance of 3.52 Å compared to 3.57 Å for P(DPPT-TT). Additionally, AFM imaging reveals that P(DPPTT-T) forms a thicker and more interconnected nanofibrillar network morphology, which facilitates more efficient charge carrier movement.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Impact of new skeletal isomerization in polymer semiconductors",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Compare the optical bandgaps and HOMO energy levels of the two isomeric polymers P(DPPT-TT) and P(DPPTT-T).",
+      "answer": "Both polymers exhibit very similar electronic properties: they share an identical optical bandgap of 1.40 eV. Their HOMO energy levels are also closely matched, with P(DPPT-TT) at -5.12 eV and P(DPPTT-T) at -5.22 eV.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Impact of new skeletal isomerization in polymer semiconductors",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What does Grazing incidence wide-angle X-ray scattering (GIWAXS) reveal about the molecular packing of P(DPPT-TT) and P(DPPTT-T) films?",
+      "answer": "GIWAXS analysis reveals that both P(DPPT-TT) and P(DPPTT-T) thin films exhibit a predominantly 'edge-on' molecular orientation relative to the substrate, as indicated by strong (100) Bragg peaks in the out-of-plane diffraction patterns.",
+      "category": "Characterization Methods",
+      "source_title": "Impact of new skeletal isomerization in polymer semiconductors",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does temperature affect the molecular state of P(DPPT-TT) and P(DPPTT-T) in chlorobenzene solution?",
+      "answer": "The polymers undergo significant molecular aggregation when cooled. Cooling the chlorobenzene solutions from 90 °C to room temperature results in a redshift of approximately 80 nm in the absorption maxima, indicating strong molecular stacking and aggregation effects in the solution state.",
+      "category": "Characterization Methods",
+      "source_title": "Impact of new skeletal isomerization in polymer semiconductors",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What thermal processing and stability characteristics were identified for P(DPPT-TT) and P(DPPTT-T)?",
+      "answer": "The polymers demonstrate high thermal stability with decomposition temperatures (Td) exceeding 410 °C. For device fabrication, the optimal thermal annealing temperature to enhance field-effect mobility for both polymer films was found to be 135 °C.",
+      "category": "Processing & Fabrication",
+      "source_title": "Impact of new skeletal isomerization in polymer semiconductors",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2712,
+    "completion_tokens": 2401,
+    "total_tokens": 5113
+  }
+}

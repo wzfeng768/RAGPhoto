@@ -1,0 +1,144 @@
+{
+  "paper_id": "c7tc01680h",
+  "paper_title": "Recent progress in the development of n-type organic semiconductors for organic field effect transistors",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/c7tc01680h/auto/c7tc01680h.md",
+  "knowledge_points": [
+    {
+      "category": "Structure-Property Relationships",
+      "content": "A LUMO energy level of approximately -4.0 eV or lower is theoretically and empirically required for an organic semiconductor to achieve stable electron transport under ambient conditions by preventing reactions with moisture and oxygen.",
+      "evidence": "It has been theoretically proven and empirically demonstrated that a LUMO energy of ca. -4 eV or lower is required to realize a stable electron transport performance for an organic semiconductor.",
+      "complexity": "single-hop",
+      "keywords": [
+        "LUMO energy",
+        "air stability",
+        "electron affinity"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The record high electron mobilities reported in the review for n-type small molecules and polymers are 12.6 cm²/V·s and 14.9 cm²/V·s, respectively.",
+      "evidence": "These efforts have resulted in the achievement of record high electron mobilities for both small molecules (12.6 cm2 V−1 s−1) and polymers (14.9 cm2 V−1 s−1).",
+      "complexity": "single-hop",
+      "keywords": [
+        "electron mobility",
+        "small molecules",
+        "polymers"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Chlorination of the naphthalene tetracarboxylic diimide (NDI) core (e.g., S3a) effectively lowers the LUMO energy to -4.13 eV (for tetrachloro NDI) compared to non-chlorinated NDI (-3.72 eV), significantly enhancing air stability.",
+      "evidence": "The dichloro and tetrachloro NDIs showed LUMO energies of -4.01 eV and -4.13 eV, respectively, which are much lower than that of the non-chlorinated NDI compound (-3.72 eV).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "chlorination",
+        "NDI",
+        "LUMO engineering"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Thionation, the substitution of imide oxygen for sulfur in NDI and PDI derivatives, is a strategy to lower the LUMO energy and promote electron transport by involving large sulfur atoms in the core conjugation.",
+      "evidence": "Substitution of the imide oxygen for sulfur (thionation) has recently been reported to be a simple and efficient way to lower the LUMO energy and promote the electron transport of NDI and PDI derivatives.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thionation",
+        "sulfur substitution",
+        "conjugation"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The fluorinated bis-diketopyrrolopyrrole-phenylenevinylene derivative F4-BDOPV (S26d) achieved a record high electron mobility of 12.6 cm²/V·s in single-crystal OFETs under ambient conditions.",
+      "evidence": "F4-BDOPV (S26d) with four F atoms on the phenyl ring achieved a record high electron mobility of 12.6 cm2 V−1 s−1 with an Ion/Ioff of 10^6 and Vth of 8.71 V under ambient conditions.",
+      "complexity": "single-hop",
+      "keywords": [
+        "F4-BDOPV",
+        "record mobility",
+        "single crystal"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Top-gate bottom-contact (TGBC) OFET architectures often exhibit superior air stability for n-channel semiconductors because the dielectric and gate electrode layers act as protective barriers against oxygen and moisture.",
+      "evidence": "TGBC n-channel OFETs exhibit better air stability and often higher electron mobility because the semiconductor layer is protected by dielectric and gate electrode layers from exposure to oxygen and moisture in ambient air.",
+      "complexity": "single-hop",
+      "keywords": [
+        "TGBC",
+        "device architecture",
+        "encapsulation"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Terazulene (TAz1) functions as a unipolar n-channel semiconductor because its LUMO is evenly distributed across the molecule while its HOMO is localized at one end, allowing LUMO-LUMO overlap in antiparallel packing while preventing HOMO-HOMO overlap.",
+      "evidence": "LUMO is quite evenly distributed, while the HOMO is localized at one end of the molecule. Therefore, for two molecules packed with an antiparallel orientation, the LUMOs can overlap, but HOMOs cannot. This explains the observed electron-only charge transport performance.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "azulene",
+        "terazulene",
+        "orbital distribution"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The 'abrupt turn-on' or kinked non-linear transfer curves in high-mobility OFETs can lead to overestimation of mobility in the low gate voltage region, often caused by a rapid drop in contact resistance or carrier trapping at the dielectric interface.",
+      "evidence": "These devices showed a much faster increase in the drain current (ID) over a very small gate voltage range just above the threshold (Vth) compared to the high VGS region... The mobility obtained from the low VGS region was considered to be 'overestimated' by some researchers.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "kinked transfer curve",
+        "mobility overestimation",
+        "contact resistance"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The position of the side chain branching point in core-expanded NDIs (like S5b) significantly impacts molecular packing; moving the branching point one CH2 group further from the core improved electron mobility to 3.50 cm²/V·s.",
+      "evidence": "By moving the branching point of the sidechains one CH2 farther from the NDI core, the mobility of the resulting S5b was greatly improved to 3.50 cm2 V−1 s−1... The position of the branching point was found to cause critical changes in molecular packing.",
+      "complexity": "single-hop",
+      "keywords": [
+        "side chain engineering",
+        "branching point",
+        "molecular packing"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "N-heteroacene S15d (TIPS-TPDO-4CN) demonstrates high air stability, retaining 80% of its initial electron mobility (0.11 cm²/V·s) after 30 days of storage in air, attributed to its low LUMO energy of -4.18 eV.",
+      "evidence": "S15d (TIPS-TPDO-4CN) with four CN substituents has the lowest LUMO energy of -4.18 eV... The devices retained 80% of the initial mobility after 30 days of storage in air.",
+      "complexity": "single-hop",
+      "keywords": [
+        "N-heteroacene",
+        "cyano substitution",
+        "operational stability"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Core-chlorinated NDTI derivative S7b forms a 2D brick-layer packing structure enabled by Cl···O-C contacts, which facilitates higher electron mobility (0.73 cm²/V·s) than the 1D herringbone structure of the non-chlorinated version S7a.",
+      "evidence": "The two chloro atoms enabled Cl···O–C contacts, which played a role in the formation of a two-dimensional (2D) brick layer structure... achieving a much higher electron mobility of 0.73 cm2 V−1 s−1 for the vacuum deposited films.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "brick-layer structure",
+        "NDTI",
+        "intermolecular contacts"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "In solution-processable quinoidal oligothiophenes, distal regiochemistry (S22a) promotes the formation of J-aggregates in the solid state, which is more favorable for electron transport than the proximal regiochemistry (S23a).",
+      "evidence": "2D π-expanded QOTs with distal (S22a, 2DQTT-o) and proximal (S23a, 2DQTT-i) regiochemistry... S22a... suggesting the formation of J-aggregates, which is favored for electron transport.",
+      "complexity": "single-hop",
+      "keywords": [
+        "quinoidal oligothiophenes",
+        "regiochemistry",
+        "J-aggregates"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 15995,
+    "completion_tokens": 4718,
+    "total_tokens": 20713
+  }
+}

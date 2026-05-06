@@ -1,0 +1,106 @@
+{
+  "paper_id": "ente_201500131_sm_miscellaneous_information",
+  "paper_title": "Efficiency Limits and Color of Semitransparent Organic Solar Cells for Application in Building-Integrated Photovoltaics",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/ente_201500131_sm_miscellaneous_information/auto/ente_201500131_sm_miscellaneous_information.md",
+  "knowledge_points": [
+    {
+      "category": "Performance Metrics",
+      "content": "The maximum achievable efficiency of semitransparent organic solar cells is intrinsically linked to the specific shape of the External Quantum Efficiency (EQE) spectrum and the target transparency level.",
+      "evidence": "Figure S1. EQE shapes that correspond to the maximum efficiencies for some of the transparency values shown in Figure 2.",
+      "complexity": "single-hop",
+      "keywords": [
+        "EQE shape",
+        "maximum efficiency",
+        "transparency",
+        "ST-OSC"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The CIE 1931 color space is used as a standard framework to calculate and visualize the color coordinates of semitransparent organic solar cells based on their spectral response.",
+      "evidence": "Figure S4. Color coordinates in the CIE 1931 color space calculated for the model of constant EQE.",
+      "complexity": "single-hop",
+      "keywords": [
+        "CIE 1931",
+        "color coordinates",
+        "chromaticity",
+        "ST-OSC"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "For a fixed transparency of 10%, the band gap (Eg) of the organic semiconductor material is a primary determinant of the x- and y-color coordinates in the CIE 1931 chromaticity diagram.",
+      "evidence": "Figure S5. Band gap Eg (a) ... plotted over x- and y- color coordinates for a transparency of 10%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "band gap",
+        "color coordinates",
+        "transparency",
+        "Eg"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The width of the External Quantum Efficiency spectrum (Δλ) directly influences the resulting color coordinates of semitransparent organic solar cells at a given transparency level.",
+      "evidence": "Figure S5. ... EQE width Δλ (b) plotted over x- and y- color coordinates for a transparency of 10%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "EQE width",
+        "spectral width",
+        "color coordinates",
+        "transparency"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Efficiency limits and color performance of semitransparent organic solar cells can be predicted using a model of constant External Quantum Efficiency (EQE) across the absorption range.",
+      "evidence": "Figure S4. Color coordinates in the CIE 1931 color space calculated for the model of constant EQE.",
+      "complexity": "single-hop",
+      "keywords": [
+        "constant EQE model",
+        "computational modeling",
+        "efficiency limits"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Building-Integrated Photovoltaics (BIPV) applications require a balance between the power conversion efficiency of the solar cell and its aesthetic properties, such as transparency and color neutrality.",
+      "evidence": "Efficiency Limits and Color of Semitransparent Organic Solar Cells for Application in Building-Integrated Photovoltaics",
+      "complexity": "single-hop",
+      "keywords": [
+        "BIPV",
+        "ST-OSC",
+        "aesthetics",
+        "efficiency"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The study identifies specific EQE shapes that maximize efficiency for various transparency values, indicating that spectral engineering is required to reach the thermodynamic limits of ST-OSCs.",
+      "evidence": "Figure S2. EQE shapes that correspond to the maximum efficiencies for some of the transparency values shown in Figure 3.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "spectral engineering",
+        "EQE optimization",
+        "transparency limits"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "A transparency value of 10% is used as a benchmark to analyze how the physical parameters of the photoactive layer, specifically band gap and absorption width, dictate the visual appearance of the device.",
+      "evidence": "Figure S5. Band gap Eg (a) and EQE width Δλ (b) plotted over x- and y- color coordinates for a transparency of 10%.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "transparency",
+        "visual appearance",
+        "band gap",
+        "absorption width"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 1152,
+    "completion_tokens": 2689,
+    "total_tokens": 3841
+  }
+}

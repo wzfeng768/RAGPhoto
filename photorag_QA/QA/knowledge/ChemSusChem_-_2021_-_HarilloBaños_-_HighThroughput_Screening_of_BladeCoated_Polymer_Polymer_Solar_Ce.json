@@ -1,0 +1,143 @@
+{
+  "paper_id": "ChemSusChem_-_2021_-_HarilloBaños_-_HighThroughput_Screening_of_BladeCoated_Polymer_Polymer_Solar_Ce",
+  "paper_title": "High-Throughput Screening of Blade-Coated Polymer: Polymer Solar Cells: Solvent Determines Achievable Performance",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/ChemSusChem - 2021 - Harillo‐Baños - High‐Throughput Screening of Blade‐Coated Polymer Polymer Solar Cells  Solvent/auto/ChemSusChem - 2021 - Harillo‐Baños - High‐Throughput Screening of Blade‐Coated Polymer Polymer Solar Cells  Solvent.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The study utilizes the polymer donor PBDB-T and the polymer acceptor PF5-Y5, which is based on the non-fullerene acceptor (NFA) Y5 as the electron-deficient unit.",
+      "evidence": "In this work, the photovoltaic performance of blade-coated devices was studied based on the promising polymer:polymer system PBDB-T and PF5-Y5 as donor and acceptor, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PBDB-T",
+        "PF5-Y5",
+        "polymer acceptor",
+        "non-fullerene acceptor"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The highest recorded power conversion efficiency (PCE) for the blade-coated PBDB-T:PF5-Y5 devices was 6.43%, achieved using a CB/DCB (1:1) solvent system.",
+      "evidence": "Using the recently developed highthroughput methodology... the power conversion efficiency of the blade-coated devices varied from 0.08 to 6.43% in the best device... CB/DCB (1 : 1) [solvent system] ... PCE [%] 6.43.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "6.43%",
+        "chlorobenzene",
+        "dichlorobenzene"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The polymer acceptor PF5-Y5 exhibits an electron mobility of 3.18 × 10⁻³ cm² V⁻¹ s⁻¹, which is comparable to its small-molecule counterpart Y5 (3.82 × 10⁻³ cm² V⁻¹ s⁻¹).",
+      "evidence": "The electron mobility of the latter [PF5-Y5] has been reported to be 3.18 × 10⁻³ cm² V⁻¹ s⁻¹ very close to the mobility of Y5 small-molecule acceptor (3.82 × 10⁻³ cm² V⁻¹ s⁻¹).",
+      "complexity": "single-hop",
+      "keywords": [
+        "electron mobility",
+        "PF5-Y5",
+        "Y5",
+        "charge transport"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "ANOVA statistical analysis determined that solvent selection, specifically boiling point and Hansen solubility parameters, has a significantly higher impact on device efficiency (F-factor up to 110) than active layer thickness (F-factor of 6) or donor:acceptor ratio (F-factor of 14).",
+      "evidence": "Statistical analysis based on ANOVA shows that the parameters related to the solvent characteristics (boiling point and Hansen solubility parameters) are the most important factors correlating to efficiency... larger F factors mean larger impact in the final PCE. [Table 3: blade speed 6, D/A ratio 14, boiling point 110].",
+      "complexity": "multi-hop",
+      "keywords": [
+        "ANOVA",
+        "F-factor",
+        "boiling point",
+        "Hansen solubility parameters"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "High-throughput screening of the active layer was achieved by using a variable speed blade during deposition to create thickness gradients ranging from 30 nm to 100 nm on a single substrate.",
+      "evidence": "These thickness gradients were fabricated by linearly decelerating the blade during deposition from 90 to 10 mm/s... Typically we have obtained thicknesses from 100 to 30 nm in a single substrate.",
+      "complexity": "single-hop",
+      "keywords": [
+        "blade coating",
+        "thickness gradient",
+        "high-throughput",
+        "Landau-Levich regime"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The high-throughput methodology allowed for the fabrication and testing of 648 devices using only 22 mg of PBDB-T and 24 mg of PF5-Y5, averaging 0.07 mg of total material per pixel.",
+      "evidence": "Using only 22 mg of D and 24 mg of A, we have produced more than 500 devices... averaging to 0.07 mg of total material per pixel, where each pixel has an area of 8 mm².",
+      "complexity": "single-hop",
+      "keywords": [
+        "high-throughput",
+        "material efficiency",
+        "pixel",
+        "PBDB-T",
+        "PF5-Y5"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Raman spectroscopy imaging identified that low-efficiency devices often contain micron-sized, acceptor-rich crystallites of PF5-Y5 that are detrimental to performance.",
+      "evidence": "The Raman analysis shows that there are indeed variations in the local composition, specifically at defects and/or crystallites, that are in most cases, very rich in acceptor. This is consistent with the stronger tendency to crystallize for PF5-Y5.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Raman spectroscopy",
+        "crystallites",
+        "PF5-Y5",
+        "phase separation"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Higher solvent boiling points generally correlate with improved PCE in blade-coated all-PSCs because slower evaporation rates allow for better morphological reorganization of the polymer:polymer system.",
+      "evidence": "The observed trend between higher boiling point and higher PCE could be related with the slower evaporation rates in blade coating depositions, which would allow a morphological reorganization of the polymer:polymer system.",
+      "complexity": "single-hop",
+      "keywords": [
+        "boiling point",
+        "evaporation rate",
+        "morphology",
+        "PCE"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The optimum active layer thickness for the PBDB-T:PF5-Y5 system processed via blade coating is typically below 100 nm, likely due to microstructure limitations on charge transport.",
+      "evidence": "Even though in organic solar cells the optimized active layer thickness is generally over 100 nm using blade coating of PBDB-T and PF5-Y5, the optimum thickness is below 100 nm. Probably, this may be because the microstructure of the polymers limits the charge transport.",
+      "complexity": "single-hop",
+      "keywords": [
+        "active layer thickness",
+        "charge transport",
+        "optimization"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Visualizing device efficiency within the 3D Hansen solubility parameter space (δD, δP, δH) serves as a predictive tool for selecting optimal solvents that produce favorable microstructures without requiring direct measurement of the polymers' solubility parameters.",
+      "evidence": "We propose the visualization of the PCE in the Hansen space as a tool to guide the selection of solvents in all-PSC... we did not calculate the Hansen solubility parameters of both materials... instead, we find clear tendencies when plotting directly PCE.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Hansen solubility parameters",
+        "solvent selection",
+        "performance landscape"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The devices utilized an inverted structure consisting of Glass/ITO/ZnO/Active Layer/MoOx/Ag.",
+      "evidence": "We fabricated the solar cells using an inverted structure. The bottom transport layer (ZnO)... The top transport layer... and electrode (MoOx/Ag) were thermally evaporated.",
+      "complexity": "single-hop",
+      "keywords": [
+        "inverted structure",
+        "ZnO",
+        "MoOx",
+        "device architecture"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 13089,
+    "completion_tokens": 2880,
+    "total_tokens": 15969
+  }
+}

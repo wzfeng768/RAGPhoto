@@ -1,0 +1,151 @@
+{
+  "paper_id": "d1tc00338k",
+  "paper_title": "Ethylenedioxythiophene incorporated diketopyrrolopyrrole conjugated polymers for high-performance organic electrochemical transistors",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/d1tc00338k/auto/d1tc00338k.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The conjugated polymer P2, P(gDTDPP-bis-EDOT), is designed using triethylene glycol (TEG) side chains on the diketopyrrolopyrrole (DPP) moiety and bis(3,4-ethylenedioxythiophene) (bis-EDOT) as the donor building block.",
+      "evidence": "In this work, in order to realize both efficient ion transport of polymers and operation stability of OECTs, triethylene glycol (TEG) chains were grafted onto DPP to form a gDTDPP monomer, and bis(3,4-ethylenedioxythiophene) (bis-EDOT) was selected as another monomer for co-block polymers (CPs).",
+      "complexity": "single-hop",
+      "keywords": [
+        "diketopyrrolopyrrole",
+        "EDOT",
+        "triethylene glycol",
+        "side chain engineering"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The optimized polymer P2 exhibits a high volumetric capacitance (C*) of 189.6 F cm⁻³, which is significantly higher than P1 (21.5 F cm⁻³) and P3 (24.7 F cm⁻³).",
+      "evidence": "Among them, P2 shows the highest volumetric capacitance of 189.6 F cm-3... Compared to P1, the replacement of alkyl side chains (grafted onto the DPP moiety) with glycolated ones in P2 leads to an eightfold increase of volumetric capacitance.",
+      "complexity": "single-hop",
+      "keywords": [
+        "volumetric capacitance",
+        "P2",
+        "ion penetration"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "OECTs based on P2 achieve a low threshold voltage (Vth) of -0.06 V, an on/off ratio of approximately 10⁴, and a fast response time (τ_on) of 22.4 ms.",
+      "evidence": "The resultant OECTs demonstrate significantly low threshold voltage (-0.06 V), a high on/off ratio (~10^4), fast response time (22.4 ms)...",
+      "complexity": "single-hop",
+      "keywords": [
+        "threshold voltage",
+        "on/off ratio",
+        "response time",
+        "transconductance"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The ionization potential (IP) of the polymers is influenced by the donor block, with P1 and P2 (using bis-EDOT) showing an IP of 4.99 eV, which is lower than the 5.11 eV IP of P3 (using bithiophene).",
+      "evidence": "The ionization potentials (IPs) of these polymers are determined by the cyclic voltammetry (CV) measurements... being -4.99, -4.99, and -5.11 eV for P1, P2, and P3, respectively... higher than that of P3 because of the stronger electron donating properties of bis-EDOT than bithiophene.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "ionization potential",
+        "HOMO",
+        "EDOT",
+        "bithiophene"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The combination of the EDOT moiety in the polymer backbone and glycolate functional groups in the side chains creates a hydrophilic environment that facilitates film swelling and ion penetration.",
+      "evidence": "Therefore, we conclude that the combination of both the EDOT moiety in the backbone and glycolate functional groups in the side chains of DPP based polymers can not only lower the oxidation potential but also form a hydrophilic local environment due to abundant oxygen atoms present in the side chain, which can facilitate the swelling of the film, and therefore easier ion penetration into the polymers.",
+      "complexity": "single-hop",
+      "keywords": [
+        "hydrophilicity",
+        "film swelling",
+        "ion transport",
+        "EDOT"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "P2-based OECTs can mimic biological synaptic functions, including inhibitory and excitatory modes, by applying positive and negative gate pulses as excitation spikes in a 0.1 M NaCl electrolyte.",
+      "evidence": "P2-based OECTs are further employed to mimic the behavior of biological synapse, including excitatory and inhibitory modes... When a positive excitation spike (VG = 0.1 V) is applied, the channel current presents a sudden decay... reproducing a biological inhibitory synaptic behavior.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "synaptic functions",
+        "neuromorphic",
+        "inhibitory mode",
+        "excitatory mode"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The OECT fabrication process involves depositing and patterning the polymers using photolithography and packaging the source/drain electrodes with a SU-8 insulating layer.",
+      "evidence": "The polymers were deposited and patterned by photolithography in the channel area between source and drain electrodes and the electrodes were packaged using a SU-8 insulating layer.",
+      "complexity": "single-hop",
+      "keywords": [
+        "photolithography",
+        "SU-8",
+        "device fabrication"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Electrical impedance spectroscopy (EIS) is used to characterize the volumetric capacitance of the polymer films, revealing that P2's capacitance increases by two orders of magnitude as the bias voltage increases from -0.2 V to 1.0 V.",
+      "evidence": "volumetric capacitances of the polymer (P1, P2 and P3) films were characterized by electrical impedance spectroscopy... With the increasing V_bias from -0.2 V to 1.0 V, the capacitance of the P2 film increases for about two orders of magnitude...",
+      "complexity": "single-hop",
+      "keywords": [
+        "electrical impedance spectroscopy",
+        "EIS",
+        "capacitance frequency response"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The P2-based OECT maintains 89.8% of its maximum drain current after 5000 switching cycles over an 8-hour period in an aqueous electrolyte.",
+      "evidence": "the OECT demonstrates stable performance (maintains 89.8% of the maximum drain current) under continuous gate voltage pulses (ΔVG = 0.5 V, pulse length = 6 s) for 8 h, corresponding to a switch time of ~5000.",
+      "complexity": "single-hop",
+      "keywords": [
+        "operational stability",
+        "aqueous stability",
+        "redox stability"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Density functional theory (DFT) calculations indicate that the gDTDPP-bis-EDOT trimer exhibits the highest degree of planarity with the smallest inter-ring torsion compared to its counterparts.",
+      "evidence": "Their ground-state geometries reveal that the gDTDPP-bis-EDOT trimer approaches complete planarity with the smallest inter-ring torsion (Fig. S4 and Table S2, ESI†).",
+      "complexity": "single-hop",
+      "keywords": [
+        "DFT",
+        "planarity",
+        "torsion angle",
+        "trimer"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The choice of electrolyte anion, such as the large-sized polystyrene sulfonate (PSS⁻), affects the synaptic memory effect by increasing the relaxation time due to slower ion migration between the polymer and the electrolyte.",
+      "evidence": "The phenomenon indicates that anions with a larger size (PSS⁻) need more time to migrate between the polymer channel and the aqueous electrolyte. When the relaxation time is longer than the pulse interval time, the anions penetrating into the channel cannot diffuse back to the aqueous electrolyte on time and will accumulate in the channel...",
+      "complexity": "multi-hop",
+      "keywords": [
+        "anion size",
+        "NaPSS",
+        "relaxation time",
+        "short-term plasticity"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The figure of merit (μC*) for P2 is calculated as 16.5 F cm⁻¹ V⁻¹ s⁻¹, based on a carrier mobility (μ) of 0.087 cm² V⁻¹ s⁻¹ and its high volumetric capacitance.",
+      "evidence": "The figure of merit (μC*) of P2 reaches 16.5 F cm-1 V-1 s-1, which is comparable to the stateof-the-art materials reported in the literature... the mobility (0.087 cm2 V-1 s-1) is similar to those of other DPP-based CPs in OECTs.",
+      "complexity": "single-hop",
+      "keywords": [
+        "figure of merit",
+        "mobility",
+        "μC*"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 11346,
+    "completion_tokens": 4269,
+    "total_tokens": 15615
+  }
+}

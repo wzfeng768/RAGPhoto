@@ -1,0 +1,75 @@
+{
+  "paper_id": "Advanced_Materials_-_2017_-_Li_-_An_UnfusedCoreBased_Nonfullerene_Acceptor_Enables_HighEfficiency_Or",
+  "paper_title": "An Unfused-Core-Based Nonfullerene Acceptor Enables High-Efficiency Organic Solar Cells with Excellent Morphological Stability at High Temperatures",
+  "qa_pairs": [
+    {
+      "question": "What is the chemical structure of the unfused-ring core and terminal groups of the DF-PCIC acceptor?",
+      "answer": "DF-PCIC features an unfused-ring core composed of two cyclopentadithiophene (CPDT) moieties connected to a central 2,5-difluorobenzene (DFB) group. This core is terminated with 2-(3-oxo-2,3-dihydroinden-1-ylidene)malononitrile (IC) groups, which are the same terminal groups found in the ITIC acceptor.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "An Unfused-Core-Based Nonfullerene Acceptor Enables High-Efficiency Organic Solar Cells with Excellent Morphological Stability at High Temperatures",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How do the intramolecular noncovalent interactions in DF-PCIC influence its molecular geometry at room temperature?",
+      "answer": "At room temperature, intramolecular F...H noncovalent interactions occur between the fluorine atoms on the central 2,5-difluorobenzene ring and the hydrogen atoms on the adjacent CPDT units. These interactions lock the DF-PCIC molecule into a nearly planar conformation, resulting in a small dihedral angle of approximately 5.15°.",
+      "category": "Structure-Property Relationships",
+      "source_title": "An Unfused-Core-Based Nonfullerene Acceptor Enables High-Efficiency Organic Solar Cells with Excellent Morphological Stability at High Temperatures",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What are the frontier molecular orbital energy levels and the optical bandgap of DF-PCIC?",
+      "answer": "DF-PCIC possesses a deep HOMO level of -5.49 eV and a LUMO level of -3.77 eV. Based on a film absorption onset of approximately 781 nm, its optical bandgap is calculated to be 1.59 eV.",
+      "category": "Structure-Property Relationships",
+      "source_title": "An Unfused-Core-Based Nonfullerene Acceptor Enables High-Efficiency Organic Solar Cells with Excellent Morphological Stability at High Temperatures",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What are the optimized device performance metrics for organic solar cells using the PBDB-T:DF-PCIC blend?",
+      "answer": "Optimized PBDB-T:DF-PCIC devices achieved a maximum power conversion efficiency (PCE) of 10.14%. The corresponding photovoltaic parameters include an open-circuit voltage (Voc) of 0.91 V, a short-circuit current (Jsc) of 15.66 mA cm⁻², and a fill factor (FF) of 0.72.",
+      "category": "Performance Metrics",
+      "source_title": "An Unfused-Core-Based Nonfullerene Acceptor Enables High-Efficiency Organic Solar Cells with Excellent Morphological Stability at High Temperatures",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Which processing conditions were identified as optimal for fabricating high-efficiency PBDB-T:DF-PCIC active layers?",
+      "answer": "The optimal conditions involve a donor:acceptor (D:A) weight ratio of 1:1.2, the addition of 0.5% 1-chloronaphthalene (CN) as a solvent additive, and a thermal annealing temperature of 130 °C.",
+      "category": "Processing & Fabrication",
+      "source_title": "An Unfused-Core-Based Nonfullerene Acceptor Enables High-Efficiency Organic Solar Cells with Excellent Morphological Stability at High Temperatures",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the thermal stability of PBDB-T:DF-PCIC compare to devices based on ITIC or PC71BM under extreme heat?",
+      "answer": "PBDB-T:DF-PCIC devices exhibit superior thermal stability compared to both PBDB-T:ITIC and PBDB-T:PC71BM. Even after 12 hours of thermal treatment at 180 °C, the DF-PCIC-based devices retained 69.8% of their initial power conversion efficiency, whereas the reference devices were significantly outperformed.",
+      "category": "Stability & Degradation",
+      "source_title": "An Unfused-Core-Based Nonfullerene Acceptor Enables High-Efficiency Organic Solar Cells with Excellent Morphological Stability at High Temperatures",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Explain the mechanism behind the high thermal stability of DF-PCIC at elevated temperatures.",
+      "answer": "The high thermal stability is attributed to the temperature-sensitive nature of the intramolecular F...H noncovalent interactions. At high temperatures, these interactions are disrupted, causing the DF-PCIC molecule to transition from a planar to a twisted geometry. This twisted conformation prevents the formation of large, performance-degrading aggregates that typically occur in other materials during thermal aging.",
+      "category": "Stability & Degradation",
+      "source_title": "An Unfused-Core-Based Nonfullerene Acceptor Enables High-Efficiency Organic Solar Cells with Excellent Morphological Stability at High Temperatures",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What impact does thermal annealing at 180 °C have on the crystallinity and charge carrier mobility of the PBDB-T:DF-PCIC blend?",
+      "answer": "Thermal annealing at 180 °C significantly enhances both crystallinity and charge transport. Grazing incidence X-ray diffraction (GIXD) shows the crystal coherence length (CCL) of π-π stacking increases from 14.6 Å to 58.7 Å. Consequently, hole mobility increases to 1.10 × 10⁻⁴ cm² V⁻¹ s⁻¹ and electron mobility increases to 1.00 × 10⁻⁴ cm² V⁻¹ s⁻¹ compared to the as-cast state.",
+      "category": "Characterization Methods",
+      "source_title": "An Unfused-Core-Based Nonfullerene Acceptor Enables High-Efficiency Organic Solar Cells with Excellent Morphological Stability at High Temperatures",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2953,
+    "completion_tokens": 3038,
+    "total_tokens": 5991
+  }
+}

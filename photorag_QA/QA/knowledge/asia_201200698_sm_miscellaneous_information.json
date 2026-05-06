@@ -1,0 +1,109 @@
+{
+  "paper_id": "asia_201200698_sm_miscellaneous_information",
+  "paper_title": "Benzo[c]thiophene–δC60 Diadduct: An Electron Acceptor for p-n Junction Organic Solar Cells Harvesting Visible to Near-IR Light",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/asia_201200698_sm_miscellaneous_information/auto/asia_201200698_sm_miscellaneous_information.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "A series of adducts based on benzo[c]thiophene and [60]fullerene (C60) were synthesized, including a monoadduct (BTCMA), a diadduct (BTCDA), and a triadduct (BTCTA).",
+      "evidence": "Figure S1. 1H NMR spectrum of benthio[c]thiophene-C60 monoadduct BTCMA... Figure S3. 1H NMR spectrum of benthio[c]thiophene-C60 diadduct BTCDA... Figure S5. 1H NMR spectrum of benthio[c]thiophene-C60 triadduct BTCTA.",
+      "complexity": "single-hop",
+      "keywords": [
+        "benzo[c]thiophene",
+        "C60",
+        "BTCMA",
+        "BTCDA",
+        "BTCTA",
+        "fullerene adducts"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The benzo[c]thiophene-C60 diadduct (BTCDA) is specifically designed as an electron acceptor for organic solar cells to extend light harvesting capabilities.",
+      "evidence": "Title: Benzo[c]thiophene–δC60 Diadduct: An Electron Acceptor for p-n Junction Organic Solar Cells Harvesting Visible to Near-IR Light",
+      "complexity": "single-hop",
+      "keywords": [
+        "BTCDA",
+        "electron acceptor",
+        "organic solar cells"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Nuclear Magnetic Resonance (NMR) spectroscopy, including both 1H and 13C NMR, is used to confirm the chemical structure and purity of the benzo[c]thiophene-C60 monoadduct, diadduct, and triadduct.",
+      "evidence": "Figures S1 through S6 detail the 1H and 13C NMR spectra for BTCMA, BTCDA, and BTCTA.",
+      "complexity": "single-hop",
+      "keywords": [
+        "NMR",
+        "structural characterization",
+        "BTCMA",
+        "BTCDA",
+        "BTCTA"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Photoemission yield spectroscopy (PYS) is employed to analyze the electronic properties of BTCDA in thin-film form, typically used to determine the ionization potential or HOMO level.",
+      "evidence": "Figure S7. Photoemission yield spectroscopy of BTCDA in thin film.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Photoemission yield spectroscopy",
+        "PYS",
+        "thin film",
+        "BTCDA"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The benzo[c]thiophene-C60 diadduct (BTCDA) based organic solar cells are capable of harvesting light in both the visible and near-infrared (near-IR) regions.",
+      "evidence": "Title: ...An Electron Acceptor for p-n Junction Organic Solar Cells Harvesting Visible to Near-IR Light",
+      "complexity": "single-hop",
+      "keywords": [
+        "visible light",
+        "near-IR",
+        "light harvesting",
+        "BTCDA"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The benzo[c]thiophene-C60 diadduct is utilized in p-n junction organic solar cell architectures.",
+      "evidence": "Title: Benzo[c]thiophene–δC60 Diadduct: An Electron Acceptor for p-n Junction Organic Solar Cells...",
+      "complexity": "single-hop",
+      "keywords": [
+        "p-n junction",
+        "organic solar cells",
+        "device architecture"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The nomenclature BTCMA, BTCDA, and BTCTA refers to the mono-, di-, and tri-adducts of benzo[c]thiophene with C60, respectively.",
+      "evidence": "Figure S1... monoadduct BTCMA. Figure S3... diadduct BTCDA. Figure S5... triadduct BTCTA.",
+      "complexity": "single-hop",
+      "keywords": [
+        "nomenclature",
+        "BTCMA",
+        "BTCDA",
+        "BTCTA"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The multi-adduct approach (moving from monoadduct to diadduct) is a strategy used to tune the electronic properties and light-harvesting range of fullerene-based acceptors.",
+      "evidence": "Title and contents list indicating the progression from BTCMA to BTCDA as the primary acceptor for visible to near-IR harvesting.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "multi-adduct",
+        "fullerene",
+        "light harvesting",
+        "electronic tuning"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 1655,
+    "completion_tokens": 2528,
+    "total_tokens": 4183
+  }
+}

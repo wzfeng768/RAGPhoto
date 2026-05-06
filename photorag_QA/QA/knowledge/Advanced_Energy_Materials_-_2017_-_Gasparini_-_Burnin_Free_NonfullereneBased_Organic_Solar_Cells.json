@@ -1,0 +1,110 @@
+{
+  "paper_id": "Advanced_Energy_Materials_-_2017_-_Gasparini_-_Burnin_Free_NonfullereneBased_Organic_Solar_Cells",
+  "paper_title": "Burn-in Free Nonfullerene-Based Organic Solar Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Energy Materials - 2017 - Gasparini - Burn‐in Free Nonfullerene‐Based Organic Solar Cells/auto/Advanced Energy Materials - 2017 - Gasparini - Burn‐in Free Nonfullerene‐Based Organic Solar Cells.md",
+  "knowledge_points": [
+    {
+      "category": "Performance Metrics",
+      "content": "P3HT:IDTBR-based organic solar cells fabricated in air achieved a power conversion efficiency (PCE) of 6.05%, with an open-circuit voltage (Voc) of 0.72 V, a short-circuit current density (Jsc) of 12.55 mA/cm², and a fill factor (FF) of 0.67.",
+      "evidence": "P3HT:IDTBR devices delivered a PCE of 6.05% under simulated solar illumination based on 0.72 V of open-circuit voltage (Voc), 12.55 mA cm−2 of short-circuit current density (Jsc), and a FF of 0.67.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "P3HT:IDTBR",
+        "Voc",
+        "Jsc",
+        "fill factor"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "P3HT:IDTBR solar cells are described as 'burn-in free' because they lose only approximately 5% of their initial PCE after 2000 hours of light soaking, whereas P3HT:PCBM cells lose approximately 34% due to a rapid initial degradation phase.",
+      "evidence": "P3HT:IDTBR solar cells light-soaked over the course of 2000 h lose about 5% of power conversion efficiency (PCE), in stark contrast to [6,6]-Phenyl C61 butyric acid methyl ester (PCBM)-based solar cells whose PCE shows a burn-in that extends over several hundreds of hours and levels off at a loss of ≈34%.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "burn-in",
+        "photostability",
+        "P3HT:IDTBR",
+        "P3HT:PCBM",
+        "long-term stability"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The study utilized an inverted device architecture consisting of ITO/ZnO/active layer/PEDOT:PSS/Ag, where all layers except the silver electrode were deposited via doctor blading in air.",
+      "evidence": "we fabricated organic BHJ solar cells in an inverted device configuration consisting of indium tin oxide (ITO)/ZnO/active layer/ PEDOT:PSS/Ag, with all layers except the top metal contact doctor bladed in air.",
+      "complexity": "single-hop",
+      "keywords": [
+        "inverted configuration",
+        "device structure",
+        "doctor blading",
+        "ZnO"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Light intensity dependence measurements of Jsc revealed that P3HT:IDTBR maintains a power-law exponent (S) of unity even after aging, indicating that charge carrier extraction is not limited by second-order recombination at short circuit.",
+      "evidence": "From the comparative, double logarithmic Jsc versus light intensity representations... it is apparent that the slope is unity and is not influenced by light exposure in the IDTBR-based system, i.e., charge carrier recombination at short circuit is not limited by 2nd order recombination.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "light intensity dependence",
+        "recombination",
+        "short-circuit current",
+        "S-value"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Replacing the fullerene acceptor PCBM with the nonfullerene acceptor IDTBR in P3HT-based devices increases the Lifetime Energy Yield (LEY) by more than a factor of 10.",
+      "evidence": "Finally, the combination of enhanced efficiency and stability in P3HT:IDTBR increases the lifetime energy yield by more than a factor of 10 when compared with the same type of devices using a fullerene-based acceptor instead.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Lifetime Energy Yield",
+        "LEY",
+        "P3HT:IDTBR",
+        "energy output"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "P3HT:IDTBR blends exhibit a morphology characterized by purer domains and sharper interfaces that preserve the crystallinity of P3HT, unlike P3HT:PCBM which forms a three-phase system where fullerene decreases polymer crystallinity.",
+      "evidence": "P3HT:IDTBR forms purer domains with sharper interfaces, preserving the crystallinity of P3HT. It is plausible that this peculiar morphology with higher polymer crystallinity in the case of P3HT:IDTBR is a chief aspect of its enhanced stability.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "morphology",
+        "crystallinity",
+        "interface",
+        "P3HT:IDTBR"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Photo-CELIV measurements show that 2000 hours of light soaking reduces charge carrier mobility by a factor of 1.9 for IDTBR-based blends and 1.8 for PCBM-based blends, suggesting trap state formation in both systems.",
+      "evidence": "the maximum of the extraction peak (tmax) shifts toward larger extraction times for light-soaked solar cells, corresponding to a decrease in carrier mobility by a factor of 1.9 and 1.8 for IDTBR and PCBM, respectively.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "photo-CELIV",
+        "charge carrier mobility",
+        "trap state formation",
+        "aging"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The absence of burn-in in P3HT:IDTBR devices was found to be independent of the P3HT molecular weight, with consistent stability observed across polymer batches of 68, 94, and 134 kg/mol.",
+      "evidence": "the lifetime traces for P3HT:IDTBR shown in Figure 2 represent average values obtained from three different batches of P3HT featuring very different molecular weights... Importantly, none of these different polymer batches shows an apparent burn-in.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "molecular weight",
+        "P3HT",
+        "burn-in free",
+        "reproducibility"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 11929,
+    "completion_tokens": 3315,
+    "total_tokens": 15244
+  }
+}

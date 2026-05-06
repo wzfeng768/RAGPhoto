@@ -1,0 +1,154 @@
+{
+  "paper_id": "1-s20-S0038092X2030832X-main",
+  "paper_title": "Effects of monohalogenated terminal units of non-fullerene acceptors on molecular aggregation and photovoltaic performance",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/1-s2.0-S0038092X2030832X-main/auto/1-s2.0-S0038092X2030832X-main.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Three small molecule acceptors (SMAs) named ZF, ZC, and ZB were synthesized by introducing a single fluorine (F), chlorine (Cl), or bromine (Br) atom, respectively, onto each indanone terminal unit of an A-D-A-DA-type structure with a TPBT core.",
+      "evidence": "We designed and synthesized three mono-halogenated SMAs ZF, ZC and ZB (Fig. 1) by introducing single F, Cl and Br atom on each terminal unit respectively... TPBT as core and derivatives of indanone as terminal units.",
+      "complexity": "single-hop",
+      "keywords": [
+        "monohalogenation",
+        "small molecule acceptors",
+        "indanone",
+        "TPBT core"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The PM6:ZB-based organic solar cell achieved a maximum power conversion efficiency (PCE) of 15.23%, with a short-circuit current density (Jsc) of 26.38 mA/cm², an open-circuit voltage (Voc) of 0.90 V, and a fill factor (FF) of 64.16%.",
+      "evidence": "As a result, the PM6:ZB OSCs yielded a high power conversion efficiency (PCE) of up to 15.23% with a high short-circuit current density (Jsc) of 26.38 mA cm-2... Voc (V) 0.90... FF (%) 64.16.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "Jsc",
+        "ZB",
+        "PM6",
+        "organic solar cells"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Monohalogenation of the terminal units results in a red-shift of the maximum absorption wavelength by 11 nm (ZF), 12 nm (ZC), and 17 nm (ZB) compared to the non-halogenated reference Y5.",
+      "evidence": "Compared with Y5 without halogens in the literature (Yuan et al., 2019a), the maximum absorption wavelengths of ZF, ZC, and ZB are red-shifted by 11, 12 and 17 nm respectively.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "absorption red-shift",
+        "halogenation",
+        "Y5",
+        "optical properties"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The brominated acceptor ZB exhibits a significantly higher molar absorption coefficient (2.31 x 10^5 M⁻¹cm⁻¹) in solution compared to the fluorinated ZF (1.83 x 10^5 M⁻¹cm⁻¹) and chlorinated ZC (1.98 x 10^5 M⁻¹cm⁻¹).",
+      "evidence": "ZF and ZC present the maximum absorption wavelength at 729 and 730 nm with the highest molar absorption coefficients of 1.83 x 10^5 and 1.98 x 10^5 M-1 cm-1 respectively, while ZB exhibits... the molar absorption coefficient of 2.31 x 10^5 M-1 cm-1.",
+      "complexity": "single-hop",
+      "keywords": [
+        "molar absorption coefficient",
+        "ZB",
+        "ZF",
+        "ZC"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The introduction of electron-withdrawing halogen atoms deepens the LUMO energy levels from -3.87 eV in non-halogenated Y5 to -4.09 eV (ZF), -4.12 eV (ZC), and -4.14 eV (ZB).",
+      "evidence": "The HOMO/LUMO levels of Y5, ZF, ZC, and ZB are -5.55/-3.87, -5.67/-4.09, -5.69/-4.12, and 5.69/-4.14 eV, respectively. Due to the electron-withdrawing effect of halogen atoms, the HOMO and LUMO levels decreased in comparison with that of the non-halogenated molecule.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "LUMO energy level",
+        "HOMO energy level",
+        "electronegativity",
+        "halogen effect"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The energy loss (Eloss), calculated as Eg_opt - eVoc, is lower in the PM6:ZB system (0.46 eV) than in the PM6:ZF and PM6:ZC systems (both 0.48 eV).",
+      "evidence": "It is worth noting that the energy loss (Eloss = Eg_opt - eVoc) of the PM6:ZB OSC is only 0.46 eV, which is slightly lower than those of PM6:ZF and PM6:ZC (both of them are 0.48 eV).",
+      "complexity": "single-hop",
+      "keywords": [
+        "energy loss",
+        "Eloss",
+        "ZB",
+        "PM6"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS characterization reveals that ZF, ZC, and ZB pristine films exhibit a dominant face-on orientation with a π-π stacking distance of approximately 3.67 Å, corresponding to a diffraction peak at qz ≈ 1.71 Å⁻¹.",
+      "evidence": "The ZF, ZC and ZB pristine films show an obvious (010) diffraction peak in the out-of-plane (OOP) direction at qz = ~1.71 Å-1 corresponding to the face-on π-π stacking distance of ~3.67 Å.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "face-on orientation",
+        "π-π stacking distance"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "ZB-based blend films demonstrate the highest and most balanced charge carrier mobilities (electron mobility of 2.52 x 10⁻⁴ and hole mobility of 3.39 x 10⁻⁴ cm²V⁻¹s⁻¹) with a μh/μe ratio of 1.35.",
+      "evidence": "the electron/hole mobility of... PM6:ZB are 2.52 x 10-4 / 3.39 x 10-4 cm2 V-1 s-1... the ratio of the hole to electron mobility (μh/μe) is... 1.35 for PM6:ZB.",
+      "complexity": "single-hop",
+      "keywords": [
+        "carrier mobility",
+        "SCLC",
+        "charge transport",
+        "ZB"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Bimolecular charge recombination is most effectively suppressed in ZB-based devices, as indicated by an exponential factor (α) of 0.970, which is closer to unity than ZF (0.899) and ZC (0.955).",
+      "evidence": "The α values of the OSCs based on ZF, ZC and ZB are 0.899, 0.955 and 0.970, respectively, demonstrating that the bimolecular charge recombination is suppressed more effectively in the OSCs based on ZB.",
+      "complexity": "single-hop",
+      "keywords": [
+        "bimolecular recombination",
+        "light density dependence",
+        "recombination mechanism"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Optimal active layers were fabricated using a 1:1 donor-to-acceptor (D:A) weight ratio in chloroform and subjected to thermal annealing at 110 °C for 10 minutes.",
+      "evidence": "the active layers were spincoated from chloroform solution (total concentration, D/A (wt/wt) = 1:1) and thermally annealed at 110 °C for 10 min.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal annealing",
+        "chloroform",
+        "D:A ratio",
+        "fabrication"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The monohalogenated acceptors ZF, ZC, and ZB exhibit high thermal stability with decomposition temperatures (5% weight loss) exceeding 339 °C.",
+      "evidence": "All three halogenated SMAs had good solubility in CHCl3 and excellent thermal stability showed a decomposition temperature with 5% weight loss above 339°C.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "decomposition temperature",
+        "TGA"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "AFM analysis shows that the PM6:ZB blend film has a root-mean-squared (RMS) roughness of 1.46 nm and smaller domain sizes compared to ZF and ZC blends, indicating better miscibility.",
+      "evidence": "the root-mean-squared (RMS) roughness of them were 1.20, 1.42 and 1.46 nm respectively... PM6:ZB presents the smaller domain size and an appropriate morphology, indicating the excellent miscibility between ZB and PM6.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "AFM",
+        "surface roughness",
+        "morphology",
+        "miscibility"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 13361,
+    "completion_tokens": 4713,
+    "total_tokens": 18074
+  }
+}

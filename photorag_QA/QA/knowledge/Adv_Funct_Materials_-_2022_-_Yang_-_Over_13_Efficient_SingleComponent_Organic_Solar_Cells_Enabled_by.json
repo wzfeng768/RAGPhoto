@@ -1,0 +1,132 @@
+{
+  "paper_id": "Adv_Funct_Materials_-_2022_-_Yang_-_Over_13_Efficient_SingleComponent_Organic_Solar_Cells_Enabled_by",
+  "paper_title": "Over 13% Efficient Single-Component Organic Solar Cells Enabled by Adjusting the Conjugated-Length of Intermediate PBDB-T Block",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Adv Funct Materials - 2022 - Yang - Over 13  Efficient Single‐Component Organic Solar Cells Enabled by Adjusting the/auto/Adv Funct Materials - 2022 - Yang - Over 13  Efficient Single‐Component Organic Solar Cells Enabled by Adjusting the.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Four batches of conjugated block copolymers (CBCs) named PB-b-PY-1, PB-b-PY-2, PB-b-PY-3, and PB-b-PY-4 were synthesized via a one-pot polymerization method where the donor block (DB) polymerization time (T1) was varied (0, 80, 160, and 240 minutes, respectively) while keeping the total reaction time at 6 hours.",
+      "evidence": "Note that the one-pot polymerization time was controlled at 6 h (T1 + T2 = 6 h), and four batches of PBDB-T-b-PYT copolymers, including PB-b-PY-1 (T1 = 0 min), PB-b-PY-2 (T1 = 80 min), PB-b-PY-3 (T1 = 160 min), and PB-b-PY-4 (T1 = 240 min), were achieved by adjusting the T1 periods.",
+      "complexity": "single-hop",
+      "keywords": [
+        "one-pot polymerization",
+        "PBDB-T-b-PYT",
+        "conjugated block copolymers",
+        "T1 time"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The single-component organic solar cell (SCOSC) based on PB-b-PY-4 achieved a power conversion efficiency (PCE) of 13.28%, with an open-circuit voltage (Voc) of 0.92 V, a short-circuit current density (Jsc) of 21.87 mA cm^-2, and a fill factor (FF) of 66.0%.",
+      "evidence": "Among these CBCs, the PB-b-PY-4-based SMOsCs achieved the highest photovoltaic performance with a PCE of 13.28% (Voc = 0.92 V, Jsc = 21.87 mA cm^-2, FF = 66.0%).",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "13.28%",
+        "SCOSC",
+        "PB-b-PY-4"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Increasing the polymerization time (T1) of the donor block leads to a higher intensity ratio of donor block absorption to acceptor block absorption (ID/IA), indicating that the conjugation length of the PBDB-T block increases with longer T1.",
+      "evidence": "As T1 increases, the peaks for DB get sharper and the ratios of intensity for DB and AB (ID/IA) increase gradually... it can be referred that the ID/IA variation in these copolymers originates from different block lengths in these polymers.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "conjugation length",
+        "absorption spectra",
+        "ID/IA ratio",
+        "PBDB-T"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Grazing incidence wide-angle X-ray scattering (GIWAXS) analysis shows that PB-b-PY-4 exhibits a crystal coherence length (CCL) of 96.81 Å for the (100) lamellar stacking peak in the in-plane (IP) direction, which is significantly higher than the 39.767 Å observed for PB-b-PY-2.",
+      "evidence": "The (100) peaks in IP direction for PB-b-PY-2, PB-b-PY-3, and PB-b-PY-4 located at 0.31, 0.30, and 0.30 Å^-1... corresponding to... CCL of 39.767, 83.22, and 96.81 Å respectively, demonstrating increasing packing order of lamellar stacking in CBCs with longer DB length.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "crystal coherence length",
+        "lamellar stacking",
+        "PB-b-PY-4"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The charge recombination analysis reveals that the PB-b-PY-4 device has a lower trap-assisted recombination slope of 1.39 kT/q and a higher power-law alpha value of 0.983 for Jsc vs. light intensity, indicating suppressed bimolecular recombination compared to PB-b-PY-2 and PB-b-PY-3.",
+      "evidence": "The slope of the PB-b-PY-4 device was 1.39 kT q^-1 which is much lower than those of the PB-b-PY-2 and PB-b-PY-3 devices... The alpha values are 0.935 for PB-b-PY-2, 0.961 for PB-b-PY-3, and 0.983 for PB-b-PY-4, respectively, suggesting lower bimolecular recombination loss in the PB-b-PY-4 devices.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "trap-assisted recombination",
+        "bimolecular recombination",
+        "light intensity dependence",
+        "PB-b-PY-4"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Charge carrier mobilities measured by the space charge limited current (SCLC) method for PB-b-PY-4 were balanced, with a hole mobility (μh) of 4.22 x 10^-4 cm^2 V^-1 s^-1 and an electron mobility (μe) of 4.24 x 10^-4 cm^2 V^-1 s^-1.",
+      "evidence": "all of the single-component films have balanced mobilities with... μh of 4.22 x 10^-4 cm^2 V^-1 s^-1 and μe of 4.24 x 10^-4 cm^2 V^-1 s^-1 (μh/μe ≈ 1) for PB-b-PY-4.",
+      "complexity": "single-hop",
+      "keywords": [
+        "charge mobility",
+        "SCLC",
+        "balanced transport",
+        "PB-b-PY-4"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The PB-b-PY-4 based SCOSC shows superior photostability, retaining 87% of its initial PCE after 340 hours of continuous light-soaking under one-sun illumination, whereas PB-b-PY-2 and PB-b-PY-3 retained only 63% and 72%, respectively.",
+      "evidence": "Impressively, after 340 h light-soaking, 87% of its initial PCE was retained by the PB-b-PY-4-based devices, while it's 72% and 63% for PB-b-PY-3-and PB-b-PY-2-based devices over the same period, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "photostability",
+        "light-soaking",
+        "PCE retention",
+        "PB-b-PY-4"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Steady-state photoluminescence (PL) quenching efficiency increases with the conjugation length of the donor block, reaching 85.4% for PB-b-PY-4 compared to 71.6% for PB-b-PY-2, indicating more effective charge transfer in materials with longer donor blocks.",
+      "evidence": "the PL quenching efficiencies of PB-b-PY-2, PB-b-PY-3, and PB-b-PY-4 was 71.6%, 80.9%, and 85.4%, respectively. The increasing quenching efficiency indicated that as the DB conjugation length increases, charge transfer from acceptor block to donor block gets more effective.",
+      "complexity": "single-hop",
+      "keywords": [
+        "photoluminescence quenching",
+        "charge transfer",
+        "PB-b-PY-4",
+        "quenching efficiency"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The exciton dissociation and charge collection probability (Jsc/Jsat) for the PB-b-PY-4 device was calculated to be 94.83%, which is higher than the 63.31% and 86.37% observed for PB-b-PY-2 and PB-b-PY-3, respectively.",
+      "evidence": "The JMPP/Jsat and Jsc/Jsat values were calculated as 30.79%/63.31% for PB-b-PY-2, 57.79%/86.37% for PB-b-PY-3, and 74.44%/94.83% for PB-b-PY-4, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "exciton dissociation",
+        "charge collection",
+        "Jsc/Jsat",
+        "PB-b-PY-4"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The SCOSC devices were fabricated using a conventional architecture: ITO/PEDOT:PSS/CBCs/PDINN/Ag, where PDINN serves as the electron transport layer.",
+      "evidence": "SCOsCs were fabricated with a conventional architecture of indium tin oxide (ITO)/poly(3,4-ethylenedioxythiophene):poly(styrenesulfonate) (PEDOT:PSS)/CBCs/aliphatic aminefunctionalized perylene-diimide (PDINN)/ Ag.",
+      "complexity": "single-hop",
+      "keywords": [
+        "device architecture",
+        "conventional structure",
+        "PDINN",
+        "PEDOT:PSS"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 13363,
+    "completion_tokens": 3484,
+    "total_tokens": 16847
+  }
+}

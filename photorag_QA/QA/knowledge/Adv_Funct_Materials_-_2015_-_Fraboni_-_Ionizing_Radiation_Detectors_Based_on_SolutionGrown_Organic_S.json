@@ -1,0 +1,156 @@
+{
+  "paper_id": "Adv_Funct_Materials_-_2015_-_Fraboni_-_Ionizing_Radiation_Detectors_Based_on_SolutionGrown_Organic_S",
+  "paper_title": "Ionizing Radiation Detectors Based on Solution-Grown Organic Single Crystals",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Adv Funct Materials - 2015 - Fraboni - Ionizing Radiation Detectors Based on Solution‐Grown Organic Single Crystals/auto/Adv Funct Materials - 2015 - Fraboni - Ionizing Radiation Detectors Based on Solution‐Grown Organic Single Crystals.md",
+  "knowledge_points": [
+    {
+      "category": "Processing & Fabrication",
+      "content": "Temperature-reduction solution growth allows for the production of large-scale (cm-sized) organic single crystals with higher structural perfection and fewer grain boundaries compared to the traditional Bridgman melt-growth technique.",
+      "evidence": "The difference, especially pronounced at larger sizes, is attributed to the higher structural perfection of crystals grown by solution technique... melt-grown stilbene crystals are characterized by a mosaic structure... not typical for solution growth that proceeds mainly by dislocation mechanisms.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "temperature-reduction solution growth",
+        "Bridgman technique",
+        "structural perfection",
+        "grain boundaries"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Solution-grown trans-stilbene single crystals demonstrate a 20% to 50% higher scintillation light output (LO) and superior pulse-shape discrimination (PSD) compared to Bridgman-grown crystals of equivalent size.",
+      "evidence": "Investigation of the scintillation properties of these crystals[65] showed that they exhibit 20–50% higher light output (LO) and better PSD in comparison with the same size crystals grown by Bridgman techniques.",
+      "complexity": "single-hop",
+      "keywords": [
+        "trans-stilbene",
+        "light output",
+        "pulse-shape discrimination",
+        "scintillation"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Pulse-shape discrimination (PSD) in organic scintillators functions because heavy particles like neutrons create a higher density of triplet states, leading to more intense delayed fluorescence via triplet-triplet annihilation compared to gamma-ray interactions.",
+      "evidence": "The heavier, slow moving protons produce a more localized excitation with higher concentration of excited triplets compared to gamma interactions... This leads to the higher intensity of the delayed emission in neutron-induced pulses compared to the pulses produced by gamma excitations.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "PSD",
+        "triplet-triplet annihilation",
+        "delayed fluorescence",
+        "neutron detection"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Organic aromatic crystals are uniquely suited for fast neutron detection because their high hydrogen content facilitates detection through elastic scattering collisions with light nuclei.",
+      "evidence": "The more efficient interaction of neutrons with light nuclei, such as hydrogen, makes the use of hydrogen-rich organic crystals in scintillator detectors for high-energy neutrons particularly favorable.",
+      "complexity": "single-hop",
+      "keywords": [
+        "aromatic crystals",
+        "hydrogen content",
+        "fast neutrons",
+        "elastic scattering"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Chemical impurities with a lower bandgap than the host matrix act as traps for triplet excitations, which can almost completely suppress the delayed light emission necessary for pulse-shape discrimination.",
+      "evidence": "A condition for such suppression is determined by the lower bandgap of the impurity in comparison to the bandgap of the host matrix... impurity molecules having lower energies of the excited states may act as traps for both singlet and triplet excitations of the host molecules.",
+      "complexity": "single-hop",
+      "keywords": [
+        "bandgap",
+        "triplet traps",
+        "impurities",
+        "delayed light suppression"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Direct X-ray detectors utilizing 1,5-dinitronaphthalene (DNN) single crystals achieve a sensitivity of approximately 6 nC mGy⁻¹ at a 10 V bias and exhibit a linear response to radiation dose rates in ambient conditions.",
+      "evidence": "The detector sensitivity, defined as S = ΔI/D... was evaluated to be about 6 nC mGy−1 at 10 V... demonstrates that it varies linearly with increasing radiation dose rate.",
+      "complexity": "single-hop",
+      "keywords": [
+        "1,5-dinitronaphthalene",
+        "DNN",
+        "X-ray detector sensitivity",
+        "linear response"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Organic semiconducting single crystals (OSsCs) provide superior charge transport compared to thin films, featuring carrier mobilities as high as 20 cm² V⁻¹ s⁻¹ and exciton diffusion lengths reaching 8 μm.",
+      "evidence": "organic single crystals impart them unique transport properties such as top carrier mobility among organic semiconductors (up to 20 cm2 V−1 s−1[86]), transport anisotropy and long exciton diffusion length (up to 8 μm).",
+      "complexity": "single-hop",
+      "keywords": [
+        "carrier mobility",
+        "exciton diffusion length",
+        "OSsCs",
+        "charge transport"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Antisolvent liquid diffusion combined with inkjet printing allows for the growth of mm-sized organic single crystals, such as C8-BTBT, directly onto pre-patterned electrode matrices.",
+      "evidence": "Minemawari et al., who in 2011 showed that is possible to develop matrices of mm-sized crystals by inkjet printing a combination of a solution containing the molecule to be crystallized (C8-BTBT...) and an antisolvent able to promote its crystallization.",
+      "complexity": "single-hop",
+      "keywords": [
+        "antisolvent liquid diffusion",
+        "inkjet printing",
+        "C8-BTBT",
+        "patterning"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Unlike conjugated polymer thin films that often experience irreversible conductivity increases due to radiation-induced degradation, solution-grown organic single crystals demonstrate high radiation hardness and operational stability in air.",
+      "evidence": "semiconducting, solution-grown OSCs as effective solid state direct detectors... evidencing extremely promising performances in terms of operability in environmental conditions (i.e., no need for encapsulation), radiation hardness...",
+      "complexity": "multi-hop",
+      "keywords": [
+        "radiation hardness",
+        "stability",
+        "conjugated polymers",
+        "encapsulation"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Low afterglow organic scintillators, required for high-intensity pulsed laser facilities, can be fabricated using doped crystals like bibenzyl (BB) to suppress the delayed light component to levels below 10⁻³.",
+      "evidence": "This condition requires fast organic scintillators with a very low fraction of the delayed light not exceeding 10^−3... Similar short decays were detected in other doped crystals, such as, for example, bibenzyl (BB).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "low afterglow",
+        "bibenzyl",
+        "pulsed laser",
+        "delayed light"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The scintillation response of organic single crystals like anthracene is highly anisotropic, with the light output for 1 MeV protons varying by up to 33% depending on the crystallographic orientation.",
+      "evidence": "The biggest directional dependence (up to 33% in LO for 1 MeV protons) was reported for the anthracene crystal[73] that also has the largest pulse shape anisotropy of any known organic crystal.",
+      "complexity": "single-hop",
+      "keywords": [
+        "anisotropy",
+        "anthracene",
+        "light output",
+        "proton response"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Effective solid-state direct radiation detectors require organic semiconductors to have a high resistivity (>10⁹ Ω cm) for low noise, a bandgap below 5 eV for sufficient carrier generation, and a high mobility-lifetime (μτ) product.",
+      "evidence": "i) high resistivity (> 10^9 Ω cm)... ii) small enough bandgap and electron-hole ionization energy (< 5 eV)... v) good carrier mobility-lifetime product (μτ), to grant a good charge transport and collection.",
+      "complexity": "single-hop",
+      "keywords": [
+        "resistivity",
+        "bandgap",
+        "mobility-lifetime product",
+        "direct detection"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 11538,
+    "completion_tokens": 4293,
+    "total_tokens": 15831
+  }
+}

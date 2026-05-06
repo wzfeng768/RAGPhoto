@@ -1,0 +1,75 @@
+{
+  "paper_id": "d1tc05423f",
+  "paper_title": "Revisiting the non-fluorescence of nitroaromatics: presumption versus reality",
+  "qa_pairs": [
+    {
+      "question": "What are the specific Hammett constants and Swain-Lupton parameters that define the electron-withdrawing strength of the nitro group?",
+      "answer": "The nitro group (-NO2) is a very strong electron-withdrawing substituent characterized by Hammett constants of sigma_p = 0.78 and sigma_m = 0.71. Its Swain–Lupton parameters are F = 0.65 and R = 0.13, indicating significant field and resonance effects.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Revisiting the non-fluorescence of nitroaromatics: presumption versus reality",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the effect of nitro group substitution on the reduction potential of polycyclic aromatic hydrocarbons compare to that of nitrile or carbonyl groups?",
+      "answer": "Nitro groups induce a much larger positive shift in reduction potentials compared to nitrile or carbonyl groups. While nitrile and carbonyl substituents typically cause shifts between 0.2 and 0.7 V, the attachment of nitro groups to polycyclic aromatic hydrocarbons like pyrene and naphthalene can result in shifts exceeding 1 V.",
+      "category": "Performance Metrics",
+      "source_title": "Revisiting the non-fluorescence of nitroaromatics: presumption versus reality",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Why is intersystem crossing (ISC) the primary reason for the lack of fluorescence in most nitroaromatics?",
+      "answer": "Intersystem crossing from the S1 state to upper triplet states (T1+j) is the dominant non-radiative deactivation pathway because its rate constant is extremely high. In nitroaromatics, the ISC rate constants (kISC) often exceed 10^11 s^-1, which easily outcompetes the typical fluorescence rate constants of 10^7 to 10^8 s^-1, effectively quenching the emission.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Revisiting the non-fluorescence of nitroaromatics: presumption versus reality",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "In what way does the excited-state geometry of the nitro group influence fluorescence, and how can this be mitigated through molecular design?",
+      "answer": "During S1 state relaxation, the nitro group can undergo twisting out of the ring plane and asymmetric pyramidalization, which facilitates highly effective transitions to n,pi* triplet states. Fluorescence can be increased by using molecular constraints that force the nitroaromatic to maintain a planar conformation, thereby suppressing these triplet-forming pathways.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Revisiting the non-fluorescence of nitroaromatics: presumption versus reality",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Explain the relationship between intramolecular charge transfer (ICT) and spin-orbit coupling (SOC) in the context of designing fluorescent nitroaromatics.",
+      "answer": "Introducing intramolecular charge transfer (ICT) character into the excited state of a nitroaromatic molecule serves to decrease spin-orbit coupling (SOC). By reducing SOC, the rate of intersystem crossing (ISC) is lowered, which increases the lifetime of the S1 state and enhances the probability of fluorescence.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Revisiting the non-fluorescence of nitroaromatics: presumption versus reality",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does solvent polarity affect the fluorescence of push-pull nitroaromatics that exhibit charge transfer character?",
+      "answer": "While charge transfer (CT) character can promote fluorescence by reducing ISC, highly polar solvents can actually quench emission in push-pull nitroaromatics. The polar media stabilize the polarized CT state, bringing it closer to the ground state, which opens efficient internal conversion (IC) pathways via back charge transfer.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Revisiting the non-fluorescence of nitroaromatics: presumption versus reality",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What is the maximum fluorescence quantum index achieved by nitro-substituted hydroxystilbene derivatives, and in which solvent was this observed?",
+      "answer": "Nitro-substituted hydroxystilbene derivatives can achieve a fluorescence quantum index as high as 0.31. This maximum value was specifically observed when using butyronitrile as the solvent.",
+      "category": "Performance Metrics",
+      "source_title": "Revisiting the non-fluorescence of nitroaromatics: presumption versus reality",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Compare the hydrogen-bond basicity of nitrobenzene and acetophenone based on their Abraham parameters.",
+      "answer": "Nitrobenzene is a poorer hydrogen-bond acceptor than acetophenone. According to the Abraham parameters for solute hydrogen bond basicity (B), nitrobenzene has a value of 0.28, whereas acetophenone has a significantly higher value of 0.48.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Revisiting the non-fluorescence of nitroaromatics: presumption versus reality",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2874,
+    "completion_tokens": 2882,
+    "total_tokens": 5756
+  }
+}

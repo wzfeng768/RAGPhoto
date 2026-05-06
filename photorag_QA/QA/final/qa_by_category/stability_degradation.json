@@ -1,0 +1,977 @@
+{
+  "meta": {},
+  "qa_pairs": [
+    {
+      "question": "What is the chemical mechanism behind the degradation of the built-in potential in ITIC-based organic solar cells using PEDOT:PSS?",
+      "answer": "The degradation of V0 is primarily caused by an interfacial chemical reaction occurring at the bulk heterojunction/PEDOT:PSS interface. Specifically, the reaction takes place between the INCN moieties of the ITIC acceptor and the PEDOT units within the PEDOT:PSS hole extraction layer, as confirmed by Raman and UV-vis absorption spectroscopy.",
+      "category": "Stability & Degradation",
+      "source_title": "Built-In Potential and Operational Stability of Nonfullerene Organic Solar Cells",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop",
+      "id": "qa_0036"
+    },
+    {
+      "question": "What are the projected estimates for solar photovoltaic panel waste accumulation by the year 2050?",
+      "answer": "The accumulation of solar photovoltaic panel waste is expected to grow exponentially, reaching an estimated 60 to 70 million tonnes by the year 2050.",
+      "category": "Stability & Degradation",
+      "source_title": "A scientometric review of trends in solar photovoltaic waste management research",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_0066"
+    },
+    {
+      "question": "What hazardous materials are found in traditional thin-film PV modules like CIGS and CdTe that contribute to waste management concerns?",
+      "answer": "Traditional thin-film modules such as Copper Indium Gallium Selenide (CIGS) and Cadmium Telluride (CdTe) contain hazardous heavy metals, specifically Cadmium (Cd) and Lead (Pb). CIGS also contains Selenide (Se).",
+      "category": "Stability & Degradation",
+      "source_title": "A scientometric review of trends in solar photovoltaic waste management research",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_0072"
+    },
+    {
+      "question": "What evidence indicates that hydroxylated polymer semiconductors possess good ambient stability?",
+      "answer": "The ambient stability is confirmed by UV-vis absorption spectra of thin films (such as PDPP4T-OH and PNDI2T-OH), which remained unchanged after being left in ambient conditions for three weeks. This indicates the materials are stable against degradation under standard atmospheric exposure.",
+      "category": "Stability & Degradation",
+      "source_title": "Nonhalogenated Solvent Processable and High-Density Photopatternable Polymer Semiconductors Enabled by Incorporating Hydroxyl Groups in the Side Chains",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_0120"
+    },
+    {
+      "question": "Explain the chemical degradation mechanism of the biobased thermoset and identify the resulting degradation products.",
+      "answer": "The thermoset is chemically degradable through the hydrolysis of its ester and acetal bonds. When treated with a 3 M NaOH aqueous solution at 80 °C, the material completely decomposes within 80 minutes into recyclable small molecules, specifically including pentaerythritol.",
+      "category": "Stability & Degradation",
+      "source_title": "Biobased Thermoset Substrate for Flexible and Sustainable Organic Photovoltaics",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop",
+      "id": "qa_0134"
+    },
+    {
+      "question": "Which pentacene derivative demonstrated the highest photostability under broadband visible light irradiation, and what is its structure?",
+      "answer": "6-(2,6-diethylphenyl)-13-(phenylethynyl)pentacene (compound 5) showed the highest photostability among the tested derivatives when irradiated with broadband visible light (λ > 400 nm) in air-equilibrated chloroform.",
+      "category": "Stability & Degradation",
+      "source_title": "Combining Electronic and Steric Effects For Highly Stable Unsymmetric Pentacenes",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_0173"
+    },
+    {
+      "question": "Based on the mechanical testing, what is the primary cause of efficiency loss in FlexAgNE-based OPVs after extreme bending cycles?",
+      "answer": "The slight degradation in efficiency after extreme bending is primarily attributed to the formation of geometrical cracks or defects in the top silver (Ag) electrode. Analysis indicates that the failure does not originate from the FlexAgNE bottom electrode or the ZnO transport layer, which remain relatively stable.",
+      "category": "Stability & Degradation",
+      "source_title": "Flexible High-Performance and Solution-Processed Organic Photovoltaics with Robust Mechanical Stability",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop",
+      "id": "qa_0239"
+    },
+    {
+      "question": "How does the addition of Y6 to the PM6:PY-DT blend affect the long-term photostability of the resulting solar cells under maximum power point tracking (MPP)?",
+      "answer": "The addition of Y6 significantly enhances long-term stability, with the all-polymer solar cells achieving a T80 lifetime (the time to reach 80% of initial efficiency) of 1180 hours. Furthermore, the devices show an extrapolated T70 lifetime of 9185 hours under continuous one-sun illumination and MPP conditions.",
+      "category": "Stability & Degradation",
+      "source_title": "Over 18% Efficiency of All-Polymer Solar Cells with Long-Term Stability Enabled by Y6 as a Solid Additive",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_0242"
+    },
+    {
+      "question": "Compare the degradation of short-circuit current density (Jsc) between devices using pristine ZnO and those using the ZnO:PEOz (6 wt%) hybrid layer after 12 hours of light exposure.",
+      "answer": "Under continuous one-sun illumination for 12 hours, the device with the pristine ZnO/PEOz layer (0 wt% PEOz) showed a significant Jsc reduction of 68.72%. In contrast, the device utilizing the ZnO:PEOz (6 wt%) / PEOz hybrid layer showed a much lower reduction of 35.27%, indicating significantly improved photostability.",
+      "category": "Stability & Degradation",
+      "source_title": "Performance and Stability of Polymer: Nonfullerene Solar Cells with 100 °C-Annealed Electron-Collecting Combination Layers",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop",
+      "id": "qa_0270"
+    },
+    {
+      "question": "How does the 6 wt% PEOz hybrid combination layer affect the timeline for the appearance of sigmoidal (S-shape) J-V curves during continuous light exposure?",
+      "answer": "The use of the 6 wt% PEOz hybrid layer delays the appearance of the sigmoidal J-V curve, which indicates severe device degradation. While the pristine ZnO layer showed this S-shape after 2 hours of light exposure, the 6 wt% PEOz hybrid layer extended this time to 4 hours.",
+      "category": "Stability & Degradation",
+      "source_title": "Performance and Stability of Polymer: Nonfullerene Solar Cells with 100 °C-Annealed Electron-Collecting Combination Layers",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop",
+      "id": "qa_0271"
+    },
+    {
+      "question": "How does the applied current affect the yield and stability of the rhoda-electrocatalyzed annulation process?",
+      "answer": "The yield of the reaction is sensitive to the applied current; for example, lowering the current from 4.0 mA to 2.0 mA increased the yield of aza-PAH 3aa to 75%. High applied potentials or prolonged electrolysis can lead to undesired side reactions or the decomposition of the product.",
+      "category": "Stability & Degradation",
+      "source_title": "Electrochemical Access to Aza-Polycyclic Aromatic Hydrocarbons: Rhoda-Electrocatalyzed Domino Alkyne Annulations",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop",
+      "id": "qa_0275"
+    },
+    {
+      "question": "Why do inverted top-illuminated polymer solar cells (IT-PSCs) show superior air stability compared to conventional normal bottom-illuminated structures (NB-PSCs)?",
+      "answer": "IT-PSCs exhibit air stability more than nine times higher than NB-PSCs because the inverted structure eliminates the need for the highly acidic and hygroscopic PEDOT:PSS layer and the chemically vulnerable BCP layer, both of which contribute to rapid degradation in conventional structures.",
+      "category": "Stability & Degradation",
+      "source_title": "Dual Effect of ITO-Interlayer on Inverted Top-Illuminated Polymer Solar Cells: Wetting of Polyelectrolyte and Tuning of Cavity",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop",
+      "id": "qa_0295"
+    },
+    {
+      "question": "What is the impact of thiophene-terminated end-groups on the voltage loss of organic solar cells?",
+      "answer": "Thiophene-terminated non-fullerene acceptors (NFAs) are effective at suppressing non-radiative voltage loss, typically maintaining it at a low level of approximately 0.2 V, which benefits the overall open-circuit voltage and device performance.",
+      "category": "Stability & Degradation",
+      "source_title": "Realizing an Unprecedented Fill Factor of 82.2% in Ternary Organic Solar Cells via Co-Crystallization of Non-Fullerene Acceptors",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_0320"
+    },
+    {
+      "question": "Compare the long-term storage stability of PM6:Y6:PC61BM solar cells processed with 1,4-DFB versus the control devices.",
+      "answer": "After 1300 hours of storage in a nitrogen-filled glove box, the 1,4-DFB-processed devices maintained over 90% of their initial PCE (dropping to 13.77%). In contrast, the control devices maintained only 82% of their initial PCE (dropping to 11.76%), demonstrating superior stability for the additive-treated cells.",
+      "category": "Stability & Degradation",
+      "source_title": "Boosting the photovoltaic performance of doctor-bladed organic solar cells using a low-boiling solvent additive",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop",
+      "id": "qa_0328"
+    },
+    {
+      "question": "What is the microscopic mechanism that links accumulated charges to the degradation of short-circuit current density (JSC) in these cells?",
+      "answer": "The degradation is explained by Matthiesen's rule, where long-lived accumulated charges (such as holes at PNTz4T chain ends or electron-Li+ complexes) act as scattering centers. This scattering reduces carrier mobility, which quantitatively leads to a decrease in the short-circuit current density (JSC).",
+      "category": "Stability & Degradation",
+      "source_title": "Microscopic Mechanism of High Efficiency and Stability of Inverted Polymer Fullerene Solar Cells",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop",
+      "id": "qa_0382"
+    },
+    {
+      "question": "What are the two distinct time scales of degradation observed in polymer solar cells under continuous illumination?",
+      "answer": "Polymer solar cell degradation occurs in two phases: an initial rapid 'burn-in' period where the degradation rate gradually slows down, followed by a second stage characterized by a slow, linear degradation rate over the long term.",
+      "category": "Stability & Degradation",
+      "source_title": "Minimal Long-Term Intrinsic Degradation Observed in a Polymer Solar Cell Illuminated in an Oxygen-Free Environment",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_0401"
+    },
+    {
+      "question": "In PCDTBT:PC71BM solar cells, which photovoltaic parameters are primarily responsible for the efficiency loss during the burn-in phase?",
+      "answer": "The initial 'burn-in' degradation in PCDTBT:PC71BM devices is dominated by significant losses in the open-circuit voltage (Voc) and fill factor (FF), while the short-circuit current (Jsc) remains relatively unaffected.",
+      "category": "Stability & Degradation",
+      "source_title": "Minimal Long-Term Intrinsic Degradation Observed in a Polymer Solar Cell Illuminated in an Oxygen-Free Environment",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_0403"
+    },
+    {
+      "question": "What evidence suggests that the burn-in phase in PCDTBT-based devices is an intrinsic bulk process rather than an atmospheric effect?",
+      "answer": "The burn-in phase occurs even in environments with extremely low oxygen levels (<0.1 ppm), suggesting oxygen is not the cause. Furthermore, the fact that both standard and inverted architectures show similar burn-in patterns dominated by Voc and FF loss further indicates that it is an intrinsic process occurring within the bulk of the active layer.",
+      "category": "Stability & Degradation",
+      "source_title": "Minimal Long-Term Intrinsic Degradation Observed in a Polymer Solar Cell Illuminated in an Oxygen-Free Environment",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop",
+      "id": "qa_0406"
+    },
+    {
+      "question": "What are the specific oxygen and water vapor transport rate requirements for packaging to ensure a 25-year operational lifetime for organic solar cells?",
+      "answer": "To achieve a 25-year lifetime, the packaging must have an oxygen transport rate (OTR) of less than 4.5 x 10^-8 cm^3/(m^2 · day) and a water vapor transport rate (WVTR) of approximately 2 x 10^-6 g/(m^2 · day). The WVTR requirement is five times more stringent than the standard required for 10,000-hour OLED operation.",
+      "category": "Stability & Degradation",
+      "source_title": "Minimal Long-Term Intrinsic Degradation Observed in a Polymer Solar Cell Illuminated in an Oxygen-Free Environment",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop",
+      "id": "qa_0408"
+    },
+    {
+      "question": "Contrast the environmental stability and radiation hardness of solution-grown organic single crystals (OSCs) with conjugated polymer thin films.",
+      "answer": "While conjugated polymer thin films often suffer from irreversible increases in conductivity due to radiation-induced degradation, solution-grown OSCs demonstrate high radiation hardness. Additionally, these single crystals exhibit high operational stability in air, allowing them to function as effective solid-state detectors without the need for encapsulation.",
+      "category": "Stability & Degradation",
+      "source_title": "Ionizing Radiation Detectors Based on Solution-Grown Organic Single Crystals",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop",
+      "id": "qa_0488"
+    },
+    {
+      "question": "Compare the operational photostability of PM6-b-PY-IT and PM6:PY-IT under 1 sun illumination.",
+      "answer": "The PM6-b-PY-IT system demonstrates significantly better operational stability with a T80 value (time to reach 80% of initial PCE) of 681 hours, whereas the PM6:PY-IT binary blend has a lower T80 value of 416 hours.",
+      "category": "Stability & Degradation",
+      "source_title": "Realizing the efficiency-stability balance for all-polymer photovoltaic blends",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop",
+      "id": "qa_0552"
+    },
+    {
+      "question": "Compare the photostability of FTAZ:ITIC-Th devices treated with benzophenone against those treated with 1,8-diiodooctane (DIO) or no additive.",
+      "answer": "After 150 minutes of illumination-aging, benzophenone-treated devices retain 79% of their initial PCE. This significantly outperforms devices with no additive, which retain 65%, and devices using the standard 1,8-diiodooctane (DIO) additive, which only retain 58% of their initial performance.",
+      "category": "Stability & Degradation",
+      "source_title": "Enhancing Efficiency and Stability of Organic Solar Cells by UV Absorbent",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop",
+      "id": "qa_0587"
+    },
+    {
+      "question": "How does the storage stability of PAS-engineered devices compare to control devices in a nitrogen atmosphere?",
+      "answer": "Devices processed with PAS engineering show significantly improved storage stability, retaining over 80% of their initial PCE after aging in a nitrogen atmosphere. In contrast, control devices retain less than 60% of their initial efficiency over the same period.",
+      "category": "Stability & Degradation",
+      "source_title": "Process-Aid Solid Engineering Triggers Delicately Modulation of Y-Series Non-Fullerene Acceptor for Efficient Organic Solar Cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_0608"
+    },
+    {
+      "question": "In what way does the Al:Cu electrode function as a 'built-in desiccant' within the organic photovoltaic device?",
+      "answer": "The Al:Cu electrode acts as a desiccant by scavenging oxygen and water molecules that permeate into the photoactive layer. This scavenging process is evidenced by a decrease in the electrode's resistance as it oxidizes in-situ, which can be used as a sensitive probe for monitoring the internal environment of devices stored in air.",
+      "category": "Stability & Degradation",
+      "source_title": "An Indium-Free Low Work Function Window Electrode for Organic Photovoltaics Which Improves with In-Situ Oxidation",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop",
+      "id": "qa_0615"
+    },
+    {
+      "question": "How does the glass transition temperature (Tg) of DP-BTP influence the thermal stability of the resulting ternary organic solar cells?",
+      "answer": "DP-BTP has a significantly higher Tg (126 °C) than the small-molecule acceptor N3 (88 °C). This higher thermal stability of the material contributes to the device's ability to retain 88.7% of its initial efficiency after 600 hours of thermal stress at 80 °C, whereas the binary D18:N3 cells retain only 73.7%.",
+      "category": "Stability & Degradation",
+      "source_title": "A Pyrene-Fused Dimerized Acceptor for Ternary Organic Solar Cells with 19% Efficiency and High Thermal Stability",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop",
+      "id": "qa_0656"
+    },
+    {
+      "question": "What effect does 4 days of exposure to 1 mbar of air in the dark have on DCV5T-Me:C60 devices?",
+      "answer": "Exposure to air under these conditions results in observable changes in the capacitance-frequency (C-f) curves. This indicates that the trap environment within the DCV5T-Me:C60 device is altered by air exposure, even in the absence of light.",
+      "category": "Stability & Degradation",
+      "source_title": "Supplementary Information for “Structural Defects in Donor-Acceptor Blends: Influence on Organic Solar Cell Performance”",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_0680"
+    },
+    {
+      "question": "What are the thermal stability limits of pDTTG-TPD as determined by weight loss measurements?",
+      "answer": "pDTTG-TPD shows good thermal stability, with the onset of degradation occurring at 340 °C and a 5% weight loss reached at 385 °C.",
+      "category": "Stability & Degradation",
+      "source_title": "Fused Dithienogermolodithiophene Low Band Gap Polymers for High-Performance Organic Solar Cells without Processing Additives",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_0752"
+    },
+    {
+      "question": "What is the thermal decomposition temperature (5% weight loss) for the polymers PDTQI and P(DTQI-BTI)?",
+      "answer": "Both PDTQI and P(DTQI-BTI) exhibit high thermal stability with decomposition temperatures exceeding 400 °C.",
+      "category": "Stability & Degradation",
+      "source_title": "Dithiene-fused quinoxalineimide-based all-acceptor polymers for n-type organic semiconductors",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_0800"
+    },
+    {
+      "question": "How can thermal annealing be used to mitigate the effects of oxygen and water vapor exposure on PC61BM films?",
+      "answer": "Exposure to oxygen and water vapor decreases the work function and shifts the HOMO level downward in PC61BM. Thermal annealing can reverse these degradation effects by promoting the desorption of these atmospheric molecules from the film, thereby raising the vacuum level and the HOMO energy.",
+      "category": "Stability & Degradation",
+      "source_title": "Effects of Molecular Orientation of Fullerene Derivative at Donor/Acceptor Interface on Device Performance of Organic Photovoltaics (Supporting Information)",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop",
+      "id": "qa_0805"
+    },
+    {
+      "question": "What is the operational stability of the P2 terpolymer when subjected to repeated mechanical deformation?",
+      "answer": "P2 demonstrates high operational stability under cyclic stress, retaining a charge mobility of 1.4 cm² V⁻¹ s⁻¹ after 1000 stretching-releasing cycles at 50% strain.",
+      "category": "Stability & Degradation",
+      "source_title": "Intrinsically Stretchable Polymer Semiconductors with Good Ductility and High Charge Mobility through Reducing the Central Symmetry of the Conjugated Backbone Units",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_0814"
+    },
+    {
+      "question": "How does the thermal stability of the BOR-C4Ph based device compare to the BOR-C3Ph and BOR-C6Ph based devices?",
+      "answer": "The PBDB-T:BOR-C4Ph device demonstrates superior thermal stability, retaining 86% of its initial PCE after 200 hours of heating at 65 °C. In contrast, the BOR-C3Ph and BOR-C6Ph devices showed larger decays, retaining only 70% and 77% of their initial PCEs, respectively.",
+      "category": "Stability & Degradation",
+      "source_title": "Easily Available High-Performance Organic Solar Cells by Regulating Phenylalkyl Side Groups of Non-Fused Ring Electron Acceptors",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop",
+      "id": "qa_0887"
+    },
+    {
+      "question": "What is the 'break-in' effect observed in mixed conducting devices, and why does it occur?",
+      "answer": "The 'break-in' effect refers to a phenomenon during the initial (de)doping cycles of a device where the polymer morphology undergoes an irreversible rearrangement. This occurs due to the absorption of the electrolyte into the polymer matrix, which stabilizes the structure but can also modulate electronic transport because structural changes significantly impact charge carrier pathways.",
+      "category": "Stability & Degradation",
+      "source_title": "100th Anniversary of Macromolecular Science Viewpoint: Recent Advances and Opportunities for Mixed Ion and Charge Conducting Polymers",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop",
+      "id": "qa_0933"
+    },
+    {
+      "question": "What evidence supports the long-term stability of the indigo derivative 3 in organic photodiode applications?",
+      "answer": "The material shows high thermal stability with a 5% weight loss occurring only at 292°C. Furthermore, encapsulated devices maintained their performance without degradation after being stored in an inert atmosphere for six months.",
+      "category": "Stability & Degradation",
+      "source_title": "High-Performance, Fullerene-Free Organic Photodiodes Based on a Solution-Processable Indigo",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop",
+      "id": "qa_0968"
+    },
+    {
+      "question": "What is the mechanical stability of the OFPD when subjected to repeated bending cycles?",
+      "answer": "The OFPD demonstrates robust mechanical flexibility, maintaining 86% of its initial photocurrent after 1000 bending cycles at a 45-degree angle. During the same period, the dark current increases by only 8% compared to its initial value.",
+      "category": "Stability & Degradation",
+      "source_title": "Improving Process Compatibility of Multilayer Organic Fiber Photodetectors by Combining Coaxial Thermal Evaporation with Dip-Coating",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_0976"
+    },
+    {
+      "question": "How do residual OH groups in the TiOx layer affect the electron-transport characteristics of the device?",
+      "answer": "Residual OH groups act as electron-trapping sites. When these traps are filled via UV-light irradiation, the electron-transport characteristics of the TiOx layer are significantly improved.",
+      "category": "Stability & Degradation",
+      "source_title": "Direct observation of UV-induced charge accumulation in inverted-type polymer solar cells with a TiOx layer: Microscopic elucidation of the light-soaking phenomenon",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop",
+      "id": "qa_0999"
+    },
+    {
+      "question": "Why do PM6:PBB-Cl:BTP-eC9 ternary solar cells demonstrate improved thermal stability over the binary PM6:BTP-eC9 cells?",
+      "answer": "The improved thermal stability, which allows the ternary cells to retain over 90% of their initial PCE after 720 hours at 60°C, is attributed to a reduction in spatial site resistance. This is caused by the formation of a more tightly entangled long-chain structure between the PM6 and PBB-Cl polymer donors.",
+      "category": "Stability & Degradation",
+      "source_title": "Efficient Dual Mechanisms Boost the Efficiency of Ternary Solar Cells with Two Compatible Polymer Donors to Exceed 19%",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop",
+      "id": "qa_1030"
+    },
+    {
+      "question": "How does the photostability of the (SqP)PM6/PJ1-γ + SA device compare to the blend-cast (BC) equivalent under continuous illumination?",
+      "answer": "The (SqP)PM6/PJ1-γ + SA device shows significantly enhanced photostability with a T80 value (the time taken for PCE to drop to 80% of its initial value) of approximately 310 hours. In contrast, the blend-cast (BC) equivalent degrades much faster, with a T80 value of only ~65 hours under continuous 1-sun LED illumination.",
+      "category": "Stability & Degradation",
+      "source_title": "Toluene Processed All-Polymer Solar Cells with 18% Efficiency and Enhanced Stability Enabled by Solid Additive: Comparison Between Sequential-Processing and Blend-Casting",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_1056"
+    },
+    {
+      "question": "How does the long-term photostability of P3HT:IDTBR solar cells compare to P3HT:PCBM-based devices over a 2000-hour period?",
+      "answer": "P3HT:IDTBR solar cells exhibit superior photostability, losing only approximately 5% of their initial power conversion efficiency (PCE) after 2000 hours of light soaking. In contrast, P3HT:PCBM-based cells experience a significant 'burn-in' effect, losing approximately 34% of their initial PCE during the same period.",
+      "category": "Stability & Degradation",
+      "source_title": "Burn-in Free Nonfullerene-Based Organic Solar Cells",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop",
+      "id": "qa_1066"
+    },
+    {
+      "question": "Compare the T80 lifetime of FOSCs with the SSCS to a reference device without the structure under real outdoor conditions.",
+      "answer": "The T80 lifetime of FOSCs with the SSCS is extended to 350 days under real outdoor conditions, which is more than triple the lifetime of a reference device without the structure (approximately 102 days).",
+      "category": "Stability & Degradation",
+      "source_title": "Efficient and Stable Flexible Organic Solar Cells via the Enhanced Optical-Thermal Radiative Transfer",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_1109"
+    },
+    {
+      "question": "What are the long-term photostability advantages of adding 15% O-IDTBR to the PM6:Y6 system?",
+      "answer": "Ternary devices with 15% O-IDTBR demonstrate excellent photostability with negligible PCE loss over 225 hours of 1-sun illumination. In contrast, the binary PM6:Y6 devices are unstable, losing over 60% of their initial PCE due to the formation of light-induced traps.",
+      "category": "Stability & Degradation",
+      "source_title": "Exploiting Ternary Blends for Improved Photostability in High-Effciency Organic Solar Cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_1120"
+    },
+    {
+      "question": "Describe the four distinct steps of thermal degradation observed in ATRAP-based poly(fullerene)s according to thermogravimetric analysis.",
+      "answer": "Thermal degradation occurs in four stages: first, residual solvent evaporation at approximately 80 °C; second, the loss of side-chains at roughly 290 °C; third, the release of C60 at about 380 °C; and finally, the loss of bromomethyl groups at approximately 440 °C.",
+      "category": "Stability & Degradation",
+      "source_title": "Oligo- and Poly(fullerene)s for Photovoltaic Applications: Modeled Electronic Behaviors and Synthesis",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_1123"
+    },
+    {
+      "question": "What are the decomposition temperatures of P29DPP-TTTh and P29DPP-TTSe as determined by TGA?",
+      "answer": "TGA analysis indicates that both polymers are thermally stable, with decomposition temperatures ranging between 460 °C and 480 °C.",
+      "category": "Stability & Degradation",
+      "source_title": "Non-halogenated solution-processed ambipolar plastic transistors based on conjugated polymers prepared by asymmetric donor engineering",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_1160"
+    },
+    {
+      "question": "What is the cause of the observed increase in output voltage when P3HT-based flexible devices are exposed to air?",
+      "answer": "The increase in output voltage, which can reach approximately 140 V under illumination in air, is attributed to the oxidative doping of the P3HT active layer. This aging process enhances the doping level, thereby improving the photovoltaic voltage generation.",
+      "category": "Stability & Degradation",
+      "source_title": "A Flexible, High-Voltage (>100 V) Generating Device Based on Zebra-Like Asymmetrical Photovoltaic Cascade",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_1167"
+    },
+    {
+      "question": "How do the flexible photovoltaic generators perform under mechanical stress and bending cycles?",
+      "answer": "The devices demonstrate high mechanical robustness, maintaining over 90% of their initial output voltage even after 500 bending cycles. These tests were conducted using a cylinder with a 32 mm diameter to evaluate fatigue and flexibility.",
+      "category": "Stability & Degradation",
+      "source_title": "A Flexible, High-Voltage (>100 V) Generating Device Based on Zebra-Like Asymmetrical Photovoltaic Cascade",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_1168"
+    },
+    {
+      "question": "What are the thermal properties, specifically the sublimation and melting points, of Ant-Th-Ph and Ant-ThPh?",
+      "answer": "Both materials share an identical melting point of 283 °C. Ant-Th-Ph has a sublimation temperature (at 5% weight loss) of 332 °C, while Ant-ThPh has a slightly lower sublimation temperature of 322 °C.",
+      "category": "Stability & Degradation",
+      "source_title": "New anthracene derivatives integrating high mobility and strong emission",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_1184"
+    },
+    {
+      "question": "What are the reported thermal stability parameters (Td and Tg) for the synthesized orange-red TADF polymers?",
+      "answer": "The polymers exhibit high thermal stability with decomposition temperatures (Td) exceeding 400 °C and glass transition temperatures (Tg) ranging between 90 and 156 °C.",
+      "category": "Stability & Degradation",
+      "source_title": "Constructing High-Efficiency Orange-Red Thermally Activated Delayed Fluorescence Polymers by Excited State Energy Levels Regulation via Backbone Engineering",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_1200"
+    },
+    {
+      "question": "How does the environmental stability of squaraine dyes compare to P3HT, and what processing advantage does this offer?",
+      "answer": "Squaraine dyes exhibit significantly higher stability toward oxygen and moisture compared to P3HT. This remarkable stability allows the active layer of squaraine-based solar cells to be deposited under ambient conditions, whereas P3HT typically requires an inert atmosphere for processing.",
+      "category": "Stability & Degradation",
+      "source_title": "Efficient Squaraine-Based Solution Processable Bulk-Heterojunction Solar Cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_1210"
+    },
+    {
+      "question": "What evidence supports the thermal stability of PTzBI-oF:PS1 all-polymer solar cells?",
+      "answer": "The high thermal stability is demonstrated by the device retaining approximately 95% of its initial power conversion efficiency (PCE) after undergoing thermal annealing at 80 °C for 60 hours.",
+      "category": "Stability & Degradation",
+      "source_title": "Constructing a new polymer acceptor enabled non-halogenated solvent-processed all-polymer solar cell with an efficiency of 13.8%†",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_1223"
+    },
+    {
+      "question": "What are the thermal decomposition temperatures (Td) for the PBDT-TZ-BDD random copolymers, and what does this indicate?",
+      "answer": "The random copolymers PBDT-TZ-BDD-1/19 and PBDT-TZ-BDD-1/9 show 5% weight loss decomposition temperatures (Td) above 430 °C, indicating high thermal stability suitable for polymer solar cell applications.",
+      "category": "Stability & Degradation",
+      "source_title": "Improvement in the Efficiency of Alkylsilyl Functionalized Copolymer for Polymer Solar Cells: Face-On Orientation Enhanced by Random Copolymerization",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_1256"
+    },
+    {
+      "question": "Why does the use of PEDOT:PSS as a hole-transporting layer often lead to the degradation of organic solar cell devices?",
+      "answer": "PEDOT:PSS is acidic in nature, typically having a pH between 1 and 2. This high acidity corrodes the Indium Tin Oxide (ITO) anode, which causes indium to diffuse into the photoactive layer, ultimately leading to device degradation.",
+      "category": "Stability & Degradation",
+      "source_title": "Recent Progress in Hole-Transporting Layers of Conventional Organic Solar Cells with p-i-n Structure",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_1281"
+    },
+    {
+      "question": "How does the thermal stability of DFA4 compare to its precursor F8IC, and what structural change accounts for this difference?",
+      "answer": "DFA4 exhibits significantly enhanced thermal stability with a 5% weight loss temperature (Td) of 426 °C, which is 75 °C higher than that of F8IC (351 °C). This improvement is attributed to the transformation of F8IC into a fully fused tetradecacyclic structure, which eliminates unstable exocyclic double bonds through intramolecular cyclization.",
+      "category": "Stability & Degradation",
+      "source_title": "Significantly enhanced thermal stability from a new kind of n-type organic semiconductor DFA4: a fully fused F8IC",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop",
+      "id": "qa_1298"
+    },
+    {
+      "question": "How does the air stability of P(NDI2OD-T2) thin films doped with (RuCp*Mes)2 compare to those doped with cobaltocene (CoCp2)?",
+      "answer": "The dedoping process in (RuCp*Mes)2-doped P(NDI2OD-T2) films is significantly slower, taking approximately 200 minutes in air. This rate is about two orders of magnitude slower than the dedoping observed in CoCp2-doped films.",
+      "category": "Stability & Degradation",
+      "source_title": "Highly air-stable, n-doped conjugated polymers achieved by dimeric organometallic dopants",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_1306"
+    },
+    {
+      "question": "Why does the use of cobaltocene (CoCp2) lead to rapid dedoping in conjugated polymers when exposed to air?",
+      "answer": "The rapid dedoping is driven by a chemical equilibrium between the neutral dopant and its cation. Because neutral CoCp2 is unstable and degrades upon exposure to oxygen and water in the air, the neutral fraction is continuously depleted, which shifts the equilibrium and forces the polymer to return to its undoped state.",
+      "category": "Stability & Degradation",
+      "source_title": "Highly air-stable, n-doped conjugated polymers achieved by dimeric organometallic dopants",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop",
+      "id": "qa_1312"
+    },
+    {
+      "question": "What is the 'burn-in' loss phenomenon observed in organic solar cells, and what is its typical magnitude?",
+      "answer": "Burn-in loss refers to a rapid efficiency degradation that occurs during the initial hours of an organic solar cell's operation before it reaches a steady state of slower degradation. This initial loss typically ranges from 20% to 60% of the device's efficiency, depending on the active layer materials used.",
+      "category": "Stability & Degradation",
+      "source_title": "Hierarchical Morphology Stability under Multiple Stresses in Organic Solar Cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_1329"
+    },
+    {
+      "question": "What specific change in molecular orientation is associated with the inferior photostability of PBDB-T/ITIC devices under illumination?",
+      "answer": "The inferior photostability in PBDB-T/ITIC devices is attributed to a light-induced transformation of the ITIC molecular orientation. Specifically, the molecules shift from a more favorable 'face-on' orientation to an 'edge-on' orientation after illumination.",
+      "category": "Stability & Degradation",
+      "source_title": "Hierarchical Morphology Stability under Multiple Stresses in Organic Solar Cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_1333"
+    },
+    {
+      "question": "What improvement in thermal stability is observed in organic solar cells treated with TT-Cl compared to control devices?",
+      "answer": "Devices treated with TT-Cl exhibit significantly improved thermal stability, maintaining over 93% of their initial PCE after 480 hours of storage at 65 °C. In contrast, the PCE of control devices without the additive dropped to 79% of their initial value over the same period.",
+      "category": "Stability & Degradation",
+      "source_title": "A Broad-Spectrum Solid Additive to Further Boost High-Efficiency Organic Solar Cells via Morphology Regulation",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_1360"
+    },
+    {
+      "question": "What are the primary disadvantages of using PEDOT:PSS as a hole-selective layer that self-assembled monolayers (SAMs) aim to overcome?",
+      "answer": "PEDOT:PSS suffers from acidity-induced corrosivity and hygroscopicity. These issues can lead to substrate corrosion and moisture absorption, which limit the performance and compromise the long-term stability of organic solar cells.",
+      "category": "Stability & Degradation",
+      "source_title": "Molecularly Engineered Self-Assembled Monolayers as Effective Hole-Selective Layers for Organic Solar Cells",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop",
+      "id": "qa_1391"
+    },
+    {
+      "question": "Compare the thermal stability of PTB7:PC71BM devices with and without the BPO additive after being heated at 130 °C for 120 minutes.",
+      "answer": "Devices containing the BPO molecular lock exhibit significantly higher thermal stability, retaining 80% of their original PCE (decaying from 7.87% to 6.26%). In contrast, devices without BPO retain only 40% of their original PCE (decaying from 7.35% to 2.96%) under the same conditions.",
+      "category": "Stability & Degradation",
+      "source_title": "Molecular Lock: A Versatile Key to Enhance Efficiency and Stability of Organic Solar Cells",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop",
+      "id": "qa_1412"
+    },
+    {
+      "question": "What effect does the substitution of alkyl chains with triethylene glycol (TEG) side chains have on the thermal stability of Y-series acceptors?",
+      "answer": "The substitution with triethylene glycol (TEG) side chains slightly reduces the thermal stability of the acceptors. The decomposition temperatures (at 5% weight loss) are 330°C for Y-thio-EG and 287°C for Y-pyr-EG, which are relatively lower than typical alkyl-substituted Y-series acceptors.",
+      "category": "Stability & Degradation",
+      "source_title": "The challenge with high permittivity acceptors in organic solar cells: a case study with Y-series derivatives",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_1424"
+    },
+    {
+      "question": "How does the thermal stability of SCP3-based solar cells at 160 °C compare to their performance at 200 °C?",
+      "answer": "At 160 °C, SCP3-based cells exhibit exceptional stability, maintaining 100% of their initial PCE for over 400 hours in a nitrogen atmosphere. At 200 °C, while the SCP3 material itself remains stable, the overall device performance decreases due to a physical failure mechanism where the silver top electrode penetrates into the active layer.",
+      "category": "Stability & Degradation",
+      "source_title": "Evidencing Excellent Thermal- and Photostability for Single-Component Organic Solar Cells with Inherently Built-In Microstructure",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop",
+      "id": "qa_1459"
+    },
+    {
+      "question": "Describe the performance stability of SCP3-based solar cells under simultaneous light and thermal stress.",
+      "answer": "SCP3-based solar cells demonstrate excellent photostability and thermal resistance; when subjected to 1 sun illumination at 90 °C for 300 hours, the devices show less than a 5% variation in their open-circuit voltage (VOC) and Fill Factor (FF).",
+      "category": "Stability & Degradation",
+      "source_title": "Evidencing Excellent Thermal- and Photostability for Single-Component Organic Solar Cells with Inherently Built-In Microstructure",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_1464"
+    },
+    {
+      "question": "Why does symmetric Cou-DPP-Cou demonstrate significantly higher thermal stability than its asymmetric counterpart?",
+      "answer": "Symmetric Cou-DPP-Cou shows a 5% weight loss temperature of 340 °C, whereas asymmetric DPP-Cou begins decomposing at 230 °C. This enhanced thermal stability is attributed to the higher crystallinity and superior molecular packing of the symmetric structure.",
+      "category": "Stability & Degradation",
+      "source_title": "Diketopyrrolopyrrole-Coumarin Conjugates for Efficient Binary Organic Solar Cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_1467"
+    },
+    {
+      "question": "How does the addition of ZCCF3 to the PM6:Y6 system affect the operational photostability of the resulting solar cells?",
+      "answer": "The addition of ZCCF3 significantly enhances stability; the PM6:Y6:ZCCF3 ternary device maintains 80% of its initial efficiency for up to 360 hours (T80 lifetime) under light stress. In contrast, the binary PM6:Y6 system reaches its T80 lifetime after only 40 hours.",
+      "category": "Stability & Degradation",
+      "source_title": "Diffusion-Limited Accepter Alloy Enables Highly Efficient and Stable Organic Solar Cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_1487"
+    },
+    {
+      "question": "How does the choice of solvent influence the charge carrier lifetime and recombination in PM6:Y6-2Cl solar cells?",
+      "answer": "Transient photovoltage (TPV) measurements show that CF:CB processed devices have a charge carrier lifetime of 3.65 μs, which is longer than those processed with CB (2.40 μs) or CF (2.03 μs). This longer lifetime suggests that the binary solvent strategy effectively reduces non-geminate recombination within the device.",
+      "category": "Stability & Degradation",
+      "source_title": "Improving Photovoltaic Performance of Non-Fullerene Polymer Solar Cells Enables by Fine-Tuning Blend Microstructure via Binary Solvent Mixtures",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop",
+      "id": "qa_1519"
+    },
+    {
+      "question": "To what extent is carrier recombination loss reduced in the PTB7-Th:COi8DFIC:PC71BM ternary composite at the 160 ps timescale?",
+      "answer": "Carrier recombination loss occurring at approximately 160 ps is reduced by more than 50% in the ternary PTB7-Th:COi8DFIC:PC71BM composite compared to the binary PTB7-Th:COi8DFIC composite.",
+      "category": "Stability & Degradation",
+      "source_title": "Enhanced Charge Separation in Ternary Bulk-Heterojunction Organic Solar Cells by Fullerenes",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_1566"
+    },
+    {
+      "question": "How do the mechanical properties of P3CAT polymers compare to the widely used P3HT?",
+      "answer": "P3CAT polymers are mechanically stiffer and harder than P3HT. While P3HT has a Young's modulus of 1.4 GPa and a hardness of 0.08 GPa, P3CAT polymers exhibit moduli ranging from 1.5 to 3.8 GPa and hardness values from 0.09 to 0.17 GPa.",
+      "category": "Stability & Degradation",
+      "source_title": "Bulk Heterojunction Organic Photovoltaics Based on Carboxylated Polythiophenes and PCBM on Glass and Plastic Substrates",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop",
+      "id": "qa_1599"
+    },
+    {
+      "question": "Why are spiro-annulated truxene derivatives preferred over alkyl-substituted polyfluorenes for blue-emitting OLED applications?",
+      "answer": "Spiro-annulated truxene derivatives offer better color stability and thermal stability. Their rigid spiro architecture maintains an amorphous state in the solid phase, which prevents the formation of long-wavelength emissions typically caused by excimers, aggregates, or ketone defects found in materials like alkyl-substituted polyfluorenes.",
+      "category": "Stability & Degradation",
+      "source_title": "π-Conjugated Aromatics Based on Truxene: Synthesis, Self-Assembly, and Applications",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop",
+      "id": "qa_1647"
+    },
+    {
+      "question": "How does the photostability of PB-b-PY-4 compare to PB-b-PY-2 and PB-b-PY-3 after extended light-soaking?",
+      "answer": "PB-b-PY-4 shows superior photostability, retaining 87% of its initial power conversion efficiency (PCE) after 340 hours of continuous one-sun illumination. In contrast, PB-b-PY-3 and PB-b-PY-2 retained only 72% and 63% of their initial PCE, respectively, over the same period.",
+      "category": "Stability & Degradation",
+      "source_title": "Over 13% Efficient Single-Component Organic Solar Cells Enabled by Adjusting the Conjugated-Length of Intermediate PBDB-T Block",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop",
+      "id": "qa_1663"
+    },
+    {
+      "question": "According to thermogravimetric analysis (TGA), what are the two major mass loss events for poly(tetrazine) P1 and what do they represent?",
+      "answer": "P1 shows two distinct decomposition events: a 7% mass loss at approximately 280 °C, which corresponds to the loss of nitrogen (N2) gas, and a 78% mass loss at approximately 400 °C, which corresponds to the decomposition of the hexadecyl side chains.",
+      "category": "Stability & Degradation",
+      "source_title": "Click-Functionalization of a Poly(Tetrazine-co-Fluorene)-Conjugated Polymer with a Series of trans-Cyclooctene Derivatives",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_1704"
+    },
+    {
+      "question": "Describe the thermal and mechanical durability of organic solar cells incorporating the dT9TBO dimer acceptor.",
+      "answer": "PM6:Y6:dT9TBO devices show exceptional thermal stability with negligible PCE decay after 1800 hours of aging at 65 °C. Mechanically, flexible solar cells using this active layer maintain 95% of their initial efficiency after 1500 repetitive bending cycles at a curvature diameter of 14.7 mm.",
+      "category": "Stability & Degradation",
+      "source_title": "Dimer Acceptor Adopting a Flexible Linker for Efficient and Durable Organic Solar Cells",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop",
+      "id": "qa_1725"
+    },
+    {
+      "question": "What is the thermal stability of P1-based solar cells after 100 hours of stress at 85 °C?",
+      "answer": "The P1-based devices show good morphological stability, retaining approximately 76% to 80% of their initial power conversion efficiency after 100 hours of thermal stress at 85 °C in an inert atmosphere.",
+      "category": "Stability & Degradation",
+      "source_title": "A New Quinoxaline and Isoindigo Based Polymer as Donor Material for Solar Cells: Role of Ecofriendly Processing Solvents on the Device Efficiency and Stability",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_1736"
+    },
+    {
+      "question": "Compare the thermal stability of PBDB-T:ITIC:PC71BM solar cells using ZrOx versus LiF interfacial layers when subjected to 85 °C cycling.",
+      "answer": "Devices with a ZrOx interfacial layer exhibit significantly higher thermal stability, retaining 73% to 80% of their initial efficiency after 30 days at 85 °C. In contrast, LiF-based devices failed completely within 8 days under the same thermal cycling conditions.",
+      "category": "Stability & Degradation",
+      "source_title": "Nonfullerene Polymer Solar Cell with Large Active Area of 216 cm² and High Power Conversion Efficiency of 7.7%",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop",
+      "id": "qa_1742"
+    },
+    {
+      "question": "What is the primary degradation mechanism identified for LiF-based polymer solar cells under thermal stress?",
+      "answer": "The thermal degradation is primarily caused by the diffusion of lithium ions from the LiF layer into the active layer. This diffusion increases contact resistance and reduces the fill factor (FF) by destroying the ohmic contact.",
+      "category": "Stability & Degradation",
+      "source_title": "Nonfullerene Polymer Solar Cell with Large Active Area of 216 cm² and High Power Conversion Efficiency of 7.7%",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop",
+      "id": "qa_1743"
+    },
+    {
+      "question": "Compare the thermal stability of PTB7-Th:Y6 quasi-homojunction (QHJ) devices at a 1:20 ratio with their bulk heterojunction (BHJ) counterparts.",
+      "answer": "PTB7-Th:Y6 QHJ devices (1:20 ratio) demonstrate superior thermal stability, retaining 85.8% of their initial PCE after 188.4 hours at 85 °C. In contrast, the BHJ counterpart (1:1.2 ratio) is significantly less stable, with its PCE dropping to 50% of the initial value over the same period.",
+      "category": "Stability & Degradation",
+      "source_title": "Quasi-Homojunction Organic Nonfullerene Photovoltaics Featuring Fundamentals Distinct from Bulk Heterojunctions",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop",
+      "id": "qa_1748"
+    },
+    {
+      "question": "Compare the HOMO energy level of PDPPTzBT to regioregular poly(3-hexylthiophene) (P3HT) and explain the practical benefits of this difference.",
+      "answer": "PDPPTzBT has a HOMO level of -5.28 eV, which is significantly lower than that of P3HT (-4.76 eV). This deeper HOMO level improves the polymer's stability against oxidation and enhances the efficiency of hole injection when using gold source electrodes.",
+      "category": "Stability & Degradation",
+      "source_title": "A diketopyrrolopyrrole-thiazolothiazole copolymer for high performance organic field-effect transistors",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop",
+      "id": "qa_1772"
+    },
+    {
+      "question": "How does the choice of solvent isotope affect the long-term thermal stability of PTVT-T:BTP-eC9 organic solar cells?",
+      "answer": "The use of deuterated chloroform (CF-d) significantly enhances thermal stability, resulting in an extrapolated T80 lifetime of approximately 8000 hours at 85 °C. This represents a nearly nine-fold improvement over devices processed with standard CF.",
+      "category": "Stability & Degradation",
+      "source_title": "A generic approach yields organic solar cells with enhanced efficiency and thermal stability",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_1790"
+    },
+    {
+      "question": "How can the operational lifetime of NFA-based organic photovoltaics be extended to a projected 10 to 20 years?",
+      "answer": "The operational lifetime is extended by utilizing the rigid fused-ring molecular structure of NFAs, which provides better stability, and by suppressing detrimental chemical reactions at the interface between the ZnO layer and the active layer.",
+      "category": "Stability & Degradation",
+      "source_title": "Organic Photovoltaics' New Renaissance: Advances Toward Roll-to-Roll Manufacturing of Non-Fullerene Acceptor Organic Photovoltaics",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop",
+      "id": "qa_1847"
+    },
+    {
+      "question": "Which thionated NDI derivative shows the highest thermal stability, and how does it compare to NDI-3S?",
+      "answer": "NDI-2S-trans exhibits the highest thermal stability among the derivatives, with a decomposition temperature of approximately 350 °C. This is significantly higher than NDI-3S, which is the most unstable derivative, decomposing at around 250 °C.",
+      "category": "Stability & Degradation",
+      "source_title": "From non-detectable to decent: replacement of oxygen with sulfur in naphthalene diimide boosts electron transport in organic thin-film transistors (OTFT)",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop",
+      "id": "qa_1877"
+    },
+    {
+      "question": "What is the power conversion efficiency (PCE) retention of organic solar cells based on PCDTBT/[60]PCBM blends after exposure to 6500 Gy of gamma radiation?",
+      "answer": "Organic solar cells based on PCDTBT/[60]PCBM blends demonstrate outstanding radiation stability, maintaining more than 80% of their initial power conversion efficiency after exposure to a maximum absorbed dose of 6500 Gy of gamma rays.",
+      "category": "Stability & Degradation",
+      "source_title": "Impressive Radiation Stability of Organic Solar Cells Based on Fullerene Derivatives and Carbazole-Containing Conjugated Polymers",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_1897"
+    },
+    {
+      "question": "How does the radiation stability of PCDTBT-based organic solar cells compare to that of triple-cation perovskite solar cells?",
+      "answer": "PCDTBT-based organic solar cells show superior radiation stability compared to triple-cation perovskite solar cells. While the PCDTBT-based cells maintain over 80% of their efficiency at 6500 Gy, the perovskite cells (Cs0.15MA0.10FA0.75Pb(Br0.17I0.83)3) lose over 40% of their initial PCE after exposure to only 500 Gy.",
+      "category": "Stability & Degradation",
+      "source_title": "Impressive Radiation Stability of Organic Solar Cells Based on Fullerene Derivatives and Carbazole-Containing Conjugated Polymers",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop",
+      "id": "qa_1901"
+    },
+    {
+      "question": "Which factors contribute to the enhanced air stability of quinoidal thia-acene analogues 1 and 3 compared to their parent acenes?",
+      "answer": "The enhanced stability is attributed to several factors: the presence of more aromatic sextet rings, kinetic protection provided by bulky mesityl substituents, and the switch from cis-1,3-butadiene conjugation to quinoidal conjugation, which eliminates potential cycloaddition degradation pathways.",
+      "category": "Stability & Degradation",
+      "source_title": "Dipolar Quinoidal Acene Analogues as Stable Isoelectronic Structures of Pentacene and Nonacene",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop",
+      "id": "qa_1909"
+    },
+    {
+      "question": "Compare the ambient stability of organic solar cells using Cu2O/FBT-TH4 versus those using pristine Cu2O.",
+      "answer": "Devices with the Cu2O/FBT-TH4 hole transport layer (HTL) retain 75% of their original PCE after 30 days of storage in ambient conditions (25 °C, 20% humidity). In contrast, pristine Cu2O-based devices show a dramatic decay in PCE from approximately 8.5% to 4.5% within the first week of storage.",
+      "category": "Stability & Degradation",
+      "source_title": "Organic solar cells based on a Cu2O/FBT-TH4 anode buffer layer with enhanced power conversion efficiency and ambient stability",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop",
+      "id": "qa_1927"
+    },
+    {
+      "question": "What are the decomposition temperatures of PBDTTz-BP and PBDTTz-N, and what does this indicate about their suitability for device fabrication?",
+      "answer": "PBDTTz-BP has a decomposition temperature (Td) of 370 °C and PBDTTz-N has a Td of 389 °C. These high values indicate that both polymers possess excellent thermal stability, making them well-suited for the thermal demands of photovoltaic device fabrication.",
+      "category": "Stability & Degradation",
+      "source_title": "2D expanded conjugated polymers with non-fullerene acceptors for efficient polymer solar cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_1944"
+    },
+    {
+      "question": "How does the extension of the conjugated skeleton affect the thermal stability of diaceno[a,e]pentalene derivatives?",
+      "answer": "The thermal stability of diaceno[a,e]pentalenes increases as the conjugated skeleton extends. Specifically, the 5% weight loss temperature (T5wt%) rises from 308 °C for DBP to 350 °C for DNP, and reaches 426 °C for the most extended derivative, DAP.",
+      "category": "Stability & Degradation",
+      "source_title": "Diaceno[a,e]pentalenes: An Excellent Molecular Platform for High-Performance Organic Semiconductors",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_1953"
+    },
+    {
+      "question": "Compare the thermal and air stability of PM6:TB-4Cl devices with those based on PM6:Y6.",
+      "answer": "PM6:TB-4Cl devices exhibit superior stability compared to PM6:Y6. When heated at 100 °C in nitrogen for 110 hours, PM6:TB-4Cl retains 75% of its initial PCE, while PM6:Y6 retains only 60%. Under air storage (60-70% humidity) for 92 hours, PM6:TB-4Cl maintains 65% of its efficiency, whereas PM6:Y6 maintains only 50%.",
+      "category": "Stability & Degradation",
+      "source_title": "High-Efficiency Thermal-Annealing-Free Organic Solar Cells Based on an Asymmetric Acceptor with Improved Thermal and Air Stability",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop",
+      "id": "qa_1972"
+    },
+    {
+      "question": "Compare the thermal decomposition temperatures (Td) of the three phthalide-based blue emitters: PPT, PPPT, and PAPT.",
+      "answer": "All three materials demonstrate high thermal stability, with decomposition temperatures (Td at 5% weight loss) of 432 °C for PPT, 447 °C for PPPT, and 452 °C for PAPT.",
+      "category": "Stability & Degradation",
+      "source_title": "Achieving phthalide-based fluorescent materials with hybridized local and charge-transfer characteristics for efficient deep blue OLEDs",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_1982"
+    },
+    {
+      "question": "How does the thermal stability of PBDB-T:DF-PCIC compare to devices based on ITIC or PC71BM under extreme heat?",
+      "answer": "PBDB-T:DF-PCIC devices exhibit superior thermal stability compared to both PBDB-T:ITIC and PBDB-T:PC71BM. Even after 12 hours of thermal treatment at 180 °C, the DF-PCIC-based devices retained 69.8% of their initial power conversion efficiency, whereas the reference devices were significantly outperformed.",
+      "category": "Stability & Degradation",
+      "source_title": "An Unfused-Core-Based Nonfullerene Acceptor Enables High-Efficiency Organic Solar Cells with Excellent Morphological Stability at High Temperatures",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop",
+      "id": "qa_1990"
+    },
+    {
+      "question": "Explain the mechanism behind the high thermal stability of DF-PCIC at elevated temperatures.",
+      "answer": "The high thermal stability is attributed to the temperature-sensitive nature of the intramolecular F...H noncovalent interactions. At high temperatures, these interactions are disrupted, causing the DF-PCIC molecule to transition from a planar to a twisted geometry. This twisted conformation prevents the formation of large, performance-degrading aggregates that typically occur in other materials during thermal aging.",
+      "category": "Stability & Degradation",
+      "source_title": "An Unfused-Core-Based Nonfullerene Acceptor Enables High-Efficiency Organic Solar Cells with Excellent Morphological Stability at High Temperatures",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop",
+      "id": "qa_1991"
+    },
+    {
+      "question": "Explain the mechanisms by which the Br-2PACz layer improves the long-term stability of the organic solar cell.",
+      "answer": "Br-2PACz improves stability by forming a protective layer that serves two purposes: it reduces the acidic corrosion of the ITO electrode by the PSS component and acts as a barrier that isolates the active layer from environmental moisture. Consequently, the dual-anode device maintains 94.7% of its initial PCE after 500 hours in nitrogen, compared to 76.9% for the PEDOT:PSS-only device.",
+      "category": "Stability & Degradation",
+      "source_title": "High Efficiency over 18.6% of Organic Solar Cells Enabled by PEDOT:PSS/Br-2PACz Dual-Anode Interface",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop",
+      "id": "qa_2048"
+    },
+    {
+      "question": "What allows protein wire-based thin-film devices to maintain a continuous voltage output of 0.6 V for up to two months?",
+      "answer": "The extended operational stability of protein wire-based devices is due to their ability to maintain a self-sustained water content difference within the film. This prevents the attenuation of ion concentration gradients and internal water saturation that typically limit the lifespan of other moisture-induced generators.",
+      "category": "Stability & Degradation",
+      "source_title": "Harvesting Energy from Atmospheric Water: Grand Challenges in Continuous Electricity Generation",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop",
+      "id": "qa_2084"
+    },
+    {
+      "question": "What level of long-term stability have all-solution-processed OSCs demonstrated when using transfer-printed PEDOT:PSS electrodes?",
+      "answer": "Devices utilizing transfer-printed PEDOT:PSS electrodes co-doped with acid and ethylene glycol have shown excellent shelf-life stability, retaining approximately 91% of their initial power conversion efficiency (PCE) after 300 days of storage in an inert gas atmosphere.",
+      "category": "Stability & Degradation",
+      "source_title": "Recent Progress in All-Solution-Processed Organic Solar Cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_2096"
+    },
+    {
+      "question": "How long can 6,13-dichloropentacene (DCP) ribbon transistors be stored in ambient conditions without significant performance degradation?",
+      "answer": "6,13-dichloropentacene (DCP) ribbon transistors demonstrate high environmental stability, maintaining their performance without obvious degradation after being stored in ambient conditions for two months.",
+      "category": "Stability & Degradation",
+      "source_title": "High-Performance Organic Field-Effect Transistors Based on Single and Large-Area Aligned Crystalline Microribbons of 6,13-Dichloropentacene",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_2240"
+    },
+    {
+      "question": "How does the PC61BM-SAM modification on the ZnO interlayer affect the recombination mechanisms in PBDTT-F-TT:di-PBI devices?",
+      "answer": "The PC61BM-SAM modification passivates inorganic surface trap states on the ZnO interlayer, which suppresses interfacial trap-assisted Shockley-Read-Hall (SRH) recombination. This is evidenced by the reduction of the VOC light-intensity dependence slope from 1.46 kT/q in unmodified devices to 1.10 kT/q in SAM-modified devices.",
+      "category": "Stability & Degradation",
+      "source_title": "Integrated Molecular, Interfacial, and Device Engineering towards High-Performance Non-Fullerene Based Organic Solar Cells",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop",
+      "id": "qa_2255"
+    },
+    {
+      "question": "What evidence exists for the ambient stability and processing tolerance of PTB7-Th:PDI-V solar cells?",
+      "answer": "PTB7-Th:PDI-V devices demonstrate high tolerance to ambient conditions, maintaining a PCE of 7.49% even when fabricated in air with 90% humidity without encapsulation. This indicates the performance is relatively insensitive to oxygen and water levels during processing.",
+      "category": "Stability & Degradation",
+      "source_title": "A Vinylene-Bridged Perylenediimide-Based Polymeric Acceptor Enabling Efficient All-Polymer Solar Cells Processed under Ambient Conditions",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop",
+      "id": "qa_2277"
+    },
+    {
+      "question": "How do the stability challenges addressed by the PDI-V acceptor and the DF-PCIC acceptor differ in terms of environmental vs. thermal stress, and what are the specific performance outcomes?",
+      "answer": "PDI-V focuses on ambient processing stability, maintaining a PCE of 7.49% even when fabricated in 90% humidity without encapsulation, due to its relative insensitivity to oxygen and water (A Vinylene-Bridged Perylenediimide-Based Polymeric Acceptor). Conversely, DF-PCIC addresses high-temperature morphological stability, retaining 69.8% of its initial PCE after 12 hours at 180 °C. This is attributed to the disruption of F···H interactions at high temperatures, which causes the molecule to twist and prevents the formation of large, performance-degrading aggregates (An Unfused-Core-Based Nonfullerene Acceptor).",
+      "category": "Stability & Degradation",
+      "source_title": "A Vinylene-Bridged Perylenediimide-Based Polymeric Acceptor Enabling Efficient All-Polymer Solar Cells Processed under Ambient Conditions | An Unfused-Core-Based Nonfullerene Acceptor Enables High-Efficiency Organic Solar Cells with Excellent Morphological Stability at High Temperatures",
+      "difficulty": "hard",
+      "reasoning_type": "cross-doc",
+      "id": "qa_2290"
+    },
+    {
+      "question": "Compare the photostability of organic solar cells using PBI-2P interlayers to those using conventional amine-based interlayers like PFN-Br.",
+      "answer": "Devices utilizing PBI-2P exhibit superior photostability, maintaining 90% of their initial PCE (T90) for 12 days under continuous white-LED irradiation. In contrast, devices using amine-based interlayers such as PFN-Br, PDINO, and PEIE reach the same 10% decay point in approximately 6 days, demonstrating that the amine-free PBI-2P provides roughly double the stability duration.",
+      "category": "Stability & Degradation",
+      "source_title": "Phenol-Functionalized Perylene Bisimides as Amine-Free Electron Transporting Interlayers for Stable Nonfullerene Organic Solar Cells",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop",
+      "id": "qa_2320"
+    },
+    {
+      "question": "Why do amine-group containing interlayers cause instability when used with nonfullerene acceptors like Y6?",
+      "answer": "The instability is caused by a chemical reaction where electrons are transferred from the amine groups of the interlayer material to the dicyanomethylene indanone (IC) termini of the Y6 acceptor. This electron transfer process leads to the decomposition of the materials at the contact interface.",
+      "category": "Stability & Degradation",
+      "source_title": "Phenol-Functionalized Perylene Bisimides as Amine-Free Electron Transporting Interlayers for Stable Nonfullerene Organic Solar Cells",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop",
+      "id": "qa_2321"
+    },
+    {
+      "question": "Compare the thermal stability of P3HT:PC61BM devices with and without 8% BL doping after annealing at 130 °C.",
+      "answer": "Devices containing 8% BL doping show significantly superior thermal stability, with the power conversion efficiency (PCE) dropping by only 10.5% after 48 hours of annealing. In contrast, control devices without BL are highly unstable, losing 71.5% of their PCE after only 3 hours of annealing at the same temperature.",
+      "category": "Stability & Degradation",
+      "source_title": "Improved Thermal Stability of Polymer Solar Cells by Incorporating Porphyrins",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop",
+      "id": "qa_2328"
+    },
+    {
+      "question": "How does the bias-stress stability of a 1:1 DPP-TT-T:HDPE blend compare to that of a neat DPP-TT-T film over a 10,000-second period?",
+      "answer": "The 1:1 DPP-TT-T:HDPE blend shows significantly improved bias-stress stability; under a constant bias of -20 V, it exhibits a threshold voltage shift (ΔVth) of only 2.5 V after approximately 3 hours (10,000 seconds). In contrast, neat DPP-TT-T devices exhibit a much larger shift of nearly 9 V under the same conditions.",
+      "category": "Stability & Degradation",
+      "source_title": "High-density polyethylene—an inert additive with stabilizing effects on organic field-effect transistors",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop",
+      "id": "qa_2346"
+    },
+    {
+      "question": "What role does HDPE play in maintaining the electron mobility of N2200-based transistors when exposed to air?",
+      "answer": "HDPE acts as a moisture barrier in N2200 blends, protecting the semiconductor from rapid degradation. While neat N2200 mobility drops drastically from 0.5 cm²/V·s to 0.03 cm²/V·s over 8 hours in air, the 1:1 N2200:HDPE blends maintain significant performance and remarkable stability due to the low water permeability of the HDPE (1.2–2.5 cm³·mm·10⁸/cm²·s·cmHg).",
+      "category": "Stability & Degradation",
+      "source_title": "High-density polyethylene—an inert additive with stabilizing effects on organic field-effect transistors",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop",
+      "id": "qa_2347"
+    },
+    {
+      "question": "What are the two primary inherent material properties of PEDOT:PSS that lead to the degradation of flexible organic solar cells?",
+      "answer": "The degradation of flexible devices using PEDOT:PSS electrodes is primarily caused by the material's inherent hygroscopicity (tendency to absorb moisture) and its acidity.",
+      "category": "Stability & Degradation",
+      "source_title": "Recent Progress in Flexible and Stretchable Organic Solar Cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_2419"
+    },
+    {
+      "question": "How does the PVA-TSPBA hydrogel respond to the physiological environment of a surgical trauma site?",
+      "answer": "The PVA-TSPBA hydrogel is responsive to the high levels of reactive oxygen species (ROS) typically found at surgical trauma sites. This ROS sensitivity allows the hydrogel to undergo complete biodegradation within 4 days, providing a controlled release of its encapsulated cargo without a sudden burst elimination.",
+      "category": "Stability & Degradation",
+      "source_title": "Allogeneic \"Zombie Cell\" as Off-The-Shelf Vaccine for Postsurgical Cancer Immunotherapy",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop",
+      "id": "qa_2426"
+    },
+    {
+      "question": "How does the photostability of the Q-PHJ all-polymer solar cell compare to the BHJ version over 800+ hours of illumination?",
+      "answer": "The Q-PHJ device demonstrates significantly superior photostability with a T80 lifetime of approximately 870 hours. This is more than a three-fold improvement over the BHJ device, which has a T80 lifetime of only about 260-270 hours.",
+      "category": "Stability & Degradation",
+      "source_title": "Quasiplanar Heterojunction All-Polymer Solar Cells: A Dual Approach to Stability",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop",
+      "id": "qa_2450"
+    },
+    {
+      "question": "Compare the performance and non-radiative voltage loss of PM6:BTP-BO-4F:GS-ISO ternary cells processed in nitrogen versus those processed in ambient air.",
+      "answer": "Ternary cells processed in nitrogen achieved a PCE of 18.63% with a non-radiative voltage loss (ΔVnr) of 0.236 V. In contrast, devices processed in air (50% relative humidity) achieved a lower PCE of 14.13% (which is still over 75% of the N2-processed efficiency) and exhibited a higher ΔVnr of 0.246 V, contributing to a reduced VOC.",
+      "category": "Stability & Degradation",
+      "source_title": "18.63% Efficiency of Ternary Organic Solar Cells Achieved via Nonhalogenated Solvent and Hot Spin-Coating Process",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop",
+      "id": "qa_2497"
+    },
+    {
+      "question": "Why are diaryliodonium salts considered advantageous reagents for practical synthetic applications in material science?",
+      "answer": "Diaryliodonium salts are advantageous because they are bench-stable iodine(III) reagents that can be easily synthesized from iodoarenes or arenes in one-pot reactions. Their stability and ease of handling make them suitable for metal-free, regiospecific arylations.",
+      "category": "Stability & Degradation",
+      "source_title": "Regiospecific N-Arylation of Aliphatic Amines under Mild and Metal-Free Reaction Conditions",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_2508"
+    },
+    {
+      "question": "How does the thermal stability of PM6:Y6 thick-film devices with 0.6% CN compare to thin-film devices with 0.3% CN after 128 hours at 100 °C?",
+      "answer": "Both devices show similar thermal degradation: thick-film devices with 0.6% CN retain 63% of their initial PCE, while thin-film devices with 0.3% CN retain a slightly higher 68% of their initial PCE after 128 hours of heating.",
+      "category": "Stability & Degradation",
+      "source_title": "Modulation of Vertical Component Distribution for Large-Area Thick-Film Organic Solar Cells",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop",
+      "id": "qa_2524"
+    },
+    {
+      "question": "Compare the mechanical stability and performance of flexible polymer solar cells using TeO2/Ag electrodes versus ITO electrodes during bending tests.",
+      "answer": "Flexible polymer solar cells with TeO2/Ag electrodes show superior mechanical stability, maintaining or slightly increasing their PCE (from 5.7% to 5.8%) after 91 bending cycles at a radius of 0.64 cm. In contrast, ITO-based devices degrade immediately under the same bending conditions.",
+      "category": "Stability & Degradation",
+      "source_title": "Optical Design of Transparent Thin Metal Electrodes to Enhance In-Coupling and Trapping of Light in Flexible Polymer Solar Cells",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop",
+      "id": "qa_2536"
+    },
+    {
+      "question": "Compare the thermal stability of the PTzBI-dF:CH1007:BT-4BO ternary device to its binary counterparts.",
+      "answer": "The 1:0.3:0.8 ternary device exhibits significantly superior thermal stability, retaining 84.4% of its initial PCE after 264 hours of aging at 85°C. In contrast, the binary devices based on CH1007 and BT-4BO showed severe performance degradation, losing approximately 40% and 47% of their initial PCE, respectively, under similar conditions.",
+      "category": "Stability & Degradation",
+      "source_title": "Formation of Vitrified Solid Solution Enables Simultaneously Efficient and Stable Organic Solar Cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop",
+      "id": "qa_2640"
+    }
+  ]
+}

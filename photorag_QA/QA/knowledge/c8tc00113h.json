@@ -1,0 +1,154 @@
+{
+  "paper_id": "c8tc00113h",
+  "paper_title": "A new NIR absorbing DPP-based polymer for thick organic solar cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/c8tc00113h/auto/c8tc00113h.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The polymer PFDPPSe is designed by coupling a furan-based diketopyrrolopyrrole (FDPP) acceptor with a selenophene donor, resulting in a backbone that lacks any thiophene-based units.",
+      "evidence": "In this work, we designed a NIR-absorbing polymer, PFDPPSe, where furan-based DPP was used as the acceptor and selenophene was used as the donor, which is one of the rare examples of DPP-based polymers where the polymer backbone does not include any thiophene or thiophene-based unit.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PFDPPSe",
+        "furan-based DPP",
+        "selenophene",
+        "thiophene-free"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Replacing thiophene with selenophene in the polymer backbone red-shifts the absorption profile due to the lower aromaticity of selenophene and an increased quinoidal contribution to the molecular energy levels.",
+      "evidence": "The larger size of selenium compared to sulfur results in lower aromaticity of selenophene... This ultimately results in an increased quinoidal contribution to the molecular energy levels and hence a red-shift in the absorption profile.",
+      "complexity": "single-hop",
+      "keywords": [
+        "selenophene",
+        "aromaticity",
+        "quinoidal contribution",
+        "red-shift"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Side chain engineering is critical for the solubility of FDPP-selenophene polymers; while the C12 linear chain version (PFDPPSe-12) is insoluble in o-DCB, the C18 linear chain version (PFDPPSe-18) is highly soluble in common organic solvents.",
+      "evidence": "the resulting material, PFDPPSe-12, was completely insoluble, even in o-DCB. On the other hand, PFDPPSe-18 was highly soluble in CHCl3, chlorobenzene and o-DCB.",
+      "complexity": "single-hop",
+      "keywords": [
+        "solubility",
+        "side chain engineering",
+        "C18 alkyl chain",
+        "PFDPPSe-18"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "PFDPPSe exhibits an absorption maximum at 832 nm and an absorption onset at 927 nm, corresponding to an optical bandgap of 1.34 eV.",
+      "evidence": "PFDPPSe showed a significant red-shift and the absorption maximum was determined to be 832 nm. The onset of absorption also shifted substantially... The optical band gap was calculated from the onset and was found to be 1.34 eV.",
+      "complexity": "single-hop",
+      "keywords": [
+        "absorption onset",
+        "NIR",
+        "optical bandgap",
+        "1.34 eV"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The HOMO and LUMO energy levels of PFDPPSe are determined to be -5.46 eV and -3.81 eV, respectively, based on cyclic voltammetry.",
+      "evidence": "the highest occupied molecular orbital (HOMO) and lowest unoccupied molecular orbital (LUMO) levels of PFDPPSe were observed at 5.46 eV and 3.81 eV respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "HOMO",
+        "LUMO",
+        "energy levels",
+        "cyclic voltammetry"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Inverted organic solar cells using PFDPPSe:PC71BM blends achieved a maximum power conversion efficiency (PCE) of 6.16% with an active layer thickness of 210 nm.",
+      "evidence": "The optimized organic solar cells with PFDPPSe:PC71BM active layer blends at 210 nm showed a maximum PCE of 6.16% (average 6.02%) via solvent additive engineering with an inverted device structure.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "6.16%",
+        "thick active layer",
+        "PC71BM"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The use of 3% diphenyl ether (DPE) as a solvent additive in chlorobenzene results in a 13-fold increase in PCE compared to devices processed without the additive.",
+      "evidence": "The devices processed with solvent additive resulted in almost a 13-fold increase in the PCE... with the help of DPE... PCE as high as 6.16% was recorded for PFDDSe (a 13-fold increase in PCE compared to the device without additive).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "solvent additive",
+        "diphenyl ether",
+        "DPE",
+        "PCE improvement"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Addition of DPE additive significantly improves film morphology by reducing the root-mean-square (RMS) roughness from over 10 nm to 2.3 nm and creating an interpenetrating nanoscale network.",
+      "evidence": "the blend film without DPE had a rough surface with a root-mean-square (RMS) over 10 nm, whereas the blend film after the solvent additive treatment became smooth with a reduced RMS of 2.3 nm... The interpenetrating network with optimal phase separation size is shown in Fig. 3f.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "AFM",
+        "TEM",
+        "RMS roughness",
+        "phase separation",
+        "DPE"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The introduction of DPE additive balances charge transport in PFDPPSe:PC71BM blends, increasing hole mobility from 3.52 x 10^-5 to 3.44 x 10^-4 cm^2 V^-1 s^-1 and resulting in a hole/electron mobility ratio of 0.78.",
+      "evidence": "the electron and hole mobilities are more balanced in the film processed with 3% DPE... Ratio [Hole/Electron] 0.78 [for CB + 3% DPE].",
+      "complexity": "multi-hop",
+      "keywords": [
+        "charge carrier mobility",
+        "SCLC",
+        "mobility balancing",
+        "hole mobility"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Solvent additive treatment with DPE suppresses bimolecular recombination in PFDPPSe-based devices, as evidenced by the power-law exponent (alpha) increasing from 0.83 to 0.98.",
+      "evidence": "bimolecular recombination is one of the limiting factors... because alpha = 0.83. Interestingly, the alpha value is approaching unity (alpha = 0.98) after the introduction of additive.",
+      "complexity": "single-hop",
+      "keywords": [
+        "bimolecular recombination",
+        "alpha value",
+        "light intensity dependence"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Trap-assisted recombination in PFDPPSe:PC71BM solar cells is reduced by the DPE additive, indicated by a decrease in the slope of Voc versus the natural logarithm of light intensity from 1.56 kT/q to 1.23 kT/q.",
+      "evidence": "Fig. 4d demonstrates that trap-assisted recombination has a significant decrease after the addition of additive to the blend film (1.56kT/q in CB, 1.23kT/q in CB + 3% DPE).",
+      "complexity": "single-hop",
+      "keywords": [
+        "trap-assisted recombination",
+        "Voc vs light intensity",
+        "kT/q"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The external quantum efficiency (EQE) of optimized PFDPPSe devices reaches a maximum of approximately 60%, with values exceeding 40% in the NIR region between 700 nm and 850 nm.",
+      "evidence": "the maximum EQE approaching 60% with the help of DPE... EQE values were roughly higher than 40% between 700 nm and 850 nm.",
+      "complexity": "single-hop",
+      "keywords": [
+        "EQE",
+        "60%",
+        "NIR response"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 9075,
+    "completion_tokens": 3100,
+    "total_tokens": 12175
+  }
+}

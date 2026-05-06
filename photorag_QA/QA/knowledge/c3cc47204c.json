@@ -1,0 +1,143 @@
+{
+  "paper_id": "c3cc47204c",
+  "paper_title": "Bay-linked perylene bisimides as promising non-fullerene acceptors for organic solar cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/c3cc47204c/auto/c3cc47204c.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The study explores three distinct bay-linkage configurations for perylene bisimide (PBI) dimers: singly-linked (flexible with ~70° twist), doubly-linked (locked with nearly perpendicular orientation), and triply-linked (rigid and almost planar).",
+      "evidence": "They have either a flexibly twisted structure with about 70° angle between two PBI units (singly), or a locked twisted structure with nearly perpendicular PBI systems (doubly), or rigidly and almost planar superstructure by the presence of triple linkage (triply).",
+      "complexity": "single-hop",
+      "keywords": [
+        "perylene bisimide",
+        "bay-linkage",
+        "molecular conformation",
+        "dimers"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The organic solar cell based on the singly-linked PBI dimer 1b (C5,5-s-diPBI) achieved a peak power conversion efficiency (PCE) of 3.63% using a ternary solvent processing strategy.",
+      "evidence": "we found that a PCE of 3.63% with a VOC of 0.73 V, a JSC of 10.58 mA cm-2 and a FF of 46.80% was recorded by the use of the ternary solvent [DCB/1.5% DIO/1.5% CN] with finely tuning the morphology of the composites.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "s-diPBI",
+        "ternary solvent",
+        "non-fullerene acceptor"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The optical energy gaps of the PBI dimers vary significantly with linkage type, measured at 2.03–2.08 eV for s-diPBIs, 2.22 eV for d-diPBI, and 1.69 eV for t-diPBI.",
+      "evidence": "The optical energy gaps were determined from the absorption onsets in film with 2.03-2.08 eV for s-diPBIs, and 2.22 eV for d-diPBI, and 1.69 eV for t-diPBI, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "optical energy gap",
+        "bandgap",
+        "absorption spectra",
+        "linkage type"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "LUMO levels of the bay-linked diPBIs range from -3.79 eV to -4.09 eV, representing a 0.2 to 0.5 eV upward shift compared to the standard fullerene acceptor PCBM.",
+      "evidence": "the LUMO levels were -3.91, -3.87, -3.82, -3.79 and -4.09 eV for s-diPBI to t-diPBI, which are slightly upward shifted of about 0.2-0.5 eV to that of PCBM.",
+      "complexity": "single-hop",
+      "keywords": [
+        "LUMO",
+        "energy level engineering",
+        "PCBM",
+        "electron affinity"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The electron mobility of the singly-linked diPBI (1b) reached approximately 10^-3 cm^2 V^-1 s^-1 in field-effect transistors (FETs), which was achieved by shortening the branched alkyl chains to 6-undecyl substituents.",
+      "evidence": "the electron transporting properties can be largely enhanced by reducing the branched alkyl chain length to achieve a moderate mobility of ~10^-3 cm^2 V^-1 s^-1 for 6-undecyl substituted s-diPBI (1b).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "electron mobility",
+        "FET",
+        "side chain engineering",
+        "6-undecyl"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The use of 1,8-diiodooctane (DIO) as a processing additive (3 vol%) generally improved the short-circuit current (JSC) and PCE for s-diPBI and d-diPBI based devices, but severely degraded the performance of t-diPBI based devices.",
+      "evidence": "The promoted PCEs can be obtained accompanied with increased JSC when using 3% DIO processing with the exception of t-diPBI (3)... [t-diPBI performance] almost vanished when using 3% DIO as the additive.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "1,8-diiodooctane",
+        "DIO",
+        "additive",
+        "processing optimization"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The poor performance of the triply-linked diPBI (t-diPBI) in solar cells is attributed to its rigid, planar structure which promotes excessive pi-stacked aggregation, leading to reduced fill factor and short-circuit current.",
+      "evidence": "resulting from the sharply decreased JSC and the reduced FF by a half due to pi-stacked aggregation that is induced by its almost-planar structure.",
+      "complexity": "single-hop",
+      "keywords": [
+        "aggregation",
+        "planarity",
+        "t-diPBI",
+        "fill factor"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The optimized solar cell devices utilized a conventional architecture: ITO|PEDOT:PSS|PBDTTT-C-T:diPBI|Ca|Al, where PBDTTT-C-T served as a 2D conjugated polymer donor.",
+      "evidence": "The photovoltaic properties of the PBDTTT-C-T/diPBI blends have been assessed in typical solar cell devices with the structure of ITO|PEDOT:PSS (~35 nm)|PBDTTT-C-T:diPBI|Ca (~20 nm)|Al (~80 nm).",
+      "complexity": "single-hop",
+      "keywords": [
+        "device architecture",
+        "PBDTTT-C-T",
+        "bulk heterojunction",
+        "donor polymer"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "A ternary solvent mixture consisting of dichlorobenzene (DCB) with 1.5% DIO and 1.5% 1-chloronaphthalene (CN) was found to be more effective than binary mixtures for optimizing the morphology of s-diPBI (1b) blends.",
+      "evidence": "Further optimization by selecting... a ternary solvent mixture of DCB/1.5% DIO/1.5% CN, we found that a PCE of 3.63%... was recorded by the use of the ternary solvent with finely tuning the morphology of the composites.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ternary solvent",
+        "1-chloronaphthalene",
+        "morphology control",
+        "DCB"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "External quantum efficiency (EQE) measurements showed that the PBDTTT-C-T/s-diPBI (1b) devices achieved a maximum EQE peak of 48.62% at 530 nm.",
+      "evidence": "It is also noteworthy that the maximum EQE peak approaches 48.62% at 530 nm for devices utilizing 1b as electron acceptor.",
+      "complexity": "single-hop",
+      "keywords": [
+        "EQE",
+        "quantum yield",
+        "spectral response",
+        "1b"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The bay-linked dimers were synthesized via a one-step homo-coupling of monobrominated PBI, allowing for precise control over molecular conformation.",
+      "evidence": "Our synthetic route to bay-linked dimers is particularly based on monobrominated PBI, which render more precise control of molecular conformation and fine tuning of energy levels.",
+      "complexity": "single-hop",
+      "keywords": [
+        "homo-coupling",
+        "monobrominated PBI",
+        "synthesis route"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 6653,
+    "completion_tokens": 3010,
+    "total_tokens": 9663
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "paper_id": "d3tc02372a",
+  "paper_title": "Insights into the photovoltaic mechanism of organic photovoltaics under solar and artificial light",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/d3tc02372a/auto/d3tc02372a.md",
+  "knowledge_points": [
+    {
+      "category": "Performance Metrics",
+      "content": "The non-fullerene organic photovoltaic system based on PBDB-T:ITIC achieves a peak indoor power conversion efficiency (PCE) of 19.74% at an optimal active layer thickness of 140 nm under 200 lux TL84 indoor light.",
+      "evidence": "Under indoor light, the optimal thickness of non-fullerene-based OPVs (PBDB-T:ITIC) is 140 nm with a PCE of 19.74%",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "indoor light",
+        "PBDB-T:ITIC",
+        "thickness"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The fullerene-based organic photovoltaic system based on PBDB-T:PC71BM reaches its highest indoor PCE of 16.22% at an optimal thickness of 100 nm under 200 lux TL84 illumination.",
+      "evidence": "the optimal thickness of fullerene-based OPVs (PBDB-T:PC71BM) is 100 nm with a PCE of 16.22%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "PBDB-T:PC71BM",
+        "fullerene",
+        "indoor light"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "To achieve high indoor PCE in organic photovoltaics, the series resistance (Rs) should be maintained below 5 kΩ·cm² and the shunt resistance (Rsh) should be greater than 450 kΩ·cm².",
+      "evidence": "From our results, we can conclude that good indoor PCE can be obtained when we control the indoor OPVs with Rs less than 5 KΩ cm2 and Rsh greater than 450 KΩ cm2.",
+      "complexity": "single-hop",
+      "keywords": [
+        "series resistance",
+        "shunt resistance",
+        "indoor PCE",
+        "optimization"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Non-fullerene acceptor (NFA) based OPVs (PBDB-T:ITIC) maintain stable indoor PCE as film thickness increases, whereas fullerene-based OPVs show a significant performance drop with increased thickness due to lower shunt resistance and higher recombination.",
+      "evidence": "The indoor PCEs of PBDB-T:PC71BM-based devices considerably decrease with the increasing active layer thickness, but the indoor PCEs of PBDB-T:ITIC-based devices remain almost unchanged with the active layer thickness.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "thickness dependence",
+        "non-fullerene acceptor",
+        "fullerene",
+        "PCE"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Monomolecular (trap-assisted) recombination is the dominant recombination mechanism in organic solar cells under indoor light conditions because the low light intensity results in low photogenerated carrier density.",
+      "evidence": "Our previous study demonstrated that trap-assisted recombination dominates in PSCs under indoor light. Therefore, the well-controlled recombination behavior is very important to improve the indoor PCE of OPVs.",
+      "complexity": "single-hop",
+      "keywords": [
+        "monomolecular recombination",
+        "trap-assisted recombination",
+        "indoor light",
+        "carrier density"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "PBDB-T:PC71BM-based solar cells exhibit deeper trap depths than PBDB-T:ITIC-based cells under both solar and indoor light, which increases the carrier recombination rate and limits efficiency.",
+      "evidence": "The trap depths of the PBDB-T:PC71BM-based PSCs are deeper than those of PBDB-T:ITIC-based PSCs under both solar and indoor light illumination. The deeper trap depth implies that these would be more recombination centres in the active layer",
+      "complexity": "single-hop",
+      "keywords": [
+        "trap depth",
+        "PBDB-T:PC71BM",
+        "PBDB-T:ITIC",
+        "recombination"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Charge accumulation is negligible in organic photovoltaics under indoor light compared to 1-Sun conditions due to the significantly lower number of photogenerated carriers under low-intensity illumination.",
+      "evidence": "This result implies that the charge accumulation is now not obvious under indoor light, and we speculate that this is related to the lower number of carriers generated under indoor light.",
+      "complexity": "single-hop",
+      "keywords": [
+        "charge accumulation",
+        "indoor light",
+        "photogenerated carriers"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Increasing the active layer thickness from 65 nm to 160 nm in PBDB-T:ITIC films leads to a significant increase in root-mean-square (RMS) surface roughness from 1.91 nm to 6.49 nm, which can impact interfacial contact with the hole transport layer.",
+      "evidence": "the RMS surface roughness of the PBDB-T:ITIC films increased from 1.91 nm to 6.49 nm with a similar thickness change.",
+      "complexity": "single-hop",
+      "keywords": [
+        "RMS roughness",
+        "surface morphology",
+        "PBDB-T:ITIC",
+        "thickness"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Electrochemical impedance spectroscopy (EIS) reveals that PBDB-T:ITIC systems exhibit stable charge transfer resistance at the donor/acceptor interface under indoor light despite changes in thickness, supporting high efficiency in thicker films.",
+      "evidence": "the PBDB-T:ITIC system is less affected by the thickness under indoor light irradiation, which may be due to the existence of a good acceptor/donor interfaces for effective charge transfer. This result demonstrates the importance of a well-mixed acceptor/donor interface",
+      "complexity": "multi-hop",
+      "keywords": [
+        "EIS",
+        "impedance",
+        "charge transfer",
+        "donor/acceptor interface"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Organic photovoltaics demonstrate better photostability under indoor light compared to 1-Sun irradiation; however, thicker active layers show poorer photostability than thin films due to higher bulk and interfacial defect densities.",
+      "evidence": "the photostability of the devices illuminated under indoor light is better than that under 1-Sun irradiation. ... the thin-film OPVs exhibit better photostability than the thick-film OPVs under the two light sources.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "photostability",
+        "degradation",
+        "indoor light",
+        "thickness"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Non-fullerene acceptor (NFA) based devices achieve higher open-circuit voltage (VOC) than fullerene-based devices under both solar and indoor illumination because of their larger effective energy level dispersion.",
+      "evidence": "Compared to fullerene-based PSCs, NFA-based PSCs can obtain larger VOC values under both solar and indoor light, which can be attributed to their larger effective energy level dispersion.",
+      "complexity": "single-hop",
+      "keywords": [
+        "VOC",
+        "energy level dispersion",
+        "non-fullerene acceptor",
+        "fullerene"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Transient photovoltage (TPV) measurements show that the carrier lifetime of PBDB-T:PC71BM devices decreases from 13.74 ms to 6.46 ms when thickness increases from 100 nm to 160 nm, whereas PBDB-T:ITIC devices maintain a stable lifetime of approximately 14 ms.",
+      "evidence": "the carrier lifetime of devices fabricated from PBDB-T:PC71BM decreased from 13.74 ms to 6.46 ms when the active layer thickness was increased from 100 nm to 160 nm. ... in the PBDB-T:ITIC system, the increasing thickness of the active layer does not cause an obvious change in the carrier lifetime (from 14.43 ms to 14.06 ms)",
+      "complexity": "multi-hop",
+      "keywords": [
+        "TPV",
+        "carrier lifetime",
+        "PBDB-T:ITIC",
+        "PBDB-T:PC71BM"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 12809,
+    "completion_tokens": 4077,
+    "total_tokens": 16886
+  }
+}

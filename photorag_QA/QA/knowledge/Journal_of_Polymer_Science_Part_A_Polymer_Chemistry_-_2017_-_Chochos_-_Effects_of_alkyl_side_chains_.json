@@ -1,0 +1,155 @@
+{
+  "paper_id": "Journal_of_Polymer_Science_Part_A_Polymer_Chemistry_-_2017_-_Chochos_-_Effects_of_alkyl_side_chains_",
+  "paper_title": "Effects of Alkyl Side Chains Positioning and Presence of Fused Aromatic Units in the Backbone of Low-Bandgap Diketopyrrolopyrrole Copolymers on the Optoelectronic Properties of Organic Solar Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Journal of Polymer Science Part A  Polymer Chemistry - 2017 - Chochos - Effects of alkyl side chains positioning and/auto/Journal of Polymer Science Part A  Polymer Chemistry - 2017 - Chochos - Effects of alkyl side chains positioning and.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The study compares tail-to-tail (TT or α-position) and head-to-head (HH or β-position) anchoring of linear dodecyl side chains on the outer thiophene units of quaterthiophene-based DPP copolymers.",
+      "evidence": "In particular, we investigate alkyl side chain positioning by introducing linear alkyl side chains into two different positions (α- and β-), and the distance of the electron rich and electron deficient monomers... namely tail-to-tail (TT) and head-to-head (HH).",
+      "complexity": "single-hop",
+      "keywords": [
+        "alkyl side chains",
+        "tail-to-tail",
+        "head-to-head",
+        "DPP copolymers"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Low-bandgap DPP copolymers were synthesized via Stille aromatic cross-coupling polymerization using Pd2(dba)3 as the catalyst and P(o-tol)3 as the ligand in toluene.",
+      "evidence": "The copolymers were synthesized by Stille aromatic cross-coupling polymerization utilizing tris(dibenzylideneacetone)dipalladium(0) [Pd2(dba)3] in 2% per mole and tri(o-tolyl)phosphine [P(o-tol)3] 8% per mole, as the catalytic system in toluene solution.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Stille coupling",
+        "palladium catalyst",
+        "synthesis",
+        "DPP"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The reference polymer DPP4T (unsubstituted quaterthiophene-DPP) achieved an optimal power conversion efficiency (PCE) of 4.0% with a short-circuit current (Jsc) of 9.2 mA/cm² and an open-circuit voltage (Voc) of 0.66 V.",
+      "evidence": "DPP4T [Jsc] 9.2 ± 0.3 mA/cm2... [Voc] 0.66 ± 0.02 V... [PCE] 4.0 ± 0.3%",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "Jsc",
+        "Voc",
+        "DPP4T"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Head-to-head (HH) positioning of side chains in DPP copolymers (DPP4Tb and DPP2TT2Tb) leads to an increase in open-circuit voltage (Voc) by approximately 0.1 V compared to tail-to-tail (TT) positioning (DPP4Ta and DPP2TT2Ta).",
+      "evidence": "In the case of the HH conformation (DPP4Tb or DPP2TT2Tb), the respective solar cells exhibit almost 0.1 eV enhanced Voc versus solar cells comprising DPP4Ta or DPP2TT2Ta (TT conformation).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Voc",
+        "head-to-head",
+        "tail-to-tail",
+        "structure-property"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The tail-to-tail (TT) conformation of alkyl side chains results in higher short-circuit currents (Jsc) compared to the head-to-head (HH) conformation due to minimized steric hindrance along the polymer backbone.",
+      "evidence": "In addition, if the alkyl side chains are anchored as TT conformation, the photocurrents are improved... minimization of steric hindrance is estimated when the didodecyl side chains are in the TT conformation.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Jsc",
+        "tail-to-tail",
+        "steric hindrance",
+        "photocurrent"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "DFT calculations show that the dihedral angle (θ4) between adjacent units is significantly higher in head-to-head (HH) polymers (58.5° for DPP4Tb) compared to tail-to-tail (TT) polymers (17.3° for DPP4Ta).",
+      "evidence": "In particular, the most important alteration is detected on θ4 dihedral angle where the rotation between the adjacent units in DPP4Tb is 58.5° as compared with 17.3° in DPP4Ta.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DFT",
+        "dihedral angle",
+        "steric hindrance",
+        "conformation"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Introducing alkyl side chains significantly improves the processability of DPP copolymers, allowing them to be dissolved at 40 °C compared to 75 °C required for the unsubstituted DPP4T derivative.",
+      "evidence": "The beneficial role of the alkyl side chains positioning of the processability is highlighted in the fact that DPP4Ta, DPP4Tb, DPP2TT2Ta and DPP2TT2Tb were dissolved at much lower temperature (40 °C) than DPP4T (75 °C).",
+      "complexity": "single-hop",
+      "keywords": [
+        "solubility",
+        "processability",
+        "dissolution temperature",
+        "processing"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Replacing thiophene rings with fused thieno[3,2-b]thiophene units in the DPP copolymer backbone enhances the short-circuit current (Jsc) and overall PCE, despite slightly higher optical bandgaps.",
+      "evidence": "both DPP2TT2Ta and DPP2TT2Tb exhibit enhanced Jsc and hence increased PCEs versus DPP4Ta and DPP4Tb even though they have slightly higher optical bandgaps.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "thieno[3,2-b]thiophene",
+        "fused aromatic units",
+        "PCE",
+        "Jsc"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The ionization potentials (IP) of the polymers were determined using Photo-Electron Spectroscopy in Air (PESA), ranging from 5.13 eV (DPP2TT2Ta) to 5.24 eV (DPP4T).",
+      "evidence": "The ionization potentials (IPs) of all DPP-based copolymers were determined by PESA... The IPs of DPP4T, DPP4Ta, DPP4Tb, DPP2TT2Ta, and DPP2TT2Tb are 5.24, 5.14, 5.21, 5.13, and 5.23 eV, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PESA",
+        "ionization potential",
+        "energy levels"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The organic solar cells were fabricated using an inverted architecture: ITO/PFN/active layer/MoO3/Al, where PFN acts as the electron transport layer.",
+      "evidence": "investigated organic solar cells with an inverted ITO/PFN/active layer/MoO3/Al device architecture... a poly[(9,9-bis(3'-(N,N-dimethylamino)propyl)-2,7-fluorene)-alt-2,7-(9,9-dioctylfluorene)] (PFN) solution... was spun onto the ITO substrate.",
+      "complexity": "single-hop",
+      "keywords": [
+        "inverted structure",
+        "PFN",
+        "device architecture",
+        "electron transport layer"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The active layer blend (polymer:PC71BM ratio 1:3) optimization included the addition of 2% 1,8-diiodooctane (DIO) as a solvent additive and thermal annealing at 85 °C for 5 minutes.",
+      "evidence": "polymer:fullerene ratios of 1:3. Three hours before the photoactive layer deposition, 2% of 1,8-diiodooctane were added to the blend solution... thermally annealed (at ambient pressure) at 85 °C for 5 min.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DIO",
+        "solvent additive",
+        "thermal annealing",
+        "PC71BM"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Atomic Force Microscopy (AFM) analysis showed that the DPP2TT2Tb:PC71BM blend had a smoother film and less phase contrast, suggesting excessive component intermixing and leading to a low fill factor (FF) of 42.4%.",
+      "evidence": "For the DPP2TT2Tb:PC71BM we observe an even smoother film and less contrast in the phase image, which may hint to more intermixing of the components... in line with the observed low FF.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "AFM",
+        "morphology",
+        "fill factor",
+        "intermixing"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 15137,
+    "completion_tokens": 3947,
+    "total_tokens": 19084
+  }
+}

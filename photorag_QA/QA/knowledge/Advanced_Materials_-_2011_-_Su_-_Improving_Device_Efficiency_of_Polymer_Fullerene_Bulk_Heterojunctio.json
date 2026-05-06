@@ -1,0 +1,145 @@
+{
+  "paper_id": "Advanced_Materials_-_2011_-_Su_-_Improving_Device_Efficiency_of_Polymer_Fullerene_Bulk_Heterojunctio",
+  "paper_title": "Improving Device Efficiency of Polymer/Fullerene Bulk Heterojunction Solar Cells Through Enhanced Crystallinity and Reduced Grain Boundaries Induced by Solvent Additives",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Materials - 2011 - Su - Improving Device Efficiency of Polymer Fullerene Bulk Heterojunction Solar Cells Through/auto/Advanced Materials - 2011 - Su - Improving Device Efficiency of Polymer Fullerene Bulk Heterojunction Solar Cells Through.md",
+  "knowledge_points": [
+    {
+      "category": "Performance Metrics",
+      "content": "The power conversion efficiency (PCE) of PBTTPD/PC71BM (1:1.5, w/w) solar cells increases from 5.0% to 7.3% (a 45% relative improvement) when 0.5 vol% of 1,6-diiodohexane (DIH) is used as a solvent additive.",
+      "evidence": "In this Communication, we demonstrate that the PCE of a device incorporating a PBTTPD/PC71BM (1:1.5, w/w) film as the active layer can be improved from 5% to 7.3% - a relative increase of 45% - after incorporating 1,6-diiodohexane (DIH)...",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "PBTTPD",
+        "PC71BM",
+        "1,6-diiodohexane"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The short-circuit current density (JSC) of PBTTPD/PC71BM devices increases from 9 mA/cm² (without additives) to 13.1 mA/cm² when processed with DIH as a solvent additive.",
+      "evidence": "The short-current densities of the devices with PBTTPD/PC71BM active layers that had been processed with... DIH as the solvent additive exhibited the highest short-circuit current density; it was 40% greater than that obtained without solvent additives (9 mA/cm² vs 13.1 mA/cm²).",
+      "complexity": "single-hop",
+      "keywords": [
+        "short-circuit current density",
+        "JSC",
+        "DIH"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "DIH as a solvent additive enhances the crystallinity of PBTTPD in the active layer by 2.4 times in the out-of-plane direction and 3.6 times in the in-plane direction compared to films without additives.",
+      "evidence": "the additive DIH not only induced higher polymer crystallinity (2.4 and 3.6 times in the out-of-plane and in-plane directions, respectively)...",
+      "complexity": "single-hop",
+      "keywords": [
+        "crystallinity",
+        "PBTTPD",
+        "DIH",
+        "out-of-plane",
+        "in-plane"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Diiodoalkane solvent additives with varying alkyl chain lengths, specifically 1,4-diiodobutane (DIB), 1,6-diiodohexane (DIH), and 1,8-diiodooctane (DIO), are used at a concentration of 0.5 vol% in chloroform to optimize active layer morphology.",
+      "evidence": "Figure 1b displays the UV-vis absorption spectra of PBTTPD/PC71BM (1:1.5, w/w) films cast with 0.5 vol% of DIB, DIH, and DIO in CF.",
+      "complexity": "single-hop",
+      "keywords": [
+        "solvent additives",
+        "diiodoalkanes",
+        "chloroform",
+        "DIH",
+        "DIB",
+        "DIO"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Simultaneous synchrotron grazing-incidence small-angle X-ray scattering (GISAXS) and grazing-incidence wide-angle X-ray scattering (GIWAXS) are employed to analyze polymer crystallinity and fullerene aggregation on both nano- and meso-scales.",
+      "evidence": "We also elucidated the precise active layer morphology with simultaneous synchrotron grazing-incidence small-/wide-angle X-ray scattering (GIWAXS/GISAXS)...",
+      "complexity": "single-hop",
+      "keywords": [
+        "GISAXS",
+        "GIWAXS",
+        "synchrotron",
+        "morphology"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "GISAXS profiles of PBTTPD/PC71BM films show a fractal dimension (D) of approximately 3, indicating the formation of fractal-like (porous) PC71BM aggregates within the active layer.",
+      "evidence": "the scattering intensity... exhibited the same power-law scattering behavior... with the fractal dimension D of approximately 3... indicating a fractal-like (porous) PC71BM aggregate.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GISAXS",
+        "fractal dimension",
+        "PC71BM aggregates"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The open-circuit voltage (VOC) of PBTTPD/PC71BM solar cells remains consistently around 0.9 V, regardless of whether solvent additives are used during processing.",
+      "evidence": "The open-circuit voltages of the devices featuring PBTTPD/PC71BM active layers were all approximately 0.9 V, regardless of whether they were processed with or without solvent additives.",
+      "complexity": "single-hop",
+      "keywords": [
+        "open-circuit voltage",
+        "VOC",
+        "PBTTPD",
+        "solvent additive"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "TEM imaging reveals that PBTTPD/PC71BM films processed without additives contain large PC71BM grains with a mean spacing of approximately 340 nm, which are significantly reduced in size upon the addition of DIH.",
+      "evidence": "Large PC71BM grains (size: ca. 150 nm; mean spacing: ca. 340 nm) are evident in the image of the film processed without any additive while the size of PC71BM grains reduced to ca. 30 nm for the PBTTPD/PC71BM film prepared with DIH...",
+      "complexity": "multi-hop",
+      "keywords": [
+        "TEM",
+        "grain size",
+        "mean spacing",
+        "PC71BM"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Solvent additives like 1,8-diiodoalkanes improve device performance by bridging the miscibility gap between conjugated polymers and PC71BM, which has poor solubility in common solvents like chloroform or chlorobenzene.",
+      "evidence": "Although chloroform and chlorobenzene provide good solubility for conjugated polymers, they are relatively poor solvents for asymmetric C70 fullerene derivatives such as PC71BM; therefore, the need exists for a solvent additive that can bridge the miscibility gap...",
+      "complexity": "single-hop",
+      "keywords": [
+        "miscibility",
+        "solubility",
+        "PC71BM",
+        "solvent additive"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "GIWAXS analysis identifies that PBTTPD displays both edge-on lamellae (indicated by an out-of-plane (100) peak at qz = 0.24 Å⁻¹) and face-on lamellae (indicated by an out-of-plane (010) signal at qz = 1.7 Å⁻¹) when processed with additives.",
+      "evidence": "The strong out-of-plane (100) peak at a value of qz of 0.24 Å⁻¹ is due to edge-on PBTTPD lamellae... One additional characteristic peak was present for the PBTTPD/PC71BM films that had been processed with DIB, DIH, and DIO as additive: an out-of-plane (010) signal at a value of qz of 1.7 Å⁻¹.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "GIWAXS",
+        "edge-on",
+        "face-on",
+        "lamellae",
+        "PBTTPD"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The polymer PBTTPD is chemically identified as poly{bi(dodecyl)thiophene-thieno[3,4-c]pyrrole-4,6-dione}.",
+      "evidence": "Figure 1a presents the molecular structures of poly{bi(dodecyl)thiophene-thieno[3,4-c]pyrrole-4,6-dione} (PBTTPD)...",
+      "complexity": "single-hop",
+      "keywords": [
+        "PBTTPD",
+        "chemical structure",
+        "conjugated polymer"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 8845,
+    "completion_tokens": 3386,
+    "total_tokens": 12231
+  }
+}

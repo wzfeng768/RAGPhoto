@@ -1,0 +1,144 @@
+{
+  "paper_id": "Solar_RRL_-_2021_-_Zhang_-_Modulation_of_Vertical_Component_Distribution_for_LargeArea_ThickFilm_Org",
+  "paper_title": "Modulation of Vertical Component Distribution for Large-Area Thick-Film Organic Solar Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Solar RRL - 2021 - Zhang - Modulation of Vertical Component Distribution for Large‐Area Thick‐Film Organic Solar Cells/auto/Solar RRL - 2021 - Zhang - Modulation of Vertical Component Distribution for Large‐Area Thick‐Film Organic Solar Cells.md",
+  "knowledge_points": [
+    {
+      "category": "Processing & Fabrication",
+      "content": "Optimized thick-film organic solar cells (~300 nm) require a higher concentration of additives compared to thin-film devices (~110 nm); specifically, PM6:IT-4F thick-film devices optimized at 0.6% DIO while thin-film devices optimized at 0.3% DIO.",
+      "evidence": "It was found that the optimized thick-film device needs more additive than the optimized thin-film device... optimized thin-film and thick-film devices exhibit power conversion efficiency (PCE) of 16.69% and 14.91% at the additive contents of 0.3% and 0.6%, respectively.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "additive content",
+        "thick-film",
+        "DIO",
+        "PM6:IT-4F"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The PM6:Y6-based thick-film (300 nm) organic solar cell achieved a power conversion efficiency (PCE) of 14.91% with 0.6% chloronaphthalene (CN) additive, compared to 13.82% with 0.3% CN.",
+      "evidence": "for the thick-film devices, the device with 0.6% CN (PCE = 14.91%) exhibits better device performance than that with 0.3% CN (PCE = 13.82%).",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "PM6:Y6",
+        "chloronaphthalene",
+        "thick-film"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "In thick-film OSCs, increasing DIO additive from 0.3% to 0.6% reduces both trap-assisted recombination (s decreases from 1.65 kT/q to 1.42 kT/q) and bimolecular recombination (alpha increases from 0.922 to 0.959).",
+      "evidence": "the device with 0.6% DIO exhibits less trap-assisted recombination than that with 0.3% DIO distinctly, due to a smaller value of s = 1.42 kT/q than that of s = 1.65 kT/q... dependence of Jsc on light intensity indicates the less bimolecular recombination for the device with 0.6% DIO, on account of the higher value of α = 0.959 than that of α = 0.922.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "trap-assisted recombination",
+        "bimolecular recombination",
+        "charge transport",
+        "DIO"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Time-of-flight secondary ion mass spectrometry (TOF-SIMS) of PM6:IT-4F films reveals that 0.6% DIO content enhances vertical component distribution, with the IT-4F acceptor (represented by CN- signals) enriched at the surface and the PM6 donor enriched near the substrate.",
+      "evidence": "the intensity of CN− signal for the film with 0.6% DIO near the surface is stronger than that with 0.3% DIO... the intensity of CN− signal for the film with 0.6% DIO near the substrate is weaker than that with 0.3% DIO. It indicates that the vertical component distribution for the film with 0.6% DIO is stronger than that with 0.3% DIO.",
+      "complexity": "single-hop",
+      "keywords": [
+        "TOF-SIMS",
+        "vertical component distribution",
+        "PM6:IT-4F",
+        "surface enrichment"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Transient photovoltage (TPV) and transient photocurrent (TPC) measurements show that 0.6% DIO thick-film devices possess a longer carrier lifetime (1.95 µs vs 1.62 µs) and faster charge extraction compared to 0.3% DIO devices.",
+      "evidence": "the carrier lifetime obtained by fitting TPV profile for the device with 0.6% DIO (τ = 1.95 μs) is longer than that with 0.3% DIO (τ = 1.62 μs)... The photocurrent of the device with 0.6% DIO decays faster than that with 0.3% DIO, suggesting the more effective charge extraction.",
+      "complexity": "single-hop",
+      "keywords": [
+        "TPV",
+        "TPC",
+        "carrier lifetime",
+        "charge extraction"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Large-area (1 cm²) thick-film organic solar cells fabricated via blade coating in ambient environment achieved PCEs of 13.94% on rigid substrates and 13.05% on flexible PET/ITO substrates.",
+      "evidence": "The large-area thick-film rigid OSC and flexible OSC exhibit the high PCE values of 13.94% and 13.05% respectively... The large-area flexible device based on PET/ITO substrate with a mask of 1 cm2.",
+      "complexity": "single-hop",
+      "keywords": [
+        "large-area",
+        "flexible OSC",
+        "blade coating",
+        "ambient environment"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Angle-dependent GIWAXS analysis indicates that PM6 crystallinity (expressed as Crystal Coherence Length, CCL) increases from the top surface toward the bottom of the active layer in thick-film devices.",
+      "evidence": "the scattering intensity of (010) peak at q ≈ 1.72 Å−1 (assigned to the π–π stacking of PM6) increases with the increase in incidence angle, suggesting the gradually enhanced crystallinity of PM6 from top to bottom in the active layer.",
+      "complexity": "single-hop",
+      "keywords": [
+        "angle-dependent GIWAXS",
+        "crystallinity",
+        "CCL",
+        "vertical distribution"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "In PM6:IT-4F blend films, increasing the DIO content from 0% to 0.9% leads to a decrease in π-π interplanar distance (d) from 3.73 Å to 3.67 Å and an increase in Crystal Coherence Length (CCL) from 1.52 nm to 1.64 nm.",
+      "evidence": "With the increase in DIO content, the interplanar distance (d) decreases gradually, and the crystallization coherence length (CCL) increases... (Table 2: 0% DIO d=3.73, CCL=1.52; 0.9% DIO d=3.67, CCL=1.64).",
+      "complexity": "single-hop",
+      "keywords": [
+        "CCL",
+        "interplanar distance",
+        "GIWAXS",
+        "DIO"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Thermal stability tests at 100 °C for 128 hours show that PM6:Y6 thick-film devices with 0.6% CN retain 63% of their initial PCE, while thin-film devices with 0.3% CN retain 68%.",
+      "evidence": "After heating for 128 h at 100 °C, the thin-film devices with 0.3% and 0.6% CN retain 68% and 64% of initial PCE, and the corresponding thick-film devices retain 67% and 63% of initial PCE.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "thermal stability",
+        "PCE retention",
+        "PM6:Y6",
+        "chloronaphthalene"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The exciton dissociation probability (P) for thin-film PM6:IT-4F devices reaches a maximum of 99.23% at 0.3% DIO content, which correlates with its peak photovoltaic performance.",
+      "evidence": "exciton dissociation probability (P) calculated from Jph−Veff curves are 96.41, 99.23, 98.93, and 97.26% for the devices with 0, 0.3, 0.6, and 0.9% DIO contents, respectively. The highest P value indicates that the device with 0.3% DIO possesses the most efficient exciton dissociation.",
+      "complexity": "single-hop",
+      "keywords": [
+        "exciton dissociation",
+        "Jph-Veff",
+        "DIO",
+        "thin-film"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Resonant soft X-ray scattering (RSoXS) at 248.48 eV demonstrates that both domain size and relative phase purity in PM6:IT-4F films increase as the DIO content is raised from 0% to 0.9%.",
+      "evidence": "As displayed in Figure 2c... both domain size and relative purity are enlarged with the increased addition of DIO. (Table 2: 0% DIO domain size 28.2 nm, purity 0.82; 0.9% DIO domain size 37.5 nm, purity 1).",
+      "complexity": "single-hop",
+      "keywords": [
+        "RSoXS",
+        "domain size",
+        "phase purity",
+        "DIO"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 13256,
+    "completion_tokens": 3674,
+    "total_tokens": 16930
+  }
+}

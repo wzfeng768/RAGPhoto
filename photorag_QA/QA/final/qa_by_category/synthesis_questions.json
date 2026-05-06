@@ -1,0 +1,14 @@
+{
+  "meta": {},
+  "qa_pairs": [
+    {
+      "question": "Synthesize a general rule for how halogenation (Cl) and pseudohalogenation (CN) affects molecular packing in high-performance organic electronics based on the DCP and TAZ studies.",
+      "answer": "Based on these studies, the introduction of strongly electronegative groups like Chlorine or Cyano generally promotes more ordered and favorable molecular packing for charge transport. In small molecules like DCP, chlorination creates specific C-H...Cl interactions that favor a slipped π-π stacking motif with high overlap, leading to high hole mobility. In polymers like TAZ, cyanation increases the preference for a 'face-on' orientation, which is generally beneficial for vertical charge transport in solar cells. Therefore, a general rule is that these substituents can be used as 'conformational/packing directors' to increase crystallinity and orient the π-system favorably relative to the electrodes, though the number of substituents must be balanced to avoid diminishing returns (as seen with diCNTAZ vs monoCNTAZ).",
+      "category": "Synthesis Questions",
+      "source_title": "Effect of Cyano Substitution on Conjugated Polymers for Bulk Heterojunction Solar Cells | High-Performance Organic Field-Effect Transistors Based on Single and Large-Area Aligned Crystalline Microribbons of 6,13-Dichloropentacene",
+      "difficulty": "hard",
+      "reasoning_type": "cross-doc",
+      "id": "qa_2274"
+    }
+  ]
+}

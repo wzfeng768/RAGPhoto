@@ -1,0 +1,153 @@
+{
+  "paper_id": "Angew_Chem_Int_Ed_-_2015_-_Shi_-_Dipolar_Quinoidal_Acene_Analogues_as_Stable_Isoelectronic_Structure",
+  "paper_title": "Dipolar Quinoidal Acene Analogues as Stable Isoelectronic Structures of Pentacene and Nonacene",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Angew Chem Int Ed - 2015 - Shi - Dipolar Quinoidal Acene Analogues as Stable Isoelectronic Structures of Pentacene and/auto/Angew Chem Int Ed - 2015 - Shi - Dipolar Quinoidal Acene Analogues as Stable Isoelectronic Structures of Pentacene and.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "An unusual 1,2-sulfur migration occurs during the BF3·Et2O-mediated Friedel-Crafts alkylation step of the synthesis of quinoidal nonacene analogues, leading to the formation of a meta-dithia isomer (compound 3) instead of the target para-dithia compound.",
+      "evidence": "Therefore, the formation of the meta-dithia compound is likely due to 1,2-sulfur migration via a spirocyclic cationic intermediate during the ring cyclization reaction in the presence of BF3·Et2O (Scheme 1).",
+      "complexity": "single-hop",
+      "keywords": [
+        "1,2-sulfur migration",
+        "Friedel-Crafts alkylation",
+        "thia-acene",
+        "isomerization"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Quinoidal thia-acene analogues 1 and 3 are designed as isoelectronic structures of pentacene and nonacene by replacing p-quinodimethane units with sulfur atoms, effectively matching the pi-electron count of the parent acenes.",
+      "evidence": "the obtained structures now can be regarded as the isoelectronic structures of the respective acenes (Figure 1). They are better described as 'acene-like molecules' rather than 'acenes' because of existence of more than one aromatic sextet rings.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "isoelectronic",
+        "pentacene",
+        "nonacene",
+        "quinoidal thia-acene"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The optical energy gaps (Eg opt) for the pentacene-like analogue 1 and the nonacene-like analogue 3 are 1.34 eV and 1.28 eV, respectively, determined from the onset of the lowest-energy absorption band.",
+      "evidence": "The optical energy gap (Eg opt) was determined as 1.34, 1.28, 2.02, and 1.20 eV for 1, 3, 4, and Anthony’s nonacene derivatitve, respectively, from the onset of the lowest-energy absorption.",
+      "complexity": "single-hop",
+      "keywords": [
+        "optical energy gap",
+        "UV-vis-NIR",
+        "absorption onset"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Compound 1 exhibits a HOMO energy level of -4.79 eV and a LUMO level of -3.10 eV, while compound 3 shows a HOMO of -4.72 eV and a LUMO of -3.20 eV, as estimated from cyclic voltammetry.",
+      "evidence": "The HOMO and LUMO energy levels were estimated to be -4.79 (1), -4.72 (3)... and -3.10 (1), -3.20 (3)... respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "HOMO",
+        "LUMO",
+        "cyclic voltammetry",
+        "energy levels"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The quinoidal thia-acene analogues 1 and 3 possess a significant dipolar character with calculated dipole moments of 3.1436 D and 2.8714 D, respectively, due to disjointed HOMO and LUMO profiles.",
+      "evidence": "The HOMO and LUMO profiles of 1 and 3 indeed show some disjointed characters compared to that of 4, thus resulting in a significant dipole moment of 3.1436 D and 2.8714 D respectively (Figure 3).",
+      "complexity": "single-hop",
+      "keywords": [
+        "dipole moment",
+        "HOMO-LUMO overlap",
+        "zwitterionic character"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The enhanced stability of compounds 1 and 3 compared to pentacene and nonacene is attributed to the presence of more aromatic sextet rings in the quinoidal structure and kinetic protection from bulky mesityl substituents.",
+      "evidence": "In contrast to their acene isoelectronic structures, both compounds are stable because of the existence of more aromatic sextet rings, a dipolar character, and kinetic blocking.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "stability",
+        "aromatic sextet",
+        "kinetic blocking",
+        "mesityl groups"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Bond length alternation (BLA) analysis via X-ray crystallography confirms that compounds 1 and 3 maintain a closed-shell quinoidal ground state with minimal contribution from diradical or zwitterionic resonance forms.",
+      "evidence": "These data confirm that both 1 and 3 have a quinoidal structure in their ground state and have little contribution from the diradical and dipolar zwitterionic resonance forms, which is in good agreement with the UV-vis-NIR absorption spectra.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "BLA",
+        "X-ray crystallography",
+        "quinoidal",
+        "ground state"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Oxidative titration of compounds 1 and 3 with SbCl5 in dichloromethane allows for the observation of characteristic radical cation absorption bands, with compound 3+• showing peaks at 453, 835, 1071, and 1224 nm.",
+      "evidence": "The high-lying HOMO energy levels allow us to access the radical cations of 1, 3, and 4 by oxidative titration with SbCl5... characteristic absorption bands at... λ = 453, 835, 1071, 1224 nm for 3+•... were observed.",
+      "complexity": "single-hop",
+      "keywords": [
+        "oxidative titration",
+        "radical cation",
+        "NIR absorption"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Compound 1 crystallizes in a highly symmetric tetragonal space group (I41/a) where molecules form square-like tetrameric structures driven by intermolecular dipole-dipole and C-H···pi interactions.",
+      "evidence": "Alternatively, molecules of 1 are packed into a squarelike tetrameric structure through intermolecular dipole-dipole interactions and [C-H···π] interactions (2.692/2.895 Å)... Such tetrameric structures are further packed into a highly symmetric 3D structure through dipole-dipole interactions.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "crystal packing",
+        "tetragonal",
+        "dipole-dipole interaction",
+        "tetramer"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Compound 3 packs in a slipped face-to-face manner in a triclinic lattice (P1), where [C-H···S] interactions (2.895/2.994 Å) and [C-H···pi] interactions suppress typical anti-parallel dipole-dipole alignment, causing all dipole moments to point in the same direction.",
+      "evidence": "Interestingly, 3 packs in a slipped face-to-face manner mainly through [C-H···S] interactions (2.895/2.994 Å)... These interactions suppress the normally observed anti-parallel dipole-dipole interaction in a dipolar molecule and the dipole moments of all molecules in this case point to the same direction.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "C-H...S interaction",
+        "crystal lattice",
+        "dipole alignment",
+        "slipped face-to-face"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Time-dependent density functional theory (TD-DFT) calculations at the B3LYP/6-31G* level predict the longest-wavelength absorption for compound 1 at 677.7 nm (f = 0.1940) and for compound 3 at 728.6 nm (f = 0.9865).",
+      "evidence": "TD DFT calculations (B3LYP/6-31G*...) indicated that the longest-wavelength absorption band originates from HOMO -> LUMO transition (λmax = 677.7 nm oscillator strength f = 0.1940... λmax = 728.6 nm f = 0.9865).",
+      "complexity": "single-hop",
+      "keywords": [
+        "TD-DFT",
+        "B3LYP",
+        "oscillator strength",
+        "absorption prediction"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Unlike their parent acenes, the quinoidal thia-acene analogues 1 and 3 are extremely stable in air, which is attributed to the elimination of cycloaddition pathways by switching from cis-1,3-butadiene to quinoidal conjugation.",
+      "evidence": "The switching from a cis-1,3-butadiene conjugation to a quinoidal conjugation eliminates the possible cycloaddition reactions and at the same time increases the benzenoid character... The compounds 1 and 3 are extremely stable in air, and is in contrast to their corresponding reactive pentacene.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "air stability",
+        "quinoidal conjugation",
+        "cycloaddition",
+        "acene analogues"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 7980,
+    "completion_tokens": 3381,
+    "total_tokens": 11361
+  }
+}

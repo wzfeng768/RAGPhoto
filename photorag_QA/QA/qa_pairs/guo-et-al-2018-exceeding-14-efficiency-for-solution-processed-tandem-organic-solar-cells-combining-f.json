@@ -1,0 +1,75 @@
+{
+  "paper_id": "guo-et-al-2018-exceeding-14-efficiency-for-solution-processed-tandem-organic-solar-cells-combining-f",
+  "paper_title": "Exceeding 14% Efficiency for Solution-Processed Tandem Organic Solar Cells Combining Fullerene- and Nonfullerene-Based Subcells with Complementary Absorption",
+  "qa_pairs": [
+    {
+      "question": "What are the primary optoelectronic properties of the wide-bandgap polymer PBD1 used in tandem organic solar cells?",
+      "answer": "PBD1 is a wide-bandgap (WBG) conjugated polymer characterized by an optical bandgap (Eg opt) of 1.88 eV and a low-lying highest occupied molecular orbital (HOMO) energy level of -5.39 eV.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Exceeding 14% Efficiency for Solution-Processed Tandem Organic Solar Cells Combining Fullerene- and Nonfullerene-Based Subcells with Complementary Absorption",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Describe the composition and thickness of the interconnecting layer (ICL) utilized in the solution-processed tandem organic solar cell.",
+      "answer": "The interconnecting layer (ICL) consists of two 30 nm layers: a ZnO nanoparticle (ZnO-NP) layer processed from n-butanol and a pH-neutral PEDOT:PSS (N-PEDOT:PSS) layer spin-coated from a water/isopropanol mixture.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Exceeding 14% Efficiency for Solution-Processed Tandem Organic Solar Cells Combining Fullerene- and Nonfullerene-Based Subcells with Complementary Absorption",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the tandem configuration involving PBD1:PC71BM and PTB7-Th:IEICO-4F achieve broad spectral coverage?",
+      "answer": "The tandem configuration utilizes complementary absorption between the two subcells. The front subcell, based on PBD1:PC71BM, absorbs photons in the 300 to 650 nm range, while the rear subcell, based on PTB7-Th:IEICO-4F, absorbs in the 650 to 1000 nm range, effectively covering the solar spectrum from 300 to 1000 nm.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Exceeding 14% Efficiency for Solution-Processed Tandem Organic Solar Cells Combining Fullerene- and Nonfullerene-Based Subcells with Complementary Absorption",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What are the optimized thicknesses for the front and rear active layers in this tandem solar cell, and how were they determined?",
+      "answer": "The optimal thicknesses were determined to be 230 nm for the front active layer (PBD1:PC71BM) and 110 nm for the rear active layer (PTB7-Th:IEICO-4F). these values were established through a combination of transfer-matrix modeling and experimental verification to ensure optimal current matching.",
+      "category": "Processing & Fabrication",
+      "source_title": "Exceeding 14% Efficiency for Solution-Processed Tandem Organic Solar Cells Combining Fullerene- and Nonfullerene-Based Subcells with Complementary Absorption",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "How do the post-deposition treatments of 1,8-diiodooctane (DIO) additive and thermal annealing affect the morphology of the PBD1:PC71BM blend?",
+      "answer": "The combination of DIO additive and thermal annealing transforms the PBD1:PC71BM blend into a continuous interpenetrating network with fibrous features. This morphology is highly beneficial for efficient exciton dissociation and charge transport within the active layer.",
+      "category": "Processing & Fabrication",
+      "source_title": "Exceeding 14% Efficiency for Solution-Processed Tandem Organic Solar Cells Combining Fullerene- and Nonfullerene-Based Subcells with Complementary Absorption",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Compare the photovoltaic performance of the PBD1:PC71BM single-junction device with the optimized tandem organic solar cell.",
+      "answer": "The PBD1:PC71BM single-junction device (230 nm thickness) achieves a PCE of 9.8%, a Jsc of 14.6 mA cm⁻², and a fill factor (FF) of 74%. In comparison, the optimized tandem cell achieves a significantly higher PCE of 14.2% and a higher Voc of 1.61 V, though it has a lower Jsc of 12.3 mA cm⁻² and a slightly lower FF of 72%.",
+      "category": "Performance Metrics",
+      "source_title": "Exceeding 14% Efficiency for Solution-Processed Tandem Organic Solar Cells Combining Fullerene- and Nonfullerene-Based Subcells with Complementary Absorption",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What is the molecular orientation and charge transport capability of the PBD1 polymer?",
+      "answer": "PBD1 exhibits a high hole mobility of 1.4 × 10⁻³ cm² V⁻¹ s⁻¹. This high mobility is supported by its preferential face-on orientation relative to the substrate and a π-π stacking distance of 3.73 Å.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Exceeding 14% Efficiency for Solution-Processed Tandem Organic Solar Cells Combining Fullerene- and Nonfullerene-Based Subcells with Complementary Absorption",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the internal quantum efficiency (IQE) differ between the PBD1:PC71BM and PTB7-Th:IEICO-4F subcells in the tandem device?",
+      "answer": "The spectrally averaged internal quantum efficiency (IQE) for the PBD1:PC71BM front active layer is 95%, which is higher than the 85% IQE observed for the PTB7-Th:IEICO-4F rear active layer.",
+      "category": "Performance Metrics",
+      "source_title": "Exceeding 14% Efficiency for Solution-Processed Tandem Organic Solar Cells Combining Fullerene- and Nonfullerene-Based Subcells with Complementary Absorption",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2535,
+    "completion_tokens": 3188,
+    "total_tokens": 5723
+  }
+}

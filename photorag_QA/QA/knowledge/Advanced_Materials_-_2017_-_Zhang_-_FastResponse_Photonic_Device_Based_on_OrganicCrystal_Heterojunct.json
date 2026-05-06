@@ -1,0 +1,153 @@
+{
+  "paper_id": "Advanced_Materials_-_2017_-_Zhang_-_FastResponse_Photonic_Device_Based_on_OrganicCrystal_Heterojunct",
+  "paper_title": "Fast-Response Photonic Device Based on Organic-Crystal Heterojunctions Assembled into a Vertical-Yet-Open Asymmetric Architecture",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Materials - 2017 - Zhang - Fast‐Response Photonic Device Based on Organic‐Crystal Heterojunctions Assembled into a/auto/Advanced Materials - 2017 - Zhang - Fast‐Response Photonic Device Based on Organic‐Crystal Heterojunctions Assembled into a.md",
+  "knowledge_points": [
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The 'vertical-yet-open' asymmetric architecture utilizes a honeycomb-shaped nanomesh scaffold to connect multiple crystalline heterojunctions without requiring transparent electrodes like indium tin oxide (ITO).",
+      "evidence": "our strategy adopts a vertical-yet-open device structure... this method is versatile and can be exploited to integrate also other discrete organic crystalline semiconducting architectures into high performance optoelectronic devices in absence of transparent electrodes like indium tin oxide (ITO).",
+      "complexity": "single-hop",
+      "keywords": [
+        "vertical-yet-open",
+        "nanomesh scaffold",
+        "ITO-free",
+        "asymmetric architecture"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "PTCDI-C8 crystalline nanowires (PT-CNWs) synthesized via phase transfer (PT) are thicker (≈200 nm) and more rigid than those produced by solvent-induced precipitation (SIP), which are typically 40–50 nm thick.",
+      "evidence": "PT-CNWs are thicker (≈200 nm) and so more rigid than SIP-NWs, the latter exhibiting a typical thickness of 40-50 nm",
+      "complexity": "single-hop",
+      "keywords": [
+        "PTCDI-C8",
+        "phase transfer",
+        "nanowires",
+        "rigidity"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The rigidity of PT-CNWs allows them to span across nanoholes in the nanomesh scaffold, creating an air gap with the bottom electrode that can be subsequently filled with a second p-type semiconductor to form a p-n heterojunction.",
+      "evidence": "the greater crystalline nature and rigidity of PT-CNWs enables their integration in the nanomesh through the formation of a physical contact specifically only with the upper electrode while forming an air gap with the bottom electrode. Such air gap can be filled with a second semiconductor of opposite polarity",
+      "complexity": "multi-hop",
+      "keywords": [
+        "air gap",
+        "heterojunction",
+        "p-n junction",
+        "solution processing"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The heterojunction between TIPS-PEN and PTCDI-C8 features complementary absorption and energetically favorable energy level offsets for charge transfer, with a ΔLUMO of 0.3 eV and a ΔHOMO of 0.8 eV.",
+      "evidence": "both ΔLUMO (TIPS-PEN -3.4 eV vs PTCDI-C8 -3.7 eV) and ΔHOMO (TIPS-PEN -5.1 eV vs PTCDI-C8 -5.9 eV) are energetically large enough to drive interfacial charge transfer upon illumination.",
+      "complexity": "single-hop",
+      "keywords": [
+        "HOMO-LUMO",
+        "energy level alignment",
+        "TIPS-PEN",
+        "PTCDI-C8"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The organic-crystal heterojunction device exhibits an ultrahigh signal-to-noise ratio of 10^7 under a bias of 0 V and can maintain a ratio of 10^4 even under a 1.5 V bias.",
+      "evidence": "The signal-to-noise ratio always exceeds 10^7 under a bias of 0 V for monochromatic illumination. Under a 1.5 V bias voltage, the signal-to-noise ratio could still reach 10^4",
+      "complexity": "single-hop",
+      "keywords": [
+        "signal-to-noise ratio",
+        "photodetector",
+        "sensitivity"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The photodetector achieves ultrafast response times shorter than 100 ns, with performance reaching 17 ns at 500 nm irradiation under a 1.5 V external bias.",
+      "evidence": "The response time, i.e., the time needed for the photocurrent to peak, was always shorter than 100 ns... the response time is further improved, i.e., from 34 to 17 ns (λ = 500 nm)... by applying an external voltage of 1.5 V.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "response time",
+        "transient photoresponse",
+        "nanoseconds"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "A thin lithium fluoride (LiF) dielectric film serves as a protecting layer to prevent solvent corrosion of the PTCDI-C8 nanowires during the deposition of the TIPS-PEN/anisole solution.",
+      "evidence": "LiF protecting shell could also improve the stability of PTCDI-C8 nanowires against solvent corrosion when TIPS-PEN/anisole solution is spin coated",
+      "complexity": "single-hop",
+      "keywords": [
+        "LiF",
+        "solvent corrosion",
+        "protection layer",
+        "anisole"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "During fabrication, the PTCDI-C8 nanowires act as a shadowing mask for the LiF deposition, ensuring that the subsequent p-type semiconductor (TIPS-PEN) only makes electrical contact with the silicon electrode in the masked region directly beneath the nanowires.",
+      "evidence": "the TIPS-PEN makes electrical contact only with the masked area below the nanowire... the whole surface has been passivated by LiF, except in the region of silicon electrode beneath nanowires, that act as shadowing mask for the deposition",
+      "complexity": "multi-hop",
+      "keywords": [
+        "shadowing mask",
+        "interface engineering",
+        "LiF passivation"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The open-circuit voltage (VOC) of the device ranges from 0.35 to 0.40 V and is influenced by the irradiation wavelength, with higher VOC observed when TIPS-PEN absorption is dominant due to lower energy loss during exciton separation.",
+      "evidence": "The VOC (≈0.35–0.40 V) is rather stable but slightly tuned by irradiation wavelength also. For the wavelength that TIPS-PEN exhibits more significant absorbance than PTCDI-C8, the device will show a relatively higher VOC",
+      "complexity": "single-hop",
+      "keywords": [
+        "open-circuit voltage",
+        "VOC",
+        "wavelength dependence",
+        "exciton separation"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Birefringence observed via linearly polarized microscopy and distinct X-ray diffraction (XRD) peaks confirm the high degree of crystalline order in both PTCDI-C8 and TIPS-PEN components within the device.",
+      "evidence": "The appearance of birefringence, as evidenced by linearly polarized microscopy images... All the XRD peaks measured on the final device could be unambiguously assigned to either PTCDI-C8 or TIPS-PEN crystals.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "XRD",
+        "birefringence",
+        "crystallinity",
+        "molecular packing"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The device photoresponsivity is dependent on the incident light power and external bias, increasing from 2.0 to 10 mA/W when the bias is increased from 0 to 1.5 V.",
+      "evidence": "the responsivity has increased from 2.0 to 10 mA W−1 by applying a 1.5 V bias.",
+      "complexity": "single-hop",
+      "keywords": [
+        "photoresponsivity",
+        "external bias",
+        "photovoltaic mode",
+        "photoconduction mode"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The photoresponse spectrum of the device can be tuned by blending PTCDI-C8 nanowires of different aggregation states (PT-CNWs and SIP-NWs) without altering the HOMO-LUMO energy alignment of the system.",
+      "evidence": "By mixing these two kinds of PTCDI-C8 nanowires together, we have developed photonic devices with tunable photoresponse spectra... the response spectrum is tuned simply by molecular aggregation without influencing the HOMO-LUMO energy alignment",
+      "complexity": "single-hop",
+      "keywords": [
+        "tunable photoresponse",
+        "molecular aggregation",
+        "blending",
+        "nanowires"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 10296,
+    "completion_tokens": 3615,
+    "total_tokens": 13911
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "paper_id": "chem_201102883_sm_miscellaneous_information",
+  "paper_title": "Efficient Conventional- and Inverted-Type Photovoltaic Cells Using a Planar Alternating Polythiophene Copolymer",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/chem_201102883_sm_miscellaneous_information/auto/chem_201102883_sm_miscellaneous_information.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "PTBT is a planar alternating polythiophene copolymer designed for high-performance organic photovoltaic applications.",
+      "evidence": "Efficient Conventional- and Inverted-Type Photovoltaic Cells Using a Planar Alternating Polythiophene Copolymer... PTBT",
+      "complexity": "single-hop",
+      "keywords": [
+        "PTBT",
+        "polythiophene copolymer",
+        "planar structure",
+        "alternating copolymer"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The photoluminescence (PL) spectra of PTBT are sensitive to the solvent environment, as evidenced by normalized PL measurements in different solvents.",
+      "evidence": "Figure S1. Normalized PL spectra of PTBT in different solvents.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PL spectra",
+        "solvatochromism",
+        "PTBT",
+        "photoluminescence"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The electrochemical properties and energy levels of the PTBT polymer are determined using cyclic voltammetry performed in an acetonitrile solution.",
+      "evidence": "Figure S2. Cyclic voltammogram of PTBT in acetonitrile.",
+      "complexity": "single-hop",
+      "keywords": [
+        "cyclic voltammetry",
+        "energy levels",
+        "redox properties",
+        "acetonitrile"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "PTBT-based photovoltaic cells can be fabricated in both conventional and inverted device architectures while maintaining efficiency.",
+      "evidence": "Efficient Conventional- and Inverted-Type Photovoltaic Cells Using a Planar Alternating Polythiophene Copolymer",
+      "complexity": "single-hop",
+      "keywords": [
+        "conventional architecture",
+        "inverted architecture",
+        "device configuration",
+        "OPV"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The charge transport properties of PTBT are characterized by evaluating the J-V characteristics of hole-only and electron-only devices, typically to calculate carrier mobility.",
+      "evidence": "Figure S3. J-V characteristics of PTBT-based hole-only and electron-only devices.",
+      "complexity": "single-hop",
+      "keywords": [
+        "carrier mobility",
+        "hole-only device",
+        "electron-only device",
+        "J-V characteristics"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The planar structure of the alternating polythiophene copolymer PTBT is a key design feature intended to optimize its performance in solar cell applications.",
+      "evidence": "Efficient Conventional- and Inverted-Type Photovoltaic Cells Using a Planar Alternating Polythiophene Copolymer",
+      "complexity": "multi-hop",
+      "keywords": [
+        "planar structure",
+        "structure-property relationship",
+        "polythiophene",
+        "copolymer"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 1070,
+    "completion_tokens": 1502,
+    "total_tokens": 2572
+  }
+}

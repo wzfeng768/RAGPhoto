@@ -1,0 +1,145 @@
+{
+  "paper_id": "Advanced_Materials_-_2016_-_Lin_-_Mapping_Polymer_Donors_toward_HighEfficiency_Fullerene_Free_Organi",
+  "paper_title": "Mapping Polymer Donors toward High-Efficiency Fullerene Free Organic Solar Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Materials - 2016 - Lin - Mapping Polymer Donors toward High‐Efficiency Fullerene Free Organic Solar Cells/auto/Advanced Materials - 2016 - Lin - Mapping Polymer Donors toward High‐Efficiency Fullerene Free Organic Solar Cells.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Three key criteria for selecting polymer donors for non-fullerene organic solar cells include: appropriate energy levels for exciton dissociation and high Voc, complementary absorption with the acceptor to maximize Jsc, and morphological compatibility for ideal phase separation and charge transport.",
+      "evidence": "Establishing general design guidance of donor materials in nonfullerene OsCs is more important but more complicated than that in fullerene OsCs... we propose the following criteria as being important: i) The energy levels... ii) The donor should have complementary absorption... iii) The donor should have morphology compatibility.",
+      "complexity": "single-hop",
+      "keywords": [
+        "design criteria",
+        "non-fullerene acceptors",
+        "donor selection"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The organic solar cell based on the PTFBDT-BZS donor and IDIC acceptor, optimized with 0.25% 1,8-diiodooctane (DIO), achieved a peak power conversion efficiency (PCE) of 11.03% and an average PCE of 10.97%.",
+      "evidence": "PTFBDT-BZS:IDIC based devices with 0.25% DIO show even higher PCE up to 11.03% (the average value of 10.97% for 20 devices)",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "PTFBDT-BZS",
+        "IDIC",
+        "efficiency"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Wide-bandgap polymer donors (PDCBT, J51, PTFBDT-BZS, and PDBT-T1) exhibit higher device performance when paired with the narrow-bandgap acceptor IDIC compared to the narrow-bandgap donor PTB7-Th due to better complementary absorption in the visible-NIR range.",
+      "evidence": "Among these systems, wide-bandgap polymers (PDCBT, J51, PTFBDT-BZS, and PDBT-T1):IDIC-based as cast devices show PCEs of 6.28%, 6.94%, 8.06%, and 9.20% respectively... which are higher than that of narrowbandgap polymer (PTB7-Th):IDIC-based devices (5.24%)",
+      "complexity": "multi-hop",
+      "keywords": [
+        "wide-bandgap",
+        "complementary absorption",
+        "IDIC"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The open-circuit voltage (Voc) of IDIC-based solar cells is directly related to the HOMO levels of the polymer donors; PTFBDT-BZS, which has the deepest HOMO level among the tested donors, yielded the highest Voc of 0.921 V.",
+      "evidence": "The Voc of these devices is in the range of 0.8–0.92 V, which is related to the HOMO of the donors... PTFBDT-BZS with the deepest HOMO yields the highest Voc",
+      "complexity": "single-hop",
+      "keywords": [
+        "Voc",
+        "HOMO level",
+        "PTFBDT-BZS"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The addition of 0.25% 1,8-diiodooctane (DIO) as a solvent additive in PDBT-T1:IDIC and PTFBDT-BZS:IDIC blends improves molecular packing, increases domain purity, and optimizes phase separation, leading to enhanced fill factor (FF) and short-circuit current (Jsc).",
+      "evidence": "use of 0.25% DIO boosts the PCE of OSCs based on PDBT-T1:IDIC and PTFBDT-BZS:IDIC up to 10.37% and 11.03%... DIO solvent improves the crystallinity, enhances phase purity, and optimizes phase separation of blended films.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "DIO",
+        "solvent additive",
+        "morphology optimization"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Resonant soft X-ray scattering (R-SoXS) analysis reveals that the relative domain purity of PTFBDT-BZS:IDIC blended films increases from 0.74 to 1.0 upon the addition of 0.25% DIO.",
+      "evidence": "The relative domain purity of PTFBDT-BZS:IDIC blended films without and with DIO is 0.74 and 1, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "R-SoXS",
+        "domain purity",
+        "PTFBDT-BZS"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "In the PTFBDT-BZS:IDIC system, the relationship between short-circuit current (Jsc) and light intensity (P) follows Jsc ∝ P^1.0, indicating that virtually all free carriers are collected at the electrodes before bimolecular recombination occurs.",
+      "evidence": "Both PDBT-T1:IDIC and PTFBDT-BZS:IDIC without and with DIO show the relationship of Jsc ∝ P^1.0 which indicates almost all free carriers are swept out and collected at the electrodes prior to bimolecular recombination.",
+      "complexity": "single-hop",
+      "keywords": [
+        "charge recombination",
+        "light intensity dependence",
+        "Jsc"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Grazing-incidence wide-angle X-ray diffraction (GIWAXS) measurements indicate that PDBT-T1:IDIC and PTFBDT-BZS:IDIC blended films possess a predominant 'face-on' molecular orientation, which is beneficial for vertical charge transport between electrodes.",
+      "evidence": "The π-π stacking of these four blended films in the out-of-plane direction is stronger than that in the in-plane direction, which indicates a predominant 'face-on' molecular orientation... The vertical π-π stacking is favorable to charge transport",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "face-on orientation",
+        "π-π stacking"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Transient absorption (TA) spectroscopy shows that in PTFBDT-BZS:IDIC blends, approximately 50% of charge pairs are formed within 200 fs (prompt generation), with the remaining generation completed by approximately 30 ps (delayed generation) via exciton diffusion.",
+      "evidence": "Approximately half of charge pairs are formed within 200 fs, with a slower phase of charge commensurate with the 1.0 ps timescale of exciton quenching and complete by ≈ 30 ps.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Transient absorption",
+        "charge generation",
+        "exciton diffusion"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The coherence length (CL) of π-π stacking for the PTFBDT-BZS donor increases from 2.4 nm in as-cast films to 2.9 nm when processed with 0.25% DIO, while the IDIC acceptor π-π stacking CL remains at 4.9 nm.",
+      "evidence": "The coherence length of PTFBDT-BZS and IDIC π-π stacking is 2.4, 2.9 nm and 4.9, 4.9 nm for the blended films without and with DIO, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "coherence length",
+        "crystallinity",
+        "PTFBDT-BZS"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Electroluminescence (EL) measurements of PTFBDT-BZS:IDIC blends show that the addition of DIO causes a redshift in the charge transfer (CT) state peak, which corresponds to a decrease in the open-circuit voltage (Voc).",
+      "evidence": "From the EL measurement... the addition of 0.25% DIO shifts the CT peak to lower energy. This redshift indicates lower CT energy in the blend processed with DIO and hence smaller Voc",
+      "complexity": "multi-hop",
+      "keywords": [
+        "electroluminescence",
+        "CT state",
+        "redshift"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The optimized PDBT-T1:IDIC blend with 0.25% DIO achieved a high fill factor (FF) of 0.732, contributing to its peak efficiency of 10.37%.",
+      "evidence": "Table 1: PDBT-T1 with 0.25% DIO; Voc 0.834, Jsc 16.98, FF 0.732, PCE 10.37.",
+      "complexity": "single-hop",
+      "keywords": [
+        "fill factor",
+        "PDBT-T1",
+        "DIO"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 12570,
+    "completion_tokens": 3397,
+    "total_tokens": 15967
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "paper_id": "Advanced_Materials_-_2019_-_Murawski_-_Narrowband_Organic_LightEmitting_Diodes_for_Fluorescence_Micr",
+  "paper_title": "Narrowband Organic Light-Emitting Diodes for Fluorescence Microscopy and Calcium Imaging",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Materials - 2019 - Murawski - Narrowband Organic Light‐Emitting Diodes for Fluorescence Microscopy and Calcium/auto/Advanced Materials - 2019 - Murawski - Narrowband Organic Light‐Emitting Diodes for Fluorescence Microscopy and Calcium.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The blue-emitting OLED utilizes 2,5,8,11-tetra-tert-butylperylene (TBPe) as the fluorescent emitter molecule, doped at 1.5 wt% into a 2-methyl-9,10-bis(naphthalen-2-yl) anthracene (MADN) host.",
+      "evidence": "We selected an OLED structure based on the fluorescent blue emitter molecule, 2,5,8,11-tetra-tert-butylperylene (TBPe)... 20 nm 2-methyl-9,10-bis(naphthalen-2-yl) anthracene (MADN) doped with TBPe (1.5 wt%) as emission layer",
+      "complexity": "single-hop",
+      "keywords": [
+        "TBPe",
+        "MADN",
+        "blue emitter",
+        "fluorescent"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "To achieve high-contrast fluorescence imaging, a Distributed Bragg Reflector (DBR) consisting of 19.5 pairs of Ta2O5 (64.4 nm) and SiO2 (93.1 nm) is integrated to block the OLED's long-wavelength emission tail.",
+      "evidence": "we narrowed the OLED spectrum using a high-rejection distributed Bragg reflector (DBR)... consisting of 19.5 pairs of 64.4 nm Ta2O5 and 93.1 nm SiO2",
+      "complexity": "single-hop",
+      "keywords": [
+        "Distributed Bragg Reflector",
+        "Ta2O5",
+        "SiO2",
+        "spectral narrowing"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Fluorescent emitters are preferred over phosphorescent or TADF emitters for high-power imaging applications because they exhibit significantly lower efficiency roll-off at high current densities and offer superior stability.",
+      "evidence": "Compared to phosphorescent or thermally activated delayed fluorescence emitters... conventional fluorescent emitters generally show much reduced efficiency roll-off at high brightness... offer significantly higher stability, and require lower drive voltages.",
+      "complexity": "single-hop",
+      "keywords": [
+        "efficiency roll-off",
+        "fluorescent emitters",
+        "stability",
+        "high brightness"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The angular dependence of the DBR transmission limits the usable numerical aperture (NA) of the imaging system; for the design used in this study, the NA must be lower than 0.64 to prevent green light leakage.",
+      "evidence": "the fluorescence collection angle should remain limited to < 40°, e.g., by using objectives or lensless imaging systems with a numerical aperture lower than NA = sin(40°) = 0.64.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "numerical aperture",
+        "angular dependence",
+        "DBR stop band",
+        "optical leakage"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The OLED-DBR system achieves a suppression of forward emission in the 495 to 592 nm band to levels below the detection limit of a spectrometer, which is necessary to avoid overlap with eGFP emission.",
+      "evidence": "in the band between 495 and 592 nm, the OLED emission in forward direction was suppressed to below the detection limit of our spectrometer",
+      "complexity": "single-hop",
+      "keywords": [
+        "spectral suppression",
+        "eGFP",
+        "electroluminescence",
+        "detection limit"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Fluorescence contrast ratios above 90:1 are achievable with the OLED system for PM556 dye concentrations of 2 mmol/L when using objectives with numerical apertures ranging from 0.13 to 0.60.",
+      "evidence": "the fluorescence intensity and contrast strongly increased with increasing concentration and reached values above 90:1 at 2 mmol L−1 for all objectives tested, except for the objective with NA = 0.8",
+      "complexity": "single-hop",
+      "keywords": [
+        "contrast ratio",
+        "PM556",
+        "numerical aperture",
+        "fluorescence"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The OLED device utilizes doped charge transport layers, specifically Spiro-TTB p-doped with F6-TCNNQ (4 wt%) and BPhen n-doped with cesium, to minimize drive voltage and Ohmic losses.",
+      "evidence": "40 nm 2,2',7,7'-tetrakis(N,N'-di p -methylphenylamino)-9,9'spirobifluorene (Spiro-TTB) p doped with 2,2' (perfluoronaphthalene2,6-diylidene)dimalononitrile (F6-TCNNQ) (4 wt%) as hole-transport layer... 40 nm 4,7-diphenyl-1,10-phenanthroline (BPhen) doped with cesium as n -doped electron transport layer",
+      "complexity": "single-hop",
+      "keywords": [
+        "doped transport layers",
+        "Spiro-TTB",
+        "BPhen",
+        "drive voltage"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "OLED-based fluorescence imaging of mouse kidney sections yielded a signal-to-noise ratio (SNR) of 84 ± 9, compared to 480 ± 16 for a conventional mercury lamp, while maintaining a high correlation (r^2 = 0.91) in intensity distribution.",
+      "evidence": "We obtained highly detailed images with excellent contrast... with a signal-to-noise ratio (SNR) of 84 ± 9 for the OLED and 480 ± 16 for the Hg-lamp... the fluorescence intensities in different regions of the image showed a high degree of correlation... (r^2 = 0.91)",
+      "complexity": "multi-hop",
+      "keywords": [
+        "SNR",
+        "mercury lamp comparison",
+        "correlation",
+        "kidney section"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "For fluorescence imaging with high contrast, the OLED emission at the fluorophore's absorption peak (e.g., 487 nm for eGFP) must be approximately 10,000 times higher than the residual emission at the fluorophore's emission peak (e.g., 510 nm).",
+      "evidence": "the OLED emission in the spectral range absorbed by eGFP (i.e., at around 487 nm) needs to be ≈ 10 000 times higher than any residual OLED emission within the emission band of eGFP (i.e., at around 510 nm).",
+      "complexity": "single-hop",
+      "keywords": [
+        "rejection ratio",
+        "spectral de-coupling",
+        "eGFP",
+        "Stokes shift"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The system demonstrated functional calcium imaging in the isolated central nervous system of Drosophila larvae at a frame rate of 2 Hz, successfully capturing backward locomotor activity waves with an average duration of 6.5 seconds.",
+      "evidence": "we detected two backward waves within the time of the measurement, with an average wave duration of ≈ 6.5 s... frame rates of at least 2 Hz were required... imaged the isolated central nervous system (CNS) of a third instar D. melanogaster larva",
+      "complexity": "multi-hop",
+      "keywords": [
+        "calcium imaging",
+        "Drosophila",
+        "GCaMP6s",
+        "locomotor activity"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The use of doped charge transport layers and fluorescent emitters is specifically designed to minimize heating of the device and adjacent biological material by reducing drive voltages and Ohmic losses.",
+      "evidence": "Using doped charge transport layers limits the voltage drop upon charge injection and due to Ohmic losses and, thus, reduces drive voltages further. Ultimately, this will... minimize heating of the device and of any adjacent biological material.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal management",
+        "doped layers",
+        "biological stability",
+        "drive voltage"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 12859,
+    "completion_tokens": 3329,
+    "total_tokens": 16188
+  }
+}

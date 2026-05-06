@@ -1,0 +1,75 @@
+{
+  "paper_id": "Advanced_Materials_-_2013_-_Dong_-_25th_Anniversary_Article_Key_Points_for_HighMobility_Organic_Fiel",
+  "paper_title": "25th Anniversary Article: Key Points for High-Mobility Organic Field-Effect Transistors",
+  "qa_pairs": [
+    {
+      "question": "What are the current state-of-the-art hole and electron mobilities for organic field-effect transistors (OFETs) mentioned in recent literature?",
+      "answer": "The state-of-the-art charge-carrier mobilities in OFETs have reached 40 cm²/Vs for holes and 11 cm²/Vs for electrons, which approaches the performance levels of polycrystalline silicon.",
+      "category": "Performance Metrics",
+      "source_title": "25th Anniversary Article: Key Points for High-Mobility Organic Field-Effect Transistors",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "At room temperature, which two key parameters determine the self-exchange rates in the polaronic hopping transport process of organic materials?",
+      "answer": "The charge carrier mobility is primarily determined by two parameters: the transfer integral (t) and the internal reorganization energy (λ). These govern the thermally activated polaronic hopping process common in organic materials at room temperature.",
+      "category": "Structure-Property Relationships",
+      "source_title": "25th Anniversary Article: Key Points for High-Mobility Organic Field-Effect Transistors",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the molecular packing motif influence the transfer integral (t) regarding orbital interactions and displacements?",
+      "answer": "The transfer integral (t) is highly sensitive to molecular packing. It increases when atomic orbitals are in bonding or antibonding interactions, which occurs at displacements of full benzene rings (one, two, or three). Conversely, it decreases when orbital cancellation occurs, typically at displacements of approximately three-quarters of a benzene ring.",
+      "category": "Structure-Property Relationships",
+      "source_title": "25th Anniversary Article: Key Points for High-Mobility Organic Field-Effect Transistors",
+      "difficulty": "hard",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Identify the four basic molecular packing motifs in organic solids and specify which is considered ideal for high mobility.",
+      "answer": "The four basic motifs are: 1) typical herringbone (aromatic edge-to-face), 2) cofacial herringbone (enhanced face-to-face), 3) 1D 'slipped-stacked' (anisotropic), and 4) 2D 'bricklayer' (also referred to as cofacial lamellar packing). The 2D bricklayer arrangement is considered the most ideal for high mobility due to maximized transfer integrals.",
+      "category": "Structure-Property Relationships",
+      "source_title": "25th Anniversary Article: Key Points for High-Mobility Organic Field-Effect Transistors",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does extending the π-conjugation from anthracene to hexacene affect the electronic properties governing charge transport while maintaining the herringbone packing?",
+      "answer": "Extending the π-conjugation in acenes from anthracene to hexacene improves mobility by increasing the transfer integral from 19 meV to 60 meV and simultaneously lowering the reorganization energy from 138 meV to 79 meV. This effectively improves intermolecular interactions without changing the original packing mode.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "25th Anniversary Article: Key Points for High-Mobility Organic Field-Effect Transistors",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What is the structural effect of introducing bulky triisopropylsilylethynyl (TIPS) groups at the peri-positions of pentacene?",
+      "answer": "Introducing bulky TIPS groups at the peri-positions of pentacene, as seen in TIPS-PEN, shifts the molecular packing from the standard herringbone arrangement to a 2D bricklayer arrangement, which is more conducive to high-performance charge transport.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "25th Anniversary Article: Key Points for High-Mobility Organic Field-Effect Transistors",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does solution-shearing impact the performance and structural characteristics of TIPS-PEN thin films?",
+      "answer": "Solution-shearing can produce strained TIPS-PEN films that achieve a mobility of 4.6 cm²/Vs. This performance boost is attributed to a more condensed molecular packing in a metastable state, which reduces the π-π stacking distance to 3.08 Å.",
+      "category": "Processing & Fabrication",
+      "source_title": "25th Anniversary Article: Key Points for High-Mobility Organic Field-Effect Transistors",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Why do heteroacenes with fused thiophene and benzene rings, such as BTBT and DNTT, show superior stability compared to standard acenes?",
+      "answer": "Heteroacenes like BTBT and DNTT exhibit superior stability because they possess large energy band gaps (> 3.0 eV) and low HOMO energy levels (< -5.3 eV) compared to their acene counterparts, which protects them against oxidative degradation.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "25th Anniversary Article: Key Points for High-Mobility Organic Field-Effect Transistors",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 3014,
+    "completion_tokens": 2717,
+    "total_tokens": 5731
+  }
+}

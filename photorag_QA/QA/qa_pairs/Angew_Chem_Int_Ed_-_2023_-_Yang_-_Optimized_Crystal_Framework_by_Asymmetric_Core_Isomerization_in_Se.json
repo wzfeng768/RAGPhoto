@@ -1,0 +1,75 @@
+{
+  "paper_id": "Angew_Chem_Int_Ed_-_2023_-_Yang_-_Optimized_Crystal_Framework_by_Asymmetric_Core_Isomerization_in_Se",
+  "paper_title": "Optimized Crystal Framework by Asymmetric Core Isomerization in Selenium-Substituted Acceptor for Efficient Binary Organic Solar Cells",
+  "qa_pairs": [
+    {
+      "question": "What are the photovoltaic performance parameters for the champion binary organic solar cell based on the PM1:A-OSeF blend?",
+      "answer": "The champion PM1:A-OSeF-based device achieved a power conversion efficiency (PCE) of 18.5%, with an open-circuit voltage (Voc) of 0.880 V, a short-circuit current density (Jsc) of 27.2 mA/cm², and a fill factor (FF) of 77.3%.",
+      "category": "Performance Metrics",
+      "source_title": "Optimized Crystal Framework by Asymmetric Core Isomerization in Selenium-Substituted Acceptor for Efficient Binary Organic Solar Cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the position of mono-selenium substitution on the central core affect the π–π stacking distances in the SCSeF, A-ISeF, and A-OSeF isomers?",
+      "answer": "As the mono-selenium substitution moves from the center to the outer position, the average π–π stacking distances in the crystal gradually decrease. Specifically, the distances are 3.46 Å for S-CSeF (central), 3.45 Å for A-ISeF (inner), and 3.42 Å for A-OSeF (outer).",
+      "category": "Structure-Property Relationships",
+      "source_title": "Optimized Crystal Framework by Asymmetric Core Isomerization in Selenium-Substituted Acceptor for Efficient Binary Organic Solar Cells",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What structural feature is responsible for the enhanced molecular planarity and rigidity observed in the A-OSeF acceptor?",
+      "answer": "The enhanced planarity and rigidity in A-OSeF are due to a unique intramolecular Se...O=C conformational lock. This interaction results in very small donor-acceptor (D-A) dihedral angles of 0.1° and 8.3°, which are smaller than those of its isomers.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Optimized Crystal Framework by Asymmetric Core Isomerization in Selenium-Substituted Acceptor for Efficient Binary Organic Solar Cells",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "In terms of crystal packing, how does the 3D network of A-OSeF differ from S-CSeF and A-ISeF, and what is its impact on charge transport?",
+      "answer": "A-OSeF forms elliptical orthorhombic frame structures measuring 28.6 Å x 23.3 Å, which are more compact than the frames of A-ISeF (28.7 x 23.8 Å) and S-CSeF (28.8 x 23.8 Å). This more compact 3D interpenetrating network provides more efficient channels for charge transport.",
+      "category": "Characterization Methods",
+      "source_title": "Optimized Crystal Framework by Asymmetric Core Isomerization in Selenium-Substituted Acceptor for Efficient Binary Organic Solar Cells",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Compare the dipole moments of the three isomeric acceptors and explain the consequence of these differences on molecular behavior.",
+      "answer": "According to DFT simulations, the asymmetric A-OSeF has the largest dipole moment at 1.63 Debye, followed by A-ISeF at 0.41 Debye, while the symmetric S-CSeF has the smallest at 0.24 Debye. The significantly larger dipole moment in A-OSeF facilitates stronger molecular aggregation.",
+      "category": "Computational & Machine Learning",
+      "source_title": "Optimized Crystal Framework by Asymmetric Core Isomerization in Selenium-Substituted Acceptor for Efficient Binary Organic Solar Cells",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What evidence from GIWAXS analysis suggests that PM1:A-OSeF blend films can effectively restrain charge recombination?",
+      "answer": "GIWAXS analysis shows that the PM1:A-OSeF blend films maintain a characteristic diffraction peak at approximately 0.46 Å⁻¹ in the in-plane (IP) direction. This suggests the existence of pure A-OSeF microdomains, which help to suppress charge recombination within the active layer.",
+      "category": "Characterization Methods",
+      "source_title": "Optimized Crystal Framework by Asymmetric Core Isomerization in Selenium-Substituted Acceptor for Efficient Binary Organic Solar Cells",
+      "difficulty": "hard",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the exciton dissociation and charge collection efficiency of the A-OSeF-based device compare to the S-CSeF and A-ISeF counterparts?",
+      "answer": "The A-OSeF-based device outperforms the others with an exciton dissociation probability (Pdiss) of 97.5% and a charge collection efficiency (Pcoll) of 89.2%. In comparison, S-CSeF has a Pdiss of 94.6% and Pcoll of 84.0%, while A-ISeF has a Pdiss of 95.3% and Pcoll of 85.8%.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Optimized Crystal Framework by Asymmetric Core Isomerization in Selenium-Substituted Acceptor for Efficient Binary Organic Solar Cells",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Describe the energy loss (Eloss) profile of the organic solar cell utilizing the A-OSeF acceptor.",
+      "answer": "The A-OSeF-based device demonstrates a low total energy loss (Eloss) of 0.520 eV. This is characterized by a non-radiative recombination loss (ΔE3) of 0.203 eV and a relatively high electroluminescence external quantum efficiency (EQE_EL) of 2.01 × 10⁻⁴.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Optimized Crystal Framework by Asymmetric Core Isomerization in Selenium-Substituted Acceptor for Efficient Binary Organic Solar Cells",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 3144,
+    "completion_tokens": 2327,
+    "total_tokens": 5471
+  }
+}

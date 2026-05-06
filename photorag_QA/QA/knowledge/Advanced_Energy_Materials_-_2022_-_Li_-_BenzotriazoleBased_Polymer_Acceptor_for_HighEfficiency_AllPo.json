@@ -1,0 +1,151 @@
+{
+  "paper_id": "Advanced_Energy_Materials_-_2022_-_Li_-_BenzotriazoleBased_Polymer_Acceptor_for_HighEfficiency_AllPo",
+  "paper_title": "Benzotriazole-Based Polymer Acceptor for High-Efficiency All-Polymer Solar Cells with High Photocurrent and Low Voltage Loss",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Energy Materials - 2022 - Li - Benzotriazole‐Based Polymer Acceptor for High‐Efficiency All‐Polymer Solar Cells/auto/Advanced Energy Materials - 2022 - Li - Benzotriazole‐Based Polymer Acceptor for High‐Efficiency All‐Polymer Solar Cells.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "A molecular design strategy involving the replacement of the benzo[c][1,2,5]thiadiazole (BT) core with a benzotriazole (Tz) core in polymer acceptors results in significantly redshifted optical absorption and elevated LUMO energy levels.",
+      "evidence": "As expected, after introducing benzotriazole-core to replace BT-core in the polymer backbone, the resulting two polymers display significantly redshifted optical absorption and upshifted energy levels.",
+      "complexity": "single-hop",
+      "keywords": [
+        "benzotriazole",
+        "benzothiadiazole",
+        "LUMO",
+        "redshift"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The use of a branched 2-butyloctyl (BO) side chain in PTz-BO, compared to the linear C11 chain in PTz-C11, increases the extinction coefficient from 0.64 × 10^5 to 0.97 × 10^5 M⁻¹ cm⁻¹ in solution and from 1.10 × 10^5 to 1.53 × 10^5 cm⁻¹ in thin films.",
+      "evidence": "compared to PTz-C11, the extinction coefficient of PTz-BO has been obviously improved from 0.64 × 10^5 to 0.97 × 10^5 M-1 cm-1 in solution and from 1.10 × 10^5 to 1.53 × 10^5 cm-1 in thin film.",
+      "complexity": "single-hop",
+      "keywords": [
+        "side chain engineering",
+        "extinction coefficient",
+        "PTz-BO",
+        "PTz-C11"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "PBDB-T:PTz-BO binary all-polymer solar cells achieve a power conversion efficiency (PCE) of 15.76% with an open-circuit voltage (Voc) of 0.928 V and a short-circuit current density (Jsc) of 24.16 mA cm⁻².",
+      "evidence": "the PTz-BO and PTz-C11-based all-PSCs exhibit PCEs of 15.76% and 15.59% ,respectively... for the PBDB-T:PTz-BO blend... a larger Voc of 0.928 V, a slightly decreased Jsc of 24.16 mA cm-2.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "PBDB-T",
+        "PTz-BO",
+        "Voc"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Ternary all-polymer solar cells incorporating 20 wt% PTz-C11 into the PBDB-T:PTz-BO blend achieve a record PCE of 16.58% with a Jsc exceeding 25 mA cm⁻².",
+      "evidence": "when added 20 wt% PTz-C11 into PBDB-T:PTz-BO blend... an overall PCE of 16.58% is implemented in the ternary device... with a high Jsc over 25 mA cm-2.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ternary solar cells",
+        "PCE",
+        "Jsc",
+        "PTz-C11"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The PBDB-T:PTz-BO based device exhibits a low total voltage loss (Eloss) of 0.498 eV, which is significantly lower than the 0.519 eV observed for the PTz-C11-based device.",
+      "evidence": "Impressively, a low voltage loss of 0.498 V is obtained in the PBDB-T:PTz-BO devices... PTz-C11-based all-PSCs show an Eloss of 0.519 eV.",
+      "complexity": "single-hop",
+      "keywords": [
+        "voltage loss",
+        "Eloss",
+        "all-PSCs",
+        "PTz-BO"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The non-radiative recombination loss (ΔE3) for PBDB-T:PTz-BO and the ternary blend is measured to be 0.205 eV and 0.204 eV respectively, derived from electroluminescence external quantum efficiency (EQE_EL) values of 3.59 × 10⁻⁴ and 3.75 × 10⁻⁴.",
+      "evidence": "the EQE_EL values of PBDB-T:PTz-BO, PBDB-T:PTz-C11, and PBDB-T:PTz-BO:PTz-C11 blends are 3.59 × 10-4, 2.27 × 10-4 and 3.75 × 10-4 respectively... the PTz-BO-base binary and ternary devices exhibited small ΔE3 values of 0.205 and 0.204 eV.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "non-radiative recombination",
+        "EQE_EL",
+        "ΔE3"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "PTz-BO and PTz-C11 exhibit optical bandgaps (Eg) of 1.37 eV and 1.36 eV, with LUMO energy levels of -3.56 eV and -3.80 eV, respectively.",
+      "evidence": "the corresponding optical bandgap was estimated to be 1.36 and 1.37 eV for PTz-C11 and PTz-BO... the LUMO levels (ELUMO) were calculated to be -3.56 and -3.80 eV.",
+      "complexity": "single-hop",
+      "keywords": [
+        "bandgap",
+        "LUMO",
+        "energy levels"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "PTz-C11 acts as a phase mediator in ternary blends, restraining the crystallization of PTz-BO and leading to an optimized morphology with a more evident fibrillar network.",
+      "evidence": "the presence of PTz-C11 restrains the crystallization of PTz-BO... PTz-C11 works not only as a material with broader light absorption but also a phase mediator to control the blend morphology... an optimized morphology with a more evident fibril network is observed.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "phase mediator",
+        "ternary blend",
+        "morphology",
+        "crystallization"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The Flory-Huggins interaction parameter (χ) between PTz-BO and PTz-C11 is 0.06 mN m⁻¹, indicating high miscibility between the two acceptors in the ternary blend.",
+      "evidence": "The χ between PTz-BO and PTz-C11 is as small as 0.06 mN m-1 suggesting that PTz-BO and PTz-C11 can form well-mixed acceptor phase in the ternary blend.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Flory-Huggins",
+        "miscibility",
+        "surface tension"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Ternary all-polymer devices show a reduced trap-assisted recombination compared to binary systems, evidenced by a lower Voc vs. light intensity slope of 1.11 kT/q.",
+      "evidence": "the ternary device shows a lower slope value of 1.11 kT/q indicating that PTz-C11 indeed leads to reduced trap-assisted recombination in the ternary blend.",
+      "complexity": "single-hop",
+      "keywords": [
+        "trap-assisted recombination",
+        "light intensity",
+        "Voc"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis reveals that both PTz-BO and PTz-C11 neat films favor a face-on orientation, with π-π stacking d-spacings of 3.98 Å and 3.94 Å in the out-of-plane direction, respectively.",
+      "evidence": "PTz-BO and PTz-C11 neat films adopt preferentially face-on orientation, and the strong π-π stacking diffraction peak is located at 1.577 and 1.592 Å-1 corresponding to d spacings of 3.98 and 3.94 Å in the OOP direction.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "face-on orientation",
+        "pi-pi stacking"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "PBDB-T:PTz-BO devices demonstrate superior thermal stability compared to PTz-C11-based devices when aged at 70 °C under a nitrogen atmosphere.",
+      "evidence": "the thermal stabilities of these devices were tested by aging them at 70 °C under an N2 atmosphere, and among them, the PBDB-T:PTz-BO device exhibits the best thermal stability.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "aging",
+        "PBDB-T",
+        "PTz-BO"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 14048,
+    "completion_tokens": 4440,
+    "total_tokens": 18488
+  }
+}

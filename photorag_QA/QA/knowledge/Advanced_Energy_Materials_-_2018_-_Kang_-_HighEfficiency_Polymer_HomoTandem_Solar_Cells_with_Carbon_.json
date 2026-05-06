@@ -1,0 +1,126 @@
+{
+  "paper_id": "Advanced_Energy_Materials_-_2018_-_Kang_-_HighEfficiency_Polymer_HomoTandem_Solar_Cells_with_Carbon_",
+  "paper_title": "High-Efficiency Polymer Homo-Tandem Solar Cells with Carbon Quantum-Dot-Doped Tunnel Junction Intermediate Layer",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Energy Materials - 2018 - Kang - High‐Efficiency Polymer Homo‐Tandem Solar Cells with Carbon Quantum‐Dot‐Doped/auto/Advanced Energy Materials - 2018 - Kang - High‐Efficiency Polymer Homo‐Tandem Solar Cells with Carbon Quantum‐Dot‐Doped.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Carbon quantum dots (CQDs) for doping the PEI layer are synthesized via one-pot microwave pyrolysis using citric acid as a carbon source and β-alanine as a zwitterionic passivation agent.",
+      "evidence": "The CQDs were prepared according to a well-established one-pot microwave pyrolysis reported in previous literatures using citric acid (CA) as a carbon source and amino acid derivative (βalanine) as a zwitterionic passivation agent.",
+      "complexity": "single-hop",
+      "keywords": [
+        "carbon quantum dots",
+        "microwave pyrolysis",
+        "citric acid",
+        "beta-alanine"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The synthesized carbon quantum dots (CQDs) exhibit a mean size of 3.1 ± 0.5 nm and a crystalline hexagonal unit structure with an interlayer spacing of 0.24 nm, corresponding to the (111) lattice spacing of graphite.",
+      "evidence": "The typical mean size of the CQDs was 3.1 ± 0.5 nm In addition, a crystalline hexagonal unit structure with an interlayer spacing of 0.24 nm, which corresponds to (111) lattice spacing of the graphite hexagons, was clearly observed by aberration-corrected HRTEM",
+      "complexity": "single-hop",
+      "keywords": [
+        "HRTEM",
+        "lattice spacing",
+        "nanoparticle size"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Inverted single-junction PTB7-Th:PC71BM solar cells using a 0.5% CQD-doped PEI layer as the electron transporting layer achieved a power conversion efficiency (PCE) of 9.49%, an improvement over the 8.56% achieved with pristine PEI.",
+      "evidence": "The single-junction solar cell with pristine PEI layer yielded a PCE of 8.56%... The best efficiency solar cell [with 0.5% CQD-doped PEI] showed the PCE of 9.49% with a Jsc of 17.242 mA cm−2, a Voc of 0.772 V, and an FF of 0.713.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "PCE",
+        "PTB7-Th",
+        "PC71BM",
+        "fill factor"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The tunnel junction intermediate connection layer (ICL) in the homo-tandem solar cells consists of a bilayer structure of m-PEDOT:PSS and CQD-doped PEI.",
+      "evidence": "The tunnel junction ICL layer consisted of m-PEDOT:PSS and CQD-doped PEI layer as shown in Figure 4a. The m-PEDOT:PSS was prepared by mixing of 100 ml PEDOT:PSS (AI4083) and 100 µL... Triton X-100",
+      "complexity": "single-hop",
+      "keywords": [
+        "ICL",
+        "tunnel junction",
+        "m-PEDOT:PSS",
+        "PEI"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The homo-tandem solar cell utilizing a CQD-doped PEI layer in the ICL reached a maximum PCE of 12.13%, which is approximately 15% higher than the 10.54% PCE obtained with a pristine PEI ICL.",
+      "evidence": "The tandem solar cell with pristine PEI yielded a PCE of 10.54%... The PCE of the best performing tandem solar cell reached 12.13% with simultaneous enhancements in a Jsc of 11.485 mA cm−2 a Voc of 1.581 V, and an FF of 0.668.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "homo-tandem",
+        "PCE",
+        "reproducibility"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Doping PEI with CQDs reduces the device's overall impedance and series resistance, which facilitates a better series connection between subcells in the tandem structure compared to non-conducting pristine PEI.",
+      "evidence": "the real part of impedance was significantly decreased with CQD doping, which indicates that better series connection with reduced series resistance was built up at ICL by incorporation of CQD-doped PEI.",
+      "complexity": "single-hop",
+      "keywords": [
+        "impedance",
+        "series resistance",
+        "charge transport"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Intensity modulated photovoltage spectroscopy (IMVS) indicates that CQD doping in the PEI ICL enhances the recombination rate of electrons from the back cell and holes from the front cell, which is essential for effective tandem device operation.",
+      "evidence": "the frequency corresponding to the minimum in the complex plane was increased, which indicated that the carrier lifetime was decreased... we attributed the enhancement of performance of tandem solar cell with CQDdoped PEI to more effective recombination of electrons produced in back cell and holes produced in front cell in the ICL.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "IMVS",
+        "carrier lifetime",
+        "charge recombination",
+        "ICL"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The optimal CQD doping concentration in the PEI solution for performance enhancement across multiple polymer systems (P3HT, PTB7, and PTB7-Th) was found to be 0.5 wt%.",
+      "evidence": "In all cases, the optimal CQD doping ratio was found to be 0.5%... Performance enhancement by introducing CQD-doped PEI layer were universal. It was clearly observed from other polymer BHJ systems.",
+      "complexity": "single-hop",
+      "keywords": [
+        "doping ratio",
+        "processing optimization",
+        "universal application"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Ultraviolet photoelectron spectroscopy (UPS) measurements demonstrated that CQD doping does not significantly alter the work function (WF) of the PEI layer, indicating the performance boost is primarily due to improved conductivity/recombination rather than energy level shifts.",
+      "evidence": "these decreases in impedance did not seem to be due to energy level changes by CQD doping because no WF changes were detected in ultraviolet photoelectron spectroscopy (UPS) measurements",
+      "complexity": "single-hop",
+      "keywords": [
+        "UPS",
+        "work function",
+        "energy level alignment"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Atomic force microscopy (AFM) analysis showed no distinct morphological changes in the PEI layer upon doping with CQDs, suggesting the performance improvements are electronic rather than structural.",
+      "evidence": "From these AFM topography images, no distinct morphological changes were observed... Therefore, we can exclude the possibility of increasing performance due to morphology change.",
+      "complexity": "single-hop",
+      "keywords": [
+        "AFM",
+        "morphology",
+        "surface roughness"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 12470,
+    "completion_tokens": 4016,
+    "total_tokens": 16486
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "paper_id": "Adv_Funct_Materials_-_2023_-_Hua_-_Constructing_HighEfficiency_OrangeRed_Thermally_Activated_Delayed",
+  "paper_title": "Constructing High-Efficiency Orange-Red Thermally Activated Delayed Fluorescence Polymers by Excited State Energy Levels Regulation via Backbone Engineering",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Adv Funct Materials - 2023 - Hua - Constructing High‐Efficiency Orange‐Red Thermally Activated Delayed Fluorescence/auto/Adv Funct Materials - 2023 - Hua - Constructing High‐Efficiency Orange‐Red Thermally Activated Delayed Fluorescence.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "A series of orange-red TADF polymers were synthesized using dibenzothiophene (DBT) and carbazole (Cz) units as a joint backbone, with naphthalimide-dimethylacridine (NAI-DMAc) as the TADF emitting unit.",
+      "evidence": "Herein, a series of orange-red TADF polymers with dibenzothiophene (DBT) and carbazole (Cz) units as joint backbones are synthesized... High-efficiency naphthalimide-dimethylacridine (NAI-DMAc) are chosen as TADF units.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DBT",
+        "carbazole",
+        "NAI-DMAc",
+        "backbone engineering"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The optimal polymer, pNAI3705, achieves a maximum external quantum efficiency (EQEmax) of 20.16% and maintains an EQE of 10.61% at a luminance of 500 cd/m².",
+      "evidence": "Consequently, pNAI3705 based organic light-emitting diodes reach a maximum external quantum efficiency of 20.16% , and maintain 10.61% at 500 cd m-2.",
+      "complexity": "single-hop",
+      "keywords": [
+        "EQE",
+        "pNAI3705",
+        "efficiency roll-off",
+        "orange-red OLED"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The pNAI3705 polymer exhibits a photoluminescence quantum yield (PLQY) of 60% and a reverse intersystem crossing rate (kRISC) of 7.20 × 10^5 s⁻¹.",
+      "evidence": "Among them, pNAI3705 with 5% TADF units presents the outstanding PLQY of 60% and kRISC of 7.20 × 10^5 s-1.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PLQY",
+        "kRISC",
+        "pNAI3705"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The connection position of DBT units significantly affects the HOMO distribution; the pNAI37 series (3,7-linked) shows a more extended HOMO across the backbone compared to the more twisted and localized HOMO in the pNAI28 series (2,8-linked).",
+      "evidence": "HOMO of pNAI37 is more widely stretched on the backbones... By contrast, HOMO of pNAI28 is hardly distributed on the carbazole units... the sulfur atom has a significant contribution to HOMO for pNAI28.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "HOMO distribution",
+        "DBT connection position",
+        "pNAI37",
+        "pNAI28"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The pNAI37 series facilitates a more efficient reverse intersystem crossing (RISC) process because the energy gap between the singlet charge transfer state (¹CT) and the localized triplet state (³LE) is smaller than in the pNAI28 series.",
+      "evidence": "the pNAI37 series demonstrate a smaller difference between 1CT and 3LE energy levels (ΔE1CT-3LE) than the pNAI28 series... Because 3LE state can act as a mediator, which can help excitons to spin flip from triplet to singlet state.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "RISC mechanism",
+        "3LE state",
+        "energy level alignment",
+        "spin-orbit coupling"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "For optimized device performance, 10 wt% of the TADF polymer was doped into a 9H-carbazole-3-carbonitrile (mCP-CN) host to balance carrier injection and transport.",
+      "evidence": "Consequently, 10 wt. % emitters were doped into mCP-CN host to balance the hole-electron injection and transport.",
+      "complexity": "single-hop",
+      "keywords": [
+        "mCP-CN",
+        "doping concentration",
+        "solution-processing"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The thermally activated nature of the delayed fluorescence was confirmed by temperature-dependent transient photoluminescence decay, showing an increase in kRISC from 1.44 × 10^5 s⁻¹ at 77 K to 7.20 × 10^5 s⁻¹ at 300 K for pNAI3705.",
+      "evidence": "Taking pNAI3705 as an example, the kRISC reduces from 7.20 × 10^5 to 1.44 × 10^5 s-1 as the temperature decreases from 300 to 77 K.",
+      "complexity": "single-hop",
+      "keywords": [
+        "temperature-dependent PL",
+        "kRISC",
+        "transient decay"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The solution-processed OLED architecture used in this study is ITO / PEDOT:PSS (30 nm) / Doped Emitter (40 nm) / TmPyPB (60-70 nm) / LiF (0.9 nm) / Al (130 nm).",
+      "evidence": "The solution-processed OLEDs are shown in Figure 5a with the configuration of indium tin oxide (ITO)/poly(3,4-ethylenedioxythiophene): poly(styrenesulfonate) (PSS: PEDOT) (30 nm)/the doped emitters (40 nm)/1,3,5-tri[(3-pyridyl)-phen-3-yl] benzene (TmPyPB) (60 nm...)/lithium fluoride (LiF) (0.9 nm)/aluminum (Al) (130 nm).",
+      "complexity": "single-hop",
+      "keywords": [
+        "OLED stack",
+        "TmPyPB",
+        "PEDOT:PSS",
+        "device structure"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The stretched backbone configuration of the pNAI37 series provides a larger space occupation volume, which inhibits the aggregation-induced quenching of triplet excitons compared to the pNAI28 series.",
+      "evidence": "The more stretched backbones of the pNAI37 series with a larger space occupation volume can inhibit the aggregation between polymer chains... the pNAI37 series represent a higher PLQY... effectively inhibit the aggregation-induced quenching of triplet excitons.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "aggregation-induced quenching",
+        "backbone configuration",
+        "triplet excitons"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The TADF polymers exhibit high thermal stability with decomposition temperatures (Td) exceeding 400 °C and glass transition temperatures (Tg) ranging from 90 to 156 °C.",
+      "evidence": "The glass transition temperatures (Tgs) of these polymers are in the range of 90-156 °C... The decomposition temperatures are over 400 °C.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "glass transition temperature",
+        "decomposition temperature"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "DFT calculations using the B3LYP/6-31 G(d,p) level revealed that the LUMO levels of pNAI37 and pNAI28 are -2.55 eV and -2.59 eV, respectively, and are primarily localized on the naphthalimide acceptor.",
+      "evidence": "The distributions of the highest occupied molecular orbital (HOMO) and lowest unoccupied molecular orbital (LUMO) were calculated by Gaussian 16 with the B3LYP 6-31 G(d,p) level... The LUMO levels of pNAI37 and pNAI28 are -2.55 eV and -2.59 eV, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DFT",
+        "LUMO",
+        "naphthalimide"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 14866,
+    "completion_tokens": 3245,
+    "total_tokens": 18111
+  }
+}

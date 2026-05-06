@@ -1,0 +1,122 @@
+{
+  "paper_id": "Adv_Funct_Materials_-_2016_-_Qiao_-_BithienopyrroledioneBased_Copolymers_Versatile_Semiconductors_fo",
+  "paper_title": "Bithienopyrroledione-Based Copolymers, Versatile Semiconductors for Balanced Ambipolar Thin-Film Transistors and Organic Solar Cells with Voc > 1 V",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Adv Funct Materials - 2016 - Qiao - Bithienopyrroledione‐Based Copolymers  Versatile Semiconductors for Balanced Ambipolar/auto/Adv Funct Materials - 2016 - Qiao - Bithienopyrroledione‐Based Copolymers  Versatile Semiconductors for Balanced Ambipolar.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Bithienopyrroledione (bi-TPD) is a planar derivative of thieno[3,4-c]pyrrole-4,6-dione (TPD) that exhibits stronger electron-withdrawing properties, making it suitable for ambipolar polymer semiconductors.",
+      "evidence": "As a derivative of TPD, bithienopyrroledione (1,1-bithieno[3,4-c]pyrrole-4,4',6,6'-tetraone, bi-TPD) has planar structure and exhibits stronger electron-withdrawing property than that of TPD... suggesting its potential applications in high-performance ambipolar polymer semiconductors.",
+      "complexity": "single-hop",
+      "keywords": [
+        "bi-TPD",
+        "molecular design",
+        "electron-withdrawing",
+        "planar structure"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "P1-based thin-film transistors annealed at 160°C achieve a high electron mobility of 1.02 cm²/V·s and a hole mobility of 0.33 cm²/V·s, representing one of the highest values for ambipolar polymer semiconductors.",
+      "evidence": "The films annealed at 160 °C displayed remarkably high hole and electron mobilities of 0.33 and 1.02 cm2 V−1 s−1, respectively. To the best of our knowledge, these mobilities are one of the highest values for polymer semiconductors with ambipolar transport.",
+      "complexity": "single-hop",
+      "keywords": [
+        "electron mobility",
+        "hole mobility",
+        "P1",
+        "ambipolar transport"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Organic solar cells using P1 as the donor and PC71BM as the acceptor achieved a power conversion efficiency (PCE) of 6.46% with an open-circuit voltage (Voc) of 1.02 V without any additives or post-treatments.",
+      "evidence": "Without any additive and post treatment, the best device performance based on P1:PC71BM exhibited a PCE of 6.46% with Voc = 1.02 V, Jsc = 9.48 mA cm−2 and FF = 0.668.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "Voc",
+        "P1",
+        "PC71BM",
+        "organic solar cells"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The high open-circuit voltage (Voc > 1.0 V) in P1 and P2-based solar cells is primarily attributed to the low-lying HOMO energy levels of the polymers (-5.72 eV for P1 and -5.85 eV for P2).",
+      "evidence": "Organic solar cells with P1 (P2):PC71BM blend as active layers showed a high open-circuit voltage (Voc) about 1.0 V, which was mainly attributed to the low HOMO levels of P1 and P2.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Voc",
+        "HOMO level",
+        "energy level engineering",
+        "P1",
+        "P2"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Replacing benzothiadiazole (BT) in P1 with 5,6-difluorobenzo[c][1,2,5]thiadiazole (2FBT) in P2 deepens both the HOMO and LUMO levels due to the strong electron-withdrawing nature of fluorine atoms.",
+      "evidence": "The onset oxidation of P2 was about 0.13 V higher than that of P1... ascribed to the stronger electron withdrawing property of 5,6-difluorobenzo[c][1,2,5]thiadiazole (2FBT) than that of benzo[c][1,2,5]thiadiazole (BT).",
+      "complexity": "single-hop",
+      "keywords": [
+        "fluorination",
+        "HOMO",
+        "LUMO",
+        "energy level",
+        "2FBT"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Thermal annealing at 160°C significantly enhances the electron mobility of P1 by 1-2 orders of magnitude, whereas P2's transistor performance remains nearly independent of the annealing temperature.",
+      "evidence": "Upon thermal annealing, the hole mobility slightly increased in the same order of magnitude, on the contrary, the electron mobility experienced tremendous improvements of 1-2 orders of magnitude... Surprisingly, unlike that of P1, the performance of P2 films was nearly independent of the thermal annealing temperatures.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "thermal annealing",
+        "mobility enhancement",
+        "P1",
+        "P2"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIXD analysis reveals that P1 films annealed at 160°C possess a pi-pi stacking distance of 3.48 Å and exhibit a coexistence of edge-on and face-on molecular orientations, facilitating 3D charge transport.",
+      "evidence": "For P1... corresponding to the (100) diffraction peaks with a lamellar stacking distance of 26.07 A and the (010) peak with a pi-pi stacking distance of 3.48 A... These results suggested the coexistence of edge-on and face-on orientations in the film, which led to the formation of 3D charge transport pathways.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "GIXD",
+        "pi-pi stacking",
+        "molecular orientation",
+        "3D charge transport"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The balanced ambipolar transport in P1 and P2 is facilitated by LUMO levels of approximately -4.0 eV and HOMOs of -5.7 to -5.8 eV, which minimize injection barriers for both electrons and holes from gold (Au) electrodes (work function ≈ 5.2 eV).",
+      "evidence": "Judging from the energy levels, when Au (with a work function of ≈ 5.2 eV) is utilized as the source and drain electrodes, the injection barriers of electron and hole from Au electrodes will be small enough. Therefore, P1 and P2 should be suitable to fabricate ambipolar transistors.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "injection barrier",
+        "ambipolar transport",
+        "energy level alignment",
+        "gold electrodes"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Both P1 and P2 polymers demonstrate high thermal stability with decomposition temperatures exceeding 435°C as measured by thermal gravimetric analysis (TGA).",
+      "evidence": "Both polymers exhibited good thermal stability measured by thermal gravimetric analysis (TGA) with a decomposition temperature over 435 °C.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "TGA",
+        "decomposition temperature"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 14132,
+    "completion_tokens": 4000,
+    "total_tokens": 18132
+  }
+}

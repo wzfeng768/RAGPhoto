@@ -1,0 +1,143 @@
+{
+  "paper_id": "zhang-et-al-2019-effect-of-cyano-substitution-on-conjugated-polymers-for-bulk-heterojunction-solar-c",
+  "paper_title": "Effect of Cyano Substitution on Conjugated Polymers for Bulk Heterojunction Solar Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/zhang-et-al-2019-effect-of-cyano-substitution-on-conjugated-polymers-for-bulk-heterojunction-solar-cells/auto/zhang-et-al-2019-effect-of-cyano-substitution-on-conjugated-polymers-for-bulk-heterojunction-solar-cells.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "A new synthesis pathway (Pathway B) for diCNTAZ monomers utilizes nucleophilic aromatic cyanation on a fluorinated TAZ precursor, achieving an overall yield of 7.2%, which is 2.5 times higher than the original condensation-based Pathway A (2.8%).",
+      "evidence": "Using the new approach of Pathway B, the bromination of the fluorinated benzotriazole can be done in higher yields with the milder NBS reagent. Therefore, when comparing the overall yields of both synthetic approaches, the newly developed Pathway B offers a higher overall yield of 7.2% which is 2.5x higher than the 2.8% yield from the originally reported Pathway A.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "nucleophilic aromatic cyanation",
+        "synthesis yield",
+        "diCNTAZ",
+        "monomer synthesis"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The monoCNTAZ polymer, containing one cyano group per repeat unit, achieves a champion power conversion efficiency (PCE) of 8.6%, significantly outperforming the non-substituted HTAZ (4.4%) and the di-substituted diCNTAZ (5.6%).",
+      "evidence": "The champion polymer (efficiency of 8.6%) has a single cyano substituent, monoCNTAZ... a high efficiency of 8.6% (average) was achieved by monoCNTAZ:PCBM blends.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "monoCNTAZ",
+        "PCBM",
+        "efficiency"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Cyano substitution on the TAZ moiety effectively deepens the HOMO energy levels of the polymers from -5.47 eV (HTAZ) to -5.58 eV (monoCNTAZ) and -5.60 eV (diCNTAZ), though the second cyano group provides a smaller incremental decrease than the first.",
+      "evidence": "the HOMO levels are estimated to be -5.48, -5.58 and -5.60 eV for HTAZ, monoCNTZ, and diCNTAZ, respectively... the degree of the HOMO level decrease induced by the second cyano unit is smaller than that induced by the first cyano unit.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "HOMO",
+        "cyano substitution",
+        "energy level tuning",
+        "benzotriazole"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Each additional cyano substituent on the polymer backbone induces a bathochromic shift of 30-40 nm in the absorption edge and a decrease in the optical bandgap of approximately 0.1 eV.",
+      "evidence": "for each cyano substituent, the absorption edge shows a red-shift by 30-40 nm, and the optical band gap decreases by ~0.1 eV.",
+      "complexity": "single-hop",
+      "keywords": [
+        "optical bandgap",
+        "red-shift",
+        "absorption",
+        "cyano effect"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis reveals that increasing cyano substitution promotes a face-on orientation in the neat polymer films, as indicated by the increased intensity of (h00) lamella peaks in the in-plane (IP) direction for monoCNTAZ and diCNTAZ compared to HTAZ.",
+      "evidence": "With the addition of the first cyano group, i.e., monoCNTAZ, the polymer has a slightly stronger preference toward the face-on orientation... the addition of the second cyano group, i.e., diCNTAZ, has an even stronger preference toward a face-on orientation, as the contribution of the (hoo) lamella peaks are increased further in the IP direction.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "molecular orientation",
+        "face-on",
+        "lamella peaks"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The π-π stacking distance in polymer:PCBM blends decreases with increasing cyano content, measuring 3.98 Å for HTAZ, 3.92 Å for monoCNTAZ, and 3.85 Å for diCNTAZ.",
+      "evidence": "There is, however, a trend with the π-π stacking distances of the polymers in blends... getting smaller: 3.98, 3.92, and 3.85 A for HTAZ, monoCNTAZ, and diCNTAZ blends, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "pi-pi stacking",
+        "crystallinity",
+        "blend morphology"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Hole mobility in the polymer:PCBM blends peaks with monoCNTAZ at 1.08 x 10^-3 cm^2 V^-1 s^-1, which is significantly higher than both HTAZ (0.18 x 10^-3 cm^2 V^-1 s^-1) and diCNTAZ (0.07 x 10^-3 cm^2 V^-1 s^-1).",
+      "evidence": "Hole mobility, measured through spacecharge limited current (SCLC), of the monoCNTAZ:PCBM blend is highest with a value of 1.08 × 10−3 cm2/(V · s), which is much higher than the HTAZ:PCBM blend (0.18 × 10−3 cm2/(V · s)) and diCNTAZ:PCBM blend (0.07 × 10−3 cm2/(V · s)).",
+      "complexity": "single-hop",
+      "keywords": [
+        "hole mobility",
+        "SCLC",
+        "charge transport",
+        "fill factor"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The driving force for exciton splitting (E_opt - E_CT) decreases as cyano groups are added, falling from 0.30 eV for HTAZ to 0.10 eV for monoCNTAZ and 0.05 eV for diCNTAZ, which likely contributes to the lower short-circuit current (Jsc) in diCNTAZ devices.",
+      "evidence": "For the diCNTAZ, the CT state energy is close to the minimum band gap, and the driving force is extremely low (0.05 eV)... the low driving force in the diCNTAZ-based devices may harm the exciton splitting.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "charge transfer state",
+        "exciton splitting",
+        "driving force",
+        "Jsc loss"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Transient optoelectronic analyses (TPV/TPC) confirm that nongeminate recombination is the dominant loss pathway in these polymers, with the open-circuit voltage (Voc) values predicted by recombination kinetics (0.796V, 0.932V, 1.060V) matching experimental values.",
+      "evidence": "the reconstructed and the measured J-V curves coincide well with each other, verifying that nongeminate recombination is in fact the dominating loss pathway for these devices... predicted by eq 5 are 0.796 V for the HTAZ:PCBM device, 0.932 V for the monoCNTAZ:PCBM device, and 1.060 V for the diCNTAZ:PCBM device.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "TPV",
+        "TPC",
+        "nongeminate recombination",
+        "Voc prediction"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "RSoXS measurements indicate that monoCNTAZ:PCBM blends have the highest relative domain purity (1.00) compared to HTAZ (0.73) and diCNTAZ (0.88), which correlates with the higher fill factor (FF) observed in monoCNTAZ devices.",
+      "evidence": "the domain purity (Table 3) of the monoCNTAZ:PCBM blends is the highest among the three polymer:PCBM blends... The more pure domains of monoCNTAZ:PCBM can help minimize the amount of bimolecular recombination and improve the FF.",
+      "complexity": "single-hop",
+      "keywords": [
+        "RSoXS",
+        "domain purity",
+        "morphology",
+        "bimolecular recombination"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The use of a PFN [poly((9,9-bis(3'-(N,N-dimethylamino)propyl)-2,7-fluorene)-alt-2,7-(9,9-dioctylfluorene))] interlayer in the device stack improves the fill factor (FF) across all polymer blends compared to standard architectures, though it can lead to lower Jsc due to thinner active layers.",
+      "evidence": "We note that the devices with the PFN interlayer show a relatively higher FF regardless of the active layer, indicating that PFN plays an role in facilitating charge transport and extraction.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PFN",
+        "interlayer",
+        "fill factor",
+        "device architecture"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 14490,
+    "completion_tokens": 4574,
+    "total_tokens": 19064
+  }
+}

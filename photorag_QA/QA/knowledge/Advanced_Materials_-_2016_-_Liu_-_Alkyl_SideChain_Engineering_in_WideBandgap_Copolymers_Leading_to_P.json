@@ -1,0 +1,153 @@
+{
+  "paper_id": "Advanced_Materials_-_2016_-_Liu_-_Alkyl_SideChain_Engineering_in_WideBandgap_Copolymers_Leading_to_P",
+  "paper_title": "Alkyl Side-Chain Engineering in Wide-Bandgap Copolymers Leading to Power Conversion Efficiencies over 10%",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Materials - 2016 - Liu - Alkyl Side‐Chain Engineering in Wide‐Bandgap Copolymers Leading to Power Conversion/auto/Advanced Materials - 2016 - Liu - Alkyl Side‐Chain Engineering in Wide‐Bandgap Copolymers Leading to Power Conversion.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "A series of wide-bandgap copolymers (PBT1-MP, PBT1-EH, and PBT1-BO) were synthesized using benzodithiophene (BDT) as the electron-rich unit and benzodithiophene-4,8-dione (BDTDO) as the electron-deficient unit.",
+      "evidence": "The copolymers consist of identical polymeric backbones with benzodithiophene (BDT) as the electron-rich unit and benzodithiophene-4,8-dione (BDTDO) as the electron-deficient unit... Various bulky side chains of R1 [R1 = 2-methylpropyl (MP), 2-ethylhexyl (EH), and 2-butyloctyl (BO)] and R2 (R2 = 2-hexyldecyl, 2-butyloctyl, and 2-ethylhexyl) were introduced.",
+      "complexity": "single-hop",
+      "keywords": [
+        "BDT",
+        "BDTDO",
+        "side-chain engineering",
+        "wide-bandgap"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The PBT1-EH:PC71BM-based organic solar cell achieved a power conversion efficiency (PCE) of 10.3%, with an open-circuit voltage (Voc) of 0.97 V, a short-circuit current (Jsc) of 14.22 mA cm⁻², and a fill factor (FF) of 75.1%.",
+      "evidence": "the PBT1-EH:PC71BM solar cell showed a short-circuit current (Jsc) of 14.22 mA cm-2, an open-circuit voltage (Voc) of 0.97 V, and a fill factor (FF) of 75.1% producing an overall efficiency of 10.3%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "PC71BM",
+        "PBT1-EH",
+        "Voc",
+        "fill factor"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "When blended with the non-fullerene acceptor ITIC-Th and processed with 1% chloronaphthalene (CN), PBT1-EH achieved a PCE of 10.6%.",
+      "evidence": "With the addition of 1% chloronaphthalene (CN) additive, the PCE was improved to 10.6% with a Jsc of 15.62 mA cm-2, a Voc of 0.97, and a FF of 69.8%",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "ITIC-Th",
+        "non-fullerene acceptor",
+        "chloronaphthalene"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The length of the alkyl side chain on the BDTDO acceptor unit influences molecular geometry; the longest side chain in PBT1-MP causes steric hindrance leading to a twisted backbone, whereas PBT1-EH and PBT1-BO maintain nearly planar geometries.",
+      "evidence": "PBT1-MP bearing the longest alkyl side chain on the acceptor unit resulted in a twisted molecular geometry, which is mainly ascribed to the large steric hindrances caused by the bulkier side chains on BDTDO unit. In contrast, PBT1-EH and PBT1-BO both have nearly planar molecular geometry.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "molecular geometry",
+        "steric hindrance",
+        "planarity",
+        "DFT"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Increasing the length of the alkyl side chain on the BDTDO motif in this polymer series results in a deeper HOMO level, with values ranging from -5.40 eV (PBT1-BO) to -5.49 eV (PBT1-MP).",
+      "evidence": "The corresponding HOMO/LUMO levels of PBT1-MP, PBT1-EH, and PBT1-BO are -5.49/-3.46 eV, -5.43/-3.43 eV, and -5.40/-3.41 eV, respectively. One can find that increasing the length of alkyl chain substituents on BDTDO motif leads to a deeper HOMO level.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "HOMO",
+        "LUMO",
+        "energy levels",
+        "electrochemical properties"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The optical bandgaps (Eg^opt) of the polymers vary slightly with side-chain modifications, measured at 1.86 eV for PBT1-MP, 1.84 eV for PBT1-EH, and 1.81 eV for PBT1-BO.",
+      "evidence": "Eg^opt values of these polymers calculated from the absorption edge are 1.86 eV (PBT1-MP), 1.84 eV (PBT1-EH), and 1.81 eV (PBT1-BO), respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "optical bandgap",
+        "absorption edge",
+        "wide-bandgap"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The optimal concentration of the solvent additive 1,8-diiodooctane (DIO) for the PBT1 series:PC71BM blend films was found to be 0.5%, which significantly improved PCE from below 4% to up to 10.3%.",
+      "evidence": "The optimal DIO concentration was found to be 0.5% for all the blend films... Without using DIO, all devices incorporating these three copolymers show rather low PCEs (< 4%)... the PBT1-EH:PC71BM solar cell showed... an overall efficiency of 10.3%.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "DIO",
+        "solvent additive",
+        "optimization",
+        "morphology control"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS characterization indicates that all three polymers (PBT1-MP, PBT1-EH, PBT1-BO) exhibit a preferred face-on molecular orientation in neat films, with π-π stacking distances of approximately 3.69–3.72 Å.",
+      "evidence": "Very weak lamellar diffraction peaks and strong π-π stacking peaks were observed in the out-of plane direction, indicating that a preferred face-on molecular orientation in all neat films. The (010) π-π stacking peaks... corresponds to π-π stacking distances of ≈ 3.72, 3.69, and 3.69 Å, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "face-on orientation",
+        "π-π stacking",
+        "crystallinity"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "PBT1-EH:PC71BM films exhibit high and balanced carrier mobilities, with hole and electron mobilities of 1.94 × 10⁻³ and 2.87 × 10⁻³ cm² V⁻¹ s⁻¹, respectively, supporting high Jsc and fill factor values.",
+      "evidence": "The hole and electron mobilities of PBT1-EH:PC71BM films were measured as 1.94 × 10-3 and 2.87 × 10-3 cm2 V-1 s-1... The high and balanced hole and electron mobility helps to explain the high Jsc and FF achieved in PBT1-EH:PC71BM devices.",
+      "complexity": "single-hop",
+      "keywords": [
+        "carrier mobility",
+        "charge transport",
+        "balanced mobility"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Resonant soft X-ray scattering (RSoXS) revealed that adding 1% CN to PBT1-EH:ITIC-Th blends reduced the domain size from 145 nm to 35 nm and increased relative domain purity, which enhances exciton dissociation and FF.",
+      "evidence": "The domain size in the PBT1-EH:ITIC-Th films with CN additive is 35 nm, which is much smaller than that (145 nm) in PBT1-EH:ITIC-Th films without CN additive... The relative domain purity is 0.78 for PBT1-EH:ITIC-Th films while the purity of blend films processed with CN additive is 1.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "RSoXS",
+        "domain size",
+        "domain purity",
+        "phase separation"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The PBT1 series copolymers are thermally stable up to temperatures exceeding 305 °C, though PBT1-MP shows a minor degradation step (0.2% weight loss) at approximately 150 °C.",
+      "evidence": "these copolymers are thermally stable with a decomposition temperature beyond 305 °C under nitrogen... PBT1-MP exhibits a small degradation step with ≈ 0.2% weight loss at ≈ 150 °C.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "TGA",
+        "decomposition temperature"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The photovoltaic performance of PBT1-EH:PC71BM devices is sensitive to active layer thickness; the PCE drops from 10.3% at 130 nm to 7.6% at 210 nm due to a significant reduction in fill factor.",
+      "evidence": "At the active layer thickness of 130 nm, solar cells showed the best photovoltaic performance. When the thickness was increased to 160 nm the PCE was decreased to 9.3%. Further increasing the thickness up to 210 nm the PCE dropped to 7.6% due to the dramatically reduced FF.",
+      "complexity": "single-hop",
+      "keywords": [
+        "active layer thickness",
+        "thickness dependence",
+        "fill factor"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 11430,
+    "completion_tokens": 3669,
+    "total_tokens": 15099
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "paper_id": "c7tc01680h",
+  "paper_title": "Recent progress in the development of n-type organic semiconductors for organic field effect transistors",
+  "qa_pairs": [
+    {
+      "question": "What is the threshold LUMO energy level required to ensure stable electron transport in organic semiconductors under ambient conditions?",
+      "answer": "To achieve stable electron transport and prevent reactions with moisture and oxygen, an organic semiconductor theoretically and empirically requires a LUMO energy level of approximately -4.0 eV or lower.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Recent progress in the development of n-type organic semiconductors for organic field effect transistors",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What are the record-high electron mobilities reported for n-type small molecules and n-type polymers in organic field-effect transistors?",
+      "answer": "The record high electron mobilities are 12.6 cm²/V·s for n-type small molecules and 14.9 cm²/V·s for n-type polymers.",
+      "category": "Performance Metrics",
+      "source_title": "Recent progress in the development of n-type organic semiconductors for organic field effect transistors",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the chlorination of the naphthalene tetracarboxylic diimide (NDI) core, as seen in compound S3a, impact its electronic properties and environmental stability?",
+      "answer": "Chlorination of the NDI core effectively lowers the LUMO energy level from -3.72 eV (in non-chlorinated NDI) to -4.13 eV (in tetrachloro NDI). This significant reduction in LUMO energy enhances the material's air stability by preventing degradation from moisture and oxygen.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Recent progress in the development of n-type organic semiconductors for organic field effect transistors",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Why does the Top-gate bottom-contact (TGBC) architecture often result in superior air stability for n-channel organic semiconductors compared to other configurations?",
+      "answer": "In a TGBC architecture, the dielectric layer and the gate electrode layer are positioned on top of the semiconductor. These layers act as physical protective barriers that encapsulate the semiconductor, preventing direct exposure to oxygen and moisture in the ambient air.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Recent progress in the development of n-type organic semiconductors for organic field effect transistors",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Explain the molecular orbital mechanism that allows Terazulene (TAz1) to function as a unipolar n-channel semiconductor.",
+      "answer": "Terazulene (TAz1) functions as a unipolar n-channel semiconductor because its LUMO is distributed evenly across the molecule, whereas its HOMO is localized at one end. When molecules pack in an antiparallel orientation, this distribution allows for effective LUMO-LUMO overlap for electron transport while preventing HOMO-HOMO overlap, which would be necessary for hole transport.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Recent progress in the development of n-type organic semiconductors for organic field effect transistors",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What is the 'abrupt turn-on' phenomenon in high-mobility OFETs, and what are its potential causes and consequences for data interpretation?",
+      "answer": "The 'abrupt turn-on' refers to a kinked, non-linear transfer curve where the drain current increases rapidly over a very small gate voltage range just above the threshold. This is often caused by a rapid drop in contact resistance or carrier trapping at the dielectric interface, and it can lead to an overestimation of the mobility in the low gate voltage region.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Recent progress in the development of n-type organic semiconductors for organic field effect transistors",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "How does the position of the side chain branching point affect the performance of core-expanded NDI derivatives like S5b?",
+      "answer": "The position of the branching point is critical for molecular packing. Moving the branching point just one CH2 group further away from the NDI core in derivative S5b resulted in a significant improvement in electron mobility, reaching 3.50 cm²/V·s.",
+      "category": "Processing & Fabrication",
+      "source_title": "Recent progress in the development of n-type organic semiconductors for organic field effect transistors",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Compare the molecular packing and electron mobility of the core-chlorinated NDTI derivative S7b with its non-chlorinated version S7a.",
+      "answer": "The non-chlorinated NDTI (S7a) forms a 1D herringbone structure. In contrast, the core-chlorinated derivative S7b forms a 2D brick-layer packing structure enabled by Cl···O-C contacts. This change in packing leads to a much higher electron mobility of 0.73 cm²/V·s for S7b compared to the non-chlorinated version.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Recent progress in the development of n-type organic semiconductors for organic field effect transistors",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2832,
+    "completion_tokens": 2716,
+    "total_tokens": 5548
+  }
+}

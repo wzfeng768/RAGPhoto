@@ -1,0 +1,141 @@
+{
+  "paper_id": "geng-et-al-2019-nonfullerene-acceptor-for-organic-solar-cells-with-chlorination-on-dithieno-3-2-b-2-",
+  "paper_title": "Nonfullerene Acceptor for Organic Solar Cells with Chlorination on Dithieno[3,2-b:2',3'-d]pyrrol Fused-Ring",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/geng-et-al-2019-nonfullerene-acceptor-for-organic-solar-cells-with-chlorination-on-dithieno-3-2-b-2-3-d-pyrrol-fused/auto/geng-et-al-2019-nonfullerene-acceptor-for-organic-solar-cells-with-chlorination-on-dithieno-3-2-b-2-3-d-pyrrol-fused.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "IPIC-4Cl is designed using an indacenobis(dithieno[3,2-b:2',3'-d]pyrrol) (INP) fused-ring core with branched 2-butyl-1-octyl (BO) side chains and chlorinated (dicyanomethylidene)-indan-1-one (IC) end groups.",
+      "evidence": "A narrow-band-gap molecular acceptor, IPIC-4Cl, featuring an indacenobis(dithieno[3,2-b:2',3'-d]pyrrol) (INP) core with 2-butyl-1-octyl side chains and chlorinated (dicyanomethylidene)-indan-1-one (IC) as electron-accepting end group, has been rationally designed...",
+      "complexity": "single-hop",
+      "keywords": [
+        "IPIC-4Cl",
+        "INP core",
+        "chlorination",
+        "side chain engineering"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Binary organic solar cells based on PBDB-T:IPIC-4Cl achieved a power conversion efficiency (PCE) of 13.4% with a short-circuit current (JSC) of 22.2 mA cm⁻², an open-circuit voltage (VOC) of 813 mV, and a fill factor (FF) of 74.0%.",
+      "evidence": "Consequently, the OSCs constructed by PBDB-T:IPIC-4Cl obtain a champion power conversion efficiency (PCE) of 13.4% with an extremely low energy loss of 0.51 eV... increased to 13.4% with a significantly enhanced Jsc value of 22.2 mA cm-2 and FF of 74.0% and Voc of 813 mV.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "PBDB-T",
+        "IPIC-4Cl",
+        "binary device"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The energy loss (Eloss) for the PBDB-T:IPIC-4Cl device is 0.51 eV, which is lower than most representative chlorinated NFAs reported in literature.",
+      "evidence": "More encouragingly, the Eloss value obtained from the IPIC-4Cl-based device decreased to 0.51 eV, which is lower than those for most of the representative chlorinated NFAs in the literature.",
+      "complexity": "single-hop",
+      "keywords": [
+        "energy loss",
+        "Eloss",
+        "chlorinated NFA"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Chlorination of the end groups in IPIC-4Cl results in a narrower optical bandgap (1.32 eV) compared to the fluorinated (1.38 eV) and non-halogenated (1.44 eV) counterparts.",
+      "evidence": "Moreover, the Eg opt calculated from the absorption onset for IPIC-4Cl was 1.32 eV, while 1.38 and 1.44 eV were calculated for IPIC-4F and IPIC, respectively.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "optical bandgap",
+        "chlorination",
+        "fluorination",
+        "structure-property"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "DFT calculations show that the chlorinated acceptor model (h-4Cl) possesses a larger dipole moment (11.82 D) than the fluorinated (11.04 D) and hydrogenated (8.47 D) models, indicating an enhanced intramolecular charge transfer (ICT) effect.",
+      "evidence": "The h-4Cl shows a larger dipole moment value (δ = 11.82 D) than h-4F (δ = 11.04 D) and h-4H (8.47 D), indicating the occurrence of an enhanced ICT effect in IPIC-Cl.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DFT",
+        "dipole moment",
+        "ICT effect",
+        "chlorination"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The addition of 30 wt% PC71BM to the PBDB-T:IPIC-4Cl blend improves the PCE to 14.3% by acting as a phase mediator and electron-transporting channel, which enhances carrier generation and transport balance.",
+      "evidence": "Upon addition of PC71BM functioning as the phase mediator and electron-transporting channel into PBDB-T:IPIC-4Cl blend, the OSCs show an impressive PCE of 14.3%... the optimized PBDB-T:IPIC-4Cl:PC71BM (1:1:0.3, in weight ratio) device showed a maximum PCE of 14.3%...",
+      "complexity": "multi-hop",
+      "keywords": [
+        "ternary solar cell",
+        "PC71BM",
+        "phase mediator",
+        "PCE"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "PBDB-T:IPIC-4Cl blend films exhibit higher and more balanced charge mobilities (μh = 1.26 × 10⁻⁴ cm² V⁻¹ s⁻¹, μe = 1.00 × 10⁻⁴ cm² V⁻¹ s⁻¹, μh/μe = 1.26) compared to IPIC-4F and IPIC blends.",
+      "evidence": "The PBDB-T:IPIC-4Cl blend films present higher and more balanced charge mobilities (μh = 1.26 × 10-4 cm2 V-1 s-1, μe = 1.00 × 10-4 cm2 V-1 s-1 and μh/μe = 1.26), in comparison with those of PBDB-T:IPIC-4F films... and PBDB-T:IPIC films...",
+      "complexity": "single-hop",
+      "keywords": [
+        "charge mobility",
+        "SCLC",
+        "balanced transport"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The chlorinated IPIC-4Cl neat film exhibits the strongest intermolecular aggregation with the smallest π-π stacking distance (dπ-π) of 3.45 Å, as determined by GIWAXS.",
+      "evidence": "The π-π stacking distance (dπ-π) was evaluated to quantize the crystallinity, and we found that IPIC-4Cl neat film has the smallest dπ-π of 3.45 Å. This indicates that IPIC-4Cl exhibits the strongest intermolecular aggregations...",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "pi-pi stacking",
+        "crystallinity",
+        "aggregation"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Trap-assisted recombination is suppressed in PBDB-T:IPIC-4Cl devices, indicated by a VOC versus light intensity slope of 1.16 kT/q, which is lower than that of IPIC-4F (1.21 kT/q) and IPIC (1.95 kT/q).",
+      "evidence": "the slope of IPIC-4Cl-based devices was decreased to 1.16 kT/q, slightly lower than that of PBDB-T:IPIC-4F blend film (1.21 kT/q) and significantly lower than that of IPIC-based devices (1.95 kT/q).",
+      "complexity": "single-hop",
+      "keywords": [
+        "trap-assisted recombination",
+        "light intensity dependence",
+        "Voc"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Optimal device performance for IPIC series blends was achieved using chlorobenzene (CB) as the solvent, 0.5% (v/v) 1,8-diiodooctane (DIO) as an additive, and thermal annealing at 100 °C for 10 minutes.",
+      "evidence": "In detail, chlorobenzene (CB) was used as the processing solvent. In all three blend solutions (D:A = 1:1, in weight ratio), 0.5% (v/v) 1,8-diiodooctane (DIO) was added as processing additive. ...thermal annealing at 100 °C for 10 min is crucial...",
+      "complexity": "single-hop",
+      "keywords": [
+        "solvent processing",
+        "DIO",
+        "thermal annealing",
+        "optimization"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "R-SoXS measurements revealed that the PBDB-T:IPIC-4Cl film possesses small domains, providing a high donor-acceptor (D:A) interface area for efficient exciton separation.",
+      "evidence": "Small domains in PBDB-T:IPIC-4Cl film indicated that more D:A interfaces are produced in blend film to efficiently facilitate exciton separation, which contributes to the high Jsc values for the binary devices.",
+      "complexity": "single-hop",
+      "keywords": [
+        "R-SoXS",
+        "phase separation",
+        "domain size",
+        "exciton separation"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 15903,
+    "completion_tokens": 3660,
+    "total_tokens": 19563
+  }
+}

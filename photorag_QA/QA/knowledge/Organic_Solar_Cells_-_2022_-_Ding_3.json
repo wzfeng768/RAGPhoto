@@ -1,0 +1,146 @@
+{
+  "paper_id": "Organic_Solar_Cells_-_2022_-_Ding_3",
+  "paper_title": "Organic Solar Cells: Materials Design, Technology and Commercialization - Chapter 1: Conjugated Polymer Donors for Organic Solar Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Organic Solar Cells - 2022 - Ding (3)/auto/Organic Solar Cells - 2022 - Ding (3).md",
+  "knowledge_points": [
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Conjugated donor polymers are classified into three types based on their optical bandgap (Eg): low bandgap (LBG) polymers with Eg < 1.6 eV, medium bandgap (MBG) polymers with 1.6 eV < Eg < 1.8 eV, and wide bandgap (WBG) polymers with Eg > 1.8 eV.",
+      "evidence": "Based on the optical bandgaps (Egopts), donor polymers employed in OSCs can be divided into three major types: low bandgap (LBG) polymers (Eg < 1.6 eV), medium bandgap (MBG) polymers (1.6 eV < Eg < 1.8 eV), and wide bandgap (WBG) polymers (Eg > 1.8 eV)",
+      "complexity": "single-hop",
+      "keywords": [
+        "optical bandgap",
+        "LBG",
+        "MBG",
+        "WBG"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The 'push-pull' effect in Donor-Acceptor (D-A) copolymers allows for bandgap tuning: 'strong donor-strong acceptor' configurations yield LBG polymers, 'weak donor-strong acceptor' yield MBG polymers, and 'weak donor-weak acceptor' yield WBG polymers.",
+      "evidence": "(i) the combination of 'strong donor' and 'strong acceptor' could be a feasible way to achieve a LBG polymer... (ii) the pair of 'weak donor' and 'strong acceptor' could be employed to construct a MBG polymer... and (ii) the utilization of 'weak donor' and 'weak acceptor' could be effective to build a WBG polymer",
+      "complexity": "multi-hop",
+      "keywords": [
+        "D-A copolymers",
+        "push-pull effect",
+        "molecular design"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "In alternating D-A copolymers, the Highest Occupied Molecular Orbital (HOMO) level is primarily influenced by the donor units, while the Lowest Unoccupied Molecular Orbital (LUMO) level is largely determined by the acceptor units.",
+      "evidence": "Besides, the HOMO level of the polymers is mainly influenced by the donor units, while the LUMO level is determined by the acceptor units.",
+      "complexity": "single-hop",
+      "keywords": [
+        "HOMO",
+        "LUMO",
+        "D-A copolymers"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The silicon-substituted polymer P2, based on silole-containing cyclopentadithiophene and benzothiadiazole, achieved a certified power conversion efficiency (PCE) of 5.2% in fullerene-based organic solar cells.",
+      "evidence": "By replacing the carbon atom with silicon atom on CPDT, the polymer P2 [19, 20] with a higher crystallinity and improved charge transport properties was generated, which afforded a certified PCE of 5.2% when blended with a fullerene derivative in OSCs.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "silicon substitution",
+        "P2 polymer"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Replacing sulfur (S) with oxygen (O) in heteroaromatic rings of donor polymers generally leads to a more positive oxidation potential and a deeper-lying HOMO level, which can increase the open-circuit voltage (Voc) in devices.",
+      "evidence": "Replacing S with O in heteroaromatic rings tends to offer a more positive oxidation potential, which is beneficial for obtaining a higher Voc in OSCs [18]. This was reflected by P3, which exhibited much deeper-lying HOMO level and higher Voc than P1 in OSCs.",
+      "complexity": "single-hop",
+      "keywords": [
+        "heteroatom substitution",
+        "HOMO level",
+        "open-circuit voltage"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Fluorination of the benzothiadiazole (BT) unit in LBG polymers, such as in the polymer P4, can promote a 'face-on' molecular orientation when blended with PC71BM, leading to improved photovoltaic performance compared to non-fluorinated or di-fluorinated versions.",
+      "evidence": "the polymer with mono-fluorination on BT (P4) exhibited better photovoltaic performance than the polymers with nonand di-fluorination on BT (P1, P5) due to the stronger tendency to take face-on orientation when blended with PC71BM.",
+      "complexity": "single-hop",
+      "keywords": [
+        "fluorination",
+        "face-on orientation",
+        "benzothiadiazole"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The use of thiadiazolo[3,4-c]pyridine (PyT) instead of benzothiadiazole (BT) increases the electron affinity of the building block, resulting in a narrower bandgap in the resulting conjugated polymers.",
+      "evidence": "Replacing the phenyl ring on BT unit with pyridine ring leads to a new building block: thiadiazolo[3,4-c]pyridine (PyT), which possesses higher electron affinity and affords narrower bandgap in conjugated polymers.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PyT",
+        "electron affinity",
+        "narrow bandgap"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The LBG polymer P18, based on a naphtho[1,2-c:5,6-c']bis[1,2,5]thiadiazole (NT) acceptor unit, demonstrated a high power conversion efficiency (PCE) of 11.3% with a short-circuit current density (Jsc) of 20.2 mA/cm².",
+      "evidence": "Table 1.2: Polymer P18, Eg 1.42 eV, Jsc 20.2 mA cm-2, PCE 11.3%",
+      "complexity": "single-hop",
+      "keywords": [
+        "P18",
+        "NT unit",
+        "PCE"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Replacing the sulfur atoms in the naphtho[1,2-c:5,6-c']bis[1,2,5]thiadiazole (NT) unit with oxygen to form naphtho[1,2-c:5,6-c']bis[1,2,5]oxadiazole (NOz) can significantly reduce energy loss (Eloss) in organic solar cells from approximately 0.85 eV to 0.55 eV.",
+      "evidence": "Takimiya and coworkers created a new building block naphtho[1,2-c:5,6-c']bis[1,2,5]oxadiazole (NOz) by replacing the sulfur atom on NT unit with oxygen atom... significantly enhanced Voc and greatly reduced Eloss in OSCs when blended with the same electron acceptor (≈0.85 versus ≈0.55 eV)",
+      "complexity": "multi-hop",
+      "keywords": [
+        "energy loss",
+        "NOz",
+        "NT derivative"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The power conversion efficiency of isoindigo-based polymers can be limited by molecular orientation; thiophene-terminated isoindigo polymers (like P45) tend to favor a 'face-on' orientation, whereas phenyl-terminated versions favor an 'edge-on' orientation.",
+      "evidence": "the thiophene-terminated isoindigo polymers favor a face-on orientation in thin films, while the phenyl-terminated isoindigo polymers favor an edge-on orientation. As a result, P45, the polymer with modest planarity, showed the highest PCE in OSCs due to the face-on-dominated orientation.",
+      "complexity": "single-hop",
+      "keywords": [
+        "isoindigo",
+        "molecular orientation",
+        "face-on"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Isoindigo (IID) building blocks can have their solubility improved by introducing alkyl chains onto the amide nitrogen atoms of the two lactam rings.",
+      "evidence": "The solubility of unsubstituted isoindigo is very poor in common organic solvents, but it can be improved by introducing various alkyl chains onto the amide nitrogen atoms. Due to its two lactam rings, isoindigo has strong electron-withdrawing properties.",
+      "complexity": "single-hop",
+      "keywords": [
+        "isoindigo",
+        "solubility",
+        "alkyl chains"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "A high open-circuit voltage (Voc) of 1.0 V was achieved using the TID-based polymer P22 (copolymerized from TID and IDTT), resulting in a very low energy loss (Eloss) of 0.49 eV.",
+      "evidence": "The OSCs based on P22:PC71BM attained a good PCE of 6.7% with a high Voc of 1.0 V; leading to the Eloss as low as 0.49 eV.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Voc",
+        "Eloss",
+        "TID",
+        "IDTT"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 16799,
+    "completion_tokens": 3283,
+    "total_tokens": 20082
+  }
+}

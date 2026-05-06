@@ -1,0 +1,131 @@
+{
+  "paper_id": "c9tc06667e",
+  "paper_title": "A selenophene substituted double-cable conjugated polymer enables efficient single-component organic solar cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/c9tc06667e/auto/c9tc06667e.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "PBDBPBI-Se is a double-cable conjugated polymer synthesized via Stille polymerization, consisting of a conjugated backbone of chlorinated benzodithiophene (BDT) and benzo[1,2-c:4,5-c']dithiophene-4,8-dione (BDD) with perylene bisimide (PBI) units attached as electron-withdrawing side chains.",
+      "evidence": "PBDBPBI-Se was prepared by using Stille polymerization similarly to PBDBPBI-S... based on electron-donating conjugated backbones containing chlorinated benzodithiophenes (BDTs) alternating with 5,7-bis(2-ethylhexyl)benzo[1,2-c:4,5-c0 ]- dithiophene-4,8-dione (BDD) units and electron-withdrawing side units containing PBIs.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PBDBPBI-Se",
+        "double-cable polymer",
+        "Stille polymerization",
+        "perylene bisimide"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Single-component organic solar cells based on PBDBPBI-Se achieved a power conversion efficiency (PCE) of 6.25%, with a short-circuit current density (Jsc) of 12.68 mA cm^-2, an open-circuit voltage (Voc) of 0.84 V, and a fill factor (FF) of 0.58.",
+      "evidence": "Finally, a high efficiency of 6.25% could be obtained... providing a high efficiency of 6.25% with a high photocurrent of 12.68 mA cm^-2... Voc of 0.84 V and FF of 0.58.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "Jsc",
+        "SCOSC",
+        "efficiency"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Substituting thiophene with selenophene in the double-cable polymer backbone results in a red-shifted absorption spectrum by approximately 30 nm and raises the HOMO energy level from -5.59 eV (for PBDBPBI-S) to -5.44 eV (for PBDBPBI-Se).",
+      "evidence": "PBDBPBI-Se had a ~30 nm red-shifted absorption spectrum compared to PBDBPBI-S... The highest occupied molecular orbital (HOMO) levels... are -5.59 eV for PBDBPBI-S and -5.44 eV for PBDBPBI-Se.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "selenophene",
+        "HOMO level",
+        "absorption spectrum",
+        "red-shift"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Density functional theory (DFT) calculations show that selenophene-substituted backbones in double-cable polymers possess more planar structures compared to the twisted structures found in thiophene-containing backbones.",
+      "evidence": "We also use density functional theory (DFT) calculations to study the geometry of the conjugated backbones, in which we found that selenophene substituted backbones showed planar structures compared to twisted thiophene-containing backbones.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DFT",
+        "planarity",
+        "backbone geometry",
+        "selenophene"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Thermal annealing at 230 °C for 10 minutes significantly improves the photovoltaic performance of PBDBPBI-Se SCOSCs, increasing the PCE from 1.52% for as-cast films to 6.25%.",
+      "evidence": "The SCOSCs based on the PBDBPBI-Se thin film without thermal treatment exhibit a PCE of 1.52%... When the thin films were thermally annealed at 230 °C... the PCE of the SCOSCs based on PBDBPBI-Se was enhanced to 6.25%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal annealing",
+        "optimization",
+        "PCE",
+        "SCOSC"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "PBDBPBI-Se exhibits ambipolar charge transport in organic field-effect transistors (OFETs); after annealing at 280 °C, it demonstrates a hole mobility of 3.6 x 10^-1 cm^2 V^-1 s^-1 and an electron mobility of 1.7 x 10^-4 cm^2 V^-1 s^-1.",
+      "evidence": "Studies of OFETs showed that PBDBPBI-Se had temperature-dependent mobilities with the best hole mobility of 3.6 × 10^-1 cm^2 V^-1 s^-1 and electron mobility of 1.7 × 10^-4 cm^2 V^-1 s^-1 after thermal annealing at 280 °C.",
+      "complexity": "single-hop",
+      "keywords": [
+        "carrier mobility",
+        "OFET",
+        "ambipolar",
+        "hole mobility"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Grazing-incidence medium-angle X-ray scattering (GIMAXS) reveals that PBDBPBI-Se has a lamellar d-spacing of 4.7 nm, which is notably smaller than the 6.9 nm d-spacing observed in the thiophene-based PBDBPBI-S.",
+      "evidence": "However, we noted that peak q1 had a d-spacing of 4.7 nm in PBDBPBI-Se, which was much smaller than that in PBDBPBI-S (6.9 nm).",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIMAXS",
+        "d-spacing",
+        "lamellar stacking",
+        "crystallinity"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The absence of phase transitions in DSC measurements for PBDBPBI-Se suggests that its highly crystalline conjugated backbone hampers the crystallization of PBI side units due to poor crystalline cooperativity.",
+      "evidence": "the absence of a phase transition in PBDBPBI-Se revealed that the PBIs in PBDBPBI-Se had disordered nanostructures. This is reasonable since in PBDBPBI-Se the conjugated backbones have strong crystallinity, which will hamper the crystallization of PBIs due to the poor crystalline cooperativity.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "DSC",
+        "crystalline cooperativity",
+        "nanophase separation",
+        "PBI"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "PBDBPBI-Se demonstrates high thermal stability with a 5% weight loss temperature of 418.0 °C, as determined by thermal gravimetric analysis (TGA).",
+      "evidence": "the temperatures with 5% weight loss for PBDBPBI-S and PBDBPBI-Se are 413.8 °C and 418.0 °C.",
+      "complexity": "single-hop",
+      "keywords": [
+        "TGA",
+        "thermal stability",
+        "weight loss"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis indicates that thermal treatment at 230 °C causes a transition in PBDBPBI-Se films where (h00) diffraction peaks shift from appearing in both in-plane and out-of-plane directions to predominantly the in-plane direction.",
+      "evidence": "the diffraction peaks (h00) appeared in the out-of-plane (OOP) and in-plane (IP) directions when the thin films underwent no thermal treatment, while they appeared in the IP direction after thermal treatment at 230 °C.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "orientation",
+        "diffraction peaks",
+        "thermal treatment"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 12236,
+    "completion_tokens": 3443,
+    "total_tokens": 15679
+  }
+}

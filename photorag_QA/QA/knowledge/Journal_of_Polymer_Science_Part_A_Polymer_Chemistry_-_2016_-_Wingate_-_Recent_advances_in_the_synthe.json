@@ -1,0 +1,144 @@
+{
+  "paper_id": "Journal_of_Polymer_Science_Part_A_Polymer_Chemistry_-_2016_-_Wingate_-_Recent_advances_in_the_synthe",
+  "paper_title": "Recent Advances in the Syntheses of Radical-Containing Macromolecules",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Journal of Polymer Science Part A  Polymer Chemistry - 2016 - Wingate - Recent advances in the syntheses of/auto/Journal of Polymer Science Part A  Polymer Chemistry - 2016 - Wingate - Recent advances in the syntheses of.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Radical polymers are defined as macromolecules with non-conjugated, usually aliphatic backbones and pendant groups containing stable radical sites, whereas polyradicals contain stable radical sites directly within the backbone or stabilized through significant conjugation.",
+      "evidence": "we define radical polymers as macromolecules composed of non-conjugated, usually aliphatic polymer backbones and with pendant groups that contain stable radical sites... In contrast, polyradicals... are defined to be macromolecules where the open-shell entity either resides directly on the macromolecular backbone or is heavily tied to the macromolecular structure through a large degree of conjugation.",
+      "complexity": "single-hop",
+      "keywords": [
+        "radical polymers",
+        "polyradicals",
+        "macromolecular architecture"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The synthesis of poly(2,2,6,6-tetramethylpiperidinyloxy-4-yl methacrylate) (PTMA) via RAFT polymerization requires a three-step process: polymerization of the protected monomer, removal of the chain transfer agent (CTA) terminus using excess AIBN, and subsequent oxidation to prevent side reactions between the CTA and the oxidant.",
+      "evidence": "the RAFT-mediated polymerization of PTMA, requires a three step reaction scheme... the chain transfer agent terminus is cleaved from the polymer end by reacting the PTMPM-RAFT with excess AIBN... the polymer is oxidized to PTMA through the introduction of mCPBA... removal of the RAFT terminus is necessary prior to oxidation, as the direct oxidation of PTMPM-RAFT resulted in an insoluble product.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "PTMA",
+        "RAFT polymerization",
+        "post-polymerization functionalization"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Radical polymers exhibit solid-state electrical conductivity through a mechanism where electrons transfer between adjacent radical sites, provided there is a sufficiently high density of radical sites to allow the electrochemical reaction to propagate through the film.",
+      "evidence": "it is postulated that, in the presence of an electric field, adjacent radical sites will undergo electron transfer with one another if there is a sufficiently high density of radical sites present within the film to allow for electrochemical reaction to propagate from one electrode to the other.",
+      "complexity": "single-hop",
+      "keywords": [
+        "solid state conductivity",
+        "electron transfer",
+        "radical density"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "In secondary battery applications, p-type radical polymers like PTMA serve as cathodes where the nitroxide radical is oxidized to an oxoammonium cation during charging and reduced back to the stable radical during discharge.",
+      "evidence": "a p-type radical polymer containing the TEMPO moiety can serve as the cathode in a battery. During the charging cycle, the radical will undergo oxidation and form the oxoammonium cation; during discharge, the cation will be reduced to regenerate the stable radical species.",
+      "complexity": "single-hop",
+      "keywords": [
+        "rechargeable batteries",
+        "cathode",
+        "oxoammonium cation"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Anionic polymerization of radical-bearing monomers like TEMPO-methacrylate (TEMPO-M) can achieve high precision, yielding polymers with molecular weights between 4 and 16 kDa and narrow dispersity values below 1.1.",
+      "evidence": "Anionic polymerizations are particularly precise, capable of achieving molecular weights from 4 to 16 kDa while maintaining a dispersity below 1.1... anionic polymerization of PTMA from 2,2,6,6-tetramethylpiperidinyloxyl-4yl methacrylate (TEMPO-M) occurred.",
+      "complexity": "single-hop",
+      "keywords": [
+        "anionic polymerization",
+        "dispersity",
+        "TEMPO-M"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The redox behavior of nitroxide-based radical polymers can be shifted from p-type to n-type by incorporating strong electron-withdrawing groups, such as fluorine or nitro groups, onto the aromatic ring supporting the radical site.",
+      "evidence": "the resulting nitroxide radical-based polymer was formed; interestingly, it was found to be n-type in nature. This drastic shift in redox behavior was attributed to the highly electron withdrawing characteristics of the fluorine groups. This trend was consistent for a wide range of electron-withdrawing groups placed around the phenyl ring.",
+      "complexity": "single-hop",
+      "keywords": [
+        "n-type polymers",
+        "redox behavior",
+        "electron-withdrawing groups"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Ring-opening metathesis polymerization (ROMP) using Grubbs catalyst allows for the direct polymerization of radical-bearing norbornene monomers, enabling the synthesis of polymers with two open-shell sites per repeat unit and dispersity values below 1.3.",
+      "evidence": "ROMP mediated by the ruthenium-based Grubbs catalyst provides another versatile route... Norbornene and norbornene derivatives are popular precursors for this technique, as each repeat unit has the ability to bear two open-shell species... (i.e. molecular weights from 8 to 65 kDa with dispersity values below 1.3).",
+      "complexity": "single-hop",
+      "keywords": [
+        "ROMP",
+        "Grubbs catalyst",
+        "norbornene"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Surface-initiated ATRP (SI-ATRP) has been utilized to grow patterned radical polymer brushes directly from tin-doped indium oxide (ITO) substrates, creating micron-scale electrodes that avoid dissolution into the electrolyte.",
+      "evidence": "surface-initiated ATRP (SI-ATRP) has allowed for the creation of functionalized surfaces with radical polymer brushes... same polymerization technique was used to grow PTMA brushes from tin-doped indium oxide (ITO) substrates. Additionally, patterning of the ITO... allowed for patterned PTMA brushes.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "SI-ATRP",
+        "ITO",
+        "patterning"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "PTMA-based diblock copolymers, such as PTMA-b-P3FEMA, self-assemble into well-ordered cylindrical nanostructures with feature sizes of approximately 20–30 nm upon thermal or solvent annealing.",
+      "evidence": "PTMA-b-P3FEMA diblock copolymers demonstrated relatively well-ordered structures upon either thermal or solvent annealing... cylindrical nanostructures... these PDMs-PTMA block polymers also assembled into ordered thin films with features on the order of ~20–30 nm.",
+      "complexity": "single-hop",
+      "keywords": [
+        "self-assembly",
+        "diblock copolymers",
+        "nanostructures"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Group transfer polymerization (GTP) is an effective method for the direct polymerization of TEMPO-methacrylate monomers using 1-methoxy-2-methyl-1-trimethylsilyloxypropene as the transfer agent and tetrabutylammonium fluoride as a catalyst.",
+      "evidence": "development of a group transfer polymerization (GTP) scheme has shown promise for directly polymerizing the radical-bearing TEMPO-M monomer to form PTMA. Here, TEMPO-M is polymerized in the presence of the group transfer agent 1- methoxy-2-methyl-1-trimethylsilyloxypropene and a catalytic amount of tetrabutylammonium fluoride.",
+      "complexity": "single-hop",
+      "keywords": [
+        "group transfer polymerization",
+        "TEMPO-M",
+        "catalysis"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The solubility of radical polymers in battery electrolytes is a critical performance factor, as the dissolution of the polymer results in self-discharge and significantly reduces battery capacitance and operational lifetime.",
+      "evidence": "controlling the solubility of the polymer is imperative for batteries, as dissolution of the radical polymer into the electrolyte results in self-discharge and drastically diminishes the battery capacitance and lifetime.",
+      "complexity": "single-hop",
+      "keywords": [
+        "solubility",
+        "self-discharge",
+        "battery lifetime"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Atomic force microscopy (AFM) is used to visualize the microphase separation and self-assembled cylindrical morphologies in radical polymer thin films after thermal or solvent annealing.",
+      "evidence": "cylindrical nanostructures... allowed for easy visualization of the self-assembled thin films in the atomic force microscope (AFM).",
+      "complexity": "single-hop",
+      "keywords": [
+        "AFM",
+        "morphology",
+        "microphase separation"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 11549,
+    "completion_tokens": 4497,
+    "total_tokens": 16046
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "paper_id": "Nano_Select_-_2021_-_Lu_-_Recent_progress_of_Yseries_electron_acceptors_for_organic_solar_cells",
+  "paper_title": "Recent progress of Y-series electron acceptors for organic solar cells",
+  "qa_pairs": [
+    {
+      "question": "What are the primary chemical structural differences between Y-series electron acceptors and ITIC-type acceptors?",
+      "answer": "Y-series acceptors feature an A-DA'D-A type fused-ring structure. Unlike ITIC-type acceptors, they incorporate an electron-deficient aromatic ring into the central core and replace the cyclopentadienyl rings with pyrrole rings.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Recent progress of Y-series electron acceptors for organic solar cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What is the reported power conversion efficiency (PCE) for single-junction organic solar cells using the binary D18/Y6 system?",
+      "answer": "The binary organic solar cell system based on D18/Y6 has achieved a power conversion efficiency (PCE) of 18.22%.",
+      "category": "Performance Metrics",
+      "source_title": "Recent progress of Y-series electron acceptors for organic solar cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does replacing the sulfur atom with selenium in the central benzothiadiazole unit of Y6 affect its optical and electrical properties?",
+      "answer": "Replacing sulfur with selenium to form Y6Se results in a narrower optical bandgap of 1.32 eV. This modification leads to an increased short-circuit current (Jsc) of 27.98 mA cm⁻², contributing to a power conversion efficiency of 17.7% when blended with the D18 donor.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Recent progress of Y-series electron acceptors for organic solar cells",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Within the BTP-4Cl series of acceptors, how does the length of the branched side chains (C8, C12, or C16) influence the molecular packing and device performance?",
+      "answer": "In the BTP-4Cl series, the C12 side chain (BTP-4Cl-12) provides the shortest π-π stacking distance compared to the C8 or C16 chains. Consequently, BTP-4Cl-12 demonstrates the best device performance in both spin-coated and blade-coated organic solar cells.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Recent progress of Y-series electron acceptors for organic solar cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How do the molecular packing modes of Y-series acceptors facilitate efficient charge transport?",
+      "answer": "Y-series acceptors facilitate efficient charge transport through the formation of a 3D network. This network is created by two distinct π-π stacking modes: one involving the end groups (similar to ITIC-type acceptors) and a second mode through the interaction of the fused-ring cores (D' units).",
+      "category": "Device Architecture & Physics",
+      "source_title": "Recent progress of Y-series electron acceptors for organic solar cells",
+      "difficulty": "hard",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What factors contribute to the high open-circuit voltage (Voc) observed in organic solar cells based on Y-series acceptors?",
+      "answer": "The high Voc is attributed to reduced non-radiative energy losses, high electroluminescence quantum efficiency, and a sharp absorption tail.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Recent progress of Y-series electron acceptors for organic solar cells",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the introduction of trifluoromethyl (CF3) groups on the end groups of the BTIC-CF3-γ acceptor influence its molecular geometry and device performance?",
+      "answer": "The CF3 groups in BTIC-CF3-γ result in a smaller molecular dihedral angle. This promotes intermolecular charge transfer, leading to high short-circuit current (Jsc) and fill factor (FF), ultimately yielding a power conversion efficiency of 15.59% when used with the PBDB-TF donor.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Recent progress of Y-series electron acceptors for organic solar cells",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What is the significance of the molecule BZIC in the development of Y-series acceptors, and why was its performance limited?",
+      "answer": "BZIC, reported in 2017, was an early precursor to Y6 that utilized a dithieno[3,2-b]pyrrolobenzotriazole core. Its performance was limited to a PCE of 6.3% primarily due to low short-circuit current (Jsc) and fill factor (FF).",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Recent progress of Y-series electron acceptors for organic solar cells",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2990,
+    "completion_tokens": 3466,
+    "total_tokens": 6456
+  }
+}

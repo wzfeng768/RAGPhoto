@@ -1,0 +1,75 @@
+{
+  "paper_id": "1-s20-S0038092X2030832X-main",
+  "paper_title": "Effects of monohalogenated terminal units of non-fullerene acceptors on molecular aggregation and photovoltaic performance",
+  "qa_pairs": [
+    {
+      "question": "What are the specific halogen atoms used to modify the indanone terminal units in the small molecule acceptors ZF, ZC, and ZB?",
+      "answer": "The small molecule acceptors ZF, ZC, and ZB were synthesized by introducing a single fluorine (F), chlorine (Cl), or bromine (Br) atom, respectively, onto each indanone terminal unit of an A-D-A-DA-type structure with a TPBT core.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Effects of monohalogenated terminal units of non-fullerene acceptors on molecular aggregation and photovoltaic performance",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What is the maximum power conversion efficiency (PCE) and corresponding short-circuit current density (Jsc) for the PM6:ZB-based organic solar cell?",
+      "answer": "The PM6:ZB-based organic solar cell achieved a maximum power conversion efficiency (PCE) of 15.23%, with a short-circuit current density (Jsc) of 26.38 mA/cm².",
+      "category": "Performance Metrics",
+      "source_title": "Effects of monohalogenated terminal units of non-fullerene acceptors on molecular aggregation and photovoltaic performance",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the monohalogenation of the terminal units in ZF, ZC, and ZB affect their maximum absorption wavelength compared to the non-halogenated reference Y5?",
+      "answer": "Monohalogenation results in a red-shift of the maximum absorption wavelength. Compared to the non-halogenated Y5, the absorption of ZF is red-shifted by 11 nm, ZC by 12 nm, and ZB by 17 nm.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Effects of monohalogenated terminal units of non-fullerene acceptors on molecular aggregation and photovoltaic performance",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Among the halogenated acceptors ZF, ZC, and ZB, which exhibits the highest molar absorption coefficient and what is its value?",
+      "answer": "The brominated acceptor ZB exhibits the highest molar absorption coefficient in solution, with a value of 2.31 x 10^5 M⁻¹cm⁻¹, compared to 1.83 x 10^5 M⁻¹cm⁻¹ for ZF and 1.98 x 10^5 M⁻¹cm⁻¹ for ZC.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Effects of monohalogenated terminal units of non-fullerene acceptors on molecular aggregation and photovoltaic performance",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the introduction of electron-withdrawing halogen atoms impact the LUMO energy levels of ZF, ZC, and ZB compared to the non-halogenated Y5?",
+      "answer": "The introduction of halogen atoms deepens the LUMO energy levels. While the non-halogenated Y5 has a LUMO level of -3.87 eV, the levels for the halogenated versions decrease to -4.09 eV for ZF, -4.12 eV for ZC, and -4.14 eV for ZB.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Effects of monohalogenated terminal units of non-fullerene acceptors on molecular aggregation and photovoltaic performance",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Compare the energy loss (Eloss) of the PM6:ZB system to the PM6:ZF and PM6:ZC systems.",
+      "answer": "The energy loss (Eloss) of the PM6:ZB system is 0.46 eV, which is lower than the 0.48 eV observed for both the PM6:ZF and PM6:ZC systems.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Effects of monohalogenated terminal units of non-fullerene acceptors on molecular aggregation and photovoltaic performance",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What are the molecular packing characteristics of ZF, ZC, and ZB pristine films as determined by GIWAXS?",
+      "answer": "GIWAXS characterization shows that ZF, ZC, and ZB pristine films exhibit a dominant face-on orientation. They feature a π-π stacking distance of approximately 3.67 Å, which corresponds to a diffraction peak at qz ≈ 1.71 Å⁻¹ in the out-of-plane direction.",
+      "category": "Characterization Methods",
+      "source_title": "Effects of monohalogenated terminal units of non-fullerene acceptors on molecular aggregation and photovoltaic performance",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How do the charge carrier mobilities of the PM6:ZB blend film contribute to its superior performance compared to ZF and ZC?",
+      "answer": "PM6:ZB demonstrates the highest and most balanced charge carrier mobilities, with an electron mobility of 2.52 x 10⁻⁴ cm²V⁻¹s⁻¹ and a hole mobility of 3.39 x 10⁻⁴ cm²V⁻¹s⁻¹. This results in a balanced hole-to-electron mobility ratio (μh/μe) of 1.35, facilitating efficient charge transport.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Effects of monohalogenated terminal units of non-fullerene acceptors on molecular aggregation and photovoltaic performance",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 3087,
+    "completion_tokens": 2542,
+    "total_tokens": 5629
+  }
+}

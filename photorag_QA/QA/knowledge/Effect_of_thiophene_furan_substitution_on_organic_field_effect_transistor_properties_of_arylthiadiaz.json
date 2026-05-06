@@ -1,0 +1,151 @@
+{
+  "paper_id": "Effect_of_thiophene_furan_substitution_on_organic_field_effect_transistor_properties_of_arylthiadiaz",
+  "paper_title": "Effect of thiophene/furan substitution on organic field effect transistor properties of arylthiadiazole based organic semiconductors",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Effect of thiophene_furan substitution on organic field effect transistor properties of arylthiadiazole based organic semiconductors/auto/Effect of thiophene_furan substitution on organic field effect transistor properties of arylthiadiazole based organic semiconductors.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The study synthesized four D-A type small molecules (T-NT-T, F-NT-F, T-BT-T, and F-BT-F) using benzothiadiazole (BT) or naphthothiadiazole (NT) as acceptor cores, flanked by thiophene (T) or furan (F) units and end-capped with 5-hexylthiophene.",
+      "evidence": "Therefore, we have chosen thiophene (T) and furan (F) for flanking groups along with naphthothiadiazole (NT) and benzothiadiazole (BT) for the conjugated core, while the flanking groups are end-capped with 5-hexylthiophene.",
+      "complexity": "single-hop",
+      "keywords": [
+        "D-A structure",
+        "benzothiadiazole",
+        "naphthothiadiazole",
+        "furan substitution"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Furan-containing molecules exhibit smaller dihedral angles and greater backbone planarity compared to their thiophene analogues due to the smaller atomic size of oxygen and reduced steric repulsion.",
+      "evidence": "It is notable that furan-containing molecules exhibit smaller dihedral angles than their thiophene analogues... In particular, the planarity of the molecules could be greatly enhanced by the addition of furan units.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "dihedral angle",
+        "planarity",
+        "furan",
+        "steric repulsion"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The T-BT-T based OFET device achieved the highest hole mobility among the studied materials, reaching a maximum value of 0.137 cm²/V·s.",
+      "evidence": "The T-BT-T based device I (Fig. 8a and d) showed a maximum hole mobility (μmax) of 1.37 × 10⁻¹ cm² V⁻¹ s⁻¹.",
+      "complexity": "single-hop",
+      "keywords": [
+        "hole mobility",
+        "T-BT-T",
+        "PCE",
+        "OFET"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Furan-substituted benzothiadiazole (F-BT-F) demonstrated a maximum hole mobility of 0.0122 cm²/V·s, proving furan is a viable building block for organic semiconductors.",
+      "evidence": "We successfully proved that a furan unit is a promising building block with a mobility (μmax) of 0.0122 cm² V⁻¹ s⁻¹ for devices employing furan-substituted benzothiadiazole as the channel layer.",
+      "complexity": "single-hop",
+      "keywords": [
+        "F-BT-F",
+        "hole mobility",
+        "furan building block"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The T-NT-T molecule was inactive in OFET devices because its high backbone twist (dihedral angles up to 50.3°) and unfavorable molecular alignment (b-axis aligned with current flow) inhibited charge transport.",
+      "evidence": "In the case of T-NT-T, the molecular packing was not appropriate for electrical conduction... the high backbone twist, which agrees with the inactive OFET performance when employing T-NT-T as the channel.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "T-NT-T",
+        "inactive",
+        "backbone twist",
+        "charge transport"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Furan-substituted molecules (F-NT-F and F-BT-F) exhibit thermal decomposition temperatures (Td) of 342°C and 375°C respectively, which are comparable to their thiophene-based counterparts.",
+      "evidence": "The thermal decomposition temperatures (Td) were estimated to be 342, 359, 375, and 382 °C for F-NT-F, T-NT-T, F-BT-F, and T-BT-T, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "Td",
+        "decomposition temperature"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Furan substitution significantly lowers the melting temperature (Tm) of the molecules (e.g., F-BT-F Tm = 112°C vs. T-BT-T Tm = 225°C), which may facilitate low-temperature solution processing.",
+      "evidence": "Furan containing molecules possessed a lower Tm compared to their thiophene analogues... Lowering of melting point by furan substitution seems to be effective when a given molecule exhibits too strong intermolecular interaction for low-temperature processing.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "melting temperature",
+        "Tm",
+        "low-temperature processing"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Furan units can form 'conformational locks' through O–H (2.11–2.19 Å) and N–H (2.34–2.47 Å) intramolecular interactions, which stabilize the planar structure of F-NT-F.",
+      "evidence": "The furan ring adjacent to the NT core has two O–H (2.11–2.19 Å) and N–H (2.34–2.47 Å) bonds... The F-NT-F backbone structure can impose strong 'conformational locks' which causes the planarity and rigidity.",
+      "complexity": "single-hop",
+      "keywords": [
+        "conformational locks",
+        "intramolecular interactions",
+        "F-NT-F"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "A self-assembled monolayer (SAM) of 4-(dimethylamino)benzenethiol (DABT) was used to treat the gold electrodes in the bottom-gate bottom-contact (BGBC) OFETs to reduce the carrier injection barrier.",
+      "evidence": "4-(Dimethylamino)benzenethiol (DABT) was used to create a covalent bond with the gold electrode prior to the organic semiconductor deposition. The dipole moment of this molecule will also modify the vacuum levels for the semiconductor.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DABT",
+        "self-assembled monolayer",
+        "BGBC",
+        "injection barrier"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "DFT calculations at the B3LYP/6-311G(d,p) level show that the HOMO levels of furan-containing molecules are consistently higher than those of their thiophene analogues.",
+      "evidence": "The HOMO levels of the furan-containing molecules are always higher than those of the thiophene analogues, reflecting higher furan HOMO levels than those of thiophene.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DFT",
+        "HOMO",
+        "energy levels",
+        "furan vs thiophene"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "XRD analysis of thermally evaporated thin films revealed d-spacing values of 23.3 Å for F-BT-F and 17.3 Å for T-NT-T, indicating differences in molecular packing distance.",
+      "evidence": "the XRD patterns of the thermally evaporated thin films on the SiO2 substrate were collected... the corresponding d-spacing is reported in Table 3 [F-BT-F: 23.3, T-NT-T: 17.3].",
+      "complexity": "single-hop",
+      "keywords": [
+        "XRD",
+        "d-spacing",
+        "thin film morphology"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The naphthothiadiazole (NT) core results in a smaller energy band gap (Eg) and lower LUMO levels compared to the benzothiadiazole (BT) core due to the extended benzo group's stronger electron-accepting property.",
+      "evidence": "Compounds having the NT core exhibited a lower LUMO level which could be attributed to the stronger electron accepting properties that originate in the extended benzo group... the Eg of T-BT-T is the largest (2.27 eV) followed by F-BT-F (2.25 eV), T-NT-T (2.22 eV), and F-NT-F (1.95 eV).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "naphthothiadiazole",
+        "LUMO",
+        "band gap",
+        "electron affinity"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 16771,
+    "completion_tokens": 3197,
+    "total_tokens": 19968
+  }
+}

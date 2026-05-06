@@ -1,0 +1,75 @@
+{
+  "paper_id": "Advanced_Materials_-_2018_-_Chen_-_NearInfrared_Electron_Acceptors_with_Fluorinated_Regioisomeric_Ba",
+  "paper_title": "Near-Infrared Electron Acceptors with Fluorinated Regioisomeric Backbone for Highly Efficient Polymer Solar Cells",
+  "qa_pairs": [
+    {
+      "question": "What are the specific chemical components that make up the A-Aπ-D-Aπ-A backbone of the T1-T4 near-infrared nonfullerene acceptors?",
+      "answer": "The T1-T4 acceptors utilize an indacenodithiophene (IDT) donor core, 1,1-dicyanomethylene-3-indanone (IC) terminal acceptors, and fluorothieno[3,4-b]thiophene (FTT) as the regioisomeric Aπ bridge.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Near-Infrared Electron Acceptors with Fluorinated Regioisomeric Backbone for Highly Efficient Polymer Solar Cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the regiochemistry of the fluorine atom on the FTT bridge affect the molecular planarity of the IFIC-based acceptors?",
+      "answer": "Proximal regioisomers (T1-T3), where the fluorine atom points toward the IDT core, exhibit higher backbone rigidity and planarity compared to the distal isomer (T4). This is primarily due to the promotion of intramolecular F-S and F-H interactions in the proximal configuration, which is supported by DFT calculations showing a significantly smaller dihedral angle (0.22°) for proximal isomers compared to distal isomers (5.84°).",
+      "category": "Structure-Property Relationships",
+      "source_title": "Near-Infrared Electron Acceptors with Fluorinated Regioisomeric Backbone for Highly Efficient Polymer Solar Cells",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Compare the LUMO levels of the proximal acceptor T2 and the distal acceptor T4, and explain the structural reason for this difference.",
+      "answer": "The proximal NFA T2 has an upshifted LUMO level of -3.96 eV compared to the -4.01 eV of the distal NFA T4. This difference arises because the proximal arrangement of the bridge avoids extended conjugation between the terminal IC unit and the electron-withdrawing ester and double bond groups present on the FTT bridge.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Near-Infrared Electron Acceptors with Fluorinated Regioisomeric Backbone for Highly Efficient Polymer Solar Cells",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What are the optimized photovoltaic parameters for a single-junction polymer solar cell using the PTB7-Th:T2 blend?",
+      "answer": "The optimized PTB7-Th:T2 device, processed with 1% 1-chloronaphthalene (CN), achieved a power conversion efficiency (PCE) of 10.87%, a short-circuit current (JSC) of 24.85 mA cm⁻², an open-circuit voltage (VOC) of 0.65 V, and a fill factor (FF) of 0.67.",
+      "category": "Performance Metrics",
+      "source_title": "Near-Infrared Electron Acceptors with Fluorinated Regioisomeric Backbone for Highly Efficient Polymer Solar Cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What is the composition and role of the interconnecting layer (ICL) in the tandem solar cell featuring the PTB7-Th:T2 rear subcell?",
+      "answer": "The ICL consists of MoO3/ultrathin Ag (7 nm)/ZnO-NP/PFN-Br. Its role is to facilitate efficient charge recombination and ensure quasi-ohmic contact between the PBDB-T:ITIC front subcell and the PTB7-Th:T2 rear subcell, contributing to a tandem PCE of 14.64%.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Near-Infrared Electron Acceptors with Fluorinated Regioisomeric Backbone for Highly Efficient Polymer Solar Cells",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "How does the electron mobility of proximal NFAs (T1-T3) compare to the distal NFA (T4) in their respective blends?",
+      "answer": "The electron mobility of the proximal NFA blends (T1-T3) is approximately one order of magnitude higher than that of the distal NFA blend (T4). For instance, the proximal T3 achieves a mobility of 7.88 × 10⁻⁴ cm² V⁻¹ s⁻¹, whereas the distal T4 exhibits a much lower mobility of 0.34 × 10⁻⁴ cm² V⁻¹ s⁻¹.",
+      "category": "Performance Metrics",
+      "source_title": "Near-Infrared Electron Acceptors with Fluorinated Regioisomeric Backbone for Highly Efficient Polymer Solar Cells",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Describe the impact of 1-chloronaphthalene (CN) as a solvent additive on the morphology of PTB7-Th:T2 blend films as observed by PiFM.",
+      "answer": "The addition of 1% v/v 1-chloronaphthalene (CN) optimizes the film morphology by inducing proper phase separation. Photoinduced force microscopy (PiFM) measurements confirmed that this processing method results in an average domain size of approximately 20 nm at the top surface of the blend film.",
+      "category": "Processing & Fabrication",
+      "source_title": "Near-Infrared Electron Acceptors with Fluorinated Regioisomeric Backbone for Highly Efficient Polymer Solar Cells",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Based on GIWAXS data, how does the π-π stacking distance differ between the proximal T2 and distal T4 acceptors?",
+      "answer": "While both T2 and T4 adopt a predominantly face-on orientation, the proximal isomer T2 exhibits a shorter π-π stacking distance of 3.49 Å (corresponding to a (010) peak at 1.80 Å⁻¹) compared to the 3.55 Å distance observed for the distal isomer T4.",
+      "category": "Characterization Methods",
+      "source_title": "Near-Infrared Electron Acceptors with Fluorinated Regioisomeric Backbone for Highly Efficient Polymer Solar Cells",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 3193,
+    "completion_tokens": 2791,
+    "total_tokens": 5984
+  }
+}

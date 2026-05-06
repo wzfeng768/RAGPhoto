@@ -1,0 +1,139 @@
+{
+  "paper_id": "Adv_Funct_Materials_-_2021_-_Memon_-_Precise_Control_of_Crystal_Orientation_of_Conjugated_Molecule_E",
+  "paper_title": "Precise Control of Crystal Orientation of Conjugated Molecule Enables Anisotropic Charge Transport Properties",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Adv Funct Materials - 2021 - Memon - Precise Control of Crystal Orientation of Conjugated Molecule Enables Anisotropic/auto/Adv Funct Materials - 2021 - Memon - Precise Control of Crystal Orientation of Conjugated Molecule Enables Anisotropic.md",
+  "knowledge_points": [
+    {
+      "category": "Processing & Fabrication",
+      "content": "Highly oriented polyethylene (PE) substrates are prepared using a melt-drawn technique to achieve thicknesses between 30 and 50 nm, serving as a template for epitaxial crystallization.",
+      "evidence": "The polymeric substrate highly oriented PE is prepared according to the melt-drawn technique with the thickness of resultant films ranging in 30-50 nm.",
+      "complexity": "single-hop",
+      "keywords": [
+        "polyethylene substrate",
+        "melt-drawn technique",
+        "epitaxial crystallization"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The epitaxial crystallization efficiency on oriented PE is highly dependent on the native orientation of the small molecule; edge-on molecules (ZR1 and ZR2-C3) align uniaxially, while face-on molecules (Y6) exhibit random orientation.",
+      "evidence": "the conjugated small molecules with edge-on orientation can epitaxially grow on the oriented PE substrate... On the other hand, Y6 small molecule with face-on orientation shows the random alignment of molecules in the films.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "edge-on orientation",
+        "face-on orientation",
+        "uniaxial alignment",
+        "Y6",
+        "ZR1"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The degree of molecular backbone alignment is quantified using the dichroic ratio (DR) and molecular orientation factor (Smol), with ZR1 achieving a DR of 5.06 and an Smol of 0.66.",
+      "evidence": "The DR reached 5.06, 4.17 for aligned ZR1 and ZR2-C3 films... The molecular orientation factor, Smol... is calculated from ratios as 0.66, 0.61, and 0.16 for thermally annealed ZR1, ZR2-C3, and Y6 aligned films.",
+      "complexity": "single-hop",
+      "keywords": [
+        "dichroic ratio",
+        "molecular orientation factor",
+        "polarized UV-vis",
+        "ZR1"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Aligned ZR1 films exhibit a maximum charge carrier mobility of 9.91 × 10⁻² cm² V⁻¹ s⁻¹ along the molecular backbone direction, which is 35 times higher than the mobility measured in the perpendicular direction.",
+      "evidence": "the maximum charge carrier mobilities (μ) at the saturated regime for aligned ZR1 film along parallel (μ∥) and perpendicular (μ⊥) to the molecular backbones increase up to 9.91 × 10⁻² and 2.84 × 10⁻³ cm² V⁻¹ s⁻¹ that is, the mobility (μ∥) enhanced nearly 35-fold to the (μ⊥).",
+      "complexity": "single-hop",
+      "keywords": [
+        "charge carrier mobility",
+        "anisotropy",
+        "ZR1",
+        "OFET"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "ZR2-C3 aligned films show a charge transport anisotropy of 37.2, with parallel mobility reaching 8.97 × 10⁻² cm² V⁻¹ s⁻¹ compared to 2.41 × 10⁻³ cm² V⁻¹ s⁻¹ in the perpendicular direction.",
+      "evidence": "calculated charge carrier mobilities for aligned ZR2-C3 film along parallel (μ∥) and perpendicular (μ⊥) to the molecular backbones increase up to 8.97 × 10⁻² and 2.41 × 10⁻³ cm² V⁻¹ s⁻¹ which indicate the charge carrier mobility is typically 37 times higher along the small molecule backbones direction.",
+      "complexity": "single-hop",
+      "keywords": [
+        "anisotropy ratio",
+        "ZR2-C3",
+        "mobility"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis confirms that oriented PE substrates reduce the π-π stacking distance of ZR1 and ZR2-C3 to 3.593 Å and 3.598 Å, respectively, compared to films on silicon substrates.",
+      "evidence": "The determined π-π stacking distances under incident X-ray beam parallel to the direction of the small molecule backbone are found as 3.593 and 3.598 Å for aligned ZR1 and ZR2-C3 films, which are smaller than the films prepared on silicon substrates found as 3.674 and 3.628 Å.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "π-π stacking distance",
+        "lattice compression"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The crystallite coherence length (CCL) of ZR1 and ZR2-C3 increases significantly when processed on oriented PE (reaching 75.53 Å and 73.84 Å) compared to silicon substrates (42.12 Å and 52.81 Å).",
+      "evidence": "the CCL for small molecule ZR1 and ZR2-C3 films on oriented PE and silicon substrates are found as 75.53, 73.84 Å and 42.12, 52.81 A, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "crystallite coherence length",
+        "CCL",
+        "crystallinity"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The proposed epitaxial mechanism is based on crystal lattice matching, where the π-π stacking distance of the small molecules (~3.6 Å) closely matches the (200) lattice distance of the oriented PE substrate (~3.7 Å).",
+      "evidence": "The epitaxial mechanism can be crystal lattice matching, considering that the π-π stacking distance (≈3.6 Å) is nearly similar to the lattice distance of (200) diffraction peak of oriented PE substrate (≈3.7 Å).",
+      "complexity": "single-hop",
+      "keywords": [
+        "epitaxial mechanism",
+        "lattice matching",
+        "crystal packing"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The small molecule Y6 exhibits ambipolar charge transport on oriented PE with an electron mobility anisotropy of 3.83 and a hole mobility anisotropy of 1.09, indicating relatively isotropic electrical properties.",
+      "evidence": "the anisotropic ratio of electron mobilities (μ∥/μ⊥) is 3.83 times... the obtained hole mobilities (μh)... with anisotropic ratio (μ∥/μ⊥) of 1.09... indicating the overall poor anisotropic electrical properties of aligned Y6 small molecule films.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Y6",
+        "ambipolar transport",
+        "anisotropy",
+        "electron mobility",
+        "hole mobility"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Optimal alignment and charge carrier mobilities for ZR1 and ZR2-C3 are achieved at a thermal annealing temperature of 120 °C, which is near the melting point of the PE substrate.",
+      "evidence": "The maximum charge carrier mobilities for ZR1 and ZR2-C3 aligned films are achieved at the thermal annealing temperature of 120 °C which is nearer to the melting temperature of oriented PE substrate.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal annealing",
+        "optimization",
+        "annealing temperature"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The enhancement in charge transport along the drawing direction is attributed to the alignment of molecular backbones and the presence of tie-chains that interconnect ordered crystalline domains, reducing hopping and traps at grain boundaries.",
+      "evidence": "considerable improvement in charge carrier mobilities... is probably due to the alignment of ZR1 and ZR2-C3 molecules... and the presence of tie-chains which offer additional conductive routes connecting neighboring ordered crystalline domains.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "tie-chains",
+        "grain boundaries",
+        "charge transport mechanism"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 14616,
+    "completion_tokens": 3015,
+    "total_tokens": 17631
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "paper_id": "jin-et-al-2021-boosting-highly-efficient-hydrocarbon-solvent-processed-all-polymer-based-organic-sol",
+  "paper_title": "Boosting Highly Effcient Hydrocarbon Solvent-Processed AllPolymer-Based Organic Solar Cells by Modulating Thin-Film Morphology",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/jin-et-al-2021-boosting-highly-efficient-hydrocarbon-solvent-processed-all-polymer-based-organic-solar-cells-by/auto/jin-et-al-2021-boosting-highly-efficient-hydrocarbon-solvent-processed-all-polymer-based-organic-solar-cells-by.md",
+  "knowledge_points": [
+    {
+      "category": "Performance Metrics",
+      "content": "The toluene-processed PM6:PY-IT all-polymer organic solar cell achieved a power conversion efficiency (PCE) of 15.51%, which was higher than the 15.00% PCE achieved by the chloroform-processed device.",
+      "evidence": "toluene-processed PM6:PYIT-based solar cells provided an excellent PCE of 15.51%, the best value for hydrocarbon solvent-processed PD:PA based OSCs, meanwhile surpassing that of CF (15.00%).",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "toluene",
+        "PM6:PY-IT",
+        "all-polymer"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The optimal processing condition for the toluene-based PM6:PY-IT blend involved heating the solution and the substrates to 95 °C during film formation.",
+      "evidence": "we hereby chose to cast from a toluene blend solution when it was heated at 95 °C and the substrates were also preheated at this temperature, imitating the film formation of CF-cast ones.",
+      "complexity": "single-hop",
+      "keywords": [
+        "toluene",
+        "processing temperature",
+        "substrate heating"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis revealed that toluene-cast films exhibit lower crystallinity compared to chloroform-cast films, with crystal correlation lengths (CCL) for π-π stacking reducing from 24.2 Å (CF) to 21.1 Å (toluene).",
+      "evidence": "The π-π stacking peaks... with CCLs of 24.2 and 21.1 Å for CF and toluene, respectively. These results imply that the film cast from toluene has weaker crystallinity.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "CCL",
+        "crystallinity",
+        "π-π stacking"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Despite having lower crystallinity, the toluene-processed active layer exhibited higher charge mobilities (hole mobility of 9.22 × 10⁻⁴ cm² V⁻¹ s⁻¹ and electron mobility of 5.56 × 10⁻⁴ cm² V⁻¹ s⁻¹) compared to chloroform-processed films.",
+      "evidence": "The μh values of CF and toluene films are 8.31 and 9.22 × 10⁻⁴ cm² V⁻¹ s⁻¹ while their μe values are 4.76 and 5.56 × 10⁻⁴ cm² V⁻¹ s⁻¹, respectively... the toluene-processed active layer shows enhanced charge transport, although its thin-film crystallinity is weakened.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "charge mobility",
+        "crystallinity",
+        "SCLC",
+        "PM6:PY-IT"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "TEM imaging indicated that the toluene-processed films contain fewer large phases but higher domain purity, which is identified as the reason for enhanced charge transport despite reduced overall crystallinity.",
+      "evidence": "The images in Figure S1 show that the toluene-processed film contains fewer large phases but purer, which contributes to charge transport enhancement.",
+      "complexity": "single-hop",
+      "keywords": [
+        "TEM",
+        "domain purity",
+        "morphology",
+        "charge transport"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The charge collection efficiency (ηcoll) was improved from 79.4% in chloroform-processed devices to 81.8% in toluene-processed devices.",
+      "evidence": "The (ηdiss, ηcoll)s for CF and toluene devices are (91.6%, 79.4%) and (92.6%, 81.8%), respectively: a better charge extraction takes place in the toluene-processed device.",
+      "complexity": "single-hop",
+      "keywords": [
+        "charge collection efficiency",
+        "extraction",
+        "Jph-Veff"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Toluene processing suppresses trap-state recombination in PM6:PY-IT devices, evidenced by a lower ideality factor (n) of 1.14 compared to 1.20 for chloroform-processed devices.",
+      "evidence": "The fitted n values for devices cast from CF and toluene are 1.20 and 1.14, respectively, meaning Rt,s takes a less dominant position in toluene film.",
+      "complexity": "single-hop",
+      "keywords": [
+        "recombination",
+        "ideality factor",
+        "trap-state"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The toluene-processed PM6:PY-IT device demonstrated a short-circuit current density (Jsc) of 22.52 mA cm⁻² and a fill factor (FF) of 73.8%.",
+      "evidence": "toluene-processed PM6:PY-IT-based cells showed a PCE as high as 15.51%, contributed by enhanced Jsc (22.52 mA cm⁻²) and FF (73.8%).",
+      "complexity": "single-hop",
+      "keywords": [
+        "Jsc",
+        "Fill Factor",
+        "toluene"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "PM6:PY-IT devices processed with toluene exhibited improved operational photostability under 1 sun illumination in air compared to those processed with chloroform.",
+      "evidence": "The toluene-cast device exhibits improved stability under standard illumination in air compared to the CF-processed device.",
+      "complexity": "single-hop",
+      "keywords": [
+        "photostability",
+        "operational stability",
+        "all-polymer OSC"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "AFM measurements showed that toluene-cast films have a lower root mean square (RMS) roughness of 1.23 nm compared to 1.51 nm for chloroform-cast films, leading to better interface charge extraction.",
+      "evidence": "the AFM height image of the CF-cast film delivers a 1.51 nm root mean square (RMS), while that of the toluene-cast film is 1.23 nm... Smoother surface of the toluene film might lead to more efficient charge extraction at interface.",
+      "complexity": "single-hop",
+      "keywords": [
+        "AFM",
+        "RMS roughness",
+        "surface morphology"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "UV-vis-NIR absorption spectra indicated that toluene processing induces a slight blue-shift in the absorption edge and a lower peak at 808 nm for PY-IT, suggesting weaker aggregation compared to chloroform processing.",
+      "evidence": "Compared with CF, toluene induces a slightly blue-shifted edge and lower peak at 808 nm, implying that the aggregation of PY-IT is weaker.",
+      "complexity": "single-hop",
+      "keywords": [
+        "UV-vis-NIR",
+        "absorption spectrum",
+        "aggregation",
+        "PY-IT"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 13500,
+    "completion_tokens": 2951,
+    "total_tokens": 16451
+  }
+}

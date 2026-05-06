@@ -1,0 +1,125 @@
+{
+  "paper_id": "Solar_RRL_-_2020_-_Cheng_-_Intensification_of_Vertical_Phase_Separation_for_Efficient_Polymer_Solar_",
+  "paper_title": "Intensification of Vertical Phase Separation for Efficient Polymer Solar Cell via Piecewise Spray Assisted by a Solvent Driving Force",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Solar RRL - 2020 - Cheng - Intensification of Vertical Phase Separation for Efficient Polymer Solar Cell via Piecewise/auto/Solar RRL - 2020 - Cheng - Intensification of Vertical Phase Separation for Efficient Polymer Solar Cell via Piecewise.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The study utilizes the conjugated polymer PBDB-T-2Cl as the electron donor and the nonfullerene molecule IT4F as the electron acceptor in a bulk heterojunction system.",
+      "evidence": "The molecular structures of conjugated polymer PBDB-T-2Cl and nonfullerene acceptor IT4F are shown in Figure 1a.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PBDB-T-2Cl",
+        "IT4F",
+        "nonfullerene acceptor"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Piecewise spray coating involves dividing the active layer deposition into two distinct, continuous coatings with complementary donor/acceptor ratios to induce vertical phase separation.",
+      "evidence": "To realize vertical phase separation, a piecewise spray process was divided into two continuous coatings... the D/A ratio of the two coatings was complementary, i.e., if the D/A ratio is 1:2 in the first coating, it should be 2:1 in the second coating.",
+      "complexity": "single-hop",
+      "keywords": [
+        "piecewise spray",
+        "vertical phase separation",
+        "complementary D/A ratio"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The use of 20 vol% 1,3,5-trimethylbenzene (TMB) as a high-boiling-point solvent additive creates a 'solvent driving force' that maintains a continuous interface between sequential spray-coated layers.",
+      "evidence": "Assisted by 1,3,5-trimethylbenzene-based solvent engineering, a solvent driving force is formed, resulting in a continuous interface for piecewise spray-coated active layers... 20% TMB was chosen as the optimized concentration.",
+      "complexity": "single-hop",
+      "keywords": [
+        "1,3,5-trimethylbenzene",
+        "TMB",
+        "solvent engineering",
+        "solvent driving force"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "An optimized PBDB-T-2Cl:IT4F solar cell fabricated via piecewise spray achieved a power conversion efficiency (PCE) of 12.29%, a short-circuit current density (JSC) of 21.55 mA/cm², and a fill factor (FF) of 66.02%.",
+      "evidence": "the performance of the PBDB-T-2Cl:IT4F photovoltaic device shows a notable conversion efficiency of 12.29% with a high short-circuit current density of 21.55 mA cm−2. (Table 1, Device 2)",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "JSC",
+        "PBDB-T-2Cl:IT4F",
+        "12.29%"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "TMB acts as a selective solvent—being a good solvent for IT4F and a bad solvent for PBDB-T-2Cl—which causes the polymer to precipitate first and drives the IT4F acceptor toward the bottom of the film during drying.",
+      "evidence": "Because TMB is a good solvent for IT4F and a bad solvent for PBDB-T-2Cl, a part of the polymer (i.e., PBDB-T-2Cl) first precipitated and wrapped on the surface... IT4F filled in the semi-open network and the blend formed a continuous interpenetrating network.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "selective solubility",
+        "TMB",
+        "precipitation",
+        "gradient distribution"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Depth-dependent X-ray photoelectron spectroscopy (XPS) confirmed vertical phase separation by showing a decrease in Cl 2p intensity (from PBDB-T-2Cl) and an increase in F 1s intensity (from IT4F) as the depth from the top surface increased.",
+      "evidence": "The intensity of Cl2p peak decreases as the depth increases from 30 to 150 nm, whereas the intensity of the F1s S peak increases with increasing depth from 30 to 150 nm... the PBDB-T-2Cl is located in more top direction and the IT4F is located in much deeper position.",
+      "complexity": "single-hop",
+      "keywords": [
+        "XPS",
+        "depth profiling",
+        "elemental distribution"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis reveals that the addition of TMB enhances the face-on orientation of molecules in the blend film, which is beneficial for vertical charge transport to the electrodes.",
+      "evidence": "The blend film prepared using mixed solvent shows a more obvious face-on preferred orientation. The increasing FF for the device prepared using mixed solvent comprising TMB is also likely to be contributed by the increasing orientation of the polymers.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "face-on orientation",
+        "crystallinity"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The optimal thickness for the piecewise spray-coated active layer was found to be 180 nm, achieved by two sequential coatings of 90 nm each with complementary D/A ratios.",
+      "evidence": "When the donor/ acceptor ratio is 1:2 in the first coating and 2:1 in the second coating, and the thickness of each coating is 90 nm... the performance... shows a notable conversion efficiency of 12.29%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "layer thickness",
+        "optimization",
+        "active layer"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "A large-scale solar module with an active area of 21 cm² (five cells in series) fabricated using the piecewise spray technique achieved a PCE of 6.68% and an open-circuit voltage (VOC) of 4.1 V.",
+      "evidence": "The size of the module is 8 × 8 cm² (21 cm² of active area)... The module has a VOC of 4.1 V, a JSC of 17.2 mA cm−2, a FF of 46.79% resulting in an overall satisfying PCE of 6.68%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "large-scale module",
+        "PCE",
+        "series connection"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Impedance spectroscopy analysis indicates that the optimized piecewise spray-coated device (Device 24) has a maximum carrier recombination lifetime (average time constant) of 1.08 ms, suggesting reduced bimolecular recombination.",
+      "evidence": "Device 24 has a maximal τ of 1.08 ms, suggesting that the sample has the lowest carrier recombination. (Table 3)",
+      "complexity": "multi-hop",
+      "keywords": [
+        "impedance spectroscopy",
+        "carrier recombination lifetime",
+        "time constant"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 12675,
+    "completion_tokens": 3428,
+    "total_tokens": 16103
+  }
+}

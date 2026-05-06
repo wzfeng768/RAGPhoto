@@ -1,0 +1,75 @@
+{
+  "paper_id": "Angew_Chem_Int_Ed_-_2018_-_Jiang_-_Hole_Mobility_Modulation_in_SingleCrystal_Metal_Phthalocyanines_b",
+  "paper_title": "Hole Mobility Modulation in Single-Crystal Metal Phthalocyanines by Changing the Metal- $\\nabla \\cdot \\pi - \\pi$ Interactions",
+  "qa_pairs": [
+    {
+      "question": "What is the specific order of hole mobility for the various phthalocyanine single-crystal field-effect transistors studied?",
+      "answer": "The hole mobility of the phthalocyanine single-crystal field-effect transistors follows the descending order: ZnPc > MnPc > FePc > CoPc > CuPc > H2Pc > NiPc.",
+      "category": "Performance Metrics",
+      "source_title": "Hole Mobility Modulation in Single-Crystal Metal Phthalocyanines by Changing the Metal- $\\nabla \\cdot \\pi - \\pi$ Interactions",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Which metal phthalocyanine crystals exhibit the minimum and maximum intermolecular distances, and what are those values?",
+      "answer": "In the studied phthalocyanine crystals, MnPc exhibits the minimum intermolecular distance (d_spacing) of 3.1731 Å, while NiPc exhibits the maximum d_spacing of 3.2970 Å.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Hole Mobility Modulation in Single-Crystal Metal Phthalocyanines by Changing the Metal- $\\nabla \\cdot \\pi - \\pi$ Interactions",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Describe the crystal system and phase stability of the metal phthalocyanines (MPcs) and metal-free phthalocyanine (H2Pc) investigated in this research.",
+      "answer": "The seven phthalocyanine crystals (H2Pc, CuPc, CoPc, ZnPc, FePc, NiPc, and MnPc) belong to the P2_1/n space group. They demonstrate high structural stability, maintaining this phase without any transitions between 100 K and room temperature.",
+      "category": "Characterization Methods",
+      "source_title": "Hole Mobility Modulation in Single-Crystal Metal Phthalocyanines by Changing the Metal- $\\nabla \\cdot \\pi - \\pi$ Interactions",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the choice of central metal atom in phthalocyanines influence the intermolecular distance and the resulting hole mobility?",
+      "answer": "The central metal atom modulates the intermolecular distance (d_spacing) along the shortest packing axis (b-axis). There is an inverse relationship where a decrease in intermolecular distance leads to a gradual increase in hole mobility, as seen in the high performance of MnPc (shortest distance) compared to NiPc (longest distance).",
+      "category": "Structure-Property Relationships",
+      "source_title": "Hole Mobility Modulation in Single-Crystal Metal Phthalocyanines by Changing the Metal- $\\nabla \\cdot \\pi - \\pi$ Interactions",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What role does the d-electron configuration of the central metal play in the intermolecular interactions of MnPc and CoPc?",
+      "answer": "In MnPc and CoPc, the presence of a singly occupied d_z2 orbital that is energetically close to the ligand's a_1u HOMO facilitates stronger metal-to-nitrogen (M...π(N)) interactions. These interactions reduce intermolecular distances and enhance charge transfer integrals, contributing to improved charge transport.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Hole Mobility Modulation in Single-Crystal Metal Phthalocyanines by Changing the Metal- $\\nabla \\cdot \\pi - \\pi$ Interactions",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "According to the analysis of Bond Critical Points (BCP), which phthalocyanines demonstrate the strongest attractive intermolecular interactions?",
+      "answer": "Based on the interaction energies derived from BCP and Reduced Density Gradient (RDG) analysis, MnPc and ZnPc exhibit the strongest attractive intermolecular interactions among the series.",
+      "category": "Computational & Machine Learning",
+      "source_title": "Hole Mobility Modulation in Single-Crystal Metal Phthalocyanines by Changing the Metal- $\\nabla \\cdot \\pi - \\pi$ Interactions",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How do the central metal atoms in MPcs differently affect hole transfer integrals versus hole-vibrational coupling?",
+      "answer": "The central metal atoms have a significant impact on the hole transfer integrals (t_h), which is a dominant factor in the mobility differences. However, they have a relatively minor impact on hole-vibrational coupling (Huang-Rhys factors) because the molecular geometry of the phthalocyanines remains largely planar regardless of the metal atom used.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Hole Mobility Modulation in Single-Crystal Metal Phthalocyanines by Changing the Metal- $\\nabla \\cdot \\pi - \\pi$ Interactions",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What are the preferred crystal growth and charge transport directions for the phthalocyanine micro-ribbon single crystals?",
+      "answer": "The preferred crystal growth direction for both H2Pc and MPcs is the [010] direction. This corresponds to the shortest crystallographic b-axis, which serves as the primary pathway for charge transport in these micro-ribbon single crystals.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Hole Mobility Modulation in Single-Crystal Metal Phthalocyanines by Changing the Metal- $\\nabla \\cdot \\pi - \\pi$ Interactions",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2753,
+    "completion_tokens": 2042,
+    "total_tokens": 4795
+  }
+}

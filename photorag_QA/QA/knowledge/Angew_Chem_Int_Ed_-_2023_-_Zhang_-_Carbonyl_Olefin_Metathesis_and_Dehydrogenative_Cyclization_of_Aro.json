@@ -1,0 +1,129 @@
+{
+  "paper_id": "Angew_Chem_Int_Ed_-_2023_-_Zhang_-_Carbonyl_Olefin_Metathesis_and_Dehydrogenative_Cyclization_of_Aro",
+  "paper_title": "Carbonyl Olefin Metathesis and Dehydrogenative Cyclization of Aromatic Ketones and gem-Difluoroalkenes",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Angew Chem Int Ed - 2023 - Zhang - Carbonyl Olefin Metathesis and Dehydrogenative Cyclization of Aromatic Ketones and/auto/Angew Chem Int Ed - 2023 - Zhang - Carbonyl Olefin Metathesis and Dehydrogenative Cyclization of Aromatic Ketones and.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Phenanthrenes, which are essential conjugated π-systems for materials science, can be synthesized via a one-pot cascade reaction using aromatic ketones and aromatic gem-difluoroalkenes as starting materials.",
+      "evidence": "Herein, we report the first photoinduced thermally promoted cascade reactions of readily available aromatic ketones and aromatic gem-difluoroalkenes for the synthesis of phenanthrenes which possess potential utility in drug design and materials science.",
+      "complexity": "single-hop",
+      "keywords": [
+        "phenanthrenes",
+        "cascade reaction",
+        "aromatic ketones",
+        "gem-difluoroalkenes"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The synthesis method for phenanthrenes involves a four-step cascade: photoinduced [2+2] cyclization, thermally controlled retro [2+2] cyclization (carbonyl-olefin metathesis), photoinduced conrotatory 6π electrocyclization, and collidine-promoted dehydrogenative aromatization.",
+      "evidence": "The reaction combines carbonyl-olefin metathesis (cascade photoinduced [2+2] cyclization and thermally controlled retro [2+2] cyclization) and dehydrogenative cyclization (cascade photoinduced conrotatory 6π electrocyclization and collidine-promoted dehydrogenative aromatization) together in one pot.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "carbonyl-olefin metathesis",
+        "6π electrocyclization",
+        "dehydrogenative aromatization",
+        "mechanism"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Under optimized conditions (365 nm LEDs, 3.5 equiv. collidine, MeCN solvent, 36 h), the model reaction between ketone 1a and gem-difluoroalkene 2a achieves an isolated yield of 81% for phenanthrene 3a.",
+      "evidence": "we found that when collidine (3.5equiv.) was used as an additive, the reaction of 1a (2 equiv.) and 2a in MeCN (0.1 M) at room temperature under 365 nm LEDs (6 W) for 36 h generated product 3a in 80% yield (81% isolated yield, Table 1, entry 1).",
+      "complexity": "single-hop",
+      "keywords": [
+        "yield",
+        "optimization",
+        "collidine",
+        "365 nm LEDs"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Solvent selection significantly impacts the cascade reaction; while MeCN facilitates the full cascade to phenanthrene, using toluene as a solvent limits the reaction to the formation of the gem-difluorooxetane intermediate only.",
+      "evidence": "The solvent could significantly influence the formation of different products... When toluene was used as the solvent, only gemdifluorooxetane 4a was obtained, and neither 3a nor 5a was isolated (Table 1, entry 8).",
+      "complexity": "single-hop",
+      "keywords": [
+        "solvent effect",
+        "MeCN",
+        "toluene",
+        "gem-difluorooxetane"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The stability of the intermediate gem-difluorooxetanes is dependent on substitution; fully substituted gem-difluorooxetanes are stable at room temperature and require heating to 110°C in the presence of silica to promote retro [2+2] cyclization.",
+      "evidence": "Since the fully substituted gem-difluorooxetanes were stable at room temperature, heating at 110 °C was needed to promote the decomposition of the [2+2] cyclization intermediates to tetra-substituted alkenes in the presence of silica",
+      "complexity": "multi-hop",
+      "keywords": [
+        "thermal stability",
+        "retro [2+2] cyclization",
+        "silica",
+        "intermediate"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The photothermal cascade reaction tolerates a wide range of functional groups including C(sp2)-F, C(sp2)-Cl, C(sp2)-Br, C(sp2)-CN, COOMe, OMe, and even alkynyl groups, making it superior to traditional Scholl-type oxidations for electron-rich substrates.",
+      "evidence": "The reaction could tolerate C(sp2)-F, C(sp2)-Cl, C(sp2)-Br, C(sp2)-CN, C(sp2)-COOMe and C(sp2)-OMe bonds... Notably, alkynyl group could be tolerated (3l, 76%)... various electron-rich aromatic gem-difluoroalkenes are good substrates in our reaction (3e-3m, 51%-85% yield).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "functional group tolerance",
+        "electron-rich substrates",
+        "alkynyl group",
+        "Scholl-type oxidation"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "In the synthesis of phenanthrenes from diaryl ketones with two electronically different aryl rings, the reaction regioselectively favors the formation of products derived from the more electron-rich ring.",
+      "evidence": "When there were two electronically different substituents of each aromatic ring of the diaryl ketones, the products derived from the more electron rich ring were favored (3an, 76% yield with 75/25 regioselectivity; 3ao, 72% yield with 63/37 regioselectivity; 3ap, 75% yield with 81/19 regioselectivity).",
+      "complexity": "single-hop",
+      "keywords": [
+        "regioselectivity",
+        "electronic effects",
+        "diaryl ketones"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The presence of dihydrocollidine, detected via High-Resolution Mass Spectrometry (HRMS), supports a mechanism where excited collidine promotes dehydrogenative aromatization through hydrogen atom abstraction.",
+      "evidence": "This proposal was also supported by the fact that collidine had absorption at 365 nm and we detected dihydrocollidine by HRMS",
+      "complexity": "single-hop",
+      "keywords": [
+        "HRMS",
+        "dihydrocollidine",
+        "mechanism",
+        "hydrogen atom abstraction"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The one-pot cascade reaction for phenanthrene synthesis is highly sensitive to oxygen, with the yield of the model product 3a dropping from ~80% to 25% when performed under an air atmosphere.",
+      "evidence": "The reaction is sensitive to air and only 25% yield of 3a was obtained, although substrate 2a was completely consumed (Table 1, entry 15).",
+      "complexity": "single-hop",
+      "keywords": [
+        "oxygen sensitivity",
+        "air atmosphere",
+        "reaction yield"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The reaction mechanism releases carbonyl fluoride (COF2) gas as a byproduct during the retro [2+2] cyclization of the gem-difluorooxetane intermediate.",
+      "evidence": "Further study found that gem-difluorooxetane 4z was completely transformed to triphenyl olefin 5z in the absence of collidine and light, and carbonyl fluoride gas was detected in MeCN in 42% yield (Scheme 2d).",
+      "complexity": "single-hop",
+      "keywords": [
+        "carbonyl fluoride",
+        "byproduct",
+        "retro [2+2]"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 10888,
+    "completion_tokens": 2953,
+    "total_tokens": 13841
+  }
+}

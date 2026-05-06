@@ -1,0 +1,155 @@
+{
+  "paper_id": "d1tc01195b",
+  "paper_title": "Effects of alkyl side chains of double-cable conjugated polymers on the photovoltaic performance of single-component organic solar cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/d1tc01195b/auto/d1tc01195b.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Naphthalene diimide (NDI) is a viable electron acceptor building block for double-cable conjugated polymers because its small π-conjugated system (compared to PBI) ensures good solubility and easier synthesis while maintaining high crystallinity and deep frontier energy levels.",
+      "evidence": "Naphthalene diimide (NDI) has a similar structure, high crystallinity and deep frontier energy levels with those of PBI, but shows a small π -conjugated system as compared to that of the PBI unit... NDI-based small conjugated molecules have the difficulty to achieve high PCEs in small-molecule BHJOSCs... this result indicates that NDI is a promising building block to design double-cable polymers for SCOSCs.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Naphthalene diimide",
+        "NDI",
+        "double-cable polymers",
+        "electron acceptor"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The use of a polar solvent like DMF in a toluene/DMF (10:1, v/v) mixture during the polymerization of double-cable polymers can accelerate the reaction, leading to higher number-average molecular weights (Mn), such as 51.5 kDa for polymer P2.",
+      "evidence": "The polymerization was performed in a mixed solution of toluene/DMF (10 : 1, v/v)... DMF as a polar solvent is able to speed up the reaction, so that polymer P2 had a high number-average molecular weight of Mn = 51.5 kDa.",
+      "complexity": "single-hop",
+      "keywords": [
+        "polymerization",
+        "DMF",
+        "molecular weight",
+        "solvent effects"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "In NDI-based double-cable polymers, the HOMO levels (ranging from -5.74 to -5.77 eV) are determined by the conjugated backbone, while the LUMO levels (ranging from -3.67 to -3.70 eV) are dominated by the NDI side units.",
+      "evidence": "The lowest unoccupied molecular orbital (LUMO) levels of all the four double-cable polymers are close to those of NDIs, while the highest occupied molecular orbital (HOMO) levels remain similar to those of the conjugated backbones (Table 1).",
+      "complexity": "single-hop",
+      "keywords": [
+        "HOMO",
+        "LUMO",
+        "energy level engineering",
+        "NDI"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The double-cable polymer P2, utilizing 2-butyloctyl (BO) side chains, achieved a peak power conversion efficiency (PCE) of 7.97% with a short-circuit current density (Jsc) of 12.84 mA cm⁻² and a fill factor (FF) of 0.66.",
+      "evidence": "P2-based SCOSCs exhibited the best PCE of 7.97% with an open-circuit voltage (Voc) of 0.94 V, a significantly increased Jsc of 12.84 mA cm−2, and a fill factor (FF) of 0.66.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "Jsc",
+        "P2",
+        "fill factor"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Increasing the length of the alkyl side units in double-cable polymers from 2-butyloctyl (BO) to 2-octyldodecyl (OD) results in decreased power conversion efficiency due to enhanced solubility leading to larger fibrillar structures and reduced crystallinity.",
+      "evidence": "polymers P2–P4 show decreased PCEs due to the enhanced length of the side units... the longer side units will provide the polymers with better solubility, resulting in a large domain size... This will lower the charge separation efficiency and hence provide poor PCEs in solar cells.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "side chain length",
+        "crystallinity",
+        "solubility",
+        "PCE"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis of double-cable polymers P1–P4 shows that the lamellar stacking d-spacing of the conjugated backbones increases from 3.99 nm to 4.48 nm as the side chain length increases from ethylhexyl to octyldodecyl.",
+      "evidence": "In the in-plane (IP) direction, the diffraction peak q1 located at ~0.15 Å−1 with a d-spacing of 3.99–4.48 nm corresponds to the lamellar stacking of the conjugated backbones. This d-spacing of P1-P4 increases with the enhanced length of the alkyl chains.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "d-spacing",
+        "lamellar stacking",
+        "side chains"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The double-cable polymer P1 with short 2-ethylhexyl (EH) side units exhibits poor solubility in chlorobenzene, requiring processing temperatures above 90 °C, which results in a low fill factor (0.57) and reduced PCE (6.30%).",
+      "evidence": "P1 with the shortest EH side units showed poorer solubility in chlorobenzene (CB), since it could only be dissolved in CB at a high temperature (>90 °C)... This would change the nanophase separation in P1, and hence is responsible for the low PCE.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "solubility",
+        "processing temperature",
+        "P1",
+        "fill factor"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Hole and electron mobilities in double-cable polymers are sensitive to side chain length; polymer P2 (BO side chains) shows the highest hole mobility of 1.23 × 10⁻³ cm² V⁻¹ s⁻¹, while P4 (OD side chains) shows a significantly lower electron mobility of 1.78 × 10⁻⁶ cm² V⁻¹ s⁻¹.",
+      "evidence": "The mobilities of holes and electrons are summarized in Table 3... P2 showing a hole mobility of 1.23 x 10^-3... P4 showing an electron mobility of 1.78 x 10^-6.",
+      "complexity": "single-hop",
+      "keywords": [
+        "carrier mobility",
+        "SCLC",
+        "charge transport",
+        "P2"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Differential scanning calorimetry (DSC) results show that double-cable polymers with longer alkyl side chains exhibit lower phase transition temperatures, indicating a higher degree of freedom in the flexible chains.",
+      "evidence": "It is clearly observed that all of the four polymers displayed phase transitions. It is worth mentioning that the phase transition temperature decreases as the length of the alkyl chains increases during both heating and cooling processes.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DSC",
+        "thermal properties",
+        "phase transition",
+        "alkyl chains"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Single-component organic solar cells (SCOSCs) utilize a covalently-linked donor-acceptor structure to prevent the self-aggregation and large domain phase formation typically observed in bulk-heterojunction (BHJ) two-component systems under long-term sunlight.",
+      "evidence": "under long-term sunlight illumination, two-component systems with BHJ structures tend to self-aggregate to form a large domain phase... researchers incorporate electron donors and acceptors into a single conjugated material, which can prevent the self-aggregation due to the covalently-linked nature of donor and acceptor.",
+      "complexity": "single-hop",
+      "keywords": [
+        "SCOSCs",
+        "stability",
+        "self-aggregation",
+        "covalent linkage"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "AFM height images reveal that increasing the alkyl side chain length in double-cable polymers leads to an increase in the diameter of fibrillar structures, which correlates with larger domain sizes that can impede charge separation.",
+      "evidence": "The fibrillar structures can be observed in these cells, but when increasing the length of side units it seems that the diameter of the fibers is enhanced, corresponding to the large domain size. This is similar to the BHJ systems, in which the longer side units would enhance the width of the fibers, so that the charge separation efficiency will be reduced.",
+      "complexity": "single-hop",
+      "keywords": [
+        "AFM",
+        "morphology",
+        "fibrillar structures",
+        "domain size"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The absorption profiles of NDI-based double-cable polymers show two distinct bands: one at 300–400 nm corresponding to NDI absorption and another at 550–750 nm corresponding to the polymer backbone absorption.",
+      "evidence": "Two absorption bands can be observed: the first band at 300–400 nm is attributed to the absorption from NDIs and the second band at 550–750 nm belongs to the backbone of the polymers.",
+      "complexity": "single-hop",
+      "keywords": [
+        "UV-vis absorption",
+        "NDI",
+        "polymer backbone"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 11545,
+    "completion_tokens": 4771,
+    "total_tokens": 16316
+  }
+}

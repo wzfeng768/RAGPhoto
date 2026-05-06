@@ -1,0 +1,75 @@
+{
+  "paper_id": "Advanced_Materials_-_2022_-_Song_-_ProcessAid_Solid_Engineering_Triggers_Delicately_Modulation_of_YS",
+  "paper_title": "Process-Aid Solid Engineering Triggers Delicately Modulation of Y-Series Non-Fullerene Acceptor for Efficient Organic Solar Cells",
+  "qa_pairs": [
+    {
+      "question": "What are the champion performance metrics for PM6:L8-BO organic solar cells treated with the process-aid solid 1,3-dibromo-5-chlorobenzene (DBCl)?",
+      "answer": "The PM6:L8-BO organic solar cells treated with DBCl achieved a champion power conversion efficiency (PCE) of 18.5%. This high efficiency was accompanied by an impressive fill factor (FF) of 80.2%.",
+      "category": "Performance Metrics",
+      "source_title": "Process-Aid Solid Engineering Triggers Delicately Modulation of Y-Series Non-Fullerene Acceptor for Efficient Organic Solar Cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How is the volatility and removal of the 1,3-dibromo-5-chlorobenzene (DBCl) additive confirmed during device fabrication?",
+      "answer": "DBCl is a volatile process-aid solid that is completely sublimated from the photoactive layer during thermal annealing at 75 °C for 5 minutes. Its complete removal is confirmed by X-ray photoelectron spectroscopy (XPS) profiles, which show no detectable signals of chlorine (Cl) or bromine (Br) in the annealed blend films.",
+      "category": "Processing & Fabrication",
+      "source_title": "Process-Aid Solid Engineering Triggers Delicately Modulation of Y-Series Non-Fullerene Acceptor for Efficient Organic Solar Cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the miscibility of DBCl with the blend components influence the vertical morphology of the photoactive layer?",
+      "answer": "DBCl demonstrates a stronger miscibility with Y-series acceptors like Y6 (χ = 0.64 K) than with the polymer donor PM6 (χ = 1.36 K). This preferential miscibility, as revealed by film-depth-dependent light absorption spectroscopy (FLAS), induces a vertical gradient where the acceptor (Y6) is concentrated at the top surface and the donor (PM6) is enriched at the bottom near the substrate.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Process-Aid Solid Engineering Triggers Delicately Modulation of Y-Series Non-Fullerene Acceptor for Efficient Organic Solar Cells",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What effect does coupling DBCl with Y6 have on the molecular dipole moment and intermolecular interaction according to DFT and FTIR studies?",
+      "answer": "Density functional theory (DFT) calculations show that coupling DBCl with Y6 increases the dipole moment from 1.01 Debye to 1.93 Debye. This interaction is further confirmed by FTIR spectroscopy, which shows a shift in the stretching vibration peaks of the Y6 BTP core (from 2932.8/2869.0 cm⁻¹ to 2928.3/2857.8 cm⁻¹), indicating a strong interaction between the PAS and the acceptor core.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Process-Aid Solid Engineering Triggers Delicately Modulation of Y-Series Non-Fullerene Acceptor for Efficient Organic Solar Cells",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Describe the changes in π-π stacking and energetic disorder in the PM6:Y6 blend following PAS treatment.",
+      "answer": "PAS treatment improves the crystallinity of the blend by enhancing the out-of-plane π-π stacking of Y6, resulting in a stacking distance of 3.67 Å and an increased coherence length of 24.36 Å. This enhanced structural order leads to a reduction in energetic disorder, as evidenced by the decrease in Urbach energy (Eu) from 31.6 meV to 30.2 meV measured via sensitive EQE.",
+      "category": "Characterization Methods",
+      "source_title": "Process-Aid Solid Engineering Triggers Delicately Modulation of Y-Series Non-Fullerene Acceptor for Efficient Organic Solar Cells",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "How does PAS treatment affect the charge transport balance and recombination kinetics in PM6:Y6 devices?",
+      "answer": "PAS treatment significantly improves charge transport balance by increasing electron mobility from 1.70 × 10⁻⁵ to 1.67 × 10⁻⁴ cm² V⁻¹ s⁻¹, which raises the μe/μh ratio from 0.076 to 0.42. Additionally, it suppresses trap-assisted recombination, as shown by the reduction in the light-intensity dependence slope of Voc from 1.31 kT/q to 1.14 kT/q.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Process-Aid Solid Engineering Triggers Delicately Modulation of Y-Series Non-Fullerene Acceptor for Efficient Organic Solar Cells",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What is the performance of PAS-treated PM6:L8-BO devices when the photoactive layer thickness is increased to 300 nm?",
+      "answer": "The PAS-treated PM6:L8-BO devices exhibit exceptional thickness tolerance, maintaining a power conversion efficiency (PCE) of 17.0% and a fill factor (FF) of 74.1% even when the photoactive layer thickness is increased to 300 nm.",
+      "category": "Performance Metrics",
+      "source_title": "Process-Aid Solid Engineering Triggers Delicately Modulation of Y-Series Non-Fullerene Acceptor for Efficient Organic Solar Cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the storage stability of PAS-engineered devices compare to control devices in a nitrogen atmosphere?",
+      "answer": "Devices processed with PAS engineering show significantly improved storage stability, retaining over 80% of their initial PCE after aging in a nitrogen atmosphere. In contrast, control devices retain less than 60% of their initial efficiency over the same period.",
+      "category": "Stability & Degradation",
+      "source_title": "Process-Aid Solid Engineering Triggers Delicately Modulation of Y-Series Non-Fullerene Acceptor for Efficient Organic Solar Cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2882,
+    "completion_tokens": 2569,
+    "total_tokens": 5451
+  }
+}

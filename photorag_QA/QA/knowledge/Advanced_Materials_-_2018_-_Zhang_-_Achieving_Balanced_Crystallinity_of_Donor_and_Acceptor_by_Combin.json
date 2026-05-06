@@ -1,0 +1,130 @@
+{
+  "paper_id": "Advanced_Materials_-_2018_-_Zhang_-_Achieving_Balanced_Crystallinity_of_Donor_and_Acceptor_by_Combin",
+  "paper_title": "Achieving Balanced Crystallinity of Donor and Acceptor by Combining Blade-Coating and Ternary Strategies in Organic Solar Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Materials - 2018 - Zhang - Achieving Balanced Crystallinity of Donor and Acceptor by Combining Blade‐Coating and/auto/Advanced Materials - 2018 - Zhang - Achieving Balanced Crystallinity of Donor and Acceptor by Combining Blade‐Coating and.md",
+  "knowledge_points": [
+    {
+      "category": "Performance Metrics",
+      "content": "A ternary organic solar cell based on PBDB-T:PTB7-Th:FOIC fabricated via blade-coating in an ambient environment achieves a power conversion efficiency (PCE) of 12.02%, with a VOC of 0.73 V, JSC of 25.04 mA/cm², and FF of 65.78%.",
+      "evidence": "A ternary organic solar cell based on PBDB-T:PTB7-Th:FOIC blends is fabricated by blade-coating and exhibits a power conversion efficiency of 12.02%... When the PTB7-Th content was 50%... an optimal PCE of 12.02% with Voc of 0.73 V, Jsc of 25.04 mAcm−2, and FF of 65.78% were obtained.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "blade-coating",
+        "ternary OSC",
+        "FOIC"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Blade-coating induces a higher degree of molecular packing and crystallization in PBDB-T, FOIC, and PTB7-Th films compared to spin-coating, characterized by stronger and sharper scattering peaks in GIWAXS patterns.",
+      "evidence": "Notably, all the scattering peaks of blade-coated films become stronger and sharper than those of spin-coated films, indicating that blade-coating can induce a higher degree of molecular packing for these films.",
+      "complexity": "single-hop",
+      "keywords": [
+        "blade-coating",
+        "crystallinity",
+        "GIWAXS",
+        "molecular packing"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The degree of crystallinity induction by blade-coating follows the order FOIC > PBDB-T > PTB7-Th, which leads to an unbalanced electron-to-hole mobility ratio of 3.66 in the binary PBDB-T:FOIC blend.",
+      "evidence": "It is demonstrated that blade-coating can enhance crystallization of these three materials, but the degree of induction is different (FOIC > PBDB-T > PTB7-Th)... the stronger induction of crystallization for FOIC acceptor than that of donor leads to a unbalanced mobility with the μe/μh of 3.66 in the blade-coated PBDB-T:FOIC device.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "crystallinity induction",
+        "carrier mobility",
+        "FOIC",
+        "PBDB-T"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Incorporating 50% PTB7-Th into the PBDB-T:FOIC blend reduces the crystallinity of the FOIC acceptor, balancing the carrier mobilities to a ratio (μe/μh) of 1.08.",
+      "evidence": "When the PTB7-Th content is 50%, the hole mobility achieves a highest value of 2.47 × 10−4 cm² V⁻¹ s⁻¹ and the electron mobility is 2.66 × 10−4 cm² V⁻¹ s⁻¹, which were kept to a high and most balanced mobility with the μe/μh of 1.08.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ternary strategy",
+        "mobility balance",
+        "PTB7-Th",
+        "crystallinity"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The reduction in FOIC crystallinity upon adding PTB7-Th is attributed to the superior miscibility between PTB7-Th and FOIC compared to PBDB-T and FOIC, as indicated by their Flory-Huggins interaction parameters (χ = 0.43 vs. 1.01).",
+      "evidence": "the interaction parameters (x) are calculated to be 1.01 for XFOIC, PBDB-T and 0.43 for XFOIC, PTB7-Th, respectively, suggesting the better miscibility between PTB7-Th and FOIC than that between PBDB-T and FOIC... the addition of PTB7-Th into the blade-coated PBDB-T:FOIC blends reduces the crystallinity of FOIC.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "miscibility",
+        "Flory-Huggins",
+        "interaction parameter",
+        "FOIC"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The ternary PBDB-T:PTB7-Th:FOIC system utilizes Forster Resonant Energy Transfer (FRET) from the PBDB-T donor to both the PTB7-Th and FOIC components, facilitated by the spectral overlap between PBDB-T photoluminescence and the absorption spectra of the other two materials.",
+      "evidence": "Besides, the FRET should also be the reason of improved photovoltaic performance... due to the overlap between the absorption of PTB7-Th and the PL of PBDB-T... as well as the overlap between the absorption of FOIC and the PL of PBDB-T.",
+      "complexity": "single-hop",
+      "keywords": [
+        "FRET",
+        "energy transfer",
+        "photoluminescence",
+        "absorption overlap"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Resonant soft X-ray scattering (RSoXS) analysis at 284.8 eV shows that the ternary blend with 50% PTB7-Th achieves the smallest domain size (42.4 nm) and the highest relative average domain purity (1.00) among the studied compositions.",
+      "evidence": "For the PBDB-T:PTB7-Th:FOIC ternary film, two scales of domains are observed, and the smaller one... exhibits the smallest domain size (42.4 nm) among the three films. Moreover... the ternary film... exhibits the highest purity (0.86 for PBDB-T:FOIC, 1.00 for PBDB-T:PTB7-Th:FOIC, and 0.97 for PTB7-Th:FOIC).",
+      "complexity": "single-hop",
+      "keywords": [
+        "RSoXS",
+        "domain size",
+        "domain purity",
+        "morphology"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The blade-coated ternary device with 50% PTB7-Th exhibits a high exciton dissociation probability (Pi) of 94.57% and reduced nongeminate bimolecular recombination, indicated by a light intensity-dependent JSC slope (α) of 0.90.",
+      "evidence": "The exciton dissociation probabilities Pi... were calculated to be 93.04%, 94.57% and 93.00% for the blade-coated devices with 0%, 50%, and 100% PTB7-Th content... the fitted slopes (α) are 0.82, 0.90, and 0.87... suggests that the blade-coated ternary device (50%) exhibits less nongeminate bimolecular recombination.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "exciton dissociation",
+        "bimolecular recombination",
+        "charge extraction"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The blade-coating process was optimized at a speed of 20–30 mm/s to fabricate the active layers of the organic solar cells in an ambient environment (23 °C, ~50% humidity).",
+      "evidence": "The active layer is prepared by blade-coating or spin-coating in an ambient environment (the temperature is 23 °C and humidity is about 50%)... The blade-coating spend is optimized to 20–30 mm s−1.",
+      "complexity": "single-hop",
+      "keywords": [
+        "blade-coating speed",
+        "ambient processing",
+        "fabrication"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The energy levels of the ternary system components are: PBDB-T (HOMO -5.33 eV, LUMO -2.92 eV), FOIC (HOMO -5.36 eV, LUMO -3.92 eV), and PTB7-Th (HOMO -5.27 eV, LUMO -3.55 eV).",
+      "evidence": "The highest occupied molecular orbital and lowest unoccupied molecular orbital levels are −5.33/−2.92 eV for PBDB-T, −5.36/−3.92 eV for FOIC, and −5.27/−3.55 eV for PTB7-Th, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "HOMO",
+        "LUMO",
+        "energy levels",
+        "FOIC"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 13019,
+    "completion_tokens": 4447,
+    "total_tokens": 17466
+  }
+}

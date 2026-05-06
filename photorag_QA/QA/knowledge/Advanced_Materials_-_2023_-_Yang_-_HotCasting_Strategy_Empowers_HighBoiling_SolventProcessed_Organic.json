@@ -1,0 +1,121 @@
+{
+  "paper_id": "Advanced_Materials_-_2023_-_Yang_-_HotCasting_Strategy_Empowers_HighBoiling_SolventProcessed_Organic",
+  "paper_title": "Hot-Casting Strategy Empowers High-Boiling Solvent-Processed Organic Solar Cells with Over 18.5% Efficiency",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Materials - 2023 - Yang - Hot‐Casting Strategy Empowers High‐Boiling Solvent‐Processed Organic Solar Cells with/auto/Advanced Materials - 2023 - Yang - Hot‐Casting Strategy Empowers High‐Boiling Solvent‐Processed Organic Solar Cells with.md",
+  "knowledge_points": [
+    {
+      "category": "Processing & Fabrication",
+      "content": "The hot-casting strategy involves using a hot solution (typically 50-100 °C) to increase the dissolving capacity and volatilization rate of high-boiling solvents like chlorobenzene (CB) and ortho-xylene (OX), widening the processing window compared to low-boiling solvents like chloroform.",
+      "evidence": "The hot-casting strategy will increase the dissolving capacity and volatilization rate of solvents... the hot-casting OSCs prepared with hot solutions can achieve PCE over 17.8% in a wide processing window (50-100 °C).",
+      "complexity": "single-hop",
+      "keywords": [
+        "hot-casting",
+        "high-boiling solvent",
+        "processing window",
+        "chlorobenzene",
+        "ortho-xylene"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Binary organic solar cells based on PM6:BTP-eC9 processed with a hot ortho-xylene (OX) solution achieved a record power conversion efficiency (PCE) of 18.52% and a fill factor (FF) of 80.31%.",
+      "evidence": "the hot-casting devices with PM6:BTP-eC9 deliver a remarkable fill factor of 80.31% and efficiency of 18.52% in OX, representing the record value among binary devices with green solvent.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "BTP-eC9",
+        "ortho-xylene",
+        "fill factor",
+        "green solvent"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "In situ UV-vis absorption spectroscopy reveals that the hot-casting strategy facilitates the synchronous molecular assembly of both the PM6 donor and BO-4Cl acceptor during film formation, whereas room-temperature processing leads to acceptor aggregation occurring before donor aggregation.",
+      "evidence": "the donor and acceptor self-organization occurs simultaneously, demonstrated by the synchronously changed absorption peaks of PM6 and BO-4Cl... based on the RT-casting process, the peak location of BO-4Cl showed significant redshift at ≈3.4 s while the absorption peak of the PM6 barely change at the same time.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "synchronous assembly",
+        "molecular aggregation",
+        "in situ UV-vis",
+        "film-forming kinetics"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "TOF-SIMS depth profiling demonstrates that hot-casting creates a more favorable vertical phase separation with a higher concentration of the PM6 donor near the anode (bottom), indicated by a lower falling slope of 0.16 compared to 0.25 for room-temperature casting.",
+      "evidence": "The falling slope of the PM6 is ≈0.16 in hot-casting films from the surface to the bottom, which is smaller than that of RT-casting films (≈0.25), suggesting more PM6 existence near the anode of the bottom.",
+      "complexity": "single-hop",
+      "keywords": [
+        "TOF-SIMS",
+        "vertical phase separation",
+        "PM6",
+        "concentration gradient"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Hot-casting improves charge transport and extraction, resulting in a shorter charge extraction time (τ_ext) of 0.23 ± 0.03 μs and higher photo-induced charge carrier extraction in linearly increasing voltage (photo-CELIV) mobility of (5.23 ± 0.19) × 10⁻⁴ cm² V⁻¹ s⁻¹.",
+      "evidence": "the charge extraction time (τ_ext) is 0.23 ± 0.03 μs for the hot-casting OSCs, which is shorter than that (0.25 ± 0.03 μs) of the RT-casting devices... the fitted μ values by photo-CELIV curves are (5.23 ± 0.19) × 10⁻⁴... for hot-casting.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "charge extraction",
+        "carrier mobility",
+        "photo-CELIV",
+        "τ_ext"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis shows that hot-casting enhances the face-on orientation and molecular packing of PM6:BO-4Cl blends, yielding larger crystal coherence length (CCL) values in both out-of-plane (010) and in-plane (100) directions.",
+      "evidence": "the hot-casting strategy contributes to steeper OOP (010) and IP (100) diffraction peaks and stronger intensities... the hot-casting blend films emerge similar stacking distance while relatively large coherence length (CCL) values.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "CCL",
+        "face-on orientation",
+        "molecular packing"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The hot-casting strategy suppresses both bimolecular and trap-assisted recombination, as indicated by an increased 'α' parameter (≈0.99) and a decreased 's' parameter (≈1.02) in light-intensity dependent J-V measurements.",
+      "evidence": "The average 'α' value of hot-casting OSCs is about 0.99... suggesting the weaker bimolecular recombination... the average 's' value of ≈1.02 for hot-casting OSCs is smaller than that of ≈1.09 for RT-casting devices, which demonstrates the lower trap-assisted charge recombination.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "bimolecular recombination",
+        "trap-assisted recombination",
+        "light-intensity dependence"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Ortho-xylene (OX) is identified as a non-halogenated 'green' solvent with a high boiling point of 143–145 °C, which is used in this study as an environmentally friendly alternative to halogenated solvents like chloroform or chlorobenzene.",
+      "evidence": "the non-halogenated green solvent OX (boiling point: 143-145 °C) was selected as the processing solvent... representing the record value among binary devices with green solvent.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ortho-xylene",
+        "green solvent",
+        "boiling point",
+        "non-halogenated"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "PM6 exhibits strong temperature-dependent aggregation (TDA) behavior in chlorobenzene, shown by a significant intensification and redshift of the 0-0 transition peak at ≈610 nm when the solution temperature drops from 100 °C to 25 °C.",
+      "evidence": "the absorption spectra of PM6 in CB solvent exhibit obvious intensification and redshift when the temperature of the solution decreases from 100 to 25 °C... A gradually enhanced and sharp 0-0 transition peak at ≈610 nm appearance as the drop of the solution temperature suggests strong aggregation.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PM6",
+        "TDA",
+        "aggregation",
+        "UV-vis absorption"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 14235,
+    "completion_tokens": 3594,
+    "total_tokens": 17829
+  }
+}

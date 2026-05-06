@@ -1,0 +1,156 @@
+{
+  "paper_id": "d3cc00191a",
+  "paper_title": "Current developments of eco-friendly organic field-effect transistors: from molecular engineering of organic semiconductors to greener device processing",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/d3cc00191a/auto/d3cc00191a.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Side-chain engineering using branched alkyl chains can improve the solubility of organic semiconductors (OSCs) and promote a three-dimensional (3D) stackable alignment favorable for charge transport compared to linear chains.",
+      "evidence": "Linear alkyl chains of various lengths and branched ones of various lengths and shapes have been introduced into OSCs... introducing a branched side chain into the OSC molecule yielded thin films whose devices showed improved performance. Introducing alkyl side chains induced the formation of a stackable alignment between semiconductor molecules resulting in a three-dimensional (3D) structure favorable for charge transport.",
+      "complexity": "single-hop",
+      "keywords": [
+        "side-chain engineering",
+        "branched alkyl chains",
+        "3D stacking",
+        "solubility"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Incorporating siloxane side chains into organic semiconductor molecules increases solubility in organic solvents and imparts high crystallinity, creating advantageous 3D domains for charge transport.",
+      "evidence": "including the siloxane side chain group (as shown in Fig. 9b) was shown to increase the solubility of semiconductor materials in organic solvents and at the same time impart high crystallinity, creating a 3D domain advantageous for charge transport during the formation of semiconductor thin films.",
+      "complexity": "single-hop",
+      "keywords": [
+        "siloxane side chains",
+        "crystallinity",
+        "solubility",
+        "charge transport"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Breaking the symmetry of polymer backbones (asymmetric deformation) is a strategy to increase solubility in non-chlorinated solvents, as demonstrated by the asymmetric PDPP-TVS compared to the symmetric PDPP-TVT.",
+      "evidence": "disrupting the high symmetry of polymer backbones has been attempted for the purpose of increasing the polymer solubility... Our group reported a new design involving replacing PDPP-TVT/SVS, which shows high carrier mobility and has a symmetric structure, with PDPP-TVS, which is asymmetric... and is highly soluble in relatively low-toxicity non-chlorinated solvents.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "backbone asymmetry",
+        "PDPP-TVS",
+        "solubility",
+        "structural regularity"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Organic field-effect transistors using C8-BTBT processed with 1,2-dichlorobenzene via off-center spin-coating have achieved hole mobility values as high as 43 cm²/V·s.",
+      "evidence": "When adopting C8-BTBT as the semiconductor material, this OFET device showed an ultra-high hole mobility of up to 43 cm2 V-1 s-1, attributed to the highly aligned, meta-stable crystal packing structure.",
+      "complexity": "single-hop",
+      "keywords": [
+        "C8-BTBT",
+        "hole mobility",
+        "1,2-dichlorobenzene",
+        "off-center spin-coating"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Aqueous-processed OFETs using colloids of the polymer PDPP-SVS have demonstrated a hole mobility of 2.7 cm²/V·s, showing the potential for high-performance green electronics.",
+      "evidence": "PDPP-SVS [processed in water] ... 2.7 [cm2 V-1 s-1] ... Ref 85 (Table 5).",
+      "complexity": "single-hop",
+      "keywords": [
+        "PDPP-SVS",
+        "aqueous processing",
+        "hole mobility",
+        "green solvents"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Hansen Solubility Parameters (HSP), which consider cohesive energy densities of dispersion, polarity, and hydrogen bonding, are used to predict the solubility of organic semiconductors in green solvents.",
+      "evidence": "This issue is highly related to the Hansen solubility parameters (HSPs), considering three factors: cohesive energy densities of dispersion, polarity, and hydrogen bonding... The well-known principle of ‘like dissolves like’ and Hansen solubility parameter can offer a direct indication of dissolving the OSCs in certain solvents.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Hansen Solubility Parameters",
+        "HSP",
+        "solubility prediction",
+        "green solvents"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The solvent d-limonene is identified as a non-chlorinated, non-aromatic 'green' alternative that can dissolve the organic semiconductor FBT-Th4(1,4) as effectively as o-dichlorobenzene (o-DCB).",
+      "evidence": "The Cao group reported the results of manufacturing polymer light-emitting diode and OFET devices using d-limonene... the organic semiconductor FBT-Th4(1,4) (structure shown in Fig. 6) was found to be equally or even more soluble in d-limonene than in o-DCB.",
+      "complexity": "single-hop",
+      "keywords": [
+        "d-limonene",
+        "green solvents",
+        "FBT-Th4(1,4)",
+        "solubility"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The presence of a Schottky barrier at the contact between the source/drain electrode and the organic semiconductor can lead to contact resistance, which often causes the overestimation of field-effect mobility in OFETs.",
+      "evidence": "most OFETs prepared in reality have contact resistance values higher than 0 Ω, which is mainly induced by the energy difference between the source/ drain electrode and OSCs and known as the Schottky barrier... if contact engineering processes are not performed... the field effect mobility is overestimated by the contact resistance.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Schottky barrier",
+        "contact resistance",
+        "mobility overestimation",
+        "device physics"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Meniscus-guided coating processes for OFETs are significantly influenced by solvent properties such as surface energy, boiling point, and the rate of solute concentration change during evaporation.",
+      "evidence": "In this method, the solvent type considerably influences the surface energy of the solution and rate of change in the solute concentration during processing... the solvent selection has a significant impact on the thin film morphology determination step. Also, the solvent should have a suitable viscosity and boiling point level for large-area fabrication.",
+      "complexity": "single-hop",
+      "keywords": [
+        "meniscus-guided coating",
+        "solvent properties",
+        "thin film morphology",
+        "evaporation"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Incorporation of non-ionic but strongly polar side chains, such as tri-ethylene glycol (TEG), can render hydrophobic polymers like polythiophene soluble in water.",
+      "evidence": "incorporating ethylene glycol as a side chain (as shown in Fig. 9d), which is non-ionic neutral but strongly polar, into an OSC molecule can be an excellent strategy to increase the solubility... Xiao and co-workers added a hydrophilic tri-ethylene glycol side chain into polythiophene... found that the resulting product can be dissolved in water.",
+      "complexity": "single-hop",
+      "keywords": [
+        "tri-ethylene glycol",
+        "TEG",
+        "water solubility",
+        "polar side chains"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "A 'cleavable side chain' strategy allows polymers to be processed in aqueous solutions via a water-soluble precursor, followed by UV-irradiation to remove the flanking groups and render the film solvent-resistant.",
+      "evidence": "the initial polymer synthesized in an organic solvent was hydrolyzed to form a water-soluble form, which formed a thin film in an aqueous solution; the formed thin film was irradiated with ultraviolet light to detach the flanking group, and finally became solvent resistant.",
+      "complexity": "single-hop",
+      "keywords": [
+        "cleavable side chains",
+        "UV-irradiation",
+        "aqueous processing",
+        "solvent resistance"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "A universal colloid technique involving 18 different surfactants has been proposed to prepare stable water-based dispersions of various high-performance polymers like P3HT, PBTTT, and PNDI2OD-T2 for OFET fabrication.",
+      "evidence": "Chung and co-workers proposed a universal colloid technique... used 18 kinds of surfactants in well-known polymer materials such as P3HT, PBTTT, PNDI2OD-T2... to prepare aqueous colloids for the purpose of reducing the usage of toxic solvents.",
+      "complexity": "single-hop",
+      "keywords": [
+        "colloid technique",
+        "surfactants",
+        "aqueous dispersion",
+        "P3HT"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 14364,
+    "completion_tokens": 3323,
+    "total_tokens": 17687
+  }
+}

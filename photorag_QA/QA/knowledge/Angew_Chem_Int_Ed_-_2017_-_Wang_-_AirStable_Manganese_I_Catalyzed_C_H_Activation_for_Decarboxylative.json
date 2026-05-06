@@ -1,0 +1,136 @@
+{
+  "paper_id": "Angew_Chem_Int_Ed_-_2017_-_Wang_-_AirStable_Manganese_I_Catalyzed_C_H_Activation_for_Decarboxylative",
+  "paper_title": "Air-Stable Manganese(I)-Catalyzed C–H Activation for Decarboxylative C–H/C–O Cleavages in Water",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Angew Chem Int Ed - 2017 - Wang - Air‐Stable Manganese I ‐Catalyzed C H Activation for Decarboxylative C H C O Cleavages in/auto/Angew Chem Int Ed - 2017 - Wang - Air‐Stable Manganese I ‐Catalyzed C H Activation for Decarboxylative C H C O Cleavages in.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Manganese(I) catalysis using MnBr(CO)5 enables decarboxylative C–H/C–O functionalization for the synthesis of allylated indoles, arenes, and amino acids.",
+      "evidence": "The versatile C–H allylation occurred by facile organometallic C–H metalation on indoles, arenes, amino acids and synthetically meaningful aryl ketimines... Control experiments verified the essential role of the MnBr(CO)5 catalyst.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Manganese(I) catalysis",
+        "C-H activation",
+        "decarboxylative functionalization",
+        "MnBr(CO)5"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The manganese(I)-catalyzed C–H functionalization is robust enough to occur efficiently in ambient air and using water (H2O) as the reaction medium.",
+      "evidence": "The manganese(I)-catalyzed C–H/C–O functionalization was not only tolerant to H2O, but occurred efficiently in an atmosphere of ambient air as well... with a high catalytic performance even at 60 °C when using H2O as the reaction medium.",
+      "complexity": "single-hop",
+      "keywords": [
+        "water-tolerant",
+        "air-stable",
+        "green chemistry",
+        "reaction conditions"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Optimization of the manganese(I) catalytic system in water under air reached yields as high as 95% for the allylation of 2-phenylpyridine with dioxolanone.",
+      "evidence": "Table 1, entry 14: MnBr(CO)5, NaOAc, H2O, Under air, 100 °C, 16 h, Yield 95%, E/Z 5.9.",
+      "complexity": "single-hop",
+      "keywords": [
+        "yield",
+        "diastereoselectivity",
+        "catalytic efficiency"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Vinylated dioxolanones serve as effective coupling partners for manganese-catalyzed C–H functionalization, allowing for the introduction of secondary and tertiary allylic alcohol moieties.",
+      "evidence": "Subsequently, a representative set of vinylated dioxolanones 2 was probed... the manganese(I)-catalyzed C–H activation efficiently delivered the secondary and tertiary allylic alcohols 3ab–3af.",
+      "complexity": "single-hop",
+      "keywords": [
+        "dioxolanones",
+        "allylic alcohols",
+        "coupling partners"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Manganese(I)-catalyzed C–H activation exhibits a minor preference for electron-deficient arenes as demonstrated by intermolecular competition experiments.",
+      "evidence": "First, intermolecular competition experiments between electronically differentiated arenes revealed a minor preference for electron-deficient substrates.",
+      "complexity": "single-hop",
+      "keywords": [
+        "electronic effects",
+        "competition experiments",
+        "arene reactivity"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Mechanistic studies using D2O labeling confirm that the manganese(I)-catalyzed C–H metalation step is reversible and water-tolerant.",
+      "evidence": "Second, C–H activations in the presence of isotopically labeled D2O clearly revealed the reversible nature of a water-tolerant organometallic C–H activation elementary step (Scheme 4 a).",
+      "complexity": "single-hop",
+      "keywords": [
+        "D2O labeling",
+        "reaction mechanism",
+        "reversibility"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The MnBr(CO)5 catalytic system demonstrates high functional group tolerance, including compatibility with chloro, bromo, iodo, hydroxyl, ester, and enolizable ketone substituents.",
+      "evidence": "Thereby, a set of synthetically useful electrophilic functional groups, including chloro, bromo, iodo, hydroxyl, ester, and enolizable ketone substituents, was fully tolerated.",
+      "complexity": "single-hop",
+      "keywords": [
+        "functional group tolerance",
+        "electrophilic groups",
+        "substrate scope"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The active catalytic cycle involves an independently isolable organometallic complex (complex 4) that is competent in both catalytic and stoichiometric C–H/C–O functionalization.",
+      "evidence": "Third, the independently prepared organometallic complex 4 proved to be competent in both catalytic C–H/C–O functionalization (Scheme 4 b) as well as within its stoichiometric transformation (Scheme 4 c).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "organometallic intermediate",
+        "catalytic cycle",
+        "stoichiometric transformation"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Manganese(I) catalysis allows for the direct modification of amino acids under racemization-free conditions, which is critical for maintaining molecular chirality in bio-related optoelectronic applications.",
+      "evidence": "Finally, the synthetic utility of the C–H/C–O functionalization was exploited for the direct modification of amino acids 5, notably under racemization-free reaction conditions (Scheme 5 a).",
+      "complexity": "single-hop",
+      "keywords": [
+        "amino acids",
+        "racemization-free",
+        "chirality"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Sodium acetate (NaOAc) is a critical additive for the manganese(I)-catalyzed decarboxylative C–H activation; other additives like K2CO3 or amines significantly reduce catalytic efficacy.",
+      "evidence": "The use of additives other than NaOAc proved to be detrimental to the catalytic efficacy (entries 15–17). ... K2CO3 (entry 15) <10% yield.",
+      "complexity": "single-hop",
+      "keywords": [
+        "NaOAc",
+        "additives",
+        "optimization"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "In the functionalization of aryl ketimines, the site-selectivity of the manganese catalyst is primarily controlled by steric interactions, with fluorine substituents providing secondary electronic control.",
+      "evidence": "The site-selectivity was found largely controlled by steric interactions, while the fluoro-group exerted a secondary effect to furnish ketone 8i and 8k as the sole product.",
+      "complexity": "single-hop",
+      "keywords": [
+        "site-selectivity",
+        "steric interactions",
+        "electronic control",
+        "ketimines"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 6213,
+    "completion_tokens": 2806,
+    "total_tokens": 9019
+  }
+}

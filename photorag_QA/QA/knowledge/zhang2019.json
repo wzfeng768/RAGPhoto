@@ -1,0 +1,153 @@
+{
+  "paper_id": "zhang2019",
+  "paper_title": "Increased conjugated backbone twisting to improve carbonylated-functionalized polymer photovoltaic performance",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/zhang2019/auto/zhang2019.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "PBTCO-TT and PBTCO-T are conjugated polymers based on benzo[1,2-b:4,5-b′]dithiophene (BDT) and carbonylated thiophene units, differing only by the linker between the carbonylated units: thieno[3,2-b]thiophene (TT) for PBTCO-TT and thiophene (T) for PBTCO-T.",
+      "evidence": "In this work, we designed and synthesized two polymer donors, PBTCO-TT and PBTCO-T (Scheme 1), based on BDT and oligothiophene but with different linkers, T in the latter polymer and TT in the former, between two carbonylated thiophene units.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PBTCO-TT",
+        "PBTCO-T",
+        "BDT",
+        "thiophene",
+        "thieno[3,2-b]thiophene"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The PBTCO-T:ITIC-based polymer solar cell achieved a power conversion efficiency (PCE) of 10.40%, with a Voc of 0.959 V, Jsc of 16.21 mA cm⁻², and FF of 66.89%.",
+      "evidence": "while the PBTCO-T:ITIC-based PSC showed a significantly higher PCE of 10.40% with simultaneous improvement of the VOC to 0.959 V, of the JSC to 16.21 mA cm−2 and of the FF to 66.89%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "PBTCO-T",
+        "ITIC",
+        "fill factor"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Replacing the thieno[3,2-b]thiophene (TT) unit with a thiophene (T) unit increases the twist angles of the polymer backbone, which suppresses excessive aggregation and improves the bulk heterojunction morphology in non-fullerene solar cells.",
+      "evidence": "Replacing the TT unit of PBTCO-TT with the T unit to form PBTCO-T resulted in weak aggregation in solution due to the greater torsions in the conjugated backbone. Such aggregation behaviour of PBTCO-T drove it to form a better BHJ morphology with ITIC than was formed by PBTCO-TT.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "backbone twisting",
+        "aggregation",
+        "BHJ morphology",
+        "PBTCO-T"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "PBTCO-TT and PBTCO-T exhibit nearly identical energy levels, with HOMO levels of -5.41 eV and -5.43 eV and LUMO levels of -3.56 eV and -3.55 eV, respectively.",
+      "evidence": "Cyclic voltammetry and density functional calculations confirmed similar molecular energy levels for the two polymers (HOMO/LUMO of −5.41/−3.56 eV for PBTCO-TT and −5.43/−3.55 eV for PBTCO-T).",
+      "complexity": "single-hop",
+      "keywords": [
+        "HOMO",
+        "LUMO",
+        "energy levels",
+        "PBTCO-TT",
+        "PBTCO-T"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Temperature-dependent UV-Vis absorption indicates that PBTCO-TT has a stronger aggregation tendency than PBTCO-T, as PBTCO-TT maintains aggregation at 90 °C in chlorobenzene whereas PBTCO-T does not.",
+      "evidence": "at 90 °C, aggregation of PBTCO-TT still occurred but no aggregation was indicated for PBTCO-T, which implied a stronger tendency for PBTCO-TT than for PBTCO-T to aggregate in solution.",
+      "complexity": "single-hop",
+      "keywords": [
+        "UV-Vis",
+        "temperature-dependent aggregation",
+        "chlorobenzene"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "DFT calculations at the B3LYP/6-31g (d, p) level reveal that PBTCO-T trimers have higher twist angles (up to 34.3°) compared to PBTCO-TT trimers (up to 25.6°).",
+      "evidence": "As shown in Fig. 3b, the three units of the trimer of PBTCO-TT showed twist angles of 12.8°, 25.0° and 25.6°, respectively. After replacing the TT units with T units, the resulting trimer of PBTCO-T exhibited a more twisted conjugated backbone with angles of 15.0°, 34.3° and 23.7°, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DFT",
+        "B3LYP",
+        "twist angles",
+        "trimer"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "PBTCO-T:ITIC blend films demonstrate a hole mobility (μh) of 1.15 × 10⁻⁴ cm² V⁻¹ s⁻¹ and an electron mobility (μe) of 3.78 × 10⁻⁴ cm² V⁻¹ s⁻¹, which are significantly higher than those of PBTCO-TT:ITIC.",
+      "evidence": "the μh of the PBTCO-T:ITIC film was 1.15 × 10−4 cm2 V−1 s−1, approximately two orders of magnitude higher than that of the PBTCO-TT:ITIC film (2.11 × 10−6 cm2 V−1 s−1). The μe of the PBTCO-T:ITIC film was 3.78 × 10−4 cm2 V−1 s−1, about two times higher than that of the PBTCO-TT:ITIC film (1.98 × 10−4 cm2 V−1 s−1).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "hole mobility",
+        "electron mobility",
+        "SCLC",
+        "PBTCO-T"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Charge transport in the PBTCO-T:ITIC device is more balanced with a μe/μh ratio of 3.3, whereas the PBTCO-TT:ITIC device is highly imbalanced with a ratio of 93.4.",
+      "evidence": "More importantly, the ratio of μe/μh was found to be more balanced for the PBTCO-T:ITIC film (3.3) than for the PBTCO-TT:ITIC film (93.4).",
+      "complexity": "single-hop",
+      "keywords": [
+        "charge carrier balance",
+        "mobility ratio",
+        "transport"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The RMS surface roughness of the PBTCO-TT:ITIC blend film is 9.06 nm, which is much higher than the 1.51 nm measured for the PBTCO-T:ITIC film, indicating detrimental large-scale aggregation in the PBTCO-TT blend.",
+      "evidence": "After blending PBTCO-TT with ITIC, the RMS surface roughness value of the resulting PBTCO-TT:ITIC-based film sharply increased to 9.06 nm... In contrast, the PBTCO-T:ITIC film showed only a slightly higher RMS surface roughness (1.51 nm).",
+      "complexity": "single-hop",
+      "keywords": [
+        "AFM",
+        "RMS roughness",
+        "surface morphology"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The exciton dissociation probability (Pdiss) is 80.55% for the PBTCO-T:ITIC-based device and 60.62% for the PBTCO-TT:ITIC-based device, explaining the higher Jsc of the former.",
+      "evidence": "Pdiss was calculated to be 60.62% for the PBTCO-TT:ITIC-based device and 80.55% for the PBTCO-T:ITIC-based device. This result was in agreement with the J-V measurements showing a higher JSC value for the PBTCO-T:ITIC-based device.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Pdiss",
+        "exciton dissociation",
+        "photogenerated current"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Both PBTCO-TT and PBTCO-T exhibit high thermal stability with 5% weight loss temperatures (Td) of 442 °C and 456 °C, respectively.",
+      "evidence": "The PBTCO-TT and PBTCO-T polymers both exhibited excellent thermal stabilities, with 5% weight loss temperatures (Td) of 442 and 456 °C, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "TGA",
+        "thermal stability",
+        "decomposition temperature"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "XRD analysis shows that PBTCO-T:ITIC blend films exhibit a strong π-π diffraction peak at 24.12° (0.37 nm), whereas PBTCO-TT:ITIC blend films show a strong chain-to-chain peak at 4.63° but a very weak π-π stacking peak.",
+      "evidence": "the PBTCO-TT:ITIC-based film showed a strong chain-to-chain diffraction peak at 4.63° (1.93 nm) and extremely weak π–π stacking peak. In contrast, the PBTCO-T:ITIC-based film showed a weak chain-to-chain diffraction peak at 4.51° (1.95 nm) and a strong π–π diffraction peak at 24.12° (ca. 0.37 nm).",
+      "complexity": "single-hop",
+      "keywords": [
+        "XRD",
+        "diffraction peak",
+        "pi-pi stacking",
+        "crystallinity"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 11277,
+    "completion_tokens": 4197,
+    "total_tokens": 15474
+  }
+}

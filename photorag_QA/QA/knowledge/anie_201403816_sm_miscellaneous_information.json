@@ -1,0 +1,131 @@
+{
+  "paper_id": "anie_201403816_sm_miscellaneous_information",
+  "paper_title": "Electron Delocalization in a Rigid Cofacial Naphthalene-1,8:4,5-bis(dicarboximide) Dimer",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/anie_201403816_sm_miscellaneous_information/auto/anie_201403816_sm_miscellaneous_information.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The NDI dimer 2NDI is synthesized via the condensation of naphthalenetetracarboxylic dianhydride with enantiopure trans-1,2-cyclohexanediamine in anhydrous DMF at 130 °C, yielding approximately 10% of the product.",
+      "evidence": "A solution of (RR)-trans-1,2-cyclohexanediamine... was added quickly to a solution of naphthalenetetracarboxylic dianhydride... at 130 °C... to afford pure (−)-2NDI... in 10% yield.",
+      "complexity": "single-hop",
+      "keywords": [
+        "synthesis",
+        "naphthalene diimide",
+        "cyclohexanediamine",
+        "condensation"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Single crystals of the (−)-2NDI enantiomer belong to the triclinic space group P1, with unit cell parameters a = 7.0255 Å, b = 14.6532 Å, c = 22.0962 Å, and a calculated density of 1.543 g/cm³.",
+      "evidence": "triclinic, P1, a = 7.0255(5) Å, 14.6532(11) Å, c = 22.0962(17) Å... ρcalc = 1.543 g/cm3.",
+      "complexity": "single-hop",
+      "keywords": [
+        "X-ray crystallography",
+        "unit cell",
+        "triclinic",
+        "crystal structure"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The NDI dimer (−)-2NDI exhibits an absolute photoluminescence quantum yield (PLQY) of 4.7 ± 0.6% in dichloromethane at 298 K.",
+      "evidence": "The absolute fluorescence quantum yield in CH2Cl2 at 298 K, determined by the use of an integrating sphere, was (4.7 ± 0.6)%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "quantum yield",
+        "PLQY",
+        "fluorescence",
+        "photoluminescence"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The excimer-like state of the (−)-2NDI dimer has a fluorescence lifetime (τ0) of 20.0 ± 0.1 ns in dichloromethane, as determined by time-correlated single photon counting (TCSPC).",
+      "evidence": "The excimer-like state lifetime was determined by the fluorescence decay... to give τ0 = 20.0 ± 0.1 ns.",
+      "complexity": "single-hop",
+      "keywords": [
+        "fluorescence lifetime",
+        "TCSPC",
+        "excimer",
+        "excited state"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Electron delocalization in the [2NDI]•− radical anion is confirmed by the presence of an intervalence charge transfer (IVCT) band in the NIR region that is invariant with respect to solvent polarity.",
+      "evidence": "Moreover the IVCT band in the NIR is (Figure S4b) invariant upon solvent polarity change, which is consistent of delocalized character of the mixed valence state.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "electron delocalization",
+        "IVCT band",
+        "NIR spectroscopy",
+        "radical anion"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "CW-ENDOR spectroscopy reveals that the hyperfine coupling constant (HFCC) for the [2NDI]•− cyclophane is 2.56 MHz, which is roughly half the value of the monomeric Ref-NDI (5.28 MHz), indicating the electron is shared between two NDI units.",
+      "evidence": "Figure S8 shows a % reduction of the magnitude of the HFCCs for [2NDI]•− (2.56 MHz) relative to [Ref-NDI]•– (5.28 MHz).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "ENDOR",
+        "hyperfine coupling",
+        "radical anion",
+        "electron sharing"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Single crystals of the dianion [(-)-2NDI]2− were grown under an Argon atmosphere using slow vapor diffusion of n-hexane into a 1.0 mM chloroform solution containing tetrabutylammonium counterions.",
+      "evidence": "Single crystals of [(−)/−2NDI]2− • 2Bu4N+ were grown in a glovebox under Argon atmosphere by slow vapor diffusion of n-hexane into a 1.0 mM solution in CHCl3.",
+      "complexity": "single-hop",
+      "keywords": [
+        "crystal growth",
+        "vapor diffusion",
+        "dianion",
+        "processing"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Density Functional Theory (DFT) calculations for 2NDI in neutral, monoanionic, and dianionic forms were performed at the M06-2X/6-31G** level of theory using the Jaguar software package.",
+      "evidence": "Structures were optimized at the M06-2X[S5]/6-31G** level of theory in their neutral as well as their mono- and dianionic forms.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DFT",
+        "M06-2X",
+        "molecular modeling",
+        "Jaguar software"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Chemical reduction of 2NDI to its radical anion and dianion states was achieved using cobaltocene (CoCp2) as a one-electron reductant in a glovebox environment.",
+      "evidence": "The spectroscopic titration (Figure S4) of CoCp2 into a 10 μM solution of (−)-2NDI in CH2Cl2 was carried out in a glovebox under an Argon atmosphere.",
+      "complexity": "single-hop",
+      "keywords": [
+        "chemical reduction",
+        "cobaltocene",
+        "titration",
+        "spectroscopy"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The crystal structure of (−)-2NDI exhibits C-H···O hydrogen bonds between adjacent molecules with a C···O distance of 3.0 Å and a H···O distance of 2.4 Å.",
+      "evidence": "The C···O distance was 3.0 Å. The CH···O hydrogen bond was 2.4 Å. The angle at hydrogen was 120–123°.",
+      "complexity": "single-hop",
+      "keywords": [
+        "hydrogen bonding",
+        "crystal packing",
+        "intermolecular interactions"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 7209,
+    "completion_tokens": 3003,
+    "total_tokens": 10212
+  }
+}

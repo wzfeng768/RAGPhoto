@@ -1,0 +1,132 @@
+{
+  "paper_id": "c9tc00443b",
+  "paper_title": "Realizing low-voltage operating crystalline monolayer organic field-effect transistors with a low contact resistance",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/c9tc00443b/auto/c9tc00443b.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "HTEB (1,4-bis(5'-hexyl-2,2'-bithiophen-5-yl)ethynyl)benzene) forms 2D layered molecular crystals where thiophene units provide strong intra-layer molecular interactions for self-assembly, while alkyl chains result in relatively weak inter-layer interactions.",
+      "evidence": "The 2D layered structure of HTEB might be partially related to the thiophene units which ensure strong intra-layer molecular interactions for efficient self-assembly of 2D growth, and the relatively weak inter-layer interactions of the alkyl chains for the layered structure.",
+      "complexity": "single-hop",
+      "keywords": [
+        "HTEB",
+        "2D molecular crystals",
+        "intermolecular interactions",
+        "self-assembly"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The width-normalized contact resistance (Rc) of HTEB-based OFETs shows a strong positive correlation with crystal thickness, with values of 1.77 kΩ cm for monolayers, 26.9 kΩ cm for 4-layer crystals, and 5.15 MΩ cm for 15-layer crystals.",
+      "evidence": "Devices based on monolayer molecular crystals (MMCs), and 4-layer and 15-layer single-crystal devices were found to have Rc of 1.77 kΩ cm, 26.9 kΩ cm and 5.15 MΩ cm, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "contact resistance",
+        "crystal thickness",
+        "HTEB",
+        "monolayer"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "HTEB monolayer molecular crystal (MMC) devices fabricated on a 30 nm HfO2 dielectric exhibit a saturation mobility of 0.26 cm² V⁻¹ s⁻¹ and an ultra-low contact resistance of 540 Ω cm at an operating voltage of -2V.",
+      "evidence": "Finally, a low-voltage operating (-2 V) HTEB MMC device was fabricated on a 30 nm HfO2 insulating layer with an ultralow Rc of 540 Ω cm... and mobility of 0.26 cm² V⁻¹ s⁻¹ were obtained even at a channel length of 1.8 μm.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "HfO2",
+        "low-voltage operation",
+        "saturation mobility",
+        "contact resistance"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The use of monolayer molecular crystals (MMCs) minimizes the bulk injection resistance (Rc,bulk) in the vertical direction, which is often much greater than the channel resistance (Rch) in thicker organic single crystals due to weak inter-layer transport.",
+      "evidence": "While the inter-layer transport, which is much weaker than the intra-layer transport in most of the organic semiconductors reported so far, results in a large Rc,bulk and hinders the charge transport... the integration of the efficient charge transport of bulk crystals and the low Rc,bulk of 2D materials calls for the preparation of monolayer molecular crystals (MMCs).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "bulk injection resistance",
+        "charge transport",
+        "inter-layer transport",
+        "MMC"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Contact resistance (Rc) in OFETs consists of two main components: interfacial injection resistance (Rc,int), caused by the potential barrier between metal electrodes and the semiconductor, and bulk injection resistance (Rc,bulk), related to the thickness and vertical structure of the semiconductor layer.",
+      "evidence": "In OFETs, Rc consists of the interfacial injection resistance (Rc,int) and the bulk injection resistance (Rc,bulk). The former is caused by non-ohmic contact between the metal electrode and semiconductor, and the latter is related to the interlayer structure and thickness of the semiconductor.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Rc,int",
+        "Rc,bulk",
+        "potential barrier",
+        "interlayer structure"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Grazing-Incidence Wide-Angle X-ray Scattering (GIWAXS) of HTEB multilayer crystals reveals a d-spacing of 36.8 Å for out-of-plane diffraction peaks (h00), which corresponds to the layered structure observed in AFM.",
+      "evidence": "A series of out-of-plane diffraction peaks (h00) are obtained with d-spacing of 36.8 Å, which is consistent well with the AFM image of the layered 2D crystals.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "d-spacing",
+        "HTEB",
+        "X-ray scattering"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "High-resolution atomic force microscopy (HR-AFM) and 2D fast Fourier transform (FFT) analysis of HTEB monolayer crystals determine lattice constants of b = 5.6 Å and c = 7.5 Å with an angle θ = 82.9°.",
+      "evidence": "According to the 2D reciprocal lattice in the 2D FFT pattern, lattice constants are estimated to be, b = 5.6 Å, c = 7.5 Å with θ = 82.9°.",
+      "complexity": "single-hop",
+      "keywords": [
+        "HR-AFM",
+        "FFT",
+        "lattice constants",
+        "crystal structure"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "HTEB 2D molecular crystals are fabricated by drop-casting a diluted chlorobenzene solution onto substrates treated with oxygen plasma, followed by room-temperature solvent evaporation for at least 24 hours.",
+      "evidence": "Afterwards, 30 μL diluted chlorobenzene solution of HTEB was drop-cast onto 1x1 cm² substrates and the substrates were placed in Petri dishes at room temperature for at least 24 hours, after which large-area layered 2D crystals were obtained.",
+      "complexity": "single-hop",
+      "keywords": [
+        "drop-casting",
+        "chlorobenzene",
+        "oxygen plasma",
+        "fabrication"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "HTEB MMC devices maintain more stable performance as the channel length (L) decreases compared to thicker crystals; the Rc/Rtotal ratio for MMCs only increases from 0.024 to 0.151 when L is reduced from 85.3 μm to 9.7 μm.",
+      "evidence": "the Rc/Rtotal ratio in the MMC devices only increased from 0.024 to 0.151 due to the low Rc,bulk in the MMC devices when the channel length was decreased from 85.3 μm to 9.7 μm, while the Rc/Rtotal ratio of the 4-layer single-crystal devices increased from 0.19 to 0.84.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "channel length",
+        "Rc/Rtotal ratio",
+        "short-channel effects",
+        "mobility"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The implementation of HfO2 as a gate dielectric (Ci = 440 nF cm⁻²) instead of SiO2 (Ci = 10 nF cm⁻²) enables low-voltage operation by ensuring efficient charge accumulation at lower gate voltages.",
+      "evidence": "The high dielectric constant of the HfO2 layer results in an efficient charge accumulation in the channel at a low VG... Ci of the SiO2 and HfO2 dielectric are 10 nF cm⁻² and 440 nF cm⁻², respectively.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "HfO2",
+        "gate dielectric",
+        "capacitance",
+        "charge accumulation"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 14196,
+    "completion_tokens": 4453,
+    "total_tokens": 18649
+  }
+}

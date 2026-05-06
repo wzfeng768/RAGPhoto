@@ -1,0 +1,155 @@
+{
+  "paper_id": "Angew_Chem_Int_Ed_-_2023_-_Gu_-_ChlorinationMediated_Stacking_Enhances_the_Photodynamic_Properties_o",
+  "paper_title": "Chlorination-Mediated $\\pi-\\pi$ Stacking Enhances the Photodynamic Properties of a NIR-II Emitting Photosensitizer with Extended Conjugation",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Angew Chem Int Ed - 2023 - Gu - Chlorination‐Mediated     Stacking Enhances the Photodynamic Properties of a NIR‐II/auto/Angew Chem Int Ed - 2023 - Gu - Chlorination‐Mediated     Stacking Enhances the Photodynamic Properties of a NIR‐II.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "BMIC-BO-4Cl and BMIC-BO-4F are A-D-A type small-molecule photosensitizers utilizing a seven-ring-fused electron-donating core based on 1,2-dimethyl-1H-benzo[d]imidazole and halogenated indanone-based electron-withdrawing units.",
+      "evidence": "A new imidazole-involved seven-ring-fused electron-donating core was designed, and two A-D-A smallmolecular PSs, BMIC-BO-4Cl and BMIC-BO-4F with different halogen substitutions, were synthesized... The seven-ring-fused core based on 1,2-dimethyl-1H-benzo[d]imidazole was used as an electron-donating unit.",
+      "complexity": "single-hop",
+      "keywords": [
+        "A-D-A structure",
+        "benzo[d]imidazole",
+        "photosensitizers",
+        "molecular design"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "BMIC-BO-4Cl and BMIC-BO-4F nanoparticles exhibit NIR-II fluorescence quantum yields of 2.29% and 2.33% respectively in the 900–1500 nm range, with emission tails extending beyond 1375 nm.",
+      "evidence": "both NPs displayed bright fluorescence in the NIR-II region with quantum yields (900-1500 nm) of 2.29% (BMIC-BO-4Cl NPs) and 2.33% (BMIC-BO-4F NPs)... with band tails beyond 1375 nm.",
+      "complexity": "single-hop",
+      "keywords": [
+        "NIR-II fluorescence",
+        "quantum yield",
+        "emission tail",
+        "nanoparticles"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The chlorination of the A-D-A photosensitizer BMIC-BO-4Cl results in a 1.7-fold higher reactive oxygen species (ROS) yield compared to its fluorinated counterpart BMIC-BO-4F and the previously reported COi6-4Cl.",
+      "evidence": "we observed that the ROS yield of BMICBO-4Cl nanoparticles (NPs) was about 1.7 times higher than that of COi6-4Cl and BMIC-BO-4F NPs... a notable 1.7-fold difference in ROS generation was observed between BMIC-BO-4Cl and BMIC-BO-4F NPs.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "ROS yield",
+        "chlorination",
+        "photodynamic therapy",
+        "BMIC-BO-4Cl"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Chlorination leads to more compact 3D network $\\pi-\\pi$ stacking in BMIC-BO-4Cl (frame dimensions 13.1 Å x 11.0 Å) compared to the looser packing in fluorinated BMIC-BO-4F (22.5 Å x 20.8 Å).",
+      "evidence": "BMIC-BO-4Cl molecules were arranged into a very compact ellipse-like 3D network packing structure... with a frame dimension of Lx = 13.1 Å and Ly = 11.0 Å... BMIC-BO-4F formed a rectangular-like 3D network packing structure... with a frame dimension of Lx = 22.5 Å and Ly = 20.8 Å.",
+      "complexity": "single-hop",
+      "keywords": [
+        "pi-pi stacking",
+        "crystal structure",
+        "molecular packing",
+        "chlorination"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The enhanced PDT efficiency in BMIC-BO-4Cl is attributed to more efficient charge separation and transfer, supported by a photocurrent density twice as high and a smaller charge transfer resistance compared to BMIC-BO-4F.",
+      "evidence": "the photocurrent density of BMIC-BO-4Cl was two times higher than that of BMIC-BO-4F... The BMIC-BO-4Cl film exhibited a smaller semicircle than BMIC-BO-4F, corresponding to a more efficient charge transfer.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "charge separation",
+        "photocurrent",
+        "charge transfer resistance",
+        "EIS"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The energy levels for BMIC-BO-4Cl are $E_{HOMO}$ = -5.18 eV and $E_{LUMO}$ = -3.78 eV, while for BMIC-BO-4F they are $E_{HOMO}$ = -5.17 eV and $E_{LUMO}$ = -3.74 eV.",
+      "evidence": "Specifically, the E_HOMO / E_LUMO values of BMIC-BO-4Cl and BMIC-BO-4F are -5.18 / -3.78 and -5.17 / -3.74 eV, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "HOMO",
+        "LUMO",
+        "energy levels",
+        "cyclic voltammetry"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The photoexcited holes of BMIC-BO-4Cl and BMIC-BO-4F have oxidation potentials of 3.83 V and 3.72 V (vs NHE, pH=7), respectively, which are sufficiently positive to oxidize $H_2O$ into hydroxyl radicals (.OH) at 1.99 V.",
+      "evidence": "the oxidating potentials (vs. NHE, pH=7) of the photoexcited holes of BMIC-BO-4Cl and BMIC-BO-4F were 3.83 V and 3.72 V... more positive than the oxidation potential of H2O (1.99 V vs. NHE, pH=7), which indicates that the photo-excited holes of BMIC-BO-4Cl/F can theoretically oxidize H2O into .OH.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "oxidation potential",
+        "Type-I PDT",
+        "hydroxyl radicals",
+        "XPS"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Type-I and Type-II PDT mechanisms were confirmed via electron paramagnetic resonance (EPR) spectroscopy, detecting characteristic signals for DMPO/·OH, TEMP/$^1O_2$, and BMPO/$O_2^{\\cdot -}$ adducts.",
+      "evidence": "The characteristic 1:2:2:1 EPR signal of DMPO/·OH adduct, the typical 1:1:1 triplet signal of TEMP/1O2 adduct, and the hyperfine splits of BMPO/O2·- adduct... were observed when 5 min laser irradiation was performed on both NPs.",
+      "complexity": "single-hop",
+      "keywords": [
+        "EPR spectroscopy",
+        "reactive oxygen species",
+        "Type-I PDT",
+        "Type-II PDT"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Nanoparticles were fabricated using the nanoprecipitation method with a $PCL_{3500}-b-PEG_{2000}$ polymer matrix, resulting in hydrodynamic diameters of approximately 50 nm for BMIC-BO-4Cl and 40 nm for BMIC-BO-4F.",
+      "evidence": "BMIC-BO-4Cl and BMICBO-4F NPs were prepared by the nanoprecipitation method with poly(e-caprolactone)3500-b-poly(ethylene glycol)2000... Hydrodynamic diameters for BMIC-BO-4Cl and BMIC-BO-4F NPs are around 50 and 40 nm, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "nanoprecipitation",
+        "PCL-b-PEG",
+        "particle size",
+        "nanoparticles"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "BMIC-BO-4Cl and BMIC-BO-4F nanoparticles exhibit high colloidal stability with zeta potentials around -15 mV and maintain stable sizes for up to 30 days in water.",
+      "evidence": "the two NPs showed zeta potentials around -15 mV... which could keep size unchanged for up to 30 days in H2O indicating their good colloidal stability.",
+      "complexity": "single-hop",
+      "keywords": [
+        "colloidal stability",
+        "zeta potential",
+        "shelf life"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "In vivo NIR-II fluorescence imaging using a 1319 nm long-pass filter achieved a signal-to-background ratio (SBR) of 2.8 for hindlimb vessel imaging, significantly higher than those achieved with 1100 nm or 1250 nm filters.",
+      "evidence": "The SBR values for hindlimb vessel imaging under the 1319 nm LP filter reached 2.8. On the other side, the imaging contrast (SBR values decreased to ~1.5–1.7) was significantly compromised if 1100 and 1250 nm LP filters were used.",
+      "complexity": "single-hop",
+      "keywords": [
+        "SBR",
+        "NIR-II imaging",
+        "long-pass filter",
+        "angiography"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Single-crystal analysis reveals that Cl atoms exhibit strong Cl...N interactions (3.43 Å) with imidazole units in BMIC-BO-4Cl, whereas F atoms in BMIC-BO-4F lack similar interactions (F...N distance of 5.48 Å).",
+      "evidence": "the Cl atoms showed strong Cl...N interactions with the imidazole units, leading to nearly parallel... and close pi-pi stackings (pi-pi distance of 3.43 Å... for BMIC-BO-4F, the F--N distance was 5.48 Å... indicated the lack of F--N interactions.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "halogen bonding",
+        "Cl-N interaction",
+        "pi-pi distance",
+        "crystal analysis"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 14221,
+    "completion_tokens": 3913,
+    "total_tokens": 18134
+  }
+}

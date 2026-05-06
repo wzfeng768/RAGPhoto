@@ -1,0 +1,151 @@
+{
+  "paper_id": "1-s20-S1566119923000502-main",
+  "paper_title": "Boosting the photovoltaic performance of doctor-bladed organic solar cells using a low-boiling solvent additive",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/1-s2.0-S1566119923000502-main/auto/1-s2.0-S1566119923000502-main.md",
+  "knowledge_points": [
+    {
+      "category": "Processing & Fabrication",
+      "content": "The low-boiling solvent additive 1,4-difluorobenzene (1,4-DFB) has a boiling point of 88.8 °C, which is significantly lower than common high-boiling additives like 1-chloronaphthalene (CN, 260 °C) or 1,8-diiodooctane (DIO, 167 °C).",
+      "evidence": "In this work, high-performance PM6:Y6:PC61BM OSCs are fabricated via doctor blading under ambient conditions by adding a low-boiling additive 1,4-difluorobenzene (1,4-DFB, 88.8 °C)... The temperatures of high-boiling solvent additives 1-chloronaphthalene (CN, 260 °C)...",
+      "complexity": "single-hop",
+      "keywords": [
+        "1,4-difluorobenzene",
+        "low-boiling solvent additive",
+        "boiling point"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The addition of 0.5 vol% 1,4-DFB to the PM6:Y6:PC61BM blend increases the power conversion efficiency (PCE) from 14.28% (control) to 15.34% for doctor-bladed organic solar cells.",
+      "evidence": "In contrast, OSC with 0.5% 1,4-DFB additive shows the highest PCE of 15.34%... compared to a PCE of 14.2% for reference OSCs without 1,4-DFB.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "1,4-DFB",
+        "doctor-blading",
+        "PM6:Y6:PC61BM"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The use of 1,4-DFB as an additive induces a red-shift in the absorption maximum of the Y6 acceptor from 820 nm to 835 nm in the blend thin film, indicating enhanced π-π packing and crystallinity.",
+      "evidence": "It is found that the 1,4-DFB can enhance the absorption peak of Y6 in the blend thin film, with an obvious red-shift from 820 nm to 835 nm, suggesting that the π-π packing and crystallinity of Y6 may be enhanced.",
+      "complexity": "single-hop",
+      "keywords": [
+        "red-shift",
+        "Y6",
+        "π-π packing",
+        "crystallinity"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "In doctor-bladed PM6:Y6:PC61BM devices, 1,4-DFB treatment improves the short-circuit current (Jsc) from 23.98 mA/cm² to 25.12 mA/cm² and the fill factor (FF) from 71.4% to 74.2%.",
+      "evidence": "The control device shows... a Jsc of 23.98 mA/cm2 and an FF of 71.4%. In contrast, OSC with 0.5% 1,4-DFB additive shows... a Jsc of 25.12 mA/cm2 and an FF of 74.2%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "short-circuit current",
+        "fill factor",
+        "Jsc",
+        "FF"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The hole mobility (μh) and electron mobility (μe) of the PM6:Y6:PC61BM blend increase from 3.64 and 1.12 × 10⁻⁴ cm²V⁻¹s⁻¹ to 7.08 and 3.10 × 10⁻⁴ cm²V⁻¹s⁻¹, respectively, upon the addition of 1,4-DFB.",
+      "evidence": "For the PM6:Y6:PC61BM blend thin films with 1,4-DFB additive, the hole mobility is enhanced from 3.64 × 10-4 to 7.08 × 10-4 cm2V-1s-1, and the electron mobility is enhanced from 1.12 × 10-4 to 3.10 × 10-4 cm2V-1s-1.",
+      "complexity": "single-hop",
+      "keywords": [
+        "hole mobility",
+        "electron mobility",
+        "SCLC",
+        "charge transport"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The charge transport balance in the active layer improves with 1,4-DFB, as the μh/μe ratio decreases from 3.25 in the control device to 2.26 in the additive-treated device.",
+      "evidence": "Furthermore, the hole and electron mobilities of the blend thin film become more balance after the addition of 1,4-DFB. (Table 2: Control μh/μe = 3.25; 0.5% 1,4-DFB μh/μe = 2.26)",
+      "complexity": "multi-hop",
+      "keywords": [
+        "mobility balance",
+        "charge transport",
+        "μh/μe ratio"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Analysis of Jsc versus light intensity shows an increase in the exponential factor α from 0.968 to 0.985 with the addition of 1,4-DFB, indicating suppressed bimolecular recombination.",
+      "evidence": "From fitting the data of Jsc versus Plight as illustrated in Fig. 4c, the values of 0.968, 0.985 are obtained for control and 1,4-DFB-processed OSC devices, respectively, which indicates that the addition of 1,4-DFB can effectively suppress bimolecular recombination.",
+      "complexity": "single-hop",
+      "keywords": [
+        "bimolecular recombination",
+        "light intensity dependence",
+        "exponential factor α"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Time-resolved photoluminescence (TRPL) measurements show that the carrier lifetime of the PM6:Y6:PC61BM blend decreases from 1.61 ns to 0.74 ns when 1,4-DFB is used, suggesting more efficient exciton dissociation and charge transfer.",
+      "evidence": "The control sample has a carrier lifetime of 1.61 ns. While the sample with 1,4-DFB has a carrier lifetime of 0.74 ns... the results reveal that the sample with 1,4-DFB has better charge transfer efficiency...",
+      "complexity": "single-hop",
+      "keywords": [
+        "TRPL",
+        "carrier lifetime",
+        "exciton dissociation",
+        "charge transfer"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "GIWAXS characterization reveals that 1,4-DFB significantly enhances the (100) lamellar stacking peak intensity and introduces a distinct π-π diffraction peak for the Y6 acceptor at qz = 1.77 Å⁻¹ in the out-of-plane direction.",
+      "evidence": "Notably, a typical π-π diffraction peak belonging to the acceptor Y6 located at qz = 1.77 Å-1 in the out-of-plane direction can be obviously observed for the blend thin film with 1,4-DFB, which is absent in reference sample.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "π-π stacking",
+        "crystallinity",
+        "molecular ordering"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Organic solar cells processed with 1,4-DFB maintain over 90% of their initial PCE after 1300 hours of storage in a nitrogen-filled glove box, compared to 82% for the control devices.",
+      "evidence": "After 1300 h of storage in a nitrogen-filled glove box, the 1,4-DFB-processed and controlled OSC devices maintain the PCEs of 13.77% and 11.76%, exceeding 90% and 82% of their initial values...",
+      "complexity": "single-hop",
+      "keywords": [
+        "storage stability",
+        "degradation",
+        "operational lifetime"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "A large-area organic solar cell (1.0 cm²) fabricated via doctor-blading with the 1,4-DFB additive achieved a PCE of 11.96% in ambient conditions.",
+      "evidence": "In addition, a 1,4-DFB-processed large-area device (1.0 cm2) is further fabricated using doctor blading... it exhibits a high PCE of 11.96%...",
+      "complexity": "single-hop",
+      "keywords": [
+        "large-area device",
+        "doctor-blading",
+        "scalability"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "AFM analysis shows that the root-mean-square (RMS) surface roughness of the active layer decreases from 1.68 nm to 1.32 nm upon adding 1,4-DFB, leading to a flatter and denser film.",
+      "evidence": "the root-mean-square (RMS) roughnesses of the AFM height image surfaces are 1.68 nm and 1.32 nm for the control and 1,4-DFB-processed blend thin film, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "AFM",
+        "surface roughness",
+        "RMS",
+        "morphology"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 15146,
+    "completion_tokens": 3524,
+    "total_tokens": 18670
+  }
+}

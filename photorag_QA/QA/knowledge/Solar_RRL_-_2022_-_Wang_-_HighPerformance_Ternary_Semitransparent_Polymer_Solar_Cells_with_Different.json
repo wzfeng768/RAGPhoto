@@ -1,0 +1,120 @@
+{
+  "paper_id": "Solar_RRL_-_2022_-_Wang_-_HighPerformance_Ternary_Semitransparent_Polymer_Solar_Cells_with_Different",
+  "paper_title": "High-Performance Ternary Semitransparent Polymer Solar Cells with Different Bandgap Third Component as Non-Fullerene Guest Acceptor",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Solar RRL - 2022 - Wang - High‐Performance Ternary Semitransparent Polymer Solar Cells with Different Bandgap Third/auto/Solar RRL - 2022 - Wang - High‐Performance Ternary Semitransparent Polymer Solar Cells with Different Bandgap Third.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "IHIC is an A-D-A structured non-fullerene acceptor synthesized via a simple one-step process, featuring a central 4,4,9,9-tetrakis(4-hexylphenyl)-4,9-dihydrothieno[3',2':4,5]cyclopenta[1,2-b]thieno[2'',3'':3',4']cyclopenta[1',2':4,5]thieno[2,3-d]thiophene core.",
+      "evidence": "Non-fullerene acceptor IHIC was synthesized by a simple one-step process under low cost and had an A-D-A structure similar to ITIC and IT-4F. ... The chemical structures of donor polymer (PM6), non-fullerene host-acceptor (Y6), and non-fullerene guest-acceptors (ITIC, IT4F, IHIC) are depicted in Figure 1a.",
+      "complexity": "single-hop",
+      "keywords": [
+        "IHIC",
+        "A-D-A structure",
+        "non-fullerene acceptor",
+        "synthesis"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The energy levels of the ternary components (PM6, Y6, and guest acceptors ITIC, IT-4F, IHIC) form a cascade alignment that facilitates electron transfer and reduces exciton dissociation loss; for example, IHIC has a LUMO of -4.08 eV, which sits between PM6 (-3.69 eV) and Y6 (-4.25 eV).",
+      "evidence": "The lowest unoccupied molecular orbital (LUMO) levels of PM6, Y6, ITIC, IT-4F, IHIC are -3.69, -4.25, -4.01, -4.07, -4.08 eV, respectively... which feature cascade alignment for electron transfer and reduce the excition dissociation loss.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "LUMO",
+        "cascade alignment",
+        "energy level engineering",
+        "exciton dissociation"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "A ternary semitransparent polymer solar cell based on PM6:Y6:IHIC (20% guest) achieved a power conversion efficiency (PCE) of 12.18% and an average visible transmittance (AVT) of 27.07% using a 15 nm Ag cathode.",
+      "evidence": "Ternary ST-PSCs based on PM6:Y6:IHIC exhibited a PCE of 12.18% with an AVT of 27.07% a VOC of 0.82 V, a JSC of 23.44 mAcm-2, and an FF of 63.41%",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "AVT",
+        "PM6:Y6:IHIC",
+        "semitransparent"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The incorporation of 20% IHIC into the PM6:Y6 host leads to more balanced charge transport, with a hole mobility of 2.78 x 10^-4 cm^2 V^-1 s^-1 and an electron mobility of 3.12 x 10^-4 cm^2 V^-1 s^-1, resulting in a μe/μh ratio of 1.12.",
+      "evidence": "Ternary device based on PM6:Y6:IHIC (20%) demonstrated higher hole and electron mobility (2.78, 3.12 x 10^-4 cm^2 V^-1 s^-1) and more balanced charge transport properties (μe/μh = 1.12) than the host binary device",
+      "complexity": "single-hop",
+      "keywords": [
+        "carrier mobility",
+        "charge transport",
+        "SCLC",
+        "ternary blend"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The use of IHIC as a guest acceptor in ST-PSCs is more advantageous for transparency than ITIC or IT-4F because IHIC's absorption is primarily in the near-infrared (NIR) region (peak at 809 nm), whereas ITIC and IT-4F have significant absorption in the visible region.",
+      "evidence": "Due to the absorption of IHIC located at NIR region, the PM6:Y6:IHIC semitransparent device demonstrated the highest AVT, while other ternary devices exhibited relatively lower AVT owing to partial absorption of 20% ITIC or IT-4F in the visible region.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "NIR absorption",
+        "AVT",
+        "IHIC",
+        "ITIC",
+        "IT-4F"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "To maintain high visible transmittance and low electrical resistance in semitransparent devices, an ultrathin 1 nm Au film is used as a nucleation center before depositing the Ag cathode (10-20 nm).",
+      "evidence": "As dense nucleation centers, the ultrathin Au (1 nm) film reduces percolation and enhances the uniformity of ultrathin Ag film, as well as remaining visible transmittance and low electrical resistance of cathode films.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ultrathin cathode",
+        "Au nucleation",
+        "Ag film",
+        "semitransparent fabrication"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Ternary blend films (PM6:Y6 with ITIC, IT-4F, or IHIC) exhibit smoother surface morphologies compared to the PM6:Y6 binary blend, with IHIC reducing the RMS roughness from 1.82 nm (binary) to 1.32 nm (ternary).",
+      "evidence": "ternary active layers exhibit favorable surface morphology with similar surface root-mean-square (RMS) roughness values of 1.51, 1.37, 1.32 nm for the PM6:Y6:ITIC/IT-4F/IHIC blends, respectively, lower than that of PM6:Y6 binary blend (RMS = 1.82 nm)",
+      "complexity": "single-hop",
+      "keywords": [
+        "AFM",
+        "RMS roughness",
+        "morphology",
+        "ternary strategy"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The charge recombination kinetics in these ternary devices show α values (from Jsc ∝ P^α) ranging from 0.98 to 0.99, indicating that bimolecular recombination is significantly suppressed.",
+      "evidence": "the α values were calculated as 0.99, 0.99, 0.98 for PM6:Y6:ITIC/IT-4F/IHIC-based ternary PSCs... which indicate low bimolecular recombination in ternary photovoltaic devices.",
+      "complexity": "single-hop",
+      "keywords": [
+        "charge recombination",
+        "light intensity dependence",
+        "bimolecular recombination"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Optimal morphology for the PM6:Y6:IHIC ternary system was achieved using 0.5% 1,8-diiodooctane (DIO) as a solvent additive and thermal annealing at 110 °C for 10 minutes.",
+      "evidence": "The PM6:Y6:IHIC (1.0:1.0:0.2, w/w/w)-based ternary PSCs delivered an improved PCE of 15.28% ... three active blends were processed equally with 0.5% DIO as an additive and thermal annealing under 110 °C 10 min.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DIO",
+        "thermal annealing",
+        "solvent additive",
+        "optimization"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 19379,
+    "completion_tokens": 3334,
+    "total_tokens": 22713
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "paper_id": "d2tc04311d",
+  "paper_title": "π-Extended chlorinated non-fullerene acceptors for achieving high performance organic solar cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/d2tc04311d/auto/d2tc04311d.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The study utilizes a planar and rigid skeleton known as FDICT (fluorene-based central core) as the electron-donating core for A–D–A type non-fullerene acceptors.",
+      "evidence": "Fluorene as a planar and rigid skeleton is widely available and has been applied to the fused ring NFAs by our group to construct a FDICT central core.",
+      "complexity": "single-hop",
+      "keywords": [
+        "FDICT",
+        "fluorene",
+        "A-D-A structure",
+        "non-fullerene acceptor"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Combining π-extension and chlorination of the end group in NFAs leads to narrowed molecular bandgaps and red-shifted absorption spectra towards the near-infrared region.",
+      "evidence": "Extending the conjugation of the end group narrows the molecular bandgaps and enables a lower Eloss... the onset absorption of F'-N2Cl redshifts significantly towards the NIR region with respect to that of other F-series NFAs.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "π-extension",
+        "chlorination",
+        "bandgap narrowing",
+        "NIR absorption"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The organic solar cell based on the PM6:F'-N2Cl blend achieved a maximum power conversion efficiency (PCE) of 14.13%, with an open-circuit voltage (Voc) of 0.927 V, a short-circuit current (Jsc) of 20.31 mA cm⁻², and a fill factor (FF) of 74.68%.",
+      "evidence": "this system exhibits the highest power conversion efficiency (PCE) of 14.13% with a Jsc of 20.31 mA cm−2, a Voc of 0.927 V and a FF of 74.68%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "Voc",
+        "Jsc",
+        "fill factor",
+        "PM6:F'-N2Cl"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The optical bandgaps (Eg^opt) for the NFAs F'-2Cl, F'-NCl, and F'-N2Cl are 1.574 eV, 1.568 eV, and 1.552 eV, respectively, demonstrating that π-extension and increased chlorination systematically reduce the bandgap.",
+      "evidence": "F'-2Cl, F'-NCl and F'-N2Cl films show onset absorption peaks at 788, 791, and 799 nm, corresponding to optical bandgaps (Eg^opt) of 1.574, 1.568, and 1.552 eV, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "optical bandgap",
+        "F'-2Cl",
+        "F'-NCl",
+        "F'-N2Cl"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Total energy loss (Eloss) in PM6:F'-N2Cl and PM6:F'-NCl systems was reduced to 0.706 eV and 0.686 eV, respectively, compared to 0.725 eV for the PM6:F'-2Cl system.",
+      "evidence": "the total Eloss s of OSCs can be calculated based on the following equation: Eloss = (Eg − qVoc), being 0.725, 0.686 and 0.706 eV for PM6:F'-2Cl, PM6:F'-NCl and PM6:F'-N2Cl, respectively",
+      "complexity": "single-hop",
+      "keywords": [
+        "energy loss",
+        "Eloss",
+        "voltage loss"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Non-radiative recombination losses (ΔE3) for F'-NCl and F'-N2Cl based devices are as low as 0.277 eV and 0.272 eV, respectively, which are lower than the 0.283 eV observed for F'-2Cl.",
+      "evidence": "The greatly suppressed nonradiative recombination with much reduced ΔE3 of 0.272 and 0.277 eV has been achieved by PM6:F'-N2Cl and PM6:F'-NCl based OSCs, respectively, in sharp comparison to that of 0.283 eV for PM6:F'-2Cl",
+      "complexity": "multi-hop",
+      "keywords": [
+        "non-radiative recombination",
+        "ΔE3",
+        "energy loss"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Urbach energy (Eu), a measure of energetic disorder, was determined using high-resolution Fourier transform photocurrent spectra (FTPS-EQE) to be 30.3 meV for PM6:F'-N2Cl and 31.2 meV for PM6:F'-NCl.",
+      "evidence": "PM6:F'-N2Cl and PM6:F'-NCl based devices afford slightly smaller Eus of 30.3 and 31.2 meV, respectively, compared to 32.4 meV of the PM6:F'-2Cl based one.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Urbach energy",
+        "FTPS-EQE",
+        "energetic disorder"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis revealed that F'-N2Cl exhibits a compact π–π stacking distance of 3.48 Å in neat films and 3.51 Å in blend films with PM6, with a predominant face-on orientation.",
+      "evidence": "the π-π stacking distance (d010) are 3.50, 3.52 and 3.48 Å... the (010) peaks of PM6:F'-2Cl, PM6:F'-NCl and PM6:F'-N2Cl are located at 1.77, 1.75 and 1.79 Å−1, corresponding to a π-π stacking distance (d010) of 3.55, 3.58 and 3.51 Å, respectively.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "GIWAXS",
+        "π–π stacking",
+        "face-on orientation",
+        "crystallinity"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The hole and electron mobilities (μh/μe) for the PM6:F'-N2Cl blend were measured by SCLC to be 1.01 × 10⁻⁴ and 3.38 × 10⁻⁴ cm² V⁻¹ s⁻¹, respectively, showing a more balanced ratio than the F'-NCl system.",
+      "evidence": "PM6:F'-N2Cl photoactive layers exhibit overall ungraded hole/electron mobility (μh/μe) of 1.01 × 10−4/3.38 × 10−4 cm2 V−1 s−1... better than that of PM6:F'-NCl based blends (0.96 × 10−5/2.98 × 10−4 cm2 V−1 s−1).",
+      "complexity": "single-hop",
+      "keywords": [
+        "SCLC",
+        "carrier mobility",
+        "charge transport"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The optimal organic solar cell devices were fabricated using an inverted structure (ITO/ZnO/PFN-Br/Active layer/MoO3/Ag) with chlorobenzene as the solvent, a 1:1 donor-to-acceptor ratio, and 0.3% DIO as an additive.",
+      "evidence": "OSC devices with an inverted architecture of indium tin oxide (ITO)/ZnO/PFN-Br/Active layers/MoO3/Ag were fabricated... optimal conditions are as follows: chlorobenzene is selected as the solvent and the best D : A ratio is 1:1 with 0.3% DIO as additives.",
+      "complexity": "single-hop",
+      "keywords": [
+        "inverted architecture",
+        "chlorobenzene",
+        "DIO",
+        "device fabrication"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The synthesized NFAs F'-2Cl, F'-NCl, and F'-N2Cl demonstrate high thermal stability with decomposition temperatures (5% weight loss) exceeding 340 °C.",
+      "evidence": "all NFAs of F'-2Cl, F'-NCl and F'-N2Cl possess high thermal stability with thermal decomposition onset temperatures (5% mass loss) greater than 340 °C.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "TGA",
+        "decomposition temperature"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The crystal coherence length (CCL) of the (010) π–π stacking in PM6:F'-N2Cl blend films is 26.80 Å, which is significantly larger than that of PM6:F'-2Cl (19.44 Å), contributing to improved electron transport.",
+      "evidence": "the coherence lengths of the π-π stacking (CCL010) for PM6:F'-2Cl, PM6:F'-NCl and PM6:F'-N2Cl blends... being 19.44, 25.04 and 26.80 Å, respectively. The slightly enlarged CCL in the PM6:F'-N2Cl blend... resulting in better electron transport properties",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Crystal Coherence Length",
+        "CCL",
+        "electron transport",
+        "crystallinity"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 17115,
+    "completion_tokens": 3743,
+    "total_tokens": 20858
+  }
+}

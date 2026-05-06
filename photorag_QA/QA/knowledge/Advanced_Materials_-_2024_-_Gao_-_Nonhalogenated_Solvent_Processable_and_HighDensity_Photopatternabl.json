@@ -1,0 +1,153 @@
+{
+  "paper_id": "Advanced_Materials_-_2024_-_Gao_-_Nonhalogenated_Solvent_Processable_and_HighDensity_Photopatternabl",
+  "paper_title": "Nonhalogenated Solvent Processable and High-Density Photopatternable Polymer Semiconductors Enabled by Incorporating Hydroxyl Groups in the Side Chains",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Materials - 2024 - Gao - Nonhalogenated Solvent Processable and High‐Density Photopatternable Polymer/auto/Advanced Materials - 2024 - Gao - Nonhalogenated Solvent Processable and High‐Density Photopatternable Polymer.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "A molecular design strategy involving the incorporation of hydroxyl (-OH) groups at the terminal positions of side alkyl chains significantly improves the solubility of conjugated polymers in nonhalogenated solvents such as tetrahydrofuran (THF).",
+      "evidence": "An effective strategy to boost the solubility of high-performance polymer semiconductors in nonhalogenated solvents such as tetrahydrofuran (THF) by appending hydroxyl groups in the side chains is herein presented.",
+      "complexity": "single-hop",
+      "keywords": [
+        "hydroxyl groups",
+        "side chain engineering",
+        "solubility",
+        "nonhalogenated solvents"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The polymer PDPPTT-OH achieves a high solubility of 107.3 mg/mL in THF at room temperature, which is a significant improvement for high-performance semiconducting polymers.",
+      "evidence": "The results reveal that PDPPTT-OH shows a record solubility of 107.3 mg mL-1 (see Table S1, Supporting Information, for details).",
+      "complexity": "single-hop",
+      "keywords": [
+        "PDPPTT-OH",
+        "solubility",
+        "THF",
+        "performance metrics"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "PDPP4T-OH processed from a THF solution exhibits a high hole mobility of 1.22 cm²/Vs in a bottom-gate bottom-contact (BGBC) field-effect transistor configuration.",
+      "evidence": "thin film of PDPP4T-OH exhibits a high hole mobility of 1.22 cm2 V-1 s-1 when processed with THF.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PDPP4T-OH",
+        "hole mobility",
+        "THF processing",
+        "FET"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The increased solubility in THF is attributed to the enhancement of the hydrogen bonding component (δH) of the Hansen Solubility Parameters (HSPs) due to the presence of hydroxyl groups, bringing the polymer's parameters closer to those of THF (δD = 16.8, δP = 5.7, δH = 8.0).",
+      "evidence": "The possible H-bonding among the hydroxyl groups in the side chains is expected to boost δH of PDPP4T-OH... which becomes closer to that of THF... HSPs of THF are δD = 16.8, δP = 5.7, and δH = 8.0.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Hansen solubility parameters",
+        "hydrogen bonding",
+        "THF",
+        "solubility mechanism"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "High-density photopatterning of polymer semiconductors can be achieved at a density of approximately 82,000 device arrays per cm² using THF as both the processing and developing solvent.",
+      "evidence": "Notably, THF is successfully utilized as the processing and developing solvent to achieve high-density photopatterning with ≈ 82 000 device arrays cm-2 for polymer semiconductors in which hydroxyl groups are appended in the side chains.",
+      "complexity": "single-hop",
+      "keywords": [
+        "photopatterning",
+        "device density",
+        "THF",
+        "fabrication"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Photopatterning of hydroxylated polymer semiconductors is facilitated by a diazirine-based photo-crosslinker (5% w/w) that generates reactive carbene species under 365 nm UV light irradiation, inducing cross-linking of the side chains.",
+      "evidence": "We and others developed photo-crosslinkers that can generate nitrene and carben reactive species under UV light irradiation to induce the cross-linking of side alkyl chains... with PDPP4T-OH as an example... using THF as the developer and the diazirine-based photo-crosslinker.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "photo-crosslinker",
+        "diazirine",
+        "UV irradiation",
+        "carbene"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The introduction of hydroxyl groups at a 1:10 molar ratio (hydroxylated vs. non-hydroxylated repeat units) has a negligible impact on the polymer's optical bandgap, energy levels (HOMO/LUMO), and interchain π-π stacking distance.",
+      "evidence": "These results demonstrate that the introduction of a small amount of hydroxyl groups at the ends of side alkyl chains does not significantly impact the electronic structures... the influences of hydroxyl groups on the interchain packing of these polymer semiconductors is negligible.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "energy levels",
+        "π-π stacking",
+        "molecular structure",
+        "electronic structure"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "A complementary-like inverter constructed using patterned PDPP4T-OH (p-type) and PNDI2T-OH (n-type) thin films exhibited a distinct switching response and a maximum voltage gain of 41.",
+      "evidence": "a complementary-like inverter was successfully constructed by using the patterned thin films of PDPP4T-OH and PNDI2T-OH... the inverter shows a distinct switching response and a maximum gain value of 41.",
+      "complexity": "single-hop",
+      "keywords": [
+        "inverter",
+        "p-type",
+        "n-type",
+        "voltage gain"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Quantitative solubility measurement in THF was performed using UV-vis absorption spectroscopy by creating calibration plots of absorbance versus molar concentration for each polymer.",
+      "evidence": "First, for each polymer five THF solutions at different concentrations were prepared... linear plot that relates the absorbance and molar concentration was obtained for each polymer... the concentration of the diluted solution of each polymer can be deduced accordingly.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "UV-vis spectroscopy",
+        "solubility measurement",
+        "calibration plot"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Hydroxylated polymer semiconductors show good ambient stability, as evidenced by UV-vis absorption spectra of thin films remaining unchanged after three weeks in ambient conditions.",
+      "evidence": "the absorption spectra of thin films of PDPP4T-OH, PDPPTT-OH, PDPP3T-OH, and PNDI2T-OH, which were left in ambient conditions for three weeks, were kept nearly unchanged indicates that these polymer semiconductors with hydroxyl groups in their side chains display good stability.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ambient stability",
+        "shelf life",
+        "UV-vis absorption"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Hydroxylated polymers can be patterned with high resolution, reaching line widths as small as 1.0 μm using standard photolithography and THF as the developer.",
+      "evidence": "striped patterns with a uniform width as small as 1 μm were readily generated as shown in Figure 3e.",
+      "complexity": "single-hop",
+      "keywords": [
+        "resolution",
+        "photolithography",
+        "line width",
+        "patterning"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The ambipolar polymer PDPP3T-OH, when processed with THF, exhibits a hole mobility of 0.52 cm²/Vs and an electron mobility of 0.08 cm²/Vs.",
+      "evidence": "the hole mobilities of PDPP4T-OH, PDPPTT-OH, and PDPP3T-OH, were estimated to be 1.22, 0.44, and 0.52 cm2 V-1 s-1, respectively, and electron mobilities were 0.08 cm2 V-1 s-1 for PDPP3T-OH.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ambipolar",
+        "PDPP3T-OH",
+        "carrier mobility"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 13575,
+    "completion_tokens": 3636,
+    "total_tokens": 17211
+  }
+}

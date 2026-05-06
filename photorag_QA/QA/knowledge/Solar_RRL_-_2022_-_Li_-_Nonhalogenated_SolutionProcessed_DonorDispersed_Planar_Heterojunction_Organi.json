@@ -1,0 +1,141 @@
+{
+  "paper_id": "Solar_RRL_-_2022_-_Li_-_Nonhalogenated_SolutionProcessed_DonorDispersed_Planar_Heterojunction_Organi",
+  "paper_title": "Nonhalogenated Solution-Processed Donor-Dispersed Planar Heterojunction Organic Solar Cells with Enhanced Homogeneity in Vertical Phase Separation",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Solar RRL - 2022 - Li - Nonhalogenated Solution‐Processed Donor‐Dispersed Planar Heterojunction Organic Solar Cells with/auto/Solar RRL - 2022 - Li - Nonhalogenated Solution‐Processed Donor‐Dispersed Planar Heterojunction Organic Solar Cells with.md",
+  "knowledge_points": [
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The donor-dispersed planar heterojunction (DD-PHJ) structure is formed by dispersing a highly crystalline guest donor (BTR-Cl) into the acceptor domain during sequential film deposition.",
+      "evidence": "we propose a conceptual structure through dispersing a highly crystalline donor guest into the acceptor domain with the SD method to obtain improved regulation of nanoscale morphology and phase separation in OPVs prepared with NHS of o-xylene (o-XY).",
+      "complexity": "single-hop",
+      "keywords": [
+        "DD-PHJ",
+        "sequential deposition",
+        "guest donor",
+        "BTR-Cl"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "o-xylene (o-XY) is utilized as a nonhalogenated processing solvent for the DD-PHJ devices due to its moderately high boiling point of approximately 144 °C and sufficient solubility for non-fullerene acceptors.",
+      "evidence": "o-XY was used as the processing solvent that has a moderately high boiling point (≈ 144 °C) and sufficient solubility for NF acceptors.",
+      "complexity": "single-hop",
+      "keywords": [
+        "o-xylene",
+        "nonhalogenated solvent",
+        "NHS",
+        "processing conditions"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The D18-Cl/BTP-eC9:BTR-Cl DD-PHJ device achieved a champion power conversion efficiency (PCE) of 18.21% when processed with o-xylene.",
+      "evidence": "Based on the D18-Cl/BTP-eC9 host, the resultant DD-PHJ device (D18-Cl/BTP-eC9:BTR-Cl) delivers a champion PCE of 18.21% which is among the highest efficiencies obtained on OPVs processed from NHS.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "D18-Cl",
+        "BTP-eC9",
+        "18.21%"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The introduction of BTR-Cl into the PM6/Y7-BO system improves the intermolecular miscibility, with the Flory-Huggins interaction parameter (χ) decreasing from 0.48 (PM6/Y7-BO) to 0.30 (PM6/Y7-BO:BTR-Cl).",
+      "evidence": "The values for PM6/Y7-BO, BTR-Cl/Y7-BO, and PM6/Y7-BO:BTRCl were determined to be 0.48, 0.24, and 0.3, respectively... the intermolecular miscibility between PM6 and the coblend of BTR-Cl:Y7-BO enhances pronouncedly.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Flory-Huggins",
+        "miscibility",
+        "BTR-Cl",
+        "PM6"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Depth-sensitive absorption spectroscopy (DSAS) reveals that the DD-PHJ film has more uniform phase separation and less fluctuation in transport energy levels along the vertical direction compared to binary quasi-planar heterojunctions.",
+      "evidence": "a more uniform phase separation along the direction of film growth is achieved in the PM6/Y7-BO:BTR-Cl-based ternary film. This feature could be in favor of reducing the energetic disorder in the photoactive layer.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "DSAS",
+        "vertical phase separation",
+        "energetic disorder"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis shows that the DD-PHJ film exhibits a longer crystal correlation length (CCL) of 97.95 Å at the (100) lamellar peaks and 26.91 Å at the π-π stacking peaks compared to the binary Q-PHJ.",
+      "evidence": "The DD-PHJ film presents a longer CCL than in the binary Q-PHJ film [97.95 Å for DD-PHJ and 91.60 Å for binary Q-PHJ at the (100) lamellar peaks... 26.91 Å for DD-PHJ and 25.23 Å for binary Q-PHJ at the π-π stacking peaks].",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "CCL",
+        "crystallinity",
+        "molecular stacking"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The DD-PHJ architecture suppresses non-radiative recombination loss (ΔE3), reducing it from 0.223 eV in the PM6/Y7-BO binary device to 0.220 eV in the ternary DD-PHJ device.",
+      "evidence": "The PM6/Y7-BO-based Q-PHJ device exhibits an EQEEL of 1.86 × 10−4, corresponding to ΔE3 of 0.223 eV. By comparison, the PM6/Y7-BO:BTR-Cl-based ternary device produces a higher EQEEL (2.29 × 10−4), leading to lowering the ΔE3 to 0.220 eV.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "non-radiative recombination",
+        "voltage loss",
+        "EQEEL",
+        "energy loss"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "In DD-PHJ devices, charge transport is more balanced, with electron mobility (μe) and hole mobility (μh) reaching 6.20 × 10^−4 and 5.51 × 10^−4 cm^2 V^−1 s^−1 respectively, yielding a μe/μh ratio of 1.13.",
+      "evidence": "the transport of the two carriers in the presence of BTR-Cl becomes more balanced with the μe/μh value reaching 1.13 (vs a μe/μh ratio of 2.16 in the binary Q-PHJ film).",
+      "complexity": "single-hop",
+      "keywords": [
+        "carrier mobility",
+        "balanced transport",
+        "SCLC"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Transient absorption spectroscopy (TAS) indicates that the hole transfer time from Y7-BO to PM6 is reduced from approximately 32 ps in the binary film to 15 ps in the DD-PHJ film.",
+      "evidence": "the characteristic TAS decay time (τTAS) of the binary PM6/Y7-BO Q-PHJ film was estimated to be ≈ 32 ps, whereas the ternary DD-PHJ film exhibited a shorter τTAS of ≈ 15 ps. This contrast indicates that the hole transfer occurs more rapidly.",
+      "complexity": "single-hop",
+      "keywords": [
+        "TAS",
+        "hole transfer",
+        "charge kinetics",
+        "Y7-BO"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The introduction of the BTR-Cl guest donor improves the thermal stability of PM6/Y7-BO devices, showing a retarded efficiency drop after 100 hours of aging at 60 °C.",
+      "evidence": "after ≈ 100 h of thermal aging, a retardation on the efficiency drops was found in the DD-PHJ device while the control cell displayed a faster PCE decay.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "aging",
+        "PCE decay"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "BTR-Cl is selected as the guest donor because it is a liquid crystal small molecule with high crystallinity and strong intermolecular interactions, which helps maintain long-range directional order.",
+      "evidence": "Given that the liquid crystal small-molecule donor (BTR-Cl) has the properties of high crystallinity with good solubility in common nonhalogen solvents... usually exhibit strong intermolecular interactions, which is conducive to maintaining long-range directional order.",
+      "complexity": "single-hop",
+      "keywords": [
+        "BTR-Cl",
+        "liquid crystal",
+        "molecular design",
+        "guest donor"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 14175,
+    "completion_tokens": 3225,
+    "total_tokens": 17400
+  }
+}

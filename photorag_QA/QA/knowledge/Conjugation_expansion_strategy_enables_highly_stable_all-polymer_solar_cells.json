@@ -1,0 +1,142 @@
+{
+  "paper_id": "Conjugation_expansion_strategy_enables_highly_stable_all-polymer_solar_cells",
+  "paper_title": "Conjugation expansion strategy enables highly stable all-polymer solar cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Conjugation expansion strategy enables highly stable all-polymer solar cells/auto/Conjugation expansion strategy enables highly stable all-polymer solar cells.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The study utilizes a conjugation expansion strategy by replacing the benzo[1,2-b:4,5-b']dithiophene (BDT) unit in the polymer donor PBDT with a dithieno[2,3-d:2',3'-d']benzo[1,2-b:4,5-b']dithiophene (DTBDT) unit to create the donor PDTBDT.",
+      "evidence": "In this work, we designed and synthesized two polymer donor materials PBDT and PDTBDT with different conjugation ranges... by utilizing BDT and DTBDT units as the electron-donating monomers.",
+      "complexity": "single-hop",
+      "keywords": [
+        "conjugation expansion",
+        "BDT",
+        "DTBDT",
+        "polymer donor"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The all-polymer solar cell based on the PDTBDT:PYF-T-o blend achieved a power conversion efficiency (PCE) of 13.38%, with an open-circuit voltage (Voc) of 0.84 V, a short-circuit current (Jsc) of 24.77 mA/cm², and a fill factor (FF) of 64.52%.",
+      "evidence": "As a result, the PDTBDT:PYF-T-o devices display an outstanding PCE of 13.38%... improved Jsc and FF of 24.77 mA/cm2 and 64.52%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "all-polymer solar cells",
+        "PDTBDT",
+        "PYF-T-o"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Extending the conjugation range in PDTBDT results in a more planar molecular conformation and smaller backbone torsion compared to PBDT, with calculated dihedral angles of 21.90°/8.04°/8.07° versus 23.22°/12.92°/12.51°.",
+      "evidence": "The dihedral angles of two polymer donor backbone chains were calculated to be 23.22°/12.92°/12.51° and 21.90°/8.04°/8.07° for PBDT and PDTBDT, respectively. As a result, PDTBDT with the larger conjugation range delivers more planar molecular conformation and smaller backbone torsion.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "planarity",
+        "dihedral angles",
+        "conjugation range",
+        "molecular backbone"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The HOMO levels of PBDT and PDTBDT were determined to be -5.61 eV and -5.50 eV, respectively, while the LUMO levels were -3.77 eV and -3.67 eV, indicating that the larger conjugation range in PDTBDT leads to a higher HOMO and a narrower bandgap.",
+      "evidence": "The highest occupied molecular orbital (HOMO) levels of PBDT and PDTBDT were determined to be -5.61 and -5.50 eV, while the lowest unoccupied molecular orbital (LUMO) levels of them were calculated to be to be -3.77 and -3.67 eV.",
+      "complexity": "single-hop",
+      "keywords": [
+        "HOMO",
+        "LUMO",
+        "energy levels",
+        "bandgap"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "PDTBDT-based devices exhibit a higher exciton dissociation probability (Pdiss) of 93.6% compared to 87.8% for PBDT-based devices, suggesting more efficient charge generation at the donor/acceptor interface.",
+      "evidence": "As shown in Fig. 2c, the resulting Pdiss of PBDT and PDTBDT based devices are 87.8% and 93.6%, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "exciton dissociation",
+        "Pdiss",
+        "charge generation"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The degree of trap-assisted recombination is lower in PDTBDT-based devices, as evidenced by a Voc versus light intensity slope of 1.14 kT/q, compared to 1.49 kT/q for PBDT-based devices.",
+      "evidence": "As shown in Fig. 2e, the slopes of PDTBDT and PBDT-based devices were 1.14 kT/q and 1.49 kT/q, suggesting relatively less trap-assisted recombination in PDTBDT-based devices.",
+      "complexity": "single-hop",
+      "keywords": [
+        "trap-assisted recombination",
+        "light intensity",
+        "Voc"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "PDTBDT:PYF-T-o blend films show higher and more balanced carrier mobilities, with hole and electron mobilities of 4.62 x 10⁻⁴ and 1.79 x 10⁻⁴ cm² V⁻¹ s⁻¹, respectively, compared to the PBDT:PYF-T-o blend (4.42 x 10⁻⁴ and 0.58 x 10⁻⁴ cm² V⁻¹ s⁻¹).",
+      "evidence": "After blending with PYF-T-o, the μe and μh of devices are 1.79 × 10−4/4.62 × 10−4 and 0.58 × 10−4/4.42 × 10−4... for PDTBDT and PBDT, respectively.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "carrier mobility",
+        "SCLC",
+        "charge transport",
+        "all-PSC"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis reveals that PDTBDT has stronger crystallinity in blend films than PBDT, with a crystalline coherence length (CCL) of the (010) peak in the out-of-plane direction of 20.71 Å compared to 16.49 Å for PBDT.",
+      "evidence": "Furthermore, the crystalline coherence lengths (CCLs) of the (010) peaks in the OOP direction of PBDT and PDTBDT based blending films were calculated to be 16.49 and 20.71 Å (Table S2), implying that PDTBDT has a stronger crystallinity.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "crystalline coherence length",
+        "CCL",
+        "crystallinity"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The optimized active layers for both PBDT and PDTBDT were processed from chloroform solutions with a donor:acceptor ratio of 1:1.6 and 0.5% 1-chloronaphthalene (CN) as a solvent additive.",
+      "evidence": "The optimized preparation conditions were spin coating precursor of two polymer donors and PYF-T-o in chloroform with the same D/A ratio of 1:1.6 and the same additive of 0.5% CN (1-chloronaphthalene).",
+      "complexity": "single-hop",
+      "keywords": [
+        "processing conditions",
+        "chloroform",
+        "1-chloronaphthalene",
+        "D/A ratio"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Unencapsulated PDTBDT:PYF-T-o devices retained 86% of their initial PCE after 500 hours of storage in air, whereas PBDT-based devices showed significantly lower efficiency retention (approximately 65%).",
+      "evidence": "Moreover, the PDTBDT:PYF-T-o device retains 0.86 of the initial PCE after over 500 h in the air atmosphere... while over 65% of beginning efficiency PCE were detected in the air atmosphere devices [for PBDT] after the same time.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "air stability",
+        "shelf life",
+        "moisture tolerance",
+        "PCE retention"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The enhanced stability of PDTBDT-based devices in air is attributed to the donor's strong crystallinity, which creates a denser film that resists moisture and oxygen penetration, as confirmed by TEM images showing preserved network morphology after 500 hours.",
+      "evidence": "The improved stability is attributed to the enhanced moisture and air tolerance of active layer film thanks to the strong crystallinity of the donor material... The blend film of PDTBDT:PYF-To still exhibited a similar network structure... while the PBDT:PYF-To ones showed very inappropriate morphology.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "degradation mechanism",
+        "morphology stability",
+        "crystallinity",
+        "TEM"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 10218,
+    "completion_tokens": 3384,
+    "total_tokens": 13602
+  }
+}

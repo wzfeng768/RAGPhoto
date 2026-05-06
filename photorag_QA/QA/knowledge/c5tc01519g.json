@@ -1,0 +1,132 @@
+{
+  "paper_id": "c5tc01519g",
+  "paper_title": "From non-detectable to decent: replacement of oxygen with sulfur in naphthalene diimide boosts electron transport in organic thin-film transistors (OTFT)",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/c5tc01519g/auto/c5tc01519g.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Thionated naphthalene diimide (NDI) derivatives are synthesized by reacting the parent NDI with Lawesson's reagent (LR) in xylene at 140 °C, where the degree of thionation is controlled by the LR-to-NDI ratio and reaction time.",
+      "evidence": "A solution of Lawesson's reagent... and NDI... in xylene (30 mL) was heated at 140 °C for 2 h under argon... By varying the reaction time and the ratio between LR and NDI, different degrees of thionation as well as different yields of the thionated derivatives were achieved.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thionation",
+        "Lawesson's reagent",
+        "naphthalene diimide",
+        "synthesis"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Successive replacement of oxygen with sulfur in NDI frameworks leads to a significant red-shift in the optical absorption onset, moving from 388 nm for the parent NDI to 571 nm for NDI-3S.",
+      "evidence": "It can be clearly seen that with successive replacement of O with S in the framework of NDI, the absorption peaks of the as-prepared compounds are red-shifted simultaneously from 400 nm to 580 nm... NDI (388 nm) to NDI-3S (571 nm).",
+      "complexity": "single-hop",
+      "keywords": [
+        "red-shift",
+        "UV-vis absorption",
+        "sulfur-substitution",
+        "bandgap"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The electron mobility in NDI-based OTFTs increases dramatically upon thionation, reaching a maximum of 0.01 cm²/V·s for NDI-2S-trans, whereas the parent NDI shows non-detectable mobility under ambient conditions.",
+      "evidence": "The electron mobilities of the as-prepared compounds range from non-detectable (parent NDI), to... 0.01 cm2 V-1 s-1 (NDI-2s-trans) with on/off ratios as high as 4 x 10^5.",
+      "complexity": "single-hop",
+      "keywords": [
+        "electron mobility",
+        "NDI-2S-trans",
+        "n-type",
+        "OTFT"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Thionation lowers the LUMO energy levels of NDI derivatives, with the LUMO shifting from -3.66 eV in the parent NDI to -4.15 eV in NDI-3S, facilitating easier electron injection and improved air stability.",
+      "evidence": "Our studies indicate that more sulfur atoms will result in a more red-shift absorption as well as a lower LUMO and energy gap... LUMO (eV): NDI (3.66), NDI-1S (3.95), NDI-2S-trans (3.98), NDI-2S-cis (4.02), NDI-3S (4.15).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "LUMO level",
+        "energy level engineering",
+        "electron affinity",
+        "thionation"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "NDI-2S-trans exhibits the highest thermal stability among the thionated derivatives with a decomposition temperature of approximately 350 °C, while NDI-3S is the most unstable, decomposing at 250 °C.",
+      "evidence": "Thermogravimetric analysis (TGA) indicated that NDI-2S-trans is the most stable compound decomposing at around 350 °C... NDI-3S is the most unstable compound and decomposes at around 250 °C.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "TGA",
+        "decomposition temperature",
+        "NDI-2S-trans"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Thermal annealing significantly enhances the crystallinity and electron mobility of thionated NDI films, with NDI-2S-trans and NDI-2S-cis reaching their peak performance at an annealing temperature of 140 °C.",
+      "evidence": "At a higher annealing temperature—100 °C or 140 °C, bigger grains with a more ordered film on the OTS/SiO2/Si substrate were investigated... the best mobility for NDI-1S-based devices was 3.0 x 10^-4 cm2 V-1 s-1 at an annealing temperature of 140 °C.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "thermal annealing",
+        "crystallinity",
+        "thin-film morphology",
+        "processing optimization"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Two-dimensional X-ray diffraction (XRD) of S-NDI films reveals an intense reflection peak at 2θ = 4.85°, corresponding to a d-spacing of 1.89 nm, which suggests the molecules are oriented with their long axes at an angle of approximately 55° relative to the substrate.",
+      "evidence": "Only one intense reflection peak at 2θ = 4.85° was observed for all the as-prepared films, corresponding to a d-spacing of 1.89 nm... S-NDI molecules are positioned on the substrate with their long axes inclined at an angle of about 55° onto the substrate.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "XRD",
+        "d-spacing",
+        "molecular orientation",
+        "microstructure"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "NDI-3S demonstrates the best device repeatability and stability under ambient conditions compared to NDI-1S and NDI-2S, attributed to its lower LUMO level (-4.15 eV) which reduces sensitivity to oxygen and moisture.",
+      "evidence": "Because of its lower LUMO energy level, NDI-3S was supposed to be more stable and display good repeatability as the least sensitive to oxygen and moisture. The device has been operated about ten times and no obvious decay was observed in the I-V curves.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "ambient stability",
+        "repeatability",
+        "LUMO level",
+        "NDI-3S"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The OTFTs utilized a bottom-gate top-contact configuration with octadecyltrichlorosilane (OTS)-treated SiO2 (500 nm) as the dielectric and gold (30 nm) as the source/drain electrodes.",
+      "evidence": "An n-type heavily doped Si wafer with a SiO2 layer of 500 nm... used as the gate electrode and dielectric layer... deposited on octadecyltrichlorosilane (OTS)-treated SiO2/Si substrates... Gold source and drain contacts (30 nm in thickness) were deposited... affording a bottom-gate top-contact device configuration.",
+      "complexity": "single-hop",
+      "keywords": [
+        "bottom-gate top-contact",
+        "OTS",
+        "gold electrodes",
+        "device configuration"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Despite attempts to synthesize NDI-4S (full thionation), the reaction stopped at NDI-3S, likely because the low LUMO level of NDI-3S (-4.15 eV) reduces the reactivity of the carbonyl groups toward Lawesson's reagent.",
+      "evidence": "One possible reason is the much lower LUMO (-4.15 eV, Table 1) of NDI-3S; the reactivity of LR is not strong enough to replace the fourth oxygen on NDI-3S.",
+      "complexity": "single-hop",
+      "keywords": [
+        "NDI-3S",
+        "Lawesson's reagent",
+        "reactivity",
+        "LUMO level"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 13582,
+    "completion_tokens": 3198,
+    "total_tokens": 16780
+  }
+}

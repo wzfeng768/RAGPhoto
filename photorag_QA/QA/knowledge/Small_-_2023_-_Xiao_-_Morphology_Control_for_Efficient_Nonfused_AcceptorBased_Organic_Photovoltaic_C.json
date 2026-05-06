@@ -1,0 +1,139 @@
+{
+  "paper_id": "Small_-_2023_-_Xiao_-_Morphology_Control_for_Efficient_Nonfused_AcceptorBased_Organic_Photovoltaic_C",
+  "paper_title": "Morphology Control for Efficient Nonfused Acceptor-Based Organic Photovoltaic Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Small - 2023 - Xiao - Morphology Control for Efficient Nonfused Acceptor‐Based Organic Photovoltaic Cells/auto/Small - 2023 - Xiao - Morphology Control for Efficient Nonfused Acceptor‐Based Organic Photovoltaic Cells.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "ASe-5 is a selenium-containing non-fused electron acceptor (nfEA) designed with a 1,1-dicyanomethylene-3-indanone (IC-2Cl) terminal group to achieve redshifted absorption and reduced energy loss.",
+      "evidence": "we designed and synthesized a Se-containing nfEAs with 1,1-dicyanomethylene-3-indanone (IC-2Cl) as the terminal group, named ASe-5... The results suggest that the incorporation of Se atoms leads to a slight increase in the cost when compared to its thiophene analog A4T-16.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ASe-5",
+        "non-fused electron acceptor",
+        "selenium",
+        "IC-2Cl"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The PBQx-TF:ASe-5-based organic photovoltaic device achieved a power conversion efficiency (PCE) of 14.7%, with an open-circuit voltage (VOC) of 0.836 V, a short-circuit current (JSC) of 23.6 mA/cm², and a fill factor (FF) of 0.744.",
+      "evidence": "the PBQx-TF:ASe-5-based cell exhibits the highest PCE for selenium-containing nfEAs, with a PCE of 14.7% (VOC = 0.836 V; JSC = 23.6 mA cm−2; FF = 0.744).",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "PBQx-TF",
+        "ASe-5",
+        "fill factor"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Selenium-containing non-fused acceptors like ASe-5 exhibit redshifted absorption spectra (optical bandgap of 1.37 eV) and higher carrier mobilities compared to their thiophene-based analogs.",
+      "evidence": "Selenium-containing (Se-containing) nfEAs show redshifted absorption spectra, higher carrier mobilities, and lower nonradiative energy loss compared with their thiophene analogs... the absorption edge of ASe-5 extends to ≈908 nm, indicating an optical bandgap (Eg opt) of 1.37 eV.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "selenium",
+        "redshift",
+        "carrier mobility",
+        "bandgap"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The PBQx-TF:ASe-5 blend shows suppressed trap-assisted recombination compared to PBDB-TF:ASe-5, as evidenced by a lower slope (S') of 1.11 versus 1.19 in the VOC vs. light intensity relationship.",
+      "evidence": "The S' value of the PBDB-TF:ASe-5-based device is 1.19, which is higher than that of the PBQx-TF:ASe-5-based device (1.11), implying that trap-assisted recombination is effectively suppressed in the latter.",
+      "complexity": "single-hop",
+      "keywords": [
+        "trap-assisted recombination",
+        "VOC",
+        "light intensity"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "In situ UV-vis absorption measurements reveal that the aggregation process of ASe-5 takes longer in the PBQx-TF blend (1.34 s) than in the PBDB-TF blend (1.02 s) due to the earlier formation of a polymer network by PBQx-TF.",
+      "evidence": "The duration of the redshift process of the ASe-5 absorption peak in the PBQx-TF:ASe-5 blend is 1.34 s, which is longer than that of the PBDB-TF:ASe-5 blend (1.02 s)... PBQx-TF may form polymer networks earlier in high-temperature toluene solution due to stronger preaggregation.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "in situ UV-vis",
+        "aggregation kinetics",
+        "polymer network",
+        "preaggregation"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Transient absorption (TA) spectroscopy indicates that PBQx-TF:ASe-5 films possess faster hole transfer and a longer charge carrier lifetime (1071 ps) compared to PBDB-TF:ASe-5 (565 ps).",
+      "evidence": "PBQx-TF:ASe-5-based film exhibits a longer lifetime of 1071 ps compared with that of PBDB-TF:ASe-5-based films (565 ps), suggesting a more suppressed charge recombination... confirming its faster hole transfer process.",
+      "complexity": "single-hop",
+      "keywords": [
+        "transient absorption",
+        "hole transfer",
+        "charge recombination",
+        "carrier lifetime"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Electrostatic potential (ESP) calculations show that PBQx-TF has an averaged ESP of 0.029 kcal/mol, which is higher than that of PBDB-TF (-0.315 kcal/mol), resulting in decreased intermolecular electrostatic attraction with ASe-5 (4.54 kcal/mol).",
+      "evidence": "The averaged ESP of PBDB-TF, PBQx-TF, and ASe-5 are -0.315, 0.029, and 4.54 kcal mol−1 respectively. We can speculate that the intermolecular electrostatic attraction between PBQx-TF and ASe-5 is decreased when compared with that in the PBDB-TF:ASe-5 combination.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ESP",
+        "electrostatic potential",
+        "intermolecular attraction"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The selenium-containing acceptor ASe-5 demonstrates good thermal stability with a 5% weight loss temperature (Td) of 363 °C.",
+      "evidence": "Thermogravimetric analysis was applied to evaluate the thermal stability of the ASe-5... the result shows that the thermal degradation temperature at 5% weight loss is 363 °C.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "TGA",
+        "degradation temperature"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "PBQx-TF:ASe-5-based devices processed with the green solvent o-xylene achieved a PCE of 12.2%, with a VOC of 0.830 V and a JSC of 20.3 mA/cm².",
+      "evidence": "The PBQx-TF:ASe-5-based cells using o-xylene achieve a moderate PCE of 12.2% with a VOC of 0.830 V, JSC of 20.3 mA cm−2, and a FF of 0.724.",
+      "complexity": "single-hop",
+      "keywords": [
+        "green solvent",
+        "o-xylene",
+        "PCE"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis shows that both PBDB-TF:ASe-5 and PBQx-TF:ASe-5 blends prefer a face-on orientation, with the PBQx-TF-based blend showing a slightly smaller π-π stacking distance of 3.69 Å.",
+      "evidence": "The GIWAXS results reveal that both blends have an obvious (010) peak in the out-of-plane (OOP) direction, indicating that the face-on molecular orientations are predominant... PBQx-TF:ASe-5-based blend film has a slightly smaller π-π stacking distance of 3.69 Å.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "face-on orientation",
+        "stacking distance"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The material-only cost (MOC) of the non-fused acceptor ASe-5 is estimated at 103.1 $ per gram, which is significantly lower than the cost of the fused-ring acceptor Y6 (146.9 $ per gram).",
+      "evidence": "The MOCs of Y6, A4T-16, and ASe-5 are estimated to be 146.9, 89.3, and 103.1 $ g−1, respectively... the cost of nfEAs (A4T-16 and ASe-5) remains significantly lower than that of fEAs (Y6).",
+      "complexity": "single-hop",
+      "keywords": [
+        "MOC",
+        "material cost",
+        "non-fused acceptor",
+        "Y6"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 14297,
+    "completion_tokens": 3289,
+    "total_tokens": 17586
+  }
+}

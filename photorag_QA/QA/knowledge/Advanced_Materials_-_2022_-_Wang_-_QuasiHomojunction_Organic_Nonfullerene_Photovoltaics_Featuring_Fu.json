@@ -1,0 +1,121 @@
+{
+  "paper_id": "Advanced_Materials_-_2022_-_Wang_-_QuasiHomojunction_Organic_Nonfullerene_Photovoltaics_Featuring_Fu",
+  "paper_title": "Quasi-Homojunction Organic Nonfullerene Photovoltaics Featuring Fundamentals Distinct from Bulk Heterojunctions",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Materials - 2022 - Wang - Quasi‐Homojunction Organic Nonfullerene Photovoltaics Featuring Fundamentals Distinct/auto/Advanced Materials - 2022 - Wang - Quasi‐Homojunction Organic Nonfullerene Photovoltaics Featuring Fundamentals Distinct.md",
+  "knowledge_points": [
+    {
+      "category": "Performance Metrics",
+      "content": "PTB7-Th:Y6 quasi-homojunction (QHJ) devices with donor:acceptor (D:A) ratios of 1:8 and 1:20 achieve 95% and 64% of the power conversion efficiency (PCE) of their bulk heterojunction (BHJ) counterpart (11.0% at 1:1.2 ratio), respectively.",
+      "evidence": "PTB7-Th:Y6 QHJ devices at donor:acceptor (D:A) ratios of 1:8 or 1:20 can achieve 95% or 64% of the efficiency obtained from its BHJ counterpart at the optimal D:A ratio of 1:1.2, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "PTB7-Th",
+        "Y6",
+        "quasi-homojunction",
+        "D:A ratio"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "In PTB7-Th:Y6 QHJ devices, a significant portion of free charge carriers are generated intrinsically within the neat Y6 domains rather than exclusively at the donor/acceptor (D/A) interface.",
+      "evidence": "it is observed that a large portion of free charges can be intrinsically generated in the neat Y6 domains rather than at the D/A interface.",
+      "complexity": "single-hop",
+      "keywords": [
+        "intrinsic charge generation",
+        "Y6",
+        "D/A interface",
+        "free charges"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The nonfullerene acceptor Y6 functions as an ambipolar transport channel in QHJ devices, facilitating both electron and hole transport, with hole transport through the Y6 phase becoming dominant at low donor concentrations.",
+      "evidence": "Y6 also serves as an ambipolar transport channel, so that hole transport as also mainly through Y6 phase. The latter mechanism becomes more dominant when only small quantities of donor are present.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "ambipolar transport",
+        "Y6",
+        "hole transport",
+        "hole mobility"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The neat Y6 film exhibits high ambipolar mobilities, with a hole mobility (μh) of 9.30 × 10⁻⁴ cm² V⁻¹ s⁻¹ and an electron mobility (μe) of 3.04 × 10⁻⁴ cm² V⁻¹ s⁻¹.",
+      "evidence": "Y6 exhibited high ambipolar mobilities with a hole mobility (μh) of 9.30 × 10−4 cm2 V−1 s−1 and electron mobility (μe) of 3.04 × 10−4 cm2 V−1 s−1.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Y6",
+        "hole mobility",
+        "electron mobility",
+        "ambipolar"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "PTB7-Th:Y6 QHJ devices (1:20 ratio) exhibit superior thermal stability compared to BHJ devices (1:1.2 ratio); after 188.4 hours at 85 °C, the QHJ device retained 85.8% of its initial PCE, while the BHJ device dropped to 50%.",
+      "evidence": "The PCE of PTB7-Th:Y6 (1:1.2) gradually dropped to 50% of its original value after 188.4 h thermal treatment... the PCE of the QHJ device with a D:A ratio of 1:20... gradually decreased to 85.8% of its original value after 188.4 h thermal treatment in total.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "thermal stability",
+        "PCE",
+        "degradation",
+        "morphology robustness"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The role of the polymer donor PTB7-Th in QHJ devices shifts from light absorption and exciton splitting to primarily reducing charge recombination and enhancing quadrupolar fields within the Y6 domains.",
+      "evidence": "The key role of PTB7-Th is primarily to reduce charge recombination, likely assisted by enhancing quadrupolar fields within Y6 itself, rather than the previously thought principal roles of light absorption, exciton splitting, and hole transport.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PTB7-Th",
+        "charge recombination",
+        "quadrupolar fields",
+        "exciton splitting"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Resonant soft X-ray scattering (RSoXS) reveals that PTB7-Th:Y6 QHJ films (1:20) possess significantly larger domain sizes (109 nm) compared to BHJ films (21.7 nm) and achieve a higher relative phase purity (1.0 vs 0.63).",
+      "evidence": "The domain size of PTB7-Th:Y6 (21.7 nm) is smaller than that of PM6:Y6 (30.6 nm) at an optimal D:A ratio. The domain sizes of the QHJ samples are obviously increased... 109 and 103 nm for PTB7-Th:Y6 and PM6:Y6 QHJ, respectively... The relative phase purity of the PTB7-Th:Y6 system is improved from 0.63 to 1 as the D:A ratio changes from 1:1.2 to 1:20.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "RSoXS",
+        "domain size",
+        "phase purity",
+        "morphology"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Ultrafast transient absorption (TA) spectroscopy combined with a genetic algorithm shows that the Y6 hybrid exciton-charge diffusion constant is approximately 0.2 × 10⁻² cm² s⁻¹.",
+      "evidence": "With R = 1 nm, we obtain an effective diffusion constant, D = 0.2 × 10−2 cm2 s−1.",
+      "complexity": "single-hop",
+      "keywords": [
+        "transient absorption",
+        "diffusion constant",
+        "exciton diffusion",
+        "Y6"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Unlike PTB7-Th:Y6, PM6:Y6 QHJ devices suffer from a rapid decline in PCE (retaining only 26% of peak efficiency at 1:20 ratio) due to higher monomolecular recombination and poor charge transport caused by well-dispersed PM6 donor molecules in the Y6 phase.",
+      "evidence": "However, for PM6:Y6 devices, the PCE undergoes a faster decline to 26%... indicating that the PM6:Y6 device is much more sensitive to the donor loading... the relative phase purity of the PM6:Y6 system decreases... meaning that the small amount of PM6 is well dispersed in the Y6 phase.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "PM6",
+        "efficiency roll-off",
+        "monomolecular recombination",
+        "phase purity"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 15807,
+    "completion_tokens": 2862,
+    "total_tokens": 18669
+  }
+}

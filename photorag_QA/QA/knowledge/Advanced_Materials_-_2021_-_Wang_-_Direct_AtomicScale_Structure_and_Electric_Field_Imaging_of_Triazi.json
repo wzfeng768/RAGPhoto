@@ -1,0 +1,156 @@
+{
+  "paper_id": "Advanced_Materials_-_2021_-_Wang_-_Direct_AtomicScale_Structure_and_Electric_Field_Imaging_of_Triazi",
+  "paper_title": "Direct Atomic-Scale Structure and Electric Field Imaging of Triazine-Based Crystalline Carbon Nitride",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Materials - 2021 - Wang - Direct Atomic‐Scale Structure and Electric Field Imaging of Triazine‐Based Crystalline/auto/Advanced Materials - 2021 - Wang - Direct Atomic‐Scale Structure and Electric Field Imaging of Triazine‐Based Crystalline.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Poly(triazine imide) (PTI) consists of an infinite 2D network of triazine units connected via imide groups, stacking in an AB sequence to form porous channels along the c-axis with chloride (Cl-) ions occupying the centers.",
+      "evidence": "PTI consists of an infinite 2D network of triazine units connected via imide groups and the layers stack with an AB sequence, forming porous channels along the c axis with Cl- ions positioning centers.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Poly(triazine imide)",
+        "triazine units",
+        "imide groups",
+        "porous channels"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Integrated differential phase contrast (iDPC) STEM provides a contrast that is approximately linear to the atomic number (Z), making it superior to HAADF-STEM for imaging light elements such as lithium (Li) and hydrogen (H) in beam-sensitive materials.",
+      "evidence": "the contrast of integrated differential phase contrast (iDPC) STEM is approximately linear to the local projected electrostatic potential of specimen and therefore roughly proportional to the atomic number Z instead of its square in the high angle annular dark field (HAADF) STEM, which drastically improves the capability in the light-element imaging.",
+      "complexity": "single-hop",
+      "keywords": [
+        "iDPC-STEM",
+        "light-element imaging",
+        "atomic number contrast",
+        "beam-sensitive"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The valence band maximum (VBM) of Poly(triazine imide) is primarily contributed by Cl and N 2p states, while the conduction band minimum (CBM) is composed of hybridized C and N 2p states.",
+      "evidence": "The main contribution of the valence band maximum is from Cl and N 2p states, and the conduction band minimum composes of hybridized C and N 2p states.",
+      "complexity": "single-hop",
+      "keywords": [
+        "valence band maximum",
+        "conduction band minimum",
+        "electronic structure",
+        "DFT"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "DFT calculations reveal three distinct nitrogen sites in PTI: triazine ring nitrogen (N-1), imide nitrogen bound to hydrogen (N-2), and deprotonated imide nitrogen (N-3), where N-1 and N-3 contribute significantly to photoabsorption via states near the VBM.",
+      "evidence": "the N-3 site has a sharp contribution of states just below the valence band maximum in addition to the N-1 site, while there is no apparent contribution from the N-2 site... The contribution of the N-1 and N-3 sites could involve the photoabsorption of PTI crystal.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "nitrogen sites",
+        "photoabsorption",
+        "density of states",
+        "electronic structure"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The built-in electric field formed between lithium (Li) ions and adjacent nitrogen/chlorine atoms in PTI creates an additional delivery path for photogenerated electrons between triazine units, facilitating in-plane carrier migration.",
+      "evidence": "the formation of this built-in electric field between Li and surrounding N not only extends the pi conjugated systems, but also could constitute an additional delivery path of charge carriers between adjacent triazine units, which could facilitate the migration of photogenerated electrons in corrugated layers of PTI.",
+      "complexity": "single-hop",
+      "keywords": [
+        "built-in electric field",
+        "charge carrier migration",
+        "lithium ions",
+        "photocatalysis"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Poly(triazine imide) is synthesized via an ionothermal method at temperatures up to 600 °C using dicyandiamide and a eutectic mixture of lithium chloride (LiCl) and potassium chloride (KCl).",
+      "evidence": "The synthesis of PTI sample followed the reported ionothermal approach with dicyandiamide and a eutectic mixture of lithium chloride and potassium chloride... heated under atmospheric argon pressure... to 400 °C for 12 h... reheated to 600 °C... for 24 h.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ionothermal synthesis",
+        "dicyandiamide",
+        "eutectic mixture",
+        "lithium chloride"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Atomic electric field imaging of PTI reveals that electric field minima occur at nuclear positions (P-sites), hexagon centers of triazine units (S-1 sites), and midpoints of bridged imide groups (S-2 sites) due to the superposition and cancellation of atomic fields.",
+      "evidence": "the sharp minima of projected electric field not only appear at the nuclear positions (P-sites) of atoms, but also could arise from high symmetry points of adjacent atoms... the hexagon centers (S-1 sites) of triazine units and the midpoints (S-2 sites) of bridged imide groups.",
+      "complexity": "single-hop",
+      "keywords": [
+        "atomic electric field",
+        "DPC-STEM",
+        "electric field minima",
+        "symmetry points"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Solid-state 7Li NMR and Li 1s XPS analysis confirm that Li ions in PTI exist in two environments: one bonded to Cl within framework cavities and another intercalated between the layers of triazine rings.",
+      "evidence": "Both NMR and XPS results reveal the existence of intercalated Li ions in-between layers of triazine rings apart from the Li cooperated with Cl in the cavity of PTI structure.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "7Li NMR",
+        "XPS",
+        "lithium intercalation",
+        "triazine rings"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The effective in-plane migration of charge carriers in PTI crystals leads to the {100} side planes being the active facets for photocatalysis rather than the {001} basal planes.",
+      "evidence": "The effective in-plane migration of charge carriers makes the side planes as active facets rather than basal planes for photocatalysis in hexagonal prism PTI crystal, which is a fundamental proof for the reactive facet of {100} planes.",
+      "complexity": "single-hop",
+      "keywords": [
+        "active facets",
+        "photocatalysis",
+        "charge migration",
+        "{100} planes"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Quantitative DPC-STEM simulations show that the internal electric field of triazine rings is partially canceled by intercalated Li ions, matching experimental line profiles more closely than models without intercalated Li.",
+      "evidence": "the line profile of connected triazine rings in simulated electric field strength map with intercalated Li is largely close to the experimental one because the internal electric field of triazine rings could be partially canceled by the electric field of intercalated Li.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "DPC-STEM simulation",
+        "electric field strength",
+        "intercalated lithium",
+        "quantitative comparison"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The synthesized PTI material has a measured composition of 29.1 wt% C, 1.5 wt% H, 50.1 wt% N, 12.7 wt% Cl, and 4.7 wt% Li.",
+      "evidence": "Composition analysis of synthesized PTI sample was carried out... showing C 29.1, H 1.5, N 50.1, Cl 12.7, Li 4.7 (wt %)",
+      "complexity": "single-hop",
+      "keywords": [
+        "elemental composition",
+        "weight percentage",
+        "lithium content",
+        "chlorine content"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The electron beam dose used for DPC-STEM acquisition was approximately 1900 e⁻ Å⁻², with a probe current of 2 pA and a dwell time of 5 µs, to balance signal reliability for electric field mapping with the material's beam sensitivity.",
+      "evidence": "The probe current was 2 pA and the dwell time was 5 µs... The calculated electron dose was around 1900 e- A-2 using the equation: (probe current) × (dwell time)/(pixel size)^2",
+      "complexity": "single-hop",
+      "keywords": [
+        "electron dose",
+        "probe current",
+        "dwell time",
+        "beam sensitivity"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 12073,
+    "completion_tokens": 4247,
+    "total_tokens": 16320
+  }
+}

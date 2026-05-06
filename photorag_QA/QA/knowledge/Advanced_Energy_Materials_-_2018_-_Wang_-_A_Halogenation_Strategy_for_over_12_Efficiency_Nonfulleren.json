@@ -1,0 +1,130 @@
+{
+  "paper_id": "Advanced_Energy_Materials_-_2018_-_Wang_-_A_Halogenation_Strategy_for_over_12_Efficiency_Nonfulleren",
+  "paper_title": "A Halogenation Strategy for over 12% Efficiency Nonfullerene Organic Solar Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Energy Materials - 2018 - Wang - A Halogenation Strategy for over 12  Efficiency Nonfullerene Organic Solar Cells/auto/Advanced Energy Materials - 2018 - Wang - A Halogenation Strategy for over 12  Efficiency Nonfullerene Organic Solar Cells.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Three A-D-A type nonfullerene acceptors (F-F, F-Cl, and F-Br) were synthesized by modifying the FDICTF (F-H) core with halogenated 2-(2,3-dihydro-3-oxo-1H-inden-1-ylidene)propanedinitrile (INCN) end-groups.",
+      "evidence": "Three acceptor-donor-acceptor type nonfullerene acceptors (NFAs), namely, F-F, F-Cl, and F-Br, are designed and synthesized through a halogenation strategy on one successful nonfullerene acceptor FDICTF (F-H).",
+      "complexity": "single-hop",
+      "keywords": [
+        "A-D-A structure",
+        "halogenation",
+        "FDICTF",
+        "INCN end-group"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The organic solar cell based on the PBDB-T:F-Br blend achieved a peak power conversion efficiency (PCE) of 12.05%, with a short-circuit current (Jsc) of 18.22 mA/cm², an open-circuit voltage (Voc) of 0.87 V, and a fill factor (FF) of 0.76.",
+      "evidence": "F-Br-based devices exhibit power conversion efficiencies (PCEs) of ... 12.05% ... Voc [V] 0.87 ... Jsc [mA cm-2] 18.22 ... FF 0.76",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "F-Br",
+        "PBDB-T",
+        "fill factor"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Halogenation of the end-groups results in a red-shift of the absorption spectra and a narrowing of the optical bandgap from 1.63 eV (F-H) to 1.56 eV (F-Br).",
+      "evidence": "optical band gaps (Eg opt), estimated from the absorption edge of F-F, F-Cl, and F-Br, which are 1.59, 1.58, and 1.56 eV, respectively, and slightly narrower than 1.63 eV of F-H material.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "optical bandgap",
+        "red-shift",
+        "halogenation",
+        "absorption"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The LUMO levels of the halogenated NFAs are lower than the parent molecule F-H due to the electron-withdrawing effect of the halogen atoms, with F-Br exhibiting a LUMO of -4.06 eV compared to -3.79 eV for F-H (measured by UPS).",
+      "evidence": "LUMO levels of the three molecules decreased with different degrees, owing to the electron-withdrawing difference of the halogen atoms... The HOMO/LUMO levels of F-H, F-F, F-Cl, and F-Br are -5.42/-3.79, -5.72/-4.13, -5.62/-4.04, and -5.62/-4.06 eV, respectively.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "LUMO level",
+        "electron-withdrawing effect",
+        "UPS",
+        "energy level engineering"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis indicates that the halogenated acceptors (F-F, F-Cl, F-Br) possess higher crystallinity than the amorphous F-H, showing distinct (010) pi-pi stacking peaks in the out-of-plane direction with d-spacings between 3.41 and 3.45 Angstroms.",
+      "evidence": "F-H pure film ... is highly amorphous ... F-F, F-Cl, and F-Br pure films exhibit ... pi-pi stacking (010) diffraction peaks ... at 1.82, 1.84, and 1.83 ... with the d spacing of 3.45, 3.41, and 3.43 Angstroms respectively, implying the increased ordered packing and better crystallization.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "crystallinity",
+        "pi-pi stacking",
+        "d-spacing"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The electron and hole mobilities in the PBDB-T:F-Br blend are 1.48 x 10^-4 and 3.71 x 10^-4 cm² V⁻¹ s⁻¹, respectively, which are an order of magnitude higher than those of the PBDB-T:F-H blend.",
+      "evidence": "hole and electron mobilities of PBDB-T:F-F/F-Cl/F-Br are 3.39 x 10^-4/1.03 x 10^-4, 3.63 x 10^-4/1.15 x 10^-4, 3.71 x 10^-4/1.48 x 10^-4 cm^-2 V^-1 s^-1 ... significantly larger than those of PBDB-T:F-H (3.37 x 10^-5/2.40 x 10^-5 cm^-2 V^-1 s^-1).",
+      "complexity": "single-hop",
+      "keywords": [
+        "carrier mobility",
+        "SCLC",
+        "charge transport",
+        "F-Br"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The recombination parameter (alpha) derived from light-intensity dependence of Jsc is 0.996 for F-Br based devices, indicating that halogenation effectively suppresses bimolecular recombination compared to F-H (alpha = 0.957).",
+      "evidence": "the values of alpha are 0.957, 0.979, 0.989, and 0.996 with the F-H, F-F, F-Cl, and F-Br as the acceptors ... implying that less bimolecular recombination occurred in the optimized devices.",
+      "complexity": "single-hop",
+      "keywords": [
+        "bimolecular recombination",
+        "light-intensity dependence",
+        "Jsc"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Optimized OSC devices were fabricated using a 1:1 or 1:1.2 donor:acceptor ratio in chlorobenzene with 0.1% to 0.3% 1,8-diiodooctane (DIO) as a solvent additive.",
+      "evidence": "The optimized D/A weight ratios for PBDB-T:F-F/F-Cl/F-Br are 1:1.2, 1:1, and 1:1 ... casted from chlorobenzene with 0.3%/0.1%/0.3% 1,8-Diiodooctane (DIO) showed best PCEs.",
+      "complexity": "single-hop",
+      "keywords": [
+        "solvent additive",
+        "DIO",
+        "chlorobenzene",
+        "device optimization"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "TEM imaging reveals that the addition of Cl and Br halogen atoms facilitates the formation of clear bicontinuous interpenetrating fibrillar networks in the blend films, which enhances exciton dissociation and charge transport.",
+      "evidence": "In the TEM images ... clear bicontinuous interpenetrating networks were observed in the F-Cl and F-Br films. These are favorable for exciton dissociation and charge transport, and thus result in high FFs.",
+      "complexity": "single-hop",
+      "keywords": [
+        "TEM",
+        "morphology",
+        "bicontinuous network",
+        "fibrillar network"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The halogenated NFA-based devices demonstrate improved shelf-stability compared to the F-H parent, with F-F, F-Cl, and F-Br based devices retaining over 70% of their initial PCE after 10 days of storage without encapsulation.",
+      "evidence": "after 10 d, the PCEs of F-H/F-F/F-Cl/F-Br based devices remain 68%/78%/73%/71% of their initial values, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "stability",
+        "shelf-life",
+        "degradation"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 10803,
+    "completion_tokens": 4733,
+    "total_tokens": 15536
+  }
+}

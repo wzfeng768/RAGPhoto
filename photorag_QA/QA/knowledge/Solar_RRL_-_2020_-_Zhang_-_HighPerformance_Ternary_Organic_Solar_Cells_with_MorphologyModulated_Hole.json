@@ -1,0 +1,132 @@
+{
+  "paper_id": "Solar_RRL_-_2020_-_Zhang_-_HighPerformance_Ternary_Organic_Solar_Cells_with_MorphologyModulated_Hole",
+  "paper_title": "High-Performance Ternary Organic Solar Cells with Morphology-Modulated Hole Transfer and Improved Ultraviolet Photostability",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Solar RRL - 2020 - Zhang - High‐Performance Ternary Organic Solar Cells with Morphology‐Modulated Hole Transfer and/auto/Solar RRL - 2020 - Zhang - High‐Performance Ternary Organic Solar Cells with Morphology‐Modulated Hole Transfer and.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The study utilizes a ternary bulk-heterojunction (BHJ) blend consisting of the polymer donor PBDB-T-2F (PM6), the non-fullerene acceptor BTP-4Cl, and the amorphous fullerene derivative ICBA as a guest acceptor.",
+      "evidence": "In this work, we use the amorphous ICBA as the guest acceptor to simultaneously strengthen the device performance and UV durability of host binary system based on a polymer donor PBDB-T-2F (PM6) and a nonfullerene acceptor BTP-4Cl.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PM6",
+        "BTP-4Cl",
+        "ICBA",
+        "ternary organic solar cells"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The optimized ternary PM6:BTP-4Cl:ICBA (1:1:0.2 weight ratio) organic solar cell achieves a maximum power conversion efficiency (PCE) of 16.76%, which is an improvement over the 15.98% PCE of the binary PM6:BTP-4Cl control device.",
+      "evidence": "The best-performing binary PM6:BTP-4Cl control device shows a promising PCE of 15.98%... The maximum PCE turns out to be 16.76% for the optimized ternary PM6:BTP-4Cl:ICBA (1:1:0.2, wt/wt) device.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "16.76%",
+        "ternary OSC",
+        "PM6:BTP-4Cl:ICBA"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The addition of ICBA to the PM6:BTP-4Cl system increases the open-circuit voltage (Voc) from 0.868 V to 0.876 V, attributed to the higher-lying lowest unoccupied molecular orbital (LUMO) energy level of ICBA compared to BTP-4Cl.",
+      "evidence": "The slightly enlarged Voc values can be attributed to the up-shifted lowest unoccupied molecular orbital energy level of ICBA with respect to that of BTP-4Cl.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Voc",
+        "LUMO",
+        "energy level engineering",
+        "ICBA"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The ternary system exhibits Förster resonance energy transfer (FRET) from ICBA to BTP-4Cl, evidenced by the significant overlap between ICBA's photoluminescence spectrum and BTP-4Cl's absorption spectrum.",
+      "evidence": "Figure 5e exhibits a significant overlap between the normalized absorption spectra of BTP-4Cl and PL spectra of ICBA, demonstrating the potential existence of FRET in theory... The increased PL intensity at 950 nm and lifetime probed at 895 nm of these blends certify the appearance of FRET from ICBA to BTP-4Cl.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "FRET",
+        "energy transfer",
+        "ICBA",
+        "BTP-4Cl"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "ICBA acts as a morphology regulator that facilitates faster hole transfer from the BTP-4Cl acceptor to the PM6 donor, as confirmed by femtosecond transient absorption (TA) spectroscopy.",
+      "evidence": "The ternary PM6:BTP-4Cl:ICBA (1:1:0.2, wt/wt) film presents the faster rising trace than that of binary PM6:BTP-4Cl blend, indicating that ICBA as a morphology regulator can facilitate the faster and more efficient hole transfer from host BTP-4Cl acceptor to PM6 donor.",
+      "complexity": "single-hop",
+      "keywords": [
+        "hole transfer",
+        "transient absorption",
+        "BTP-4Cl",
+        "PM6"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Grazing incidence wide-angle X-ray scattering (GIWAXS) analysis shows that incorporating 20 wt% ICBA increases the crystalline coherence length (CCL) of the blend from 2.63 nm to 2.81 nm, indicating improved molecular packing.",
+      "evidence": "With loading 10 and 20 wt% ICBA into host binary blend, the monotonously enhanced π-π stacking features are observed... further confirmed by the slightly increased CCL (2.71 nm for 10 wt% ICBA and 2.81 nm for 20 wt% ICBA) relative to that of binary PM6:BTP-4Cl film (2.63 nm).",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "CCL",
+        "crystallinity",
+        "molecular packing"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The charge carrier mobilities in the optimized ternary device (20 wt% ICBA) are more balanced compared to the binary device, with a hole-to-electron mobility ratio (μh/μe) of 1.08 versus 1.14.",
+      "evidence": "For the ternary PM6:BTP-4Cl: ICBA (1:1:0.2, wt/wt) devices, the corresponding μh and μe are slightly increased to 3.25 × 10−4 and 3.02 × 10−4 cm2 V−1 s−1 respectively, which leads to a lower μh/μe ratio of 1.08.",
+      "complexity": "single-hop",
+      "keywords": [
+        "carrier mobility",
+        "SCLC",
+        "charge balance",
+        "μh/μe"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Grazing incidence small-angle X-ray scattering (GISAXS) using the Fractal model reveals that adding 20 wt% ICBA reduces the fractal dimension (D) of acceptor domains from 2.17 to 2.15, suggesting a looser packing that promotes exciton dissociation.",
+      "evidence": "Impressively, the fractal dimension of BTP-4Cl domains slightly reduces from 2.17 to 2.15 after loading 20 wt% ICBA into host binary blend, revealing the acceptor packing networks become looser. Significantly, the looser packing state can yield more donor/acceptor interfaces to promote the effective exciton dissociation.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "GISAXS",
+        "Fractal model",
+        "fractal dimension",
+        "exciton dissociation"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The ternary PM6:BTP-4Cl:ICBA (1:1:0.2) devices demonstrate superior ultraviolet (UV) photostability, retaining approximately 60% of their initial PCE after accelerated aging under 365 nm UV LEDs, compared to only 45% retention for binary control devices.",
+      "evidence": "The binary PM6:BTP-4Cl control devices suffer from the fast degradation and retain about 45% of the initial PCE. As for the ternary PM6:BTP-4Cl:ICBA (1:1:0.2, wt/wt) OSCs... their corresponding PCEs are down to around 60% of the original values.",
+      "complexity": "single-hop",
+      "keywords": [
+        "UV photostability",
+        "degradation",
+        "ICBA",
+        "device lifetime"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Higher loadings of ICBA (30–50 wt%) in the PM6:BTP-4Cl system lead to reduced device performance (PCE of 15.78% at 30 wt% ICBA) due to the disruption of the bicontinuous interpenetrating network and unbalanced charge transport.",
+      "evidence": "When the ICBA content is further increased to 30 wt% the resulting ternary OSC shows an inferior PCE of 15.78%... The result suggests that introducing higher contents of 30-50 wt% of ICBA can destroy the bicontinuous interpenetrating network of host PM6:BTP-4Cl blend.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "optimization",
+        "ICBA content",
+        "morphology disruption",
+        "ternary blend"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 13836,
+    "completion_tokens": 3341,
+    "total_tokens": 17177
+  }
+}

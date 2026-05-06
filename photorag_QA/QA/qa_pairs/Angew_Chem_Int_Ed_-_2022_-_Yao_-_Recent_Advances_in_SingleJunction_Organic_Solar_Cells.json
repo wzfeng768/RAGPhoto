@@ -1,0 +1,75 @@
+{
+  "paper_id": "Angew_Chem_Int_Ed_-_2022_-_Yao_-_Recent_Advances_in_SingleJunction_Organic_Solar_Cells",
+  "paper_title": "Recent Advances in Single-Junction Organic Solar Cells",
+  "qa_pairs": [
+    {
+      "question": "What is the current state-of-the-art power conversion efficiency (PCE) for single-junction organic solar cells under standard AM 1.5G conditions?",
+      "answer": "Current cutting-edge single-junction organic solar cells (OSCs) have achieved power conversion efficiencies (PCE) of approximately 19% under standard one-sun (AM 1.5G) conditions.",
+      "category": "Performance Metrics",
+      "source_title": "Recent Advances in Single-Junction Organic Solar Cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How can the Intramolecular Charge Transfer (ICT) effect be enhanced in Acceptor-Donor-Acceptor (A-D-A) non-fullerene acceptors?",
+      "answer": "The ICT effect in A-D-A type non-fullerene acceptors can be enhanced by introducing halogen atoms, such as fluorine or chlorine, into the terminal groups of the molecule, or by incorporating oxygen atoms into the donor core of the structure.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Recent Advances in Single-Junction Organic Solar Cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Explain how alkyl chain engineering in the Y6-type acceptor L8-BO influences the structural order and efficiency of organic solar cells.",
+      "answer": "In Y6-type acceptors, replacing linear alkyl chains with branched ones (specifically 2-BO chains in L8-BO) decreases the void sizes within the single crystals. This reduction in voids enhances the structural order and facilitates more efficient charge transport, leading to a high power conversion efficiency of 18.32%.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Recent Advances in Single-Junction Organic Solar Cells",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Compare the energy loss (Eloss) of fullerene-based organic solar cells to Y6-based systems and identify the physical mechanisms responsible for the improvement in Y6.",
+      "answer": "Fullerene-based organic solar cells typically exhibit an energy loss (Eloss) of approximately 0.8 eV, whereas Y6-based systems have reduced this loss to 0.5–0.6 eV. This improvement is primarily attributed to the high electroluminescence quantum efficiency (often exceeding 10^-4) of Y6-based devices, which results in lower non-radiative recombination losses.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Recent Advances in Single-Junction Organic Solar Cells",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What is the trade-off involved in increasing the Molecular Electrostatic Potential (ESP) difference between donor and acceptor materials?",
+      "answer": "A higher ESP difference between the donor and acceptor can increase the charge transfer (CT) ratio through hybridization with local exciton states. However, this often comes at the cost of a decrease in the calculated oscillator strength and the measured electroluminescence quantum efficiency (EQE_EL), which can increase non-radiative losses.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Recent Advances in Single-Junction Organic Solar Cells",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Why is the temperature-dependent pre-aggregation effect of polymer donors like PBDB-T significant for active layer morphology?",
+      "answer": "The pre-aggregation effect allows the polymer donor to form structured domains in solution before film formation. When blended with non-fullerene acceptors (NFAs), this effect provides a mechanism to control the growth and crystallization of the NFAs, leading to an optimal blend morphology characterized by high phase purity.",
+      "category": "Processing & Fabrication",
+      "source_title": "Recent Advances in Single-Junction Organic Solar Cells",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Describe the 'polymerizing small-molecule acceptor' (PSMA) strategy and its impact on the optical properties of the polymer acceptor PZ1.",
+      "answer": "The PSMA strategy involves using small-molecule acceptors (like IDIC-C16) with brominated terminal groups to serve as monomers for Stille polymerization. In the case of the polymer acceptor PZ1, this strategy resulted in a 50 nm red-shift in the absorption spectrum compared to its small-molecule precursor IDIC-C16.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Recent Advances in Single-Junction Organic Solar Cells",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Why is solvent vapor annealing (SVA) typically necessary for all-small-molecule organic solar cells compared to polymer-based systems?",
+      "answer": "Small molecules generally possess higher crystallinity and faster film-forming rates than polymers, which can lead to suboptimal morphology during initial deposition. SVA is required to refine the phase separation and establish a bicontinuous charge transport network necessary for efficient device operation.",
+      "category": "Processing & Fabrication",
+      "source_title": "Recent Advances in Single-Junction Organic Solar Cells",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2801,
+    "completion_tokens": 3044,
+    "total_tokens": 5845
+  }
+}

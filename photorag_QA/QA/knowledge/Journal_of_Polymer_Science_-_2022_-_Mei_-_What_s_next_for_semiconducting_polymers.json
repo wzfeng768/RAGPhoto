@@ -1,0 +1,156 @@
+{
+  "paper_id": "Journal_of_Polymer_Science_-_2022_-_Mei_-_What_s_next_for_semiconducting_polymers",
+  "paper_title": "What's next for semiconducting polymers",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Journal of Polymer Science - 2022 - Mei - What s next for semiconducting polymers/auto/Journal of Polymer Science - 2022 - Mei - What s next for semiconducting polymers.md",
+  "knowledge_points": [
+    {
+      "category": "Performance Metrics",
+      "content": "The power conversion efficiency (PCE) of single-layered polymer solar cells based on the PM6 semiconducting polymer and Y6 non-fullerene acceptor reached 18% by the year 2021.",
+      "evidence": "The latest development based on PM6 semiconducting polymers and Y6 nonfullerene acceptors offers PCEs of 18% for single-layered solar cells.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "PM6",
+        "Y6",
+        "organic solar cells"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Direct arylation polymerization (DArP) offers a more sustainable synthesis route for semiconducting polymers by using metal-catalyzed C-H activation, thereby avoiding toxic transmetallation reagents like organostannane and organoboron used in Stille and Suzuki methods.",
+      "evidence": "By circumventing monomer, functionalization with toxic transmetallation reagents such as organostannane and organoboron required for Stille-Migita and SuzukiMiyaura polymerization methods, DArP proceeds through a metal-catalyzed C-H activation pathway.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DArP",
+        "C-H activation",
+        "sustainable synthesis",
+        "polymerization"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Lactam-based moieties serve as critical electron-accepting building blocks in donor-acceptor polymers, with prominent examples including diketopyrrolo[3,4-c]pyrrole (DPP), naphthalene diimide (NDI), isoindigo (IID), 2,2-bithiophene-3,3-dicarboximide (BTI), and thieno[3,4-c]pyrrole-4,6-dione (TPD).",
+      "evidence": "Lactams are a key moiety in many leading electron acceptors in donor-acceptor semiconducting polymers, such as diketopyrrolo[3,4-c]pyrrole (DPP), naphthalene diimide (NDI), isoindigo (IID), 2,2-bithiophene-3,3-dicarboximide (BTI), and thieno[3,4-c]pyrrole-4,6-dione (TPD).",
+      "complexity": "single-hop",
+      "keywords": [
+        "lactams",
+        "DPP",
+        "NDI",
+        "electron acceptors"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The introduction of conjugation break spacers (CBS) into the backbone of n-type naphthalene diimide-based (PNDI) polymers significantly reduces chain rigidity, melting points, and glass transition temperatures.",
+      "evidence": "It is found that CBS can significantly reduce chain rigidity, melting point, as well as glass transition temperature... for a series n-type naphthalene diimide-based (PNDI) conjugated polymer.",
+      "complexity": "single-hop",
+      "keywords": [
+        "conjugation break spacers",
+        "PNDI",
+        "chain rigidity",
+        "thermal properties"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Photonic field-effect transistor (FET) memory devices utilizing PFO-block-POXD conjugated block copolymers can achieve a high memory ratio (ION/IOFF) of approximately 10^5 with data retention stability demonstrated up to 10^4 seconds.",
+      "evidence": "By optimizing the POXD content in the block copolymer, a memory ratio (ION/IOFF) of ~10^5 was achieved after 10^4 s, indicating its superior long-term stability and data discernibility.",
+      "complexity": "single-hop",
+      "keywords": [
+        "photonic FET",
+        "memory ratio",
+        "PFO-block-POXD",
+        "stability"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Incorporating coumarin groups into the side chains of diketopyrrolo[3,4-c]pyrrole (DPP)-based polymers confers both self-healing capabilities and improved thermal stability to the material.",
+      "evidence": "Zhang et al. present the use of coumarin groups in the side chains to render healing ability and thermal stability to DPP-based semiconducting polymers.",
+      "complexity": "single-hop",
+      "keywords": [
+        "coumarin",
+        "DPP",
+        "self-healing",
+        "thermal stability"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "In mixed ionic-electronic conductors, a threshold of approximately 40% polar side-chains is required to transition the film morphology from an interfacially gated electrolyte to an electrolyte-swelled state.",
+      "evidence": "Their simulations recapitulate the nonlinear progression of the morphology from an interfacially gated electrolyte... to an electrolyteswelled morphology after crossing a threshold of approximately 40% polar side-chains.",
+      "complexity": "single-hop",
+      "keywords": [
+        "mixed conductors",
+        "side chains",
+        "morphology",
+        "electrolyte swelling"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Covalent modification of EDOT with a 15-crown-5 moiety (PEDOT-Crown) improves adhesion to ITO-coated glass and results in more Faradaic rather than capacitive electrochemical behavior compared to standard PEDOT.",
+      "evidence": "Nielsen et al. demonstrate a novel polymerbased on covalently modified EDOT (PEDOT-Crown)... PEDOT-Crown has a wealth of advantageous properties including superior adhesion to ITO... and more Faradaic rather than capacitive behavior.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PEDOT-Crown",
+        "adhesion",
+        "Faradaic behavior",
+        "EDOT"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The structural nature of counterions (anions) in doped regioregular and regiorandom P3HT significantly affects the polaron absorbance, oxidation potential, and ionization energy of the polymer.",
+      "evidence": "The authors investigate how counterion structures impact the electrochemical doping ability, oxidation potential, ionization energy, and polaron absorbance of regioregular (rr) and regiorandom (rra) P3HT.",
+      "complexity": "single-hop",
+      "keywords": [
+        "P3HT",
+        "counterion",
+        "doping",
+        "polaron absorbance"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "3D printing of conjugated polymers can be achieved through three primary extrusion processes: direct ink write (DIW), meniscus-guided printing, and electrohydrodynamic printing.",
+      "evidence": "It summarizes progress in the emerging field of 3D printed semiconducting polymers using three extrusion-printing processes: direct ink write, meniscus-guided printing, and electrohydrodynamic printing.",
+      "complexity": "single-hop",
+      "keywords": [
+        "3D printing",
+        "direct ink write",
+        "extrusion",
+        "processing"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Large-scale atomistic molecular dynamics simulations reveal that increasing the length of alkyl segments in conjugation break spacers (CBS) within a DPP polymer backbone leads to more flexible, compact, and mobile polymer chains with lower glass transition temperatures.",
+      "evidence": "They discover that longer alkyl segments lead to polymer chains that are more flexible, compact, and mobile, with lower glass transition temperatures for the condensed phase.",
+      "complexity": "single-hop",
+      "keywords": [
+        "molecular dynamics",
+        "CBS",
+        "DPP",
+        "glass transition"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The commercialization of polymer-based flexible electronics faces significant hurdles including batch-to-batch variation, lack of precise charge transport models for circuit simulation, and a limited understanding of polymer degradation and device failure modes.",
+      "evidence": "The authors point out a few hurdles to overcome... the lack of a precise and universal charge transport model... the lack of reproducibility, as well as batch-to-batch variation... a better understanding of polymer degradation and device failure modes is of necessity.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "commercialization",
+        "reproducibility",
+        "charge transport model",
+        "degradation"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 3915,
+    "completion_tokens": 3220,
+    "total_tokens": 7135
+  }
+}

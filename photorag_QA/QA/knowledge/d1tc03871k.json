@@ -1,0 +1,153 @@
+{
+  "paper_id": "d1tc03871k",
+  "paper_title": "An S-shaped thienoacene semiconductor forming unique cruciform lamellar packing via a 2D interaction network of π-stacking and chalcogen bonding",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/d1tc03871k/auto/d1tc03871k.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "S-B2T4 is a crooked thienoacene molecule consisting of four fused thiophene rings and two benzene rings in an S-shaped configuration, functionalized with two terminal octyl chains for improved solubility.",
+      "evidence": "In this study, we designed and synthesized a new crooked thienoacene, S-B2T4 (Fig. 1c), by fusing four thiophene and two benzene rings in an S-shaped configuration and attaching two terminal octyl chains.",
+      "complexity": "single-hop",
+      "keywords": [
+        "S-B2T4",
+        "thienoacene",
+        "molecular design",
+        "octyl chains"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The central thieno[3,2-b]thiophene moiety in S-B2T4 is synthesized through a sequence involving dilithiation with n-BuLi, followed by reaction with elemental sulfur and reduction with copper powder.",
+      "evidence": "Finally, the central thieno[3,2-b]thiophene moiety was constructed via a two-step procedure: dilithiation with n-BuLi, followed by the addition of elemental sulfur, and reduction with Cu powder.",
+      "complexity": "single-hop",
+      "keywords": [
+        "synthesis",
+        "thieno[3,2-b]thiophene",
+        "dilithiation",
+        "elemental sulfur"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Solution-processed thin-film organic field-effect transistors (OFETs) using S-B2T4 achieve a maximum hole mobility of 1.5 cm²/V·s and on/off current ratios between 10^4 and 10^5.",
+      "evidence": "As a result, S-B2T4-based thin-film OFETs exhibited hole mobilities as high as 1.5 cm2 V−1 s−1... on/off current ratios (Ion/Ioff) of 10^4–10^5.",
+      "complexity": "single-hop",
+      "keywords": [
+        "hole mobility",
+        "PCE",
+        "OFET",
+        "on/off ratio"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "S-B2T4 possesses a HOMO energy level of -5.41 eV and an optical energy gap of 3.50 eV, the latter being larger than its linear isomer S-DNTT-n due to the cross-conjugation character of the syn-fused thiophenes.",
+      "evidence": "The highest occupied molecular orbital (HOMO) energy level of S-B2T4 was determined to be -5.41 eV... The optical energy gap (Eg) estimated from the absorption edge in the thin film was 3.50 eV, which is larger than that of S-DNTT-n (3.22–3.23 eV), presumably because of the cross-conjugation character of the S-B2T4 π-core derived from the syn-fused thiophenes.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "HOMO",
+        "optical energy gap",
+        "cross-conjugation",
+        "syn-fused"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "S-B2T4 molecules self-organize into a cruciform lamellar packing arrangement where adjacent molecules are orthogonally positioned, stabilized by sulfur–sulfur (S···S) interactions and π-stacking.",
+      "evidence": "In each lamellar layer, adjacent S-B2T4 molecules are orthogonally arranged to form a cruciform molecular array. The extended 2D interaction network via π-stacking and chalcogen bonding is crucial for stabilizing such molecular packing.",
+      "complexity": "single-hop",
+      "keywords": [
+        "cruciform packing",
+        "S-S interactions",
+        "chalcogen bonding",
+        "π-stacking"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Single-crystal X-ray analysis of S-B2T4 reveals an intermolecular S···S distance of 3.55 Å, which is shorter than the sum of the van der Waals radii (3.60 Å), and a π-stacking distance of 3.47 Å.",
+      "evidence": "The neighboring intermolecular S···S distance is 3.55 Å, which is shorter than the sum of the van der Waals radii (3.60 Å). Meanwhile, π-stackings with a distance of 3.47 Å were observed along the b-axis direction.",
+      "complexity": "single-hop",
+      "keywords": [
+        "X-ray crystallography",
+        "intermolecular distance",
+        "van der Waals radii"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Natural bond orbital (NBO) analysis confirms chalcogen bonding in S-B2T4 through charge-transfer from the sulfur lone-pair orbital (n_s) to the antibonding σ* orbital of S-C bonds, with stabilization energies of 0.28 and 0.51 kcal/mol.",
+      "evidence": "The key NBOs describe the charge-transfer interactions between the lone-pair orbital of the sulfur atom (ns) in molecule A and the antibonding orbital of the S-C bonds (σ*S-C) in molecule B, with stabilization energies of 0.28 and 0.51 kcal mol−1, which are characteristic of typical chalcogen bondings.",
+      "complexity": "single-hop",
+      "keywords": [
+        "NBO analysis",
+        "chalcogen bonding",
+        "charge-transfer",
+        "stabilization energy"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "S-B2T4 exhibits high solubility in toluene (> 5 g/L at 25 °C), which is significantly greater than other six-ring-fused thienoacenes like C10-DNTT (~0.08 g/L at 60 °C), enabling thin-film fabrication via room-temperature dip coating.",
+      "evidence": "The solubility of S-B2T4 was much higher (> 5 g L−1 at 25 °C in toluene) than those of other six-ring-fused thienoacenes such as C10-DNTT (~0.08 g L−1 at 60 °C in toluene)... continuous thin films based on S-B2T4 can be produced by dip coating... at room temperature.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "solubility",
+        "toluene",
+        "dip coating",
+        "thin-film fabrication"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The charge transport in S-B2T4 thin films is nearly isotropic, with hole mobilities of 1.1 cm²/V·s parallel and 1.0 cm²/V·s perpendicular to the sample pulling direction, attributed to the 2D interaction network in the crystalline state.",
+      "evidence": "The hole mobilities were 1.1 and 1.0 cm2 V−1 s−1 for the || and ⊥ directions, respectively... The direction-independent transport behavior could be ascribed to the 2D intermolecular interactions of S-B2T4 in the crystalline state.",
+      "complexity": "single-hop",
+      "keywords": [
+        "charge transport",
+        "anisotropy",
+        "hole mobility",
+        "2D network"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Out-of-plane XRD of dip-coated S-B2T4 films shows a d-spacing of 2.44 nm and intense (00h) peaks, indicating that the molecules adopt an edge-on orientation vertically aligned to the substrate.",
+      "evidence": "The series of intense (00h) diffraction peaks with a d-spacing of 2.44 nm in the XRD pattern indicated that the S-B2T4 molecules are oriented vertically with respect to the substrate... supporting the edge-on molecular orientation on the substrates.",
+      "complexity": "single-hop",
+      "keywords": [
+        "XRD",
+        "d-spacing",
+        "edge-on orientation",
+        "molecular orientation"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "The calculated intermolecular transfer integrals for S-B2T4 are -9 meV along the a-axis (S···S interaction direction) and -29 meV along the b-axis (π-stacking direction).",
+      "evidence": "intermolecular transfer integrals were calculated to be -9 meV along the a-axis (S···S interaction direction) and -29 meV along the b-axis (π-stacking direction).",
+      "complexity": "single-hop",
+      "keywords": [
+        "transfer integrals",
+        "DFT calculations",
+        "charge transport"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "S-B2T4 shows high thermal stability with a 5% weight-loss temperature (Td) of 371 °C measured under nitrogen atmosphere.",
+      "evidence": "Thermogravimetric analysis demonstrated the high thermal stability of S-B2T4, with a 5% weight-loss temperature (Td) of 371 °C under a N2 atmosphere.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "TGA",
+        "Td"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 7217,
+    "completion_tokens": 4582,
+    "total_tokens": 11799
+  }
+}

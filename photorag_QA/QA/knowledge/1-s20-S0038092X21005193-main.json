@@ -1,0 +1,154 @@
+{
+  "paper_id": "1-s20-S0038092X21005193-main",
+  "paper_title": "A scientometric review of trends in solar photovoltaic waste management research",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/1-s2.0-S0038092X21005193-main/auto/1-s2.0-S0038092X21005193-main.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Polymer solar cells are favored in recent research over silicon-based cells because they utilize environmentally harmless materials, are lightweight, and offer mechanical flexibility.",
+      "evidence": "The results revealed that, with a gradual growth in the PV waste management research, performance and efficiency of polymer solar cells have been the centre of recent research due to its light weight, flexibility, environmentally harmless materials and lower cost over the silicon based solar cells.",
+      "complexity": "single-hop",
+      "keywords": [
+        "polymer solar cells",
+        "environmental impact",
+        "silicon-based solar cells",
+        "flexibility"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The global cumulative capacity of installed photovoltaic systems reached approximately 760.4 Gwdc at the end of 2020.",
+      "evidence": "They further reported that, the relative global capacity has cumulatively reached 760,4 Gwdc at the end of 2020 (IEA-PVPS, 2021).",
+      "complexity": "single-hop",
+      "keywords": [
+        "PV capacity",
+        "2020",
+        "global market",
+        "Gwdc"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The projected accumulation of solar photovoltaic panel waste is expected to reach between 60 to 70 million tonnes by the year 2050.",
+      "evidence": "The exponential increase in the PV panel waste is anticipated to reach over 60 to 70 million tonnes by 2050 (Ardente et al., 2019; IRENA and IEA-PVPS, 2016).",
+      "complexity": "single-hop",
+      "keywords": [
+        "PV waste",
+        "2050",
+        "degradation",
+        "end-of-life"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Morphology control in polymer solar cells, specifically for fullerene composites, is commonly achieved through solvent annealing and thermal annealing processes.",
+      "evidence": "Research such as that of Xin et al. (Xin et al., 2010), experimented on bulk heterojunction solar cells through the use of solvent and thermal annealing to vary the morphology of fullerene composites.",
+      "complexity": "single-hop",
+      "keywords": [
+        "solvent annealing",
+        "thermal annealing",
+        "morphology",
+        "fullerene"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The nanostructure of polymer nanowire/fullerene bulk heterojunction systems is a critical determinant of their resulting photovoltaic properties.",
+      "evidence": "Xin et al. (Xin et al., 2010) is the most active citer to cluster #0 with his work on 'polymer nanowire/fullerene bulk heterojunction solar cells: how nanostructure determines photovoltaic properties'.",
+      "complexity": "single-hop",
+      "keywords": [
+        "nanostructure",
+        "polymer nanowire",
+        "bulk heterojunction",
+        "fullerene"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Inverted polymer solar cell architectures are identified as a key research trend for improving the performance and stability of organic photovoltaics.",
+      "evidence": "The most cited paper, Li et al. (Li et al., 2006), looks at efficient inverted polymer solar cells... The same case is recorded in inverted polymer solar cells through the modification of its cells (Cho et al., 2011; Sun et al., 2011).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "inverted polymer solar cells",
+        "device architecture",
+        "stability",
+        "efficiency"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The performance of organic solar cells can be significantly enhanced by utilizing a three-layer device architecture that incorporates a co-deposited mixed layer.",
+      "evidence": "The performance of the organic solar cell, they realised will be greatly improved through the use of a three-layer architecture having a co-deposited mixed layer.",
+      "complexity": "single-hop",
+      "keywords": [
+        "organic solar cells",
+        "three-layer architecture",
+        "mixed layer",
+        "device performance"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The addition of n-dodecylthiol is used as a processing strategy to modify the morphology of P3HT/PCBM (poly(3-hexylthiophene)/[6,6]-phenyl-C61-butyric acid methyl ester) blends.",
+      "evidence": "The most active citer to the cluster is Liu et al. (Liu et al., 2010) on their paper 'the mechanisms for introduction of n-dodecylthiol to modify the P3HT/PCBM morphology'.",
+      "complexity": "single-hop",
+      "keywords": [
+        "n-dodecylthiol",
+        "P3HT/PCBM",
+        "morphology modification",
+        "processing"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Hybrid solar cells can achieve enhanced performance through specific post-synthesis treatments such as acid treatment.",
+      "evidence": "The studies conducted by Zhou et al. (Zhou et al., 2011) describes the enhancement of hybrid solar cells through acid treatment.",
+      "complexity": "single-hop",
+      "keywords": [
+        "hybrid solar cells",
+        "acid treatment",
+        "performance enhancement"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The three critical factors cited for the successful commercialization of polymer solar cells are cost, durability, and power conversion efficiency.",
+      "evidence": "They realised that the cost, durability and efficiency are the critical elements to pivot the success of polymer solar cells.",
+      "complexity": "single-hop",
+      "keywords": [
+        "commercialization",
+        "durability",
+        "efficiency",
+        "cost"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Quantum dot sensitized solar cells are being explored as an alternative technology to increase the performance and efficiency of photovoltaic devices.",
+      "evidence": "An increase in the performance and efficiency of photovoltaics has been recorded through the use of quantum dot sensitized solar cells (Jin et al., 2012; Pan et al., 2012).",
+      "complexity": "single-hop",
+      "keywords": [
+        "quantum dot sensitized solar cells",
+        "efficiency",
+        "photovoltaics"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Traditional thin-film PV modules like Copper Indium Gallium Selenide (CIGS) and Cadmium Telluride (CdTe) contain hazardous heavy metals including Cadmium (Cd) and Lead (Pb).",
+      "evidence": "PV modules contain dangerous materials... Copper Indium Gallium Selenide (CIGS) which contains Cadmium (Cd), Lead (Pb) and Selenide (Se); Cadmium Telluride (CdTe) which contains Cd and Pb.",
+      "complexity": "single-hop",
+      "keywords": [
+        "CIGS",
+        "CdTe",
+        "hazardous materials",
+        "heavy metals"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 13302,
+    "completion_tokens": 2641,
+    "total_tokens": 15943
+  }
+}

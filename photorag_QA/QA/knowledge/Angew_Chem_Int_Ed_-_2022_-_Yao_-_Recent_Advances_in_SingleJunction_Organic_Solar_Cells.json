@@ -1,0 +1,153 @@
+{
+  "paper_id": "Angew_Chem_Int_Ed_-_2022_-_Yao_-_Recent_Advances_in_SingleJunction_Organic_Solar_Cells",
+  "paper_title": "Recent Advances in Single-Junction Organic Solar Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Angew Chem Int Ed - 2022 - Yao - Recent Advances in Single‐Junction Organic Solar Cells/auto/Angew Chem Int Ed - 2022 - Yao - Recent Advances in Single‐Junction Organic Solar Cells.md",
+  "knowledge_points": [
+    {
+      "category": "Performance Metrics",
+      "content": "Single-junction organic solar cells (OSCs) have achieved power conversion efficiencies (PCE) of approximately 19% under standard one-sun conditions (AM 1.5G).",
+      "evidence": "At present, cutting-edge OSC devices can output PCEs of ≈19% under the standard one-sun condition (AM 1.5G)",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "single-junction",
+        "AM 1.5G"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The Intramolecular Charge Transfer (ICT) effect in Acceptor-Donor-Acceptor (A-D-A) non-fullerene acceptors can be enhanced by introducing halogen atoms like fluorine or chlorine into the terminal groups or oxygen atoms into the donor core.",
+      "evidence": "The ICT effect can be enhanced by introducing halogen atoms such as fluorine and chlorine into the terminal groups or by adding oxygen atoms to the donor part.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ICT effect",
+        "A-D-A structure",
+        "halogenation"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "In Y6-type acceptors, replacing linear alkyl chains with branched ones (e.g., L8-BO) can decrease void sizes in single crystals, which enhances structural order and facilitates charge transport, resulting in a PCE of 18.32%.",
+      "evidence": "They found that the use of branched alkyl chains can decrease the void sizes in corresponding single crystals (Figure 2d), enhancing the structural order and facilitating charge transport. As a result, the NFA L8-BO with 2-BO alkyl chains achieved a high PCE of 18.32% in OSCs.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Y6",
+        "L8-BO",
+        "alkyl chain engineering",
+        "charge transport"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Energy loss (Eloss) in organic solar cells has been reduced from approximately 0.8 eV in fullerene-based systems to 0.5–0.6 eV in Y6-based systems, largely due to high electroluminescence quantum efficiency and reduced non-radiative recombination.",
+      "evidence": "the best-performing OSCs based on fullerene derivatives have Eloss of approximately 0.8 eV... The Y6-based devices commonly have Eloss of approximately 0.5-0.6 eV... This decreased Eloss is closely related to its high electroluminescence quantum efficiency (usually >10^-4) and thus low non-radiative recombination loss.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "energy loss",
+        "non-radiative recombination",
+        "Y6",
+        "electroluminescence"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Molecular Electrostatic Potential (ESP) serves as an indicator for π-electron delocalization; a higher ESP difference between the donor and acceptor increases the charge transfer (CT) ratio but can lead to a decrease in electroluminescence quantum efficiency (EQE_EL).",
+      "evidence": "These results suggested that a higher ESP difference between the donor and acceptor will increase the charge transfer (CT) ratio in its hybridization with the local exciton state (Figure 3d). However, at the same time, the calculated oscillator (Figure 3e) and measured electroluminescence quantum efficiency (EQE_EL) suffered a corresponding decrease",
+      "complexity": "multi-hop",
+      "keywords": [
+        "ESP",
+        "charge transfer",
+        "EQE_EL",
+        "non-radiative loss"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Polymer donors such as PBDB-T exhibit a temperature-dependent pre-aggregation effect in solution, which allows for controlled growth of non-fullerene acceptors (NFAs) and results in optimal blend morphology with high phase purity.",
+      "evidence": "The absorption spectrum of PBDB-T in the solution state shows a temperature dependence, suggesting a strong pre-aggregation effect (Figure 4b). When blended with NFAs, the aggregation becomes crucial as it offers an opportunity to control the growth of the NFAs and thus obtain an optimal blend morphology with high phase purity.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PBDB-T",
+        "pre-aggregation",
+        "morphology",
+        "phase purity"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The 'polymerizing small-molecule acceptor' (PSMA) strategy involves using brominated terminal groups on small-molecule acceptors to enable Stille polymerization, creating polymer acceptors like PZ1 with red-shifted absorption.",
+      "evidence": "Zhang and Li et al. developed a molecular strategy for the design of polymer acceptors, i.e., polymerizing small-molecule acceptor (PSMA)... they used brominated terminal groups in IDIC-C16, which provided reaction positions for the Stille polymerization. The resulting polymer PZ1... showed a red-shift in the absorption spectrum of 50 nm compared to that of IDIC-C16.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "PSMA",
+        "polymer acceptor",
+        "Stille polymerization",
+        "PZ1"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "All-small-molecule OSCs often require solvent vapor annealing (SVA) to achieve optimal phase separation and a bicontinuous charge transport network because small molecules have higher crystallinity and faster film-forming rates than polymers.",
+      "evidence": "the morphology control is particularly important because the small molecules usually have higher crystalline properties and a faster film-forming rate compared with the polymers. In addition to routine device optimization methods... solvent vapor annealing is usually necessary to get the optimal phase separation and bicontinuous charge transport network.",
+      "complexity": "single-hop",
+      "keywords": [
+        "all-small-molecule OSC",
+        "solvent vapor annealing",
+        "crystallinity",
+        "morphology"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Low-cost polymer donors can be synthesized using simple units; for example, PTQ10 (composed of thiophene and difluoride quinoxaline) has achieved a high PCE of 18.55%.",
+      "evidence": "Li et al. developed a polymer donor, PTQ10, consisting of two simple units, i.e., thiophene and difluoride quinoxaline, which achieved a very high PCE of 18.55% in a recent report.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PTQ10",
+        "low-cost materials",
+        "simple structure"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Chemical degradation in A-D-A type non-fullerene acceptors can occur via the volume-conserving photo-isomerization of exocyclic vinyl groups.",
+      "evidence": "Li et al. found that the volume-conserving photo-isomerization of exocyclic vinyl groups is one of the main decomposition steps of A-D-A-type NFAs.",
+      "complexity": "single-hop",
+      "keywords": [
+        "stability",
+        "degradation",
+        "photo-isomerization",
+        "vinyl groups"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The morphological instability of Y6-based OSCs is attributed to the high diffusion coefficient of the NFAs, which results from their relatively low glass transition temperatures.",
+      "evidence": "The relatively low glass transition temperatures of Y6-like NFAs result in a high diffusion coefficient, which may be a major cause of their unstable morphology.",
+      "complexity": "single-hop",
+      "keywords": [
+        "morphological stability",
+        "glass transition temperature",
+        "diffusion coefficient",
+        "Y6"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Organic photovoltaic cells optimized for indoor light sources (LEDs or fluorescent lamps) have reached PCEs of 23% for device areas as large as 100 cm².",
+      "evidence": "By designing wide-band gap materials, 100 cm^2 organic photovoltaic cells have obtained a high PCE of 23% (Figure 7e).",
+      "complexity": "single-hop",
+      "keywords": [
+        "indoor photovoltaics",
+        "PCE",
+        "large-area",
+        "wide-band gap"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 14621,
+    "completion_tokens": 3852,
+    "total_tokens": 18473
+  }
+}

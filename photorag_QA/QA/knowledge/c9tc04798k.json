@@ -1,0 +1,141 @@
+{
+  "paper_id": "c9tc04798k",
+  "paper_title": "Enhancing phase separation with a conformationlocked nonfullerene acceptor for over 14.4% efficiency solar cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/c9tc04798k/auto/c9tc04798k.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The molecular design of ITC6-4F incorporates alkyl chains on the central fused-ring core to create a 'conformation lock' via steric hindrance, while fluorination is applied to the end groups to enhance crystallinity.",
+      "evidence": "The steric hindrance in limiting the rotation of single bonds between D and A units results in a locked conformation for ITC6-IC... Fluorination of end-groups enables the FREA to gain a broadened absorption range and enhanced crystallinity.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "ITC6-4F",
+        "conformation lock",
+        "fluorination",
+        "molecular engineering"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Organic solar cells based on the PM7:ITC6-4F blend achieved a peak power conversion efficiency (PCE) of 14.47%, with an open-circuit voltage (Voc) of 0.90 V, a short-circuit current (Jsc) of 21.64 mA cm-2, and a fill factor (FF) of 74.31%.",
+      "evidence": "the optimized devices achieved the best PCE of 14.47%, with an extremely high Jsc of 21.64 mA cm-2 and a Voc of 0.90 V... and a high fill factor of 74.31% for the ITC6-4F based device was achieved.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "PM7",
+        "ITC6-4F",
+        "efficiency"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "ITC6-4F exhibits an upshifted LUMO energy level of -4.03 eV compared to IT-4F (-4.17 eV), which is attributed to the long alkyl modification on the fused-ring core, leading to a higher Voc and reduced energy loss.",
+      "evidence": "the EHOMO/ELUMO values of ITC6-IC, IT-4F and ITC6-4F were thus calculated as -5.73 eV/-3.92 eV, -5.75 eV/-4.17 eV, and -5.77 eV/-4.03 eV... Benefiting from an upshifted LUMO caused by the long alkyl modification on the fused-ring core, an increased Voc... was achieved.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "LUMO",
+        "Voc",
+        "energy level engineering",
+        "alkyl modification"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The molar absorption coefficient of ITC6-4F in chloroform solution is 2.68 x 10^5 M^-1 cm^-1, which is higher than both ITC6-IC (2.34 x 10^5 M^-1 cm^-1) and IT-4F (2.04 x 10^5 M^-1 cm^-1).",
+      "evidence": "Furthermore, ITC6-4F exhibits the highest molar absorption coefficient of 2.68 x 10^5 M-1 cm-1 compared with ITC6-IC (2.34 x 10^5 M-1 cm-1) and IT-4F (2.04 x 10^5 M-1 cm-1).",
+      "complexity": "single-hop",
+      "keywords": [
+        "molar absorption coefficient",
+        "ITC6-4F",
+        "optical properties"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis reveals that ITC6-4F neat films possess a larger crystal coherence length (CCL) of 1.50 nm compared to IT-4F (1.36 nm) and ITC6-IC (1.30 nm), facilitating enhanced charge transport.",
+      "evidence": "However, ITC6-4F film shows a relatively large CCL of 1.50 nm compared to IT-4F film (1.36 nm) and ITC6-IC film (1.30 nm), which can promote the enhancement of charge transport.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "CCL",
+        "crystal coherence length",
+        "crystallinity"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The PM7:ITC6-4F optimized device exhibits balanced charge transport with a hole mobility (µh) of 5.67 x 10^-4 cm^2 V^-1 s^-1 and an electron mobility (µe) of 5.02 x 10^-4 cm^2 V^-1 s^-1, resulting in a µh/µe ratio of 1.13.",
+      "evidence": "PM7/ITC6-4F blend film exhibits increased µh (5.67 x 10-4 cm2 V-1 s-1) and µe (5.02 x 10-4 cm2 V-1 s-1) with a balanced µh/µe of 1.13.",
+      "complexity": "single-hop",
+      "keywords": [
+        "SCLC",
+        "carrier mobility",
+        "charge transport",
+        "balanced mobility"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The optimal morphology for PM7:ITC6-4F devices was achieved using a binary additive mixture of 0.5% chloronaphthalene (CN) and 1,8-diiodooctane (DIO) in a 1:1 volume ratio, followed by thermal annealing at 150 °C for 5 minutes.",
+      "evidence": "When taking a binary additive CN&DIO (VCN : VDIO = 1 : 1) into consideration, the PM7/ ITC6-4F devices processed with 0.5% CN&DIO exhibited a greatly increased PCE of 13.76%. After further thermal annealing at 150 °C for 5 min, the optimized devices achieved the best PCE of 14.47%.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "CN",
+        "DIO",
+        "thermal annealing",
+        "processing additives"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Resonant soft X-ray scattering (RSoXS) measurements indicated that the PM7:ITC6-4F blend film has a phase separation length scale of approximately 46.9 nm.",
+      "evidence": "The RSoXS signal for PM7/ITC6-4F blend film... corresponding to a length scale phase separation at ~46.9 nm.",
+      "complexity": "single-hop",
+      "keywords": [
+        "RSoXS",
+        "phase separation",
+        "domain size"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The PM7:ITC6-4F device demonstrates suppressed trap-assisted recombination, evidenced by a slope (β) of 1.19 kT/q in the Voc versus light intensity relationship, compared to 1.569 kT/q for PM7:ITC6-IC.",
+      "evidence": "The β values for the optimized devices based on PM7/ITC6-IC, PM7/IT-4F, and PM7/ITC6-4F blend films are 1.569 kT/q, 1.372 kT/q; and 1.19 kT/q, respectively... implying suppressed defects or impurities in active layers via fluorination.",
+      "complexity": "single-hop",
+      "keywords": [
+        "trap-assisted recombination",
+        "Voc",
+        "light intensity",
+        "recombination kinetics"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "ITC6-4F demonstrates good thermal stability with a 5% weight loss decomposition temperature (Td) of 363 °C, as determined by thermogravimetric analysis (TGA).",
+      "evidence": "A decomposition temperature (Td, 5% weight loss) of 363 °C was observed, indicating its good thermal stability.",
+      "complexity": "single-hop",
+      "keywords": [
+        "TGA",
+        "thermal stability",
+        "decomposition temperature"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The energy loss (Eloss) for the optimized PM7:ITC6-4F device is 0.62 eV, which is lower than the 0.65 eV observed for the PM7:IT-4F based device.",
+      "evidence": "an increased Voc with a minimized energy loss (Eloss) of 0.62 eV was achieved for the PM7/ITC6-4F based device relative to that of the PM7/IT-4F based device (Eloss = 0.65 eV).",
+      "complexity": "single-hop",
+      "keywords": [
+        "energy loss",
+        "Eloss",
+        "PM7",
+        "ITC6-4F"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 14212,
+    "completion_tokens": 3336,
+    "total_tokens": 17548
+  }
+}

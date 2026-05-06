@@ -1,0 +1,156 @@
+{
+  "paper_id": "Angew_Chem_Int_Ed_-_2018_-_Jiang_-_Hole_Mobility_Modulation_in_SingleCrystal_Metal_Phthalocyanines_b",
+  "paper_title": "Hole Mobility Modulation in Single-Crystal Metal Phthalocyanines by Changing the Metal- $\\nabla \\cdot \\pi - \\pi$ Interactions",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Angew Chem Int Ed - 2018 - Jiang - Hole Mobility Modulation in Single‐Crystal Metal Phthalocyanines by Changing the Metal  /auto/Angew Chem Int Ed - 2018 - Jiang - Hole Mobility Modulation in Single‐Crystal Metal Phthalocyanines by Changing the Metal  .md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "A series of planar metal phthalocyanines (MPcs) including CuPc, CoPc, ZnPc, FePc, NiPc, and MnPc, along with metal-free phthalocyanine ($H_2Pc$), were synthesized as single crystals to study the effect of central metal coordination on electronic properties.",
+      "evidence": "Single crystals of $H_2Pc$, CuPc, CoPc, ZnPc, FePc, NiPc, and MnPc were grown using physical vapor transport method.",
+      "complexity": "single-hop",
+      "keywords": [
+        "metal phthalocyanines",
+        "single crystals",
+        "molecular coordination",
+        "MPcs"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The hole mobility of phthalocyanine single-crystal field-effect transistors follows the order: $ZnPc > MnPc > FePc > CoPc > CuPc > H_2Pc > NiPc$.",
+      "evidence": "Single-crystal field-effect transistors were made and showed a hole mobility order of $ZnPc > MnPc > FePc > CoPc > CuPc > H_2Pc > NiPc$.",
+      "complexity": "single-hop",
+      "keywords": [
+        "hole mobility",
+        "SCFET",
+        "performance ranking",
+        "charge transport"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "All studied metal-free and metal phthalocyanine single crystals exhibit hole transport properties with mobilities exceeding 0.1 $cm^2 V^{-1} s^{-1}$.",
+      "evidence": "The results show that both $H_2Pc$ and MPcs are hole transport properties and the mobilities of both $H_2Pc$ and MPcs are greater than 0.1 $cm^2 V^{-1} s^{-1}$.",
+      "complexity": "single-hop",
+      "keywords": [
+        "hole mobility",
+        "charge transport",
+        "performance metric"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The intermolecular distance ($d_{spacing}$) in phthalocyanine crystals is modulated by the central metal atom, with MnPc showing the minimum distance of 3.1731 Å and NiPc showing the maximum distance of 3.2970 Å.",
+      "evidence": "Thereinto, the maximum $d_{spacing}$ is equal to 3.2970 Å in NiPc while the minimum $d_{spacing}$ is 3.1731 Å in MnPc.",
+      "complexity": "single-hop",
+      "keywords": [
+        "intermolecular distance",
+        "d-spacing",
+        "MnPc",
+        "NiPc"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Hole mobility in metal phthalocyanines increases as the intermolecular distance between parallel planes along the shortest packing axis (b-axis) decreases.",
+      "evidence": "Furthermore, with decreasing of the intermolecular distance of MPcs, the hole mobilities of MPcs are increased gradually with decreasing intermolecular distances",
+      "complexity": "multi-hop",
+      "keywords": [
+        "structure-property relationship",
+        "intermolecular distance",
+        "hole mobility"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "In MnPc and CoPc, the presence of a singly occupied $d_{z^2}$ orbital close to the ligand HOMO facilitates stronger $M \\cdots \\pi(N)$ interactions, which reduces intermolecular distances and enhances charge transfer integrals.",
+      "evidence": "Stronger interactions in both MnPc and CoPc for $M \\cdots \\pi(N)$ type of interaction can be linked to their ground state metal atom d-electron configuration with singly occupied $d_{z^2}$ orbital close to their $a_{1u}$ ligand HOMO.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "dz2 orbital",
+        "MnPc",
+        "CoPc",
+        "charge transfer integral",
+        "M-N interactions"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The preferred crystal growth direction and the primary charge transport direction in phthalocyanine micro-ribbon single crystals is the [010] direction, which corresponds to the shortest crystallographic b-axis.",
+      "evidence": "The corresponding SAEDs reveal that the preferable crystal growth directions of $H_2Pc$ and MPcs are [010], which is precisely the shortest axis (b axis) of the single crystals.",
+      "complexity": "single-hop",
+      "keywords": [
+        "b-axis",
+        "crystal growth",
+        "charge transport direction",
+        "SAED"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Phthalocyanine single crystals ($H_2Pc$ and MPcs) belong to the $P2_1/n$ space group and maintain structural stability without phase transitions between 100 K and room temperature.",
+      "evidence": "The seven crystals ($H_2Pc$, CuPc, CoPc, ZnPc, FePc, NiPc, and MnPc) are of $P2_1/n$ space groups... These results suggest there is no phase transition from low temperature to room temperature for all studied $H_2Pc$ and MPcs systems.",
+      "complexity": "single-hop",
+      "keywords": [
+        "space group",
+        "P21/n",
+        "phase transition",
+        "X-ray diffraction"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Density functional theory (DFT) calculations combined with a 1D polaron transport model qualitatively reproduce the experimental trend of hole mobility in MPcs, identifying the hole transfer integral ($t_h$) as a dominant factor.",
+      "evidence": "Density functional theory (DFT) and 1D polaron transport theory reach a good agreement in reproducing the experimentally measured trend for hole mobility... the role of intermolecular distance becomes critically dependent on the central atoms.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "DFT",
+        "polaron transport model",
+        "hole transfer integral",
+        "computational validation"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Analysis of the Reduced Density Gradient (RDG) and Bond Critical Points (BCP) indicates that MnPc and ZnPc possess the strongest attractive intermolecular interactions among the studied phthalocyanines.",
+      "evidence": "Generally, the interactions energies from BCPs follow the order of $MnPc > ZnPc > CoPc > CuPc > FePc > NiPc > H_2Pc$. ZnPc and MnPc exhibit strongest attractive intermolecular interactions compared to the other.",
+      "complexity": "single-hop",
+      "keywords": [
+        "RDG",
+        "BCP",
+        "intermolecular interactions",
+        "MnPc",
+        "ZnPc"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Single-crystal field-effect transistors were fabricated using a top-contact configuration with gold electrodes on octadecyltrichlorosilane (OTS)-modified $SiO_2/Si$ substrates.",
+      "evidence": "Micro-ribbons single crystals were in situ grown on the octadecyltrichlorosilane (OTS)-modified $SiO_2/Si$ substrate. Then gold electrodes were thermally evaporated on the top surface of single crystals using the copper grid as the mask.",
+      "complexity": "single-hop",
+      "keywords": [
+        "SCFET fabrication",
+        "OTS modification",
+        "top-contact",
+        "gold electrodes"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The central metal atoms in MPcs have a notable impact on hole transfer integrals but a relatively minor impact on hole-vibrational coupling (Huang-Rhys factors), as the molecular geometry remains largely planar across the series.",
+      "evidence": "the role of the central metal atoms may be twofold. In one way, they have a stronger impact towards hole transfer integrals... On the other hand, they can also affect the hole-vibrational coupling... However, metal atoms exhibit less impact towards hole-vibrational coupling.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Huang-Rhys factors",
+        "vibrational coupling",
+        "hole transfer integral",
+        "molecular geometry"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 12483,
+    "completion_tokens": 3073,
+    "total_tokens": 15556
+  }
+}

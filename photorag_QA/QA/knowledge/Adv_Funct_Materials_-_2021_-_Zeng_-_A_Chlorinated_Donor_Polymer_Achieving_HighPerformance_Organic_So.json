@@ -1,0 +1,136 @@
+{
+  "paper_id": "Adv_Funct_Materials_-_2021_-_Zeng_-_A_Chlorinated_Donor_Polymer_Achieving_HighPerformance_Organic_So",
+  "paper_title": "A Chlorinated Donor Polymer Achieving High-Performance Organic Solar Cells with a Wide Range of Polymer Molecular Weight",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Adv Funct Materials - 2021 - Zeng - A Chlorinated Donor Polymer Achieving High‐Performance Organic Solar Cells with a Wide/auto/Adv Funct Materials - 2021 - Zeng - A Chlorinated Donor Polymer Achieving High‐Performance Organic Solar Cells with a Wide.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "D18-Cl is a chlorinated donor polymer designed by replacing the fluorine atoms in the D18 polymer structure with chlorine atoms on the benzodithiophene (BDT) unit.",
+      "evidence": "This polymer is based on the structure of D18 and chlorination strategy is used to replace the fluorine atoms of D18.",
+      "complexity": "single-hop",
+      "keywords": [
+        "D18-Cl",
+        "chlorination strategy",
+        "molecular design"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Ternary organic solar cells using D18-Cl:Y6:PC71BM achieve a peak power conversion efficiency (PCE) of 17.97%, outperforming D18-based devices which reach 17.21%.",
+      "evidence": "the D18-Cl-based devices can realize an excellent power conversion efficiency (PCE) of 17.97%... than those of the D18-based devices (17.21%).",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "ternary OSC",
+        "D18-Cl",
+        "Y6",
+        "PC71BM"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "D18-Cl exhibits a high degree of performance stability across a wide number-averaged molecular weight (Mn) range, maintaining PCEs between 17.30% and 17.97% for Mn values from 45 to 72 kDa.",
+      "evidence": "D18-Cl can achieve high efficiencies (17.30–17.97%) when its number-averaged molecular weight (Mn) is ranged from 45 to 72 kDa. In contrast, the D18-based devices only exhibit relatively high efficiencies in a narrow Mn range of ≈70 kDa.",
+      "complexity": "single-hop",
+      "keywords": [
+        "molecular weight sensitivity",
+        "Mn",
+        "processing window"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Chlorination of the D18 backbone downshifts the HOMO level from -5.44 eV to -5.49 eV, which directly contributes to an increased open-circuit voltage (Voc) of 0.87 V in D18-Cl devices compared to 0.85 V in D18 devices.",
+      "evidence": "the D18-Cl-based devices can achieve a higher open-circuit voltage (VOC) since the chlorine atoms can slightly downshift the highest occupied molecular orbital (HOMO)... the HOMO level of D18-Cl is deeper, it is expected that the D18-Cl can achieve higher VOC.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "HOMO level",
+        "Voc",
+        "chlorination effect"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The molecular weight insensitivity of D18-Cl is attributed to its consistent temperature-dependent aggregation properties across different Mn batches, whereas D18's aggregation behavior varies significantly with molecular weight.",
+      "evidence": "For the D18-Cl, we also compared the temperature-dependent aggregation property... these polymers exhibited a very similar temperature-dependent aggregation property that is independent of their molecular weight. This should be a strong support for its molecular-weight-insensitive performance.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "aggregation",
+        "molecular weight",
+        "temperature-dependent UV-vis"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The synthesis of D18-Cl utilizes the monomer ClBDT-Sn, which features a shorter synthetic route and simpler purification process than the fluorinated FBDT-Sn monomer used for D18, potentially reducing production costs.",
+      "evidence": "one of the monomers of D18-Cl, ClBDT-Sn, has a shorter synthetic procedure than that of D18 (FBDT-Sn), which not only reduces the material costs but also simplifies the purification procedures.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ClBDT-Sn",
+        "synthetic cost",
+        "monomer synthesis"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis indicates that D18-Cl maintains a preferential face-on orientation in blend films with a π–π stacking distance of 3.63 Å and a coherence length of 34.6 Å.",
+      "evidence": "in the blend films, intense (010) peaks located at ≈1.72 Å⁻¹ appear in the out-of-plane direction... the coherence length of (010) peak in the D18-Cl blends (34.6 Å) shows no significant difference compared to that of the D18 blends (36.9 Å).",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "face-on orientation",
+        "pi-pi stacking"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "R-SoXS measurements reveal that D18-Cl blends possess a long period of 38 nm, which is closer to the ideal ~40 nm for optimal OSC operation than the 55 nm observed for D18 blends, explaining the improved short-circuit current (Jsc).",
+      "evidence": "The D18-Cl: Y6: PC71BM blend film shows a... long period [38 nm]... close to the ideal one (≈40 nm) for optimal OSC operation, which likely explains the higher Jsc achieved by D18-Cl based devices.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "R-SoXS",
+        "long period",
+        "phase separation",
+        "Jsc"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "D18-Cl based ternary devices exhibit reduced trap-assisted recombination compared to D18-based devices, evidenced by a lower ideality factor (n) of 1.03 vs 1.06.",
+      "evidence": "The D18-Cl-based devices have a slightly lower n value of 1.03 than that of the D18-based ones (1.06), suggesting weaker trap-assist recombination in the D18-Cl-based devices.",
+      "complexity": "single-hop",
+      "keywords": [
+        "trap-assisted recombination",
+        "ideality factor",
+        "charge recombination"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Thermodynamic analysis using Flory-Huggins parameters (χ) shows that D18-Cl has a much higher χ with PC71BM (0.441) than D18 (0.092), leading to stronger phase separation and higher domain purity.",
+      "evidence": "Flory-Huggins parameters (χ) are accordingly estimated to be 0.441 for D18-Cl:PC71BM [and] 0.092 for D18:PC71BM... implying stronger phase separation between host donor and acceptor. This can be the reason for the larger pure domain of D18-Cl.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Flory-Huggins parameter",
+        "surface tension",
+        "domain purity"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "D18-Cl based devices demonstrate good operational stability, retaining over 90% of their initial PCE after 3 hours of maximum-power-point (MPP) tracking in ambient conditions.",
+      "evidence": "both devices can maintain over 90% of their initial PCEs after 3 h indicating their relatively good long-term operation stability.",
+      "complexity": "single-hop",
+      "keywords": [
+        "operational stability",
+        "MPP tracking",
+        "PCE retention"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 17019,
+    "completion_tokens": 4160,
+    "total_tokens": 21179
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "paper_id": "d0cc01739f",
+  "paper_title": "An asymmetric end-capping strategy enables a new non-fullerene acceptor for organic solar cells with efficiency over 10%",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/d0cc01739f/auto/d0cc01739f.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "IDTBF is an asymmetric non-fullerene acceptor (NFA) designed by connecting two distinct terminal groups, rhodanine-flanked benzo[c][1,2,5]thiadiazole (BR) and 2-(5,6-difluoro-3-oxo-2,3-dihydro-1H-inden-1-ylidene)malononitrile (IM2F), to an indaceno[1,2-b:5,6-b']dithiophene (IDT) core.",
+      "evidence": "Two different terminal groups, rhodanine-flanked benzo[c][1,2,5] thiadiazole (BR) and 2-(5,6-difluoro-3-oxo-2,3-dihydro-1H-inden1-ylidene)malononitrile (IM2F), were connected to an indaceno[1,2- b:5,6-b0 ]dithiophene (IDT) core to construct a new non-fullerene acceptor (IDTBF).",
+      "complexity": "single-hop",
+      "keywords": [
+        "IDTBF",
+        "asymmetric NFA",
+        "terminal groups",
+        "BR",
+        "IM2F"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The synthesis of IDTBF involves a multi-step process including lithium-halogen exchange of di-brominated IDT, aldehyde protection using 1,3-propanediol acetal, Stille coupling with brominated BR, de-protection, and a final Knoevenagel condensation to attach the IM2F group.",
+      "evidence": "The brominated carbaldehyde of IDT (4) was prepared by the lithium–halogen exchange... aldehyde group of intermediate 4 was protected... tin reagent of IDT was subjected to a Pd-catalyzed Stille coupling reaction with brominated BR... Knoevenagel condensation to yield IDTBF.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "synthesis route",
+        "Stille coupling",
+        "Knoevenagel condensation",
+        "protection strategy"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "IDTBF exhibits a significantly red-shifted absorption in thin film (723 nm) compared to its chloroform solution (675 nm), with a broadened absorption band extending from 600 nm to 800 nm, indicating ordered molecular aggregation.",
+      "evidence": "In the thin film (Fig. 1a), not only did the absorption peak notably red-shift from 675 nm to 723 nm, but also a significantly broadened absorption band ranging from ca. 600 nm to 800 nm was observed.",
+      "complexity": "single-hop",
+      "keywords": [
+        "red-shift",
+        "aggregation",
+        "absorption spectrum",
+        "thin film"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The HOMO and LUMO energy levels of the asymmetric acceptor IDTBF are -5.64 eV and -3.80 eV, respectively, providing suitable energy level alignment with the polymer donor PM6.",
+      "evidence": "the HOMO and LUMO energy levels of IDTBF determined by CV were -5.64 eV and -3.80 eV, respectively (Fig. 2).",
+      "complexity": "single-hop",
+      "keywords": [
+        "HOMO",
+        "LUMO",
+        "energy levels",
+        "cyclic voltammetry"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Organic solar cells based on the PM6:IDTBF blend achieved a champion power conversion efficiency (PCE) of 10.43%, with an open-circuit voltage (Voc) of 0.94 V, short-circuit current (Jsc) of 16.98 mA/cm², and a fill factor (FF) of 65.14%.",
+      "evidence": "In the champion device, a high PCE of 10.43% was realized along with a Voc up to 0.94 V, a Jsc of 16.98 mA cm-2 and a FF of 65.14%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "Voc",
+        "Jsc",
+        "fill factor",
+        "PM6"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The PM6:IDTBF device demonstrates balanced charge transport with a hole mobility (μh) of 3.02 × 10⁻⁴ cm² V⁻¹ s⁻¹ and an electron mobility (μe) of 2.53 × 10⁻⁴ cm² V⁻¹ s⁻¹, resulting in a μh/μe ratio of 1.19.",
+      "evidence": "the hole- (μh) and electron- (μe) mobilities of PM6:IDTBF blend are 3.02 × 10-4 and 2.53 × 10-4 cm2 V-1 s-1, respectively. The well-balanced μh/μe value (1.19)...",
+      "complexity": "single-hop",
+      "keywords": [
+        "carrier mobility",
+        "SCLC",
+        "charge transport",
+        "mobility balance"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The dominant recombination mechanism in PM6:IDTBF solar cells is trap-assisted recombination, as indicated by a diode ideality factor (n) of 1.89 derived from light intensity dependence measurements.",
+      "evidence": "the device of PM6:IDTBF shows an n value of 1.89, which is directly correlated to the trap assisted recombination. So, it can be seen that the trap assisted recombination is the major recombination chanel...",
+      "complexity": "single-hop",
+      "keywords": [
+        "trap-assisted recombination",
+        "ideality factor",
+        "recombination channel"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "AFM analysis of the optimized PM6:IDTBF blend film revealed a high root-mean-square (RMS) roughness of 6.23 nm, which is significantly higher than the pristine donor (1.40 nm) or acceptor (0.68 nm) films, suggesting large domain sizes and suboptimal miscibility.",
+      "evidence": "the root-mean-square (RMS) roughness of the active layer drastically changed from 1.40 (PM6 pristine film) and 0.68 (IDTBF pristine film) to 6.23 (PM6:IDTBF). The increased roughness demonstrated a large domain size and phase separation...",
+      "complexity": "multi-hop",
+      "keywords": [
+        "AFM",
+        "RMS roughness",
+        "morphology",
+        "phase separation"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "IDTBF demonstrates high thermal stability with a 5% weight loss temperature (Td) occurring at 343 °C, as determined by thermogravimetric analysis (TGA).",
+      "evidence": "thermogravimetric analysis (TGA, Fig. S1, ESI†) shows that IDTBF exhibits good thermal stability and decomposes (5% loss) only above 343 °C.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "TGA",
+        "decomposition temperature"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "DFT calculations for IDTBF show that the LUMO orbital is evenly distributed across both the BR and IM2F terminal groups due to strong electronic coupling through the central IDT core, resulting in a single CT transition rather than separate transitions for each terminal group.",
+      "evidence": "The DFT calculations indicate that in the IDTBF molecule, the two TGs (BR and IM2F) experience strong coupling to each other via the central IDT donor moiety, as evident from the even distribution of the LUMO orbital on both TGs... only one π-π* transition band appears...",
+      "complexity": "multi-hop",
+      "keywords": [
+        "DFT",
+        "LUMO distribution",
+        "electronic coupling",
+        "CT transition"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The optimized morphology of the PM6:IDTBF active layer was achieved using solvent vapor annealing (SVA) as a post-treatment method, which improved the PCE from an as-cast value of 9.27% to 10.43%.",
+      "evidence": "the as-cast device of PM6:IDTBF already achieved a good PCE of 9.27%... in order to obtain the optimized device, solvent vapour annealing (SVA) was applied to tune the active layer morphology.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "solvent vapor annealing",
+        "SVA",
+        "morphology optimization",
+        "as-cast"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 7564,
+    "completion_tokens": 3469,
+    "total_tokens": 11033
+  }
+}

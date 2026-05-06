@@ -1,0 +1,75 @@
+{
+  "paper_id": "Advanced_Materials_-_2022_-_Wang_-_QuasiHomojunction_Organic_Nonfullerene_Photovoltaics_Featuring_Fu",
+  "paper_title": "Quasi-Homojunction Organic Nonfullerene Photovoltaics Featuring Fundamentals Distinct from Bulk Heterojunctions",
+  "qa_pairs": [
+    {
+      "question": "What are the specific hole and electron mobilities of neat Y6 films in the context of quasi-homojunction devices?",
+      "answer": "Neat Y6 films exhibit high ambipolar mobilities, specifically a hole mobility (μh) of 9.30 × 10⁻⁴ cm² V⁻¹ s⁻¹ and an electron mobility (μe) of 3.04 × 10⁻⁴ cm² V⁻¹ s⁻¹.",
+      "category": "Performance Metrics",
+      "source_title": "Quasi-Homojunction Organic Nonfullerene Photovoltaics Featuring Fundamentals Distinct from Bulk Heterojunctions",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What is the power conversion efficiency (PCE) of the PTB7-Th:Y6 bulk heterojunction (BHJ) device at its optimal donor:acceptor ratio?",
+      "answer": "The PTB7-Th:Y6 BHJ device achieves a power conversion efficiency (PCE) of 11.0% at its optimal donor:acceptor (D:A) ratio of 1:1.2.",
+      "category": "Performance Metrics",
+      "source_title": "Quasi-Homojunction Organic Nonfullerene Photovoltaics Featuring Fundamentals Distinct from Bulk Heterojunctions",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the role of the polymer donor PTB7-Th change when transitioning from a bulk heterojunction (BHJ) to a quasi-homojunction (QHJ) architecture?",
+      "answer": "In a QHJ architecture, the role of PTB7-Th shifts away from being the primary source of light absorption and exciton splitting. Instead, it serves primarily to reduce charge recombination and enhance quadrupolar fields within the Y6 domains to facilitate charge generation.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Quasi-Homojunction Organic Nonfullerene Photovoltaics Featuring Fundamentals Distinct from Bulk Heterojunctions",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Compare the thermal stability of PTB7-Th:Y6 quasi-homojunction (QHJ) devices at a 1:20 ratio with their bulk heterojunction (BHJ) counterparts.",
+      "answer": "PTB7-Th:Y6 QHJ devices (1:20 ratio) demonstrate superior thermal stability, retaining 85.8% of their initial PCE after 188.4 hours at 85 °C. In contrast, the BHJ counterpart (1:1.2 ratio) is significantly less stable, with its PCE dropping to 50% of the initial value over the same period.",
+      "category": "Stability & Degradation",
+      "source_title": "Quasi-Homojunction Organic Nonfullerene Photovoltaics Featuring Fundamentals Distinct from Bulk Heterojunctions",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Where are the majority of free charge carriers generated in PTB7-Th:Y6 quasi-homojunction devices?",
+      "answer": "In PTB7-Th:Y6 QHJ devices, a large portion of free charge carriers are generated intrinsically within the neat Y6 domains, rather than being generated exclusively at the donor/acceptor (D/A) interface.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Quasi-Homojunction Organic Nonfullerene Photovoltaics Featuring Fundamentals Distinct from Bulk Heterojunctions",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How do the domain size and phase purity of PTB7-Th:Y6 films change as the architecture shifts from a bulk heterojunction (1:1.2) to a quasi-homojunction (1:20)?",
+      "answer": "As the D:A ratio shifts from 1:1.2 (BHJ) to 1:20 (QHJ), the domain size increases significantly from 21.7 nm to 109 nm. Additionally, the relative phase purity improves from 0.63 in the BHJ film to 1.0 in the QHJ film.",
+      "category": "Characterization Methods",
+      "source_title": "Quasi-Homojunction Organic Nonfullerene Photovoltaics Featuring Fundamentals Distinct from Bulk Heterojunctions",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Why do PM6:Y6 quasi-homojunction devices perform significantly worse than PTB7-Th:Y6 devices at a 1:20 donor:acceptor ratio?",
+      "answer": "PM6:Y6 QHJ devices suffer from a rapid decline in PCE (retaining only 26% of peak efficiency) because the PM6 donor molecules are well-dispersed within the Y6 phase. This leads to lower phase purity, higher monomolecular recombination, and poor charge transport compared to the PTB7-Th:Y6 system.",
+      "category": "Processing & Fabrication",
+      "source_title": "Quasi-Homojunction Organic Nonfullerene Photovoltaics Featuring Fundamentals Distinct from Bulk Heterojunctions",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Explain how hole transport is maintained in PTB7-Th:Y6 quasi-homojunction devices even when the donor concentration is very low.",
+      "answer": "Hole transport is maintained because the nonfullerene acceptor Y6 acts as an ambipolar transport channel. At low donor concentrations (such as a 1:20 ratio), the hole transport through the Y6 phase becomes the dominant mechanism, supported by Y6's high hole mobility of 9.30 × 10⁻⁴ cm² V⁻¹ s⁻¹.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Quasi-Homojunction Organic Nonfullerene Photovoltaics Featuring Fundamentals Distinct from Bulk Heterojunctions",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2550,
+    "completion_tokens": 2581,
+    "total_tokens": 5131
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "paper_id": "cm8b03659_si_001",
+  "paper_title": "Effects of Molecular Orientation of Fullerene Derivative at Donor/Acceptor Interface on Device Performance of Organic Photovoltaics (Supporting Information)",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/cm8b03659_si_001/auto/cm8b03659_si_001.md",
+  "knowledge_points": [
+    {
+      "category": "Processing & Fabrication",
+      "content": "Thermal annealing of PC61BM films promotes crystallization, transforming the material from an amorphous state (characterized by broad XRD diffraction at 20°) to a crystalline state with a sharp Bragg peak at 17.5°.",
+      "evidence": "The as-coated film exhibited amorphous features, as demonstrated by the broad diffraction around 20°, whereas a sharp Bragg peak was observed at 2θ = 17.5° for the annealed PC61BM film. This result suggests that the thermal treatment promotes the crystallization of PC61BM.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PC61BM",
+        "thermal annealing",
+        "crystallization",
+        "XRD"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The average work functions for amorphous PC61BM (a-PC61BM) and crystalline PC61BM (c-PC61BM) thin films are 4.65 eV and 4.48 eV, respectively, as determined by ultraviolet photoelectron spectroscopy (UPS).",
+      "evidence": "We measured the UPS spectra for several specimens and determined the average work functions of a- and c-PC61BM to be 4.65 and 4.48 eV, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "work function",
+        "PC61BM",
+        "UPS",
+        "amorphous",
+        "crystalline"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The ionization energy in the solid state (Is) of PC61BM decreases upon crystallization from 6.16 eV for the amorphous film to 5.89 eV for the crystalline film.",
+      "evidence": "The spectral onsets of the valence UPS spectra and the work functions yielded average ionization energies in the solid state (Is) of 6.16 and 5.89 eV for a- and c-PC61BM, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ionization energy",
+        "PC61BM",
+        "crystallization",
+        "UPS"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Crystallization of PC61BM results in a bandgap narrowing of approximately 0.1 eV, which is attributed to an increase in electronic polarization energy caused by increased film density.",
+      "evidence": "The bandgap narrowing of 0.1 eV was explained by the increase in the electronic polarization energy associated with the increase in the film density, although the origin of the rigid shift of the energy levels was not clear.",
+      "complexity": "single-hop",
+      "keywords": [
+        "bandgap narrowing",
+        "polarization energy",
+        "film density",
+        "PC61BM"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The decrease in the work function of PC61BM upon crystallization is partially driven by the formation of an electrical dipole layer at the surface, caused by the orientation of molecular side chains pointing toward the surface.",
+      "evidence": "The exposure of the side chains formed the electrical dipole layer pointing toward the surface due to the permanent dipole of the molecule... This effect decreases the work function.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "surface dipole",
+        "molecular orientation",
+        "work function",
+        "PC61BM"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Exposure to oxygen and water vapor can decrease the work function and shift the HOMO level downward in PC61BM films; thermal annealing can reverse these effects through the desorption of these atmospheric molecules.",
+      "evidence": "Bao et al. investigated the electronic structure of the oxygen-exposed PC61BM film. They found that the work function decreases and that the HOMO shifts downward as a function of the oxygen exposure time... on thermal annealing, oxygen could desorb from the film and raise the energies of the vacuum level and HOMO.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "oxygen doping",
+        "de-doping",
+        "thermal annealing",
+        "PC61BM",
+        "stability"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Sexithiophene (6T) molecules deposited on PC61BM films tend to adopt an end-on (upright) molecular orientation, regardless of whether the underlying PC61BM is amorphous or crystalline.",
+      "evidence": "These measurements indicate that the 6T molecules on the PC61BM films adopt an end-on orientation.",
+      "complexity": "single-hop",
+      "keywords": [
+        "6T",
+        "sexithiophene",
+        "molecular orientation",
+        "end-on",
+        "PC61BM"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Metastable atom electron spectroscopy (MAES) can distinguish between 6T molecular orientations: end-on orientation shows signals from C 2p and sigma orbitals, while face-on orientation exhibits intense pi bands from S 3pz orbitals.",
+      "evidence": "The flat molecules exhibit intense π bands, particularly those originating from S 3pz orbitals between 2 and 3 eV... The MAES spectrum of 6T on SiOx exhibits photoemissions in regions (ii) and (iii), which originate from S 3p orbitals and from C 2p and σ orbitals, respectively.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "MAES",
+        "molecular orientation",
+        "6T",
+        "pi-orbitals",
+        "sigma-orbitals"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The energy of the charge-transfer (CT) state (ECT) at the donor/acceptor interface is identified as the intersection point of the fitted reduced electroluminescence (EL) and reduced absorption (from EQE) spectra.",
+      "evidence": "The intersection point of the emission and absorption fitting lines is ECT.",
+      "complexity": "single-hop",
+      "keywords": [
+        "charge-transfer state",
+        "ECT",
+        "electroluminescence",
+        "EQE"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Time-dependent DFT calculations indicate that the CT state energy of the PC61BM/6T interface is sensitive to molecular orientation; a model with the PC61BM side chain pointing toward 6T yields a calculated singlet CT energy of 1.58 eV (B3LYP/6-31G(d)).",
+      "evidence": "Table S1. Energy of charge-transfer states calculated by time-dependent DFT... Figure S8(a) Close contact of PC61BM with the side chain pointing to 6T (model of the crystallized PC61BM/6T interface)... B3LYP/6-31G(d) 1.58 [eV].",
+      "complexity": "single-hop",
+      "keywords": [
+        "TD-DFT",
+        "charge-transfer state",
+        "PC61BM",
+        "6T",
+        "molecular modeling"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The experimental photovoltaic performance was evaluated using an inverted device architecture with the structure: ITO/PEIE/Acceptor/6T/MoOx/Al, where the acceptor is either C60, a-PC61BM, or c-PC61BM.",
+      "evidence": "Figure S6. (a) Current density-voltage characteristics of ITO/PEIE/C60/6T/MoOx/Al inverted photovoltaics.",
+      "complexity": "single-hop",
+      "keywords": [
+        "inverted structure",
+        "planar heterojunction",
+        "device architecture",
+        "6T",
+        "C60"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "At very low coverage (sub-monolayer), 6T molecules on amorphous PC61BM show less perfect end-on orientation compared to crystalline PC61BM due to lower structural order, but they align more uniformly as the thickness reaches 1.2 nm.",
+      "evidence": "The lower intensity of band (iii) means that He* interacts less with the σ-orbitals. This result may suggest that at low 6T coverage, the 6T molecules on a-PC61BM do not adopt a perfect end-on orientation... when d is increased to 1.2 nm, the relative intensity of band (iii) is similar to that for larger d.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "sub-monolayer",
+        "6T",
+        "a-PC61BM",
+        "nucleation",
+        "orientation"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 6647,
+    "completion_tokens": 4323,
+    "total_tokens": 10970
+  }
+}

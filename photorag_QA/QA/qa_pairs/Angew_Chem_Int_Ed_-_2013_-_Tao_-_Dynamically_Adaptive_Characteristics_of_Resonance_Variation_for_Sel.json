@@ -1,0 +1,75 @@
+{
+  "paper_id": "Angew_Chem_Int_Ed_-_2013_-_Tao_-_Dynamically_Adaptive_Characteristics_of_Resonance_Variation_for_Sel",
+  "paper_title": "Dynamically Adaptive Characteristics of Resonance Variation for Selectively Enhancing Electrical Performance of Organic Semiconductors",
+  "qa_pairs": [
+    {
+      "question": "What are the maximum external quantum efficiency (EQE) and power efficiency (PE) values for a blue PHOLED using DNCzPO as the host material?",
+      "answer": "A blue PHOLED utilizing DNCzPO as a host material achieves a maximum external quantum efficiency (EQE) of 16.5% and a maximum power efficiency (PE) exceeding 37 Lm/W.",
+      "category": "Performance Metrics",
+      "source_title": "Dynamically Adaptive Characteristics of Resonance Variation for Selectively Enhancing Electrical Performance of Organic Semiconductors",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What are the driving voltages for a DNCzPO-based blue PHOLED at different luminance levels?",
+      "answer": "DNCzPO-based blue PHOLEDs exhibit low driving voltages, starting with an onset voltage of 2.6 V. They require less than 3.4 V to reach a luminance of 100 cd/m² and less than 4.8 V for 1000 cd/m².",
+      "category": "Performance Metrics",
+      "source_title": "Dynamically Adaptive Characteristics of Resonance Variation for Selectively Enhancing Electrical Performance of Organic Semiconductors",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the P=O group influence the triplet energy (T1) of D-A molecules like NCzPO and DNCzPO?",
+      "answer": "The insulating characteristic of the P=O group effectively suppresses electronic communication between the conjugated groups in the D-A molecules. This allows the triplet energy (T1) to remain above 2.9 eV, which is nearly equivalent to the triplet energies of the constituent chromophores, carbazole and diphenylamine.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Dynamically Adaptive Characteristics of Resonance Variation for Selectively Enhancing Electrical Performance of Organic Semiconductors",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What evidence suggests that the N-P bond in NCzPO and DNCzPO possesses partial double-bond character?",
+      "answer": "The partial double-bond character is evidenced by single-crystal structures showing N-P bond lengths shorter than the standard 1.76 Angstroms. This shortening is attributed to the contribution of N+=P-O- resonance structures within the N-P=O linkage.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Dynamically Adaptive Characteristics of Resonance Variation for Selectively Enhancing Electrical Performance of Organic Semiconductors",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Based on Natural Bond Orbital (NBO) calculations, how does the charge distribution of an injected electron change between monosubstituted and bisubstituted N-P=O molecules?",
+      "answer": "In monosubstituted N-P=O molecules, approximately 20% of the negative charge from an injected electron is distributed on the arylamines. In bisubstituted versions, the involvement of two arylamines in the N+=P-O- resonance increases this charge distribution proportion to up to 33%.",
+      "category": "Computational & Machine Learning",
+      "source_title": "Dynamically Adaptive Characteristics of Resonance Variation for Selectively Enhancing Electrical Performance of Organic Semiconductors",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "How do enantiotropic resonance variations affect the charge transport characteristics of the bisubstituted molecule DNCzPO?",
+      "answer": "In DNCzPO, enantiotropic N+=P-O- resonance variations allow for a dual transport mechanism. The greater contribution of these resonances enhances electron transportation from a polarized carbazolyl group, while hole transportation is simultaneously preserved by a second, neutral carbazolyl group.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Dynamically Adaptive Characteristics of Resonance Variation for Selectively Enhancing Electrical Performance of Organic Semiconductors",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What specific materials are used for the hole injection and electron transport layers in the blue PHOLED architecture featuring DNCzPO?",
+      "answer": "The device architecture utilizes a combination of MoOx and m-MTDATA for the hole injection layer (specifically ITO/MoOx/m-MTDATA:MoOx/m-MTDATA). For the electron transport layer, BPhen is employed, while the light-emitting layer consists of the host material doped with the phosphorescent guest FIrpic.",
+      "category": "Processing & Fabrication",
+      "source_title": "Dynamically Adaptive Characteristics of Resonance Variation for Selectively Enhancing Electrical Performance of Organic Semiconductors",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What is the relationship between resonance stability and the efficiency roll-off in host materials like DNCzPO?",
+      "answer": "The efficiency stability of the PHOLED devices correlates directly with the resonance stability of the host materials. DNCzPO, which features a rigid carbazole structure and more stable resonance, exhibits reduced efficiency roll-off (such as 8.1% for EQE at 100 cd/m²) compared to molecules with less stable resonance structures.",
+      "category": "Characterization Methods",
+      "source_title": "Dynamically Adaptive Characteristics of Resonance Variation for Selectively Enhancing Electrical Performance of Organic Semiconductors",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2580,
+    "completion_tokens": 3031,
+    "total_tokens": 5611
+  }
+}

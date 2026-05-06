@@ -1,0 +1,75 @@
+{
+  "paper_id": "Angew_Chem_Int_Ed_-_2021_-_Wen_-_syn_antiOligothienoacene_Diimides_with_up_to_10_Fused_Rings",
+  "paper_title": "syn/anti-Oligothienoacene Diimides with up to 10 Fused Rings",
+  "qa_pairs": [
+    {
+      "question": "What synthetic strategy was employed to produce both anti- and syn-isomers of oligothienoacene diimides in a 1:1 molar ratio?",
+      "answer": "The synthesis utilizes palladium-catalyzed C-H activation coupling combined with an unexpected 1,2-sulfur migration. This process results in the formation of both anti-isomers and syn-isomers (where the inner thiophene sulfur atoms are syn-conformed relative to the NDI units) in approximately equal proportions.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "syn/anti-Oligothienoacene Diimides with up to 10 Fused Rings",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How do the maximum electron mobilities of syn-3c and anti-3c single-crystal microfibers compare?",
+      "answer": "The syn-3c isomer microfibers exhibit a higher maximum electron mobility of 4.2 cm² V⁻¹ s⁻¹, while the anti-3c isomer microfibers show a slightly lower maximum mobility of 3.7 cm² V⁻¹ s⁻¹.",
+      "category": "Performance Metrics",
+      "source_title": "syn/anti-Oligothienoacene Diimides with up to 10 Fused Rings",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What is the relationship between the number of fused thieno rings and the optical band gap in oligothienoacene diimides?",
+      "answer": "As the number of fused thieno rings increases, the optical band gap decreases due to a red-shift in maximum absorption. For example, the optical gap drops from 2.06 eV in TIPS-NDTI to 1.94 eV in TIPS-anti-3b, and further down to 1.65 eV in TIPS-anti-7b.",
+      "category": "Structure-Property Relationships",
+      "source_title": "syn/anti-Oligothienoacene Diimides with up to 10 Fused Rings",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Why do syn-isomers such as TIPS-syn-3b and TIPS-syn-7b exhibit broad and featureless absorption spectra compared to their anti-counterparts?",
+      "answer": "The broad and featureless spectra in syn-isomers are attributed to weak intramolecular charge transfer. This is induced by the permanent dipole moments (ranging from 1.45 D to 1.64 D) resulting from the asymmetric HOMOs and LUMOs in the syn-conformation.",
+      "category": "Structure-Property Relationships",
+      "source_title": "syn/anti-Oligothienoacene Diimides with up to 10 Fused Rings",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "According to DFT calculations, how does the sulfur atom orientation and the number of thieno rings affect the LUMO localization in these diimides?",
+      "answer": "DFT calculations indicate that the LUMOs remain primarily localized on the Naphthalene Diimide (NDI) core. This localization pattern is consistent regardless of the number of fused thieno rings or whether the sulfur atoms are in a syn- or anti-conformation.",
+      "category": "Computational & Machine Learning",
+      "source_title": "syn/anti-Oligothienoacene Diimides with up to 10 Fused Rings",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the charge transport behavior of oligothienoacene diimides evolve as the conjugation length increases from 3b to 7b?",
+      "answer": "The materials transition from exclusive n-type (electron) transport in smaller systems to ambipolar transport in larger systems. While the 3b system is n-type, both the 5b and 7b systems (in both syn and anti forms) exhibit ambipolar characteristics as the number of fused rings increases.",
+      "category": "Device Architecture & Physics",
+      "source_title": "syn/anti-Oligothienoacene Diimides with up to 10 Fused Rings",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What driving force causes syn-isomers like TIPS-syn-5a and TIPS-syn-7a to form antiparallel π-stacked dimers in the solid state?",
+      "answer": "The formation of antiparallel π-stacked dimers in these syn-isomers is driven by stabilizing dipole-dipole interactions, which are a result of the permanent dipole moments present in the syn-conformation but absent or different in the anti-isomers.",
+      "category": "Structure-Property Relationships",
+      "source_title": "syn/anti-Oligothienoacene Diimides with up to 10 Fused Rings",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What are the typical electron affinity (EA) values for these oligothienoacene diimides, and what does this imply for their application?",
+      "answer": "The electron affinities range from -3.96 to -4.02 eV. These values indicate that the compounds are well-suited for use as electron-transporting (n-type) organic semiconductor materials.",
+      "category": "Device Architecture & Physics",
+      "source_title": "syn/anti-Oligothienoacene Diimides with up to 10 Fused Rings",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2645,
+    "completion_tokens": 2088,
+    "total_tokens": 4733
+  }
+}

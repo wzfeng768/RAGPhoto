@@ -1,0 +1,157 @@
+{
+  "paper_id": "c2cc37053k",
+  "paper_title": "π-Core tailoring for new high performance thieno(bis)imide based n-type molecular semiconductors",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/c2cc37053k/auto/c2cc37053k.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The study utilizes thieno(bis)imide (TBI) as an end-group moiety to promote electron and ambipolar charge transport in small molecule semiconductors.",
+      "evidence": "Indeed, T4DIM having two TBI end moieties of bithiophene (TT) showed ambipolar charge transport with major electron charge transport contribution... we report here two novel compounds featuring fine-tunable inner cores such as: bithiazole (Tz, NTzN) and thienothiophene (ThT, NThTN).",
+      "complexity": "single-hop",
+      "keywords": [
+        "thieno(bis)imide",
+        "TBI",
+        "n-type",
+        "molecular semiconductors"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "NTzN, NThTN, and NTMeN were synthesized through a Stille cross-coupling reaction between brominated thieno(bis)imide (N-Br) and the corresponding distannyl derivatives.",
+      "evidence": "The title compounds were prepared through Stille crosscoupling reaction between brominated thieno(bis)imide (N-Br) and the proper distannyl derivative as depicted in Scheme 1.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Stille cross-coupling",
+        "synthesis",
+        "thieno(bis)imide"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The thienothiophene-cored compound (NThTN) exhibits ambipolar charge transport with a peak electron mobility of 0.3 cm²/V·s and a hole mobility of 6.4 x 10^-5 cm²/V·s.",
+      "evidence": "In contrast, NThTN shows ambipolar charge transport with an excellent electron charge mobility of μe = 0.3 cm2 V−1 s−1 but higher threshold voltage (with respect to NTzN) and a hole mobility of μh = 6.4 × 10−5 cm2 V−1 s−1.",
+      "complexity": "single-hop",
+      "keywords": [
+        "electron mobility",
+        "hole mobility",
+        "NThTN",
+        "ambipolar"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The bithiazole-cored compound (NTzN) demonstrates unipolar n-type transport with an electron mobility of 0.16 cm²/V·s and a threshold voltage of 39.7 V.",
+      "evidence": "NTzN shows exclusively electron charge transport with charge mobility values of up to μe = 0.16 cm2 V−1 s−1 and a threshold voltage VTN = 39.7 V.",
+      "complexity": "single-hop",
+      "keywords": [
+        "NTzN",
+        "electron mobility",
+        "threshold voltage",
+        "unipolar"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The introduction of the bithiazole (Tz) core in NTzN causes a blue shift in the maximum absorption wavelength (428 nm) and results in a higher optical bandgap (2.57 eV) compared to NThTN and NTMeN.",
+      "evidence": "the introduction of the Tz core causes a blue shift of the maximum absorption wavelength λmax of about 15 nm and 20 nm with respect to NThTN and NTMeN respectively... The optical energy band gap Egopt of NTzN was about 0.10 eV higher than those of the other compounds.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "bithiazole",
+        "absorption wavelength",
+        "optical bandgap",
+        "blue shift"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "DFT calculations indicate that NTzN features HOMO and LUMO orbitals uniformly delocalized over the entire molecular backbone, which is favorable for intermolecular overlap and charge transport.",
+      "evidence": "DFT calculations... show that in NTzN both the HOMO and LUMO are almost uniformly delocalized on the entire molecular backbone... such orbital distribution suggests higher suitability to charge transport for NTzN since higher intermolecular overlap (favourable to charge transport) can be expected.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DFT",
+        "delocalization",
+        "HOMO",
+        "LUMO",
+        "NTzN"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "In NThTN and NTMeN, the HOMO is primarily localized in the inner core, while the LUMO is localized at the electron-withdrawing thieno(bis)imide ends.",
+      "evidence": "In contrast, for NThTN and NTMeN the HOMO is mainly localized in the inner core while the LUMO is localized at the periphery of the electron-withdrawing TBI ends.",
+      "complexity": "single-hop",
+      "keywords": [
+        "HOMO localization",
+        "LUMO localization",
+        "NThTN",
+        "NTMeN"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Lithographically controlled wetting (LCW) was used to fabricate parallel micrometer-sized stripes of the semiconductors, promoting long-range coherent molecular ordering.",
+      "evidence": "lithographically controlled wetting (LCW, Fig. 2a) allows the fabrication of parallel micrometre-sized stripes (m-stripes) of a few millimetres length (Fig. 2c) covering the entire substrate... detailed investigation by POM (see ESI‡) reveals long range coherent molecular ordering along each stripe.",
+      "complexity": "single-hop",
+      "keywords": [
+        "LCW",
+        "molecular ordering",
+        "micro-stripes",
+        "fabrication"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The addition of beta-methyl groups in NTMeN significantly reduces electron mobility by approximately three orders of magnitude compared to NThTN and NTzN, likely due to reduced molecular overlap.",
+      "evidence": "The electron mobilities drop by about three orders of magnitude on passing to NTMeN having the more electron rich methylated bithiophene inner core... although the beta methyl substitution could prevent a close molecular overlap required for efficient charge transport.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "methyl substitution",
+        "steric hindrance",
+        "mobility drop",
+        "NTMeN"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Differential scanning calorimetry (DSC) revealed that NThTN and NTMeN possess liquid crystalline properties.",
+      "evidence": "Differential scanning calorimetry (DSC, Fig. S1–S3, ESI‡) revealed liquid crystalline properties of NThTN and NTMeN.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DSC",
+        "liquid crystalline",
+        "NThTN",
+        "NTMeN"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The unipolar n-type behavior of NTzN is attributed to its low-lying HOMO energy level, which creates an unfavorable energy match with the gold electrode Fermi level for hole injection.",
+      "evidence": "The unipolar rather than ambipolar behaviour observed for NTzN could be due to the less favourable matching of the estimated HOMO energy of NTzN (lower than the other compounds) with the gold electrode FERMI level which limits the hole injection.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "unipolar",
+        "HOMO",
+        "hole injection",
+        "Fermi level",
+        "NTzN"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The electron mobility of NThTN (0.3 cm²/V·s) is nearly six times higher than the previously reported unsubstituted bithiophene analogue T4DIM (0.053 cm²/V·s).",
+      "evidence": "Both electron mobility values are one order of magnitude higher than that observed for the already reported T4DIM (μe = 5.3 × 10−2 cm2 V−1 s−1) and comparable or even better than the best performances so far achieved for n-type thiophene based materials.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "NThTN",
+        "T4DIM",
+        "mobility comparison",
+        "n-type"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 7129,
+    "completion_tokens": 3258,
+    "total_tokens": 10387
+  }
+}

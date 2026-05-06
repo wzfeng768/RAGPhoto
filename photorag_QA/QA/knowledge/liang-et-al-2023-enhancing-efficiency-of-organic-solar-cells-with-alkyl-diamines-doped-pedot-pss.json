@@ -1,0 +1,134 @@
+{
+  "paper_id": "liang-et-al-2023-enhancing-efficiency-of-organic-solar-cells-with-alkyl-diamines-doped-pedot-pss",
+  "paper_title": "Enhancing Efficiency of Organic Solar Cells with Alkyl Diamines Doped PEDOT: PSS",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/liang-et-al-2023-enhancing-efficiency-of-organic-solar-cells-with-alkyl-diamines-doped-pedot-pss/auto/liang-et-al-2023-enhancing-efficiency-of-organic-solar-cells-with-alkyl-diamines-doped-pedot-pss.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Three alkyl diamines with varying chain lengths—1,4-butanediamine hydrochloride (BA-HCl), 1,6-hexanediamine hydrochloride (HA-HCl), and 1,8-octanediamine (OA)—were used as dopants for PEDOT:PSS to improve its hole-transporting properties.",
+      "evidence": "In this work, three alkyl diamines with two amino groups and different lengths of alkyl chain including 1,4-butanediamine hydrochloride (BA-HCl), 1,6-hexanediamine hydrochloride (HA-HCl) and 1,8-octanediamine (OA) were proposed to dope PEDOT: PSS, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "alkyl diamines",
+        "PEDOT:PSS",
+        "dopants",
+        "BA-HCl",
+        "HA-HCl",
+        "OA"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The amino ions of the alkyl diamine dopants interact with the redundant sulfonic acid groups of PSS, facilitating a more ordered packing of the PEDOT conjugated backbones and enhancing intermolecular stacking.",
+      "evidence": "These alkyl diamines possess two active functional groups to react with the redundant sulfonic acid groups of Pss, then enhancing the packing interaction of PEDOT backbone... The improvement of conductivity can be attributed to the more regular packing of PEDOT backbone due to the interaction between superfluous sulfonic acid groups and the anion ion of alkyl diamines.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "sulfonic acid groups",
+        "molecular packing",
+        "intermolecular stacking",
+        "amino ion"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "A binary organic solar cell utilizing PEDOT:PSS-BA as the hole transport layer and PTQ10:m-BTP-PhC6 as the active layer achieved a maximum power conversion efficiency (PCE) of 18.44%.",
+      "evidence": "Using PTQ10 and m-BTP-PhC6 as the binary active layer, the OSC devices based on PEDOT: PSS-BA yield a superior power conversion efficiency of 18.44%, which ranks as one of the highest values in the binary OSCs.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "PTQ10",
+        "m-BTP-PhC6",
+        "18.44%",
+        "binary OSC"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Doping PEDOT:PSS with BA-HCl and HA-HCl increases its conductivity from 6.71 × 10⁻⁴ S/cm (pristine) to 2.83 × 10⁻³ S/cm and 3.15 × 10⁻³ S/cm, respectively.",
+      "evidence": "Consequently, the conductivities of PEDOT: PSS-BA, PEDOT: PSS-HA, and PEDOT: PSS-OA were determined as 2.83 × 10⁻³, 3.15 × 10⁻³ and 8.69 × 10⁻⁴ S cm⁻¹ which are much higher than that of pristine PEDOT: PSS film (6.71 × 10⁻⁴ S cm⁻¹).",
+      "complexity": "single-hop",
+      "keywords": [
+        "conductivity",
+        "PEDOT:PSS-BA",
+        "PEDOT:PSS-HA",
+        "electrical properties"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The work function (WF) of PEDOT:PSS increases from 5.36 eV to 5.44 eV (with BA-HCl) and 5.46 eV (with HA-HCl), providing a better energy level match for donors with deep HOMO levels.",
+      "evidence": "The WFs of PEDOT: PSS-BA and PEDOT: PSS-HA were estimated to be 5.44 and 5.46 eV respectively, which are much higher than 5.36 eV of PEDOT: PSS... An increased WF is desirable to have a better match with the emerging donors with deep HOMO levels.",
+      "complexity": "single-hop",
+      "keywords": [
+        "work function",
+        "energy level alignment",
+        "HOMO",
+        "PEDOT:PSS"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Electron spin resonance (ESR) testing showed that doped PEDOT:PSS samples exhibit stronger radical character and paramagnetism due to enhanced packing enabled by strong interchain interactions between PSS and the dopants.",
+      "evidence": "Compared with the original PEDOT: PSS, three doped samples solution exhibited a stronger ESR intensity... the paramagnetism could be raised by doping of alkyl diamines due to the enhanced packing of PEDOT enabled by the strong interchain interaction between PSS and the dopants.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "ESR",
+        "paramagnetism",
+        "radical character",
+        "interchain interaction"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis reveals that alkyl diamine doping increases the crystalline coherence lengths (CCLs) of PEDOT:PSS in both in-plane and out-of-plane directions, indicating enhanced molecular packing.",
+      "evidence": "From the in-plane (IP) direction, the dopants can increase all the crystalline coherence lengths (CCLs) of HTMs from 28.1 A to 31.6, 31.1, and 31.1 A respectively... Those corresponding CCLs of HTMS with doping of alkyl diamines were 22.6, 20.4, and 18.7 A which are greater than pristine HTM.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "GIWAXS",
+        "crystalline coherence length",
+        "CCL",
+        "molecular packing"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The water solubility of the dopant significantly impacts film morphology; BA-HCl and HA-HCl (hydrochlorides) are easily dissolved and result in smoother films (RMS 2.66 nm and 1.92 nm), whereas poorly soluble OA leads to self-aggregation and higher roughness (RMS 5.45 nm).",
+      "evidence": "The root-mean-square (RMs) roughness values of PEDOT: PSS, PEDOT: PSS-BA, PEDOT: PSS-HA and PEDOT: PSS-OA film were 2.94, 2.66, 1.92, and 5.45 nm, respectively... Both BA-HCl and HA-HCl containing hydrochloride are easily dissolved in PEDOT: PSS aqueous solution... OA with relatively low water solubility inclines to self-aggregation in the PEDOT: PSS, then enlarging the surface roughness.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "surface morphology",
+        "RMS roughness",
+        "water solubility",
+        "aggregation"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Modified PEDOT:PSS devices show improved charge collection probability (Pcoll), reaching 92.4% for PEDOT:PSS-BA, and exciton dissociation probability (Pdiss), reaching 99.6% for PEDOT:PSS-OA.",
+      "evidence": "the highest Pdiss of 99.6% was obtained for those with PEDOT: PSS-OA, and the Pcoll peaked at 92.4% for those with PEDOT: PSS-BA. These results demonstrate the modification of PEDOT: PSS can efficiently boost carrier extraction and reduce charge recombination.",
+      "complexity": "single-hop",
+      "keywords": [
+        "charge collection",
+        "exciton dissociation",
+        "carrier extraction",
+        "recombination"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Doped PEDOT:PSS films exhibit lower dark current density compared to pristine films, suggesting improved electron blocking and suppressed bimolecular recombination.",
+      "evidence": "The devices with doped PEDOT: PSS displayed lower dark current than that with pristine counterpart, indicative of an improved electron blocking process and more efficient suppression of bimolecular recombination.",
+      "complexity": "single-hop",
+      "keywords": [
+        "dark current",
+        "electron blocking",
+        "bimolecular recombination"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 13657,
+    "completion_tokens": 3005,
+    "total_tokens": 16662
+  }
+}

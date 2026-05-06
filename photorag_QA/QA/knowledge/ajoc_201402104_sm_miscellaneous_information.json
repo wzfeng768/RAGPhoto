@@ -1,0 +1,154 @@
+{
+  "paper_id": "ajoc_201402104_sm_miscellaneous_information",
+  "paper_title": "Function of CH2 Addends on 54π Fullerene Acceptors",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/ajoc_201402104_sm_miscellaneous_information/auto/ajoc_201402104_sm_miscellaneous_information.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "bis-OQMF is synthesized by reacting C60CH2 with 1,4-dihydrobenzo[d][1,2]oxathiine 3-oxide in ortho-dichlorobenzene (ODCB) at 100 °C for 22 hours, yielding 36% after silica gel column purification.",
+      "evidence": "To a solution of C60CH2 (1.0 g, 1.36 mmol) in ODCB 200 mL) was added 1,4-dihydrobenzo[d][1,2]oxathiine 3-oxide (928 mg, 5.52 mmol). The mixture was stirred at 100 °C for 22 h. ... The third band was collected to give bis-OQMF 457 mg, yield: 36%).",
+      "complexity": "single-hop",
+      "keywords": [
+        "bis-OQMF",
+        "synthesis",
+        "C60CH2",
+        "ortho-dichlorobenzene"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The LUMO levels of the fullerene acceptors tris-OQC, bis-OQMF, and OQBMF are determined to be -3.29 eV, -3.37 eV, and -3.41 eV, respectively, based on cyclic voltammetry measurements.",
+      "evidence": "Table S1 Electrochemical data for tris-OQC, bis-OQMF and OQBMF. ... LUMO ' (eV) tris-OQC -3.29, bis-OQMF -3.37, OQBMF -3.41.",
+      "complexity": "single-hop",
+      "keywords": [
+        "LUMO",
+        "energy levels",
+        "tris-OQC",
+        "bis-OQMF",
+        "OQBMF"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The conventional organic solar cell architecture used for testing P3HT:fullerene blends consists of ITO/PEDOT:PSS (30 nm)/Active Layer (~110 nm)/Ca (10 nm)/Al (100 nm).",
+      "evidence": "A 30 nm thick poly(3,4-ethylenedioxythiophene)-polystyrene sulfonate (PEDOT:PSS... layer was formed on ITO substrates... Ca (~10 nm) and Al (~100 nm) were thermally evaporated under a shadow mask successively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "device architecture",
+        "P3HT",
+        "PEDOT:PSS",
+        "solar cells"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The active layer of P3HT:fullerene (1:0.6 weight ratio) is processed from an ortho-dichlorobenzene (ODCB) solution at a concentration of 24 mg/mL and subjected to thermal annealing at 140 °C for 10 minutes.",
+      "evidence": "A P3HT:fullerene (w/w, 1:0.6) blend in ODCB (24 mg/mL) was spin-coated onto PEDOT:PSS layer (1200 rpm for 60 s). Then the films were annealed at 140 °C for 10 min.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal annealing",
+        "ODCB",
+        "P3HT",
+        "spin coating"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Charge carrier mobility is calculated using the Space Charge Limited Current (SCLC) method by fitting the dark current density (J) to the Mott-Gurney law equation: J = 9/8 * ε0 * εr * μ * (V^2 / d^3).",
+      "evidence": "Charge carrier mobility was measured by SCLC method. The mobility was determined by fitting the dark current to the model of a single carrier SCLC, which is described by: J = 9/8 * ε0 * εr * μ * (V^2 / d^3)",
+      "complexity": "single-hop",
+      "keywords": [
+        "SCLC",
+        "mobility",
+        "Mott-Gurney law",
+        "charge transport"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Electron-only devices for measuring electron mobility utilize an Al/active layer/Ca/Al structure, while hole-only devices utilize a Cr/Au/PEDOT:PSS/active layer/MoO3/Au structure.",
+      "evidence": "The structure for electron-only devices is Al/active layer/Ca/Al. ... The structure for hole-only devices is Cr/Au/PEDOT:PSS/active layer/MoO3/Au.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "electron-only device",
+        "hole-only device",
+        "selective contact"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Cyclic voltammetry was performed in a 9:1 ODCB/CH3CN solution using 0.1 M tetrabutylammonium hexafluorophosphate as the electrolyte and a glassy-carbon working electrode, with potentials corrected against the Fc/Fc+ redox couple.",
+      "evidence": "Measurements were performed in ODCB/CH3CN (9:1) solution containing tetrabutylammonium hexafluorophosphate (0.1 M) as a supporting electrolyte... All potentials were corrected against Fc/Fc+.",
+      "complexity": "single-hop",
+      "keywords": [
+        "cyclic voltammetry",
+        "redox potential",
+        "ferrocene",
+        "electrolyte"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The first reduction potentials (E1/2 Red1) for tris-OQC, bis-OQMF, and OQBMF were measured as -1.51 V, -1.43 V, and -1.39 V vs Fc/Fc+, respectively.",
+      "evidence": "Table S1 Electrochemical data for tris-OQC, bis-OQMF and OQBMF. ... Red1 a V E12: tris-OQC -1.51, bis-OQMF -1.43, OQBMF -1.39.",
+      "complexity": "single-hop",
+      "keywords": [
+        "reduction potential",
+        "tris-OQC",
+        "bis-OQMF",
+        "OQBMF"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "High-resolution ESI mass spectrometry confirms the identity of bis-OQMF (C77H18) with a found [M+H]+ value of 943.1459, corresponding to a calculated value of 943.1481.",
+      "evidence": "ESI-HRMS (+): C77H19 [M+H+] calc. 943.1481, found 943.1459.",
+      "complexity": "single-hop",
+      "keywords": [
+        "HRMS",
+        "mass spectrometry",
+        "bis-OQMF",
+        "molecular formula"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The built-in potential (Vbi) in SCLC measurements is determined by the electrode workfunction difference and is subtracted from the applied voltage (Vappl) to obtain the effective voltage (Veff).",
+      "evidence": "V is the effective voltage, V = Vappl - Vbi, where Vappl is the applied voltage, and Vbi is the built-in potential determined by electrode workfunction difference.",
+      "complexity": "single-hop",
+      "keywords": [
+        "built-in potential",
+        "effective voltage",
+        "SCLC",
+        "workfunction"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Double-carrier devices, used to study recombination or dark current characteristics, were fabricated with the architecture Cr/Au/PEDOT:PSS/active layer/Ca/Al.",
+      "evidence": "The structure for double-carrier devices is Cr/Au/PEDOT:PSS/active layer/Ca/Al.",
+      "complexity": "single-hop",
+      "keywords": [
+        "double-carrier device",
+        "device physics",
+        "dark current"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The active layer thickness for electron-only, hole-only, and double-carrier devices used in mobility studies was maintained at approximately 135 nm.",
+      "evidence": "The thickness of the active layer (~135 nm) was measured by KLA Tencor D-120 profilometer. ... The thicknesses for all blend films are ~135 nm [for Figure S5].",
+      "complexity": "multi-hop",
+      "keywords": [
+        "film thickness",
+        "SCLC",
+        "active layer"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 4972,
+    "completion_tokens": 4616,
+    "total_tokens": 9588
+  }
+}

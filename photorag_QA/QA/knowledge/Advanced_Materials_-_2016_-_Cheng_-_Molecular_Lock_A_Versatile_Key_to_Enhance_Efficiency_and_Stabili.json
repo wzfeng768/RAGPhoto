@@ -1,0 +1,134 @@
+{
+  "paper_id": "Advanced_Materials_-_2016_-_Cheng_-_Molecular_Lock_A_Versatile_Key_to_Enhance_Efficiency_and_Stabili",
+  "paper_title": "Molecular Lock: A Versatile Key to Enhance Efficiency and Stability of Organic Solar Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Materials - 2016 - Cheng - Molecular Lock  A Versatile Key to Enhance Efficiency and Stability of Organic Solar/auto/Advanced Materials - 2016 - Cheng - Molecular Lock  A Versatile Key to Enhance Efficiency and Stability of Organic Solar.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "4,4'-Biphenol (BPO) is utilized as a 'molecular lock' additive that forms hydrogen bonds specifically with fluorine-containing polymer or small molecule donors in organic solar cell blends.",
+      "evidence": "4,4'-Biphenol (BPO; Figure 1a), a common, cheap chemical, is employed as a 'molecular lock' in blends of F-containing polymer and small molecule donors and fullerene acceptors to lock donor via hydrogen bond formed between the donor and BPO.",
+      "complexity": "single-hop",
+      "keywords": [
+        "4,4'-Biphenol",
+        "BPO",
+        "molecular lock",
+        "hydrogen bond",
+        "fluorine-containing donors"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The addition of 3% BPO to PTB7-th:PC71BM based organic solar cells increases the average power conversion efficiency (PCE) from 8.33% to 8.88%.",
+      "evidence": "After the addition of 3% BPO... the average PCE of PTB7-th:PC71BM-based devices increases from 8.33% to 8.88%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "PTB7-th",
+        "PC71BM",
+        "BPO",
+        "efficiency"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The interaction between BPO and fluorine-containing donors is mediated by an O-H...F hydrogen bond, which is stronger than the O-H...O hydrogen bonds formed between BPO molecules themselves.",
+      "evidence": "In PTB7:PC71BM blend, the addition of BPO leads to the occurrence of a new peak at 3268 cm-1 due to the formation of O-H...F hydrogen bond between PTB7 and BPO... O-H...F hydrogen bond is stronger than O-H...O hydrogen bond.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "O-H...F hydrogen bond",
+        "FTIR",
+        "PTB7",
+        "intermolecular forces"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "BPO enhances the π-π ordering in 'face-on' oriented polymer domains, which leads to enhanced light absorption in the 500-700 nm range and improved hole mobility.",
+      "evidence": "In contrast to the films without BPO, both the films with BPO fresh-made and heated show an obvious π-π stacking peak (q ≈ 1.7 Å-1) along the qz-axis, indicating an enhanced π-π ordering in 'face-on' orientated polymer domains... the absorption between 500 and 700 nm is enhanced.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "π-π stacking",
+        "face-on orientation",
+        "absorption",
+        "hole mobility"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The formation of the O-H...F hydrogen bond between PTB7 and BPO is characterized by a specific FTIR vibration peak at 3268 cm⁻¹.",
+      "evidence": "In PTB7:PC71BM blend, the addition of BPO leads to the occurrence of a new peak at 3268 cm-1 due to the formation of O-H...F hydrogen bond between PTB7 and BPO.",
+      "complexity": "single-hop",
+      "keywords": [
+        "FTIR",
+        "vibration peak",
+        "hydrogen bonding",
+        "characterization"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The hole mobility of PTB7:PC71BM blends increases from 3.48 × 10⁻³ cm² V⁻¹ s⁻¹ to 9.05 × 10⁻³ cm² V⁻¹ s⁻¹ upon the addition of BPO.",
+      "evidence": "The hole mobility increases with the addition of BPO (9.05 × 10-3 vs 3.48 × 10-3 cm2 V-1 s-1) while the electron mobility is slightly changed.",
+      "complexity": "single-hop",
+      "keywords": [
+        "hole mobility",
+        "SCLC",
+        "charge transport",
+        "PTB7"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "BPO significantly enhances thermal stability; PTB7:BPO:PC71BM devices retain 80% of their original PCE after heating at 130 °C for 120 minutes, compared to only 40% retention for devices without BPO.",
+      "evidence": "The PCE of PTB7:PC71BM based devices without BPO decays from 7.35% to 2.96%... preserving only 40%... After heating at 130 °C for 120 min the PCE of PTB7:BPO:PC71BM-based devices decays from 7.87% to 6.26%... preserving 80% of its original value.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "thermal stability",
+        "degradation",
+        "PCE retention",
+        "molecular lock"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "BPO optimizes vertical phase separation by suppressing the migration of polymer donors to the top surface, resulting in a decrease of PTB7 molar content at the surface from 41.3% to 30.1%.",
+      "evidence": "The top surface molar content of PTB7 decreases from 41.3% to 30.1% with the addition of BPO, as dense polymer network formed via the hydrogen bond suppresses the migration of polymers to the top surface.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "vertical phase separation",
+        "XPS",
+        "surface composition",
+        "polymer migration"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The optimal concentration of the BPO molecular lock for fluorine-containing donor/fullerene solar cells is 3% by weight relative to the total weight of the active layer components.",
+      "evidence": "The F-containing donor/fullerene solar cells exhibit the best performance with addition of 3% BPO.",
+      "complexity": "single-hop",
+      "keywords": [
+        "optimization",
+        "additive concentration",
+        "BPO",
+        "fabrication"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The efficiency and stability enhancement provided by BPO is selective to fluorine-containing donors; donors lacking fluorine, such as P3HT and PBDTTT-C-T, show no significant performance or stability change with BPO addition.",
+      "evidence": "In contrast, the PCEs for donors without F atoms almost keep unchanged with the addition of 3% BPO (7.14% vs 7.14% for PBDTTT-C-T:PC71BM-based devices and 3.84% vs 3.83% for P3HT:PC71BM-based devices).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "selectivity",
+        "fluorine effect",
+        "P3HT",
+        "PBDTTT-C-T"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 16430,
+    "completion_tokens": 3461,
+    "total_tokens": 19891
+  }
+}

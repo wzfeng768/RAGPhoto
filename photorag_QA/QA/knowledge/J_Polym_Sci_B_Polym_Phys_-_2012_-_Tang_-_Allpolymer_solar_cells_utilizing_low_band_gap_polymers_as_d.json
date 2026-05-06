@@ -1,0 +1,127 @@
+{
+  "paper_id": "J_Polym_Sci_B_Polym_Phys_-_2012_-_Tang_-_Allpolymer_solar_cells_utilizing_low_band_gap_polymers_as_d",
+  "paper_title": "All-Polymer Solar Cells Utilizing Low Band Gap Polymers as Donor and Acceptor",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/J Polym Sci B Polym Phys - 2012 - Tang - All‐polymer solar cells utilizing low band gap polymers as donor and acceptor/auto/J Polym Sci B Polym Phys - 2012 - Tang - All‐polymer solar cells utilizing low band gap polymers as donor and acceptor.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "PTB7 is selected as a donor polymer for all-polymer solar cells with P(NDI2OD-T2) because PTB7 has a deeper HOMO level and a more red-shifted absorption spectrum compared to P3HT.",
+      "evidence": "Specifically, PTB7 possesses a deeper highest occupied molecular orbital (HOMO) than P3HT that should enable higher opencircuit voltages. Furthermore the absorption spectrum of PTB7 is red-shifted with respect to P3HT enabling a better utilization of the solar spectrum.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PTB7",
+        "P(NDI2OD-T2)",
+        "HOMO level",
+        "spectral matching"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The PTB7:P(NDI2OD-T2) all-polymer solar cell achieves a power conversion efficiency (PCE) of 1.1% with a short-circuit current (JSC) of 3.4 mA/cm², an open-circuit voltage (VOC) of 0.62 V, and a fill factor (FF) of 0.39.",
+      "evidence": "The current-voltage characteristics under simulated AM1.5G show a short-circuit current of 3.4 mA cm-2, an open-circuit voltage of 0.62 V, and a fill factor of 0.39. ... a power conversion efficiency of ~1.1% is calculated.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "VOC",
+        "JSC",
+        "fill factor"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The PTB7:P(NDI2OD-T2) blend exhibits a peak external quantum efficiency (EQE) of 18% at a wavelength of 680 nm.",
+      "evidence": "A power conversion efficiency of 1.1% is reported with a peak external quantum efficiency of 18% at a wavelength of 680 nm.",
+      "complexity": "single-hop",
+      "keywords": [
+        "EQE",
+        "external quantum efficiency",
+        "spectral response"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "In PTB7:P(NDI2OD-T2) blends, P(NDI2OD-T2) forms face-on oriented crystallites while the PTB7 matrix remains essentially amorphous.",
+      "evidence": "Thus, face-on oriented P(NDI2OD-T2) crystals are present in the blend with PTB7 being essentially amorphous.",
+      "complexity": "single-hop",
+      "keywords": [
+        "crystallinity",
+        "face-on packing",
+        "amorphous",
+        "PTB7"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Scherrer analysis of GIWAXS data shows that the P(NDI2OD-T2) crystallite thickness along the (100) direction decreases from 19 nm in neat films to 9.5 nm when blended with PTB7.",
+      "evidence": "Calculation of crystallite thickness along the (100) direction using Scherrer analysis yields a thickness of 19 nm for P(NDI2OD-T2) crystals in neat P(NDI2OD-T2) compared with 9.5 nm in the blend.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "GIWAXS",
+        "Scherrer analysis",
+        "crystallite thickness",
+        "P(NDI2OD-T2)"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "NEXAFS spectroscopy in Auger electron yield (AEY) mode reveals that the top surface (~1 nm) of the PTB7:P(NDI2OD-T2) blend is enriched with the acceptor, consisting of approximately 68 wt% P(NDI2OD-T2).",
+      "evidence": "Singular value decomposition of the blend spectrum returns a surface composition of 68 wt % P(NDI2OD-T2) and 32 wt % PTB7. Thus, the surface of the blend is P(NDI2OD-T2)-rich.",
+      "complexity": "single-hop",
+      "keywords": [
+        "NEXAFS",
+        "surface composition",
+        "vertical phase separation"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "PTB7:P(NDI2OD-T2) blends lack mesoscale phase separation, with no features larger than 30 nm detectable via scanning transmission X-ray microscopy (STXM).",
+      "evidence": "Imaging at 287.4 eV where significant contrast exits between PTB7 and P(NDI2OD-T2) no features could be discerned larger than the spot size of the X-ray beam (~30 nm)... Thus, PTB7:P(NDI2OD-T2) blends appear to exhibit a lack of mesoscale phase separation.",
+      "complexity": "single-hop",
+      "keywords": [
+        "STXM",
+        "phase separation",
+        "morphology"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The optimal active layer thickness for 1:1 PTB7:P(NDI2OD-T2) blends processed from chlorobenzene is approximately 70 nm.",
+      "evidence": "PTB7:P(NDI2OD-T2) blends were prepared with a 1:1 weight ratio by dissolving in anhydrous chlorobenzene at 10 g L-1 and spin coating... to form films ~70 nm thick. (A 70-nm-thick active layer was found to be the optimum active layer thickness for 1:1 blends from chlorobenzene.)",
+      "complexity": "single-hop",
+      "keywords": [
+        "active layer thickness",
+        "chlorobenzene",
+        "spin coating"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The d-spacing of the P(NDI2OD-T2) (100) peak shifts from approximately 2.4 nm (0.26 Å⁻¹) in neat films to 2.3 nm (0.28 Å⁻¹) in the PTB7 blend.",
+      "evidence": "There is a subtle shift in the position of the P(NDI2OD-T2) (100) peak from ~2.6 Å-1 in the neat film to ~2.8 Å-1 in the blend indicating a smaller d-spacing of 2.3 nm [Note: text contains a typo in Å-1 units, but d-spacing values are explicitly 2.4nm and 2.3nm].",
+      "complexity": "single-hop",
+      "keywords": [
+        "d-spacing",
+        "GIWAXS",
+        "lamellar packing"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Common performance-enhancing strategies such as thermal annealing and the use of additives like diiodooctane (DIO) or chloronaphthalene (CN) were found to be ineffective for improving PTB7:P(NDI2OD-T2) device efficiency.",
+      "evidence": "Our initial experiments with thermal annealing and the use of conventional solvent additives (e.g., diiodooctane) however were not found to result in improved device performance. The use of chloronaphthalene... was also not found to be effective on the PTB7:P(NDI2OD-T2) system.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal annealing",
+        "solvent additives",
+        "diiodooctane",
+        "chloronaphthalene"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 9378,
+    "completion_tokens": 2998,
+    "total_tokens": 12376
+  }
+}

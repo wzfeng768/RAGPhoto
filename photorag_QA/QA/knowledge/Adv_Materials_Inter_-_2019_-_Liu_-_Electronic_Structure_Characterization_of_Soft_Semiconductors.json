@@ -1,0 +1,157 @@
+{
+  "paper_id": "Adv_Materials_Inter_-_2019_-_Liu_-_Electronic_Structure_Characterization_of_Soft_Semiconductors",
+  "paper_title": "Electronic Structure Characterization of Soft Semiconductors",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Adv Materials Inter - 2019 - Liu - Electronic Structure Characterization of Soft Semiconductors/auto/Adv Materials Inter - 2019 - Liu - Electronic Structure Characterization of Soft Semiconductors.md",
+  "knowledge_points": [
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Soft semiconductors, including organic semiconductors and metal halide perovskites, are characterized by intermolecular forces (van der Waals) or ionic bonds rather than the strong covalent bonds found in traditional crystalline inorganic semiconductors like silicon.",
+      "evidence": "In contrast, new types of semiconductor materials, such as organic semiconductors and metal halide perovskites, have emerged where the film structure is maintained by van der Waals forces or ionic bonds... This results in more mechanically malleable materials.",
+      "complexity": "single-hop",
+      "keywords": [
+        "soft semiconductors",
+        "van der Waals forces",
+        "ionic bonds",
+        "mechanical malleability"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "In organic semiconductors, the ionization potential (IP) and electron affinity (EA) are not equal to the ground state energies of the HOMO and LUMO because charge injection/transport causes significant reorganization of the π-electron density and bond alteration.",
+      "evidence": "Taking/adding electrons from/to the HOMO/LUMO... cause significant reorganization of the π-electron density and hence result in bond alteration. The ionization potential (IP) and electron affinity (EA) of an OSC are hence not equal to the ground state energy of the HOMO and LUMO, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ionization potential",
+        "electron affinity",
+        "HOMO",
+        "LUMO",
+        "bond alteration"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Organic semiconductors typically exhibit a large exciton binding energy exceeding 0.3 eV, which causes substantial errors when estimating electron affinity (EA) by simply subtracting the optical bandgap from the ionization potential.",
+      "evidence": "For OSCs, the exciton binding energy, however, is large (> 0.3 eV) and EA estimates based on the IP and the optical bandgap hence yield substantial errors.",
+      "complexity": "single-hop",
+      "keywords": [
+        "exciton binding energy",
+        "electron affinity",
+        "optical bandgap",
+        "OSC"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The stability of metal halide perovskite crystal structures (AMX3) is predicted by the Goldschmidt tolerance factor (t), where a value between 0.8 and 1 indicates a stable structure based on the radii of the A, M, and X species.",
+      "evidence": "the possible perovskite crystal structures can be predicted by the so-called Goldschmidt tolerance factor t = (rA + rX) / [sqrt(2)(rA + rM)]... a t value between 0.8 and 1 gives stable perovskite structures.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Goldschmidt tolerance factor",
+        "perovskite",
+        "crystal structure",
+        "stability"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Ruddlesden-Popper perovskites (An-1A'2MnX3n+1) allow for dimensionality control from 3D to 2D; as the number of layers (n) decreases, the bandgap increases due to quantum well effects.",
+      "evidence": "By tuning n, the thickness of the semiconducting perovskite film can be tuned (n essentially equals to number of layers) and hence the bandgap can be increased compared to the fully 3D film due to quantum effects (quantum well).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Ruddlesden-Popper perovskites",
+        "2D perovskites",
+        "quantum well",
+        "bandgap tuning"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Low-energy inverse photoemission spectroscopy (LEIPS) achieves a total energy resolution of less than 0.3 eV and minimizes sample damage by using an electron beam with kinetic energy reduced to 0–4 eV.",
+      "evidence": "This new technique, called low-energy inverse photoemission spectroscopy (LEIPS), features an unprecedented total energy resolution (< 0.3 eV)... The kinetic energy is also reduced to 0-4 eV, thereby bringing it below the typical threshold energy for electron beam induced sample damage.",
+      "complexity": "single-hop",
+      "keywords": [
+        "LEIPS",
+        "energy resolution",
+        "sample damage",
+        "electron affinity"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Hard X-ray Photoelectron Spectroscopy (HAXPES) using 'tender' X-rays (2–7 keV) allows for nondestructive depth profiling of buried interfaces and bulk-like properties in soft semiconductors due to the large inelastic mean free path of high-kinetic-energy electrons.",
+      "evidence": "By using X-rays in the tender range (2-7 keV)... the kinetic energies of electrons emitted... are sufficiently high to yield inelastic mean free paths large enough to probe bulk-like film properties and buried layers/interfaces.",
+      "complexity": "single-hop",
+      "keywords": [
+        "HAXPES",
+        "tender X-rays",
+        "depth profiling",
+        "inelastic mean free path"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Ambient Pressure X-ray Spectroscopy (AP-XPS) can be used to track the potential drop and structural reorganization during the in situ formation of an electrochemical double layer (EDL) in electrolyte-gated organic devices.",
+      "evidence": "AP-XPS... enables studies of films under (near) ambient atmosphere pressure. Hence, solid/liquid interfaces can be probed... the authors managed to directly observe and track the induced potential drop in a series of thin (10-30 nm) water-based electrolyte films.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "AP-XPS",
+        "electrochemical double layer",
+        "EDL",
+        "solid/liquid interface"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "High-order harmonic generation (HHG) provides a desktop-scale source of intense coherent femtosecond pulses (200–1600 eV), enabling pump-probe time-resolved PES to study dynamic processes like exciton relaxation in organic solar cells.",
+      "evidence": "The short pulse duration, typically in the femtosecond range... enables pump-probe type time-resolved PES and XAS experiments to study dynamic processes... demonstrating a 500 fs relaxation of the lowest excited state.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "HHG",
+        "femtosecond pulses",
+        "pump-probe",
+        "time-resolved PES"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "As of the paper's publication, single-junction bulk heterojunction organic solar cells (BHJOSC) reached power conversion efficiencies (PCE) over 16%, while lead halide perovskite solar cells achieved PCEs over 23%.",
+      "evidence": "The PCE of such devices [BHJOSC] has now reached over 16% and 17% for single and tandem cells... lead halide perovskite solar cells have achieved power conversion efficiencies (PCE) of over 23%.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "PCE",
+        "organic solar cells",
+        "perovskite solar cells",
+        "efficiency"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "A strategy to reduce voltage losses in organic solar cells involves tuning donor-acceptor bulk heterojunctions for near-zero electron- or hole-transfer driving energy, which minimizes radiative voltage loss while maintaining high charge generation efficiency.",
+      "evidence": "the perhaps most promising is the recently demonstrated approach where donor-acceptor bulk heterojunctions (BHJs) are tuned for a near-zero electron- or hole-transfer driving energy... and substantially decrease the radiative voltage loss.",
+      "complexity": "single-hop",
+      "keywords": [
+        "voltage loss",
+        "driving energy",
+        "bulk heterojunction",
+        "charge generation"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Organic semiconductors are uniquely suited for bioelectronics because they can combine electronic charge transport with the transport of ionic species, facilitating signal exchange with biological entities.",
+      "evidence": "The perhaps most exciting use of the combined electron/ion functionality of OSC is to be found in the field of organic bioelectronics. OSCs can capture, transport, and release ionic species... while at the same time provide the 'standard' (opto)electronic features.",
+      "complexity": "single-hop",
+      "keywords": [
+        "bioelectronics",
+        "ionic transport",
+        "electronic transport",
+        "OSC"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 13978,
+    "completion_tokens": 3065,
+    "total_tokens": 17043
+  }
+}

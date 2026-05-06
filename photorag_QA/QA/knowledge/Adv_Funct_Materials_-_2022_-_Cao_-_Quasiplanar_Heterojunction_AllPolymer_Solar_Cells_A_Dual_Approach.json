@@ -1,0 +1,158 @@
+{
+  "paper_id": "Adv_Funct_Materials_-_2022_-_Cao_-_Quasiplanar_Heterojunction_AllPolymer_Solar_Cells_A_Dual_Approach",
+  "paper_title": "Quasiplanar Heterojunction All-Polymer Solar Cells: A Dual Approach to Stability",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Adv Funct Materials - 2022 - Cao - Quasiplanar Heterojunction All‐Polymer Solar Cells  A Dual Approach to Stability/auto/Adv Funct Materials - 2022 - Cao - Quasiplanar Heterojunction All‐Polymer Solar Cells  A Dual Approach to Stability.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "PBTIC-γTSe is a configurationally defined polymer acceptor synthesized via Pd-catalyzed polymerization using a selenophene-containing building block and the monomer γBr-BTIC.",
+      "evidence": "The configurationally defined polymer acceptor PBTIC-γTSe was synthesized by Pd-catalyzed polymerization from configurationally defined monomer γBr-BTIC and 2, 5-bis (trimethylstannyl) selenophene",
+      "complexity": "single-hop",
+      "keywords": [
+        "PBTIC-γTSe",
+        "polymer acceptor",
+        "selenophene",
+        "configurational control"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The Q-PHJ all-polymer solar cells based on PBQx-H-TF:PBTIC-γTSe achieved a peak power conversion efficiency (PCE) of 15.77%, with an open-circuit voltage (Voc) of 0.91 V, a short-circuit current (Jsc) of 23.49 mA cm⁻², and a fill factor (FF) of 73.76%.",
+      "evidence": "PBQx-H-TF:PBTIC-γTSe based Q-PHJ all-PsCs achieved a much higher PCE of 15.77% with the Voc of 0.91 V, Jsc of 23.49 mA cm−2, and an FF of 73.76%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "Q-PHJ",
+        "PBQx-H-TF",
+        "PBTIC-γTSe",
+        "efficiency"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The HOMO and LUMO energy levels for the donor PBQx-H-TF are -5.52 eV and -3.58 eV respectively, while the acceptor PBTIC-γTSe has HOMO/LUMO levels of -5.57 eV and -3.82 eV.",
+      "evidence": "The HOMO/LUMO energy levels of PBQx-H-TF and PBTIC-γTSe are -3.58/-5.52 eV and -3.82/-5.57 eV, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "HOMO",
+        "LUMO",
+        "energy levels",
+        "PBQx-H-TF",
+        "PBTIC-γTSe"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The quasiplanar heterojunction (Q-PHJ) structure consists of two pure layers (donor and acceptor) with a nanoscale bulk heterojunction (BHJ) interface formed by swelling, intermolecular diffusion, and chain entanglement, creating a p-i-n like structure.",
+      "evidence": "The nanoscale p-i-n structure will be constructed due to expansion in the solvent, intermolecular diffusion, and the interaction or entangling of sidechains. Such a structure was defined previously as a quasiplanar heterojunction (Q-PHJ).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Q-PHJ",
+        "p-i-n structure",
+        "intermolecular diffusion",
+        "bilayer"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Q-PHJ devices are fabricated using orthogonal solvents where the PBQx-H-TF donor layer is deposited from chlorobenzene (CB) and the PBTIC-γTSe acceptor layer is deposited from chloroform (CF).",
+      "evidence": "The Q-PHJ active layer was sequentially deposited with a solution in CB of PBQx-H-TF and a solution in CF of PBTIC-γTSe. The PBQx-H-TF... being insoluble in CF cannot be eroded by the upper CF solution.",
+      "complexity": "single-hop",
+      "keywords": [
+        "orthogonal solvents",
+        "chlorobenzene",
+        "chloroform",
+        "layer-by-layer"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Q-PHJ all-PsCs exhibit higher and more balanced charge carrier mobilities compared to BHJ devices, with hole mobility (μh) of 6.09 × 10⁻⁴ cm² V⁻¹ s⁻¹ and electron mobility (μe) of 5.62 × 10⁻⁴ cm² V⁻¹ s⁻¹.",
+      "evidence": "Measured by SCLC, the hole mobilities (μh) and electron mobilities (μe) were 6.09 × 10⁻⁴ and 5.62 × 10⁻⁴ cm² V⁻¹ s⁻¹ for the Q-PHJ structure and 3.38 × 10⁻⁴ cm² V⁻¹ s⁻¹ and 2.89 × 10⁻⁴ cm² V⁻¹ s⁻¹ for the BHJ structure.",
+      "complexity": "single-hop",
+      "keywords": [
+        "carrier mobility",
+        "SCLC",
+        "charge transport",
+        "hole mobility",
+        "electron mobility"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The Q-PHJ all-PsCs demonstrate a T80 lifetime (80% of initial PCE) of approximately 870 hours under continuous 100 mW cm⁻² illumination, which is significantly higher than the 260 hours observed for BHJ all-PsCs.",
+      "evidence": "The T80 (80% of the initial PCE) lifetime under illumination without encapsulation is about 860 h for Q-PHJ all-PsCs, which is about a three-fold... improvement compared with BHJ all-PsCs (T80 = 270 h).",
+      "complexity": "single-hop",
+      "keywords": [
+        "T80",
+        "photostability",
+        "light-soaking",
+        "device lifetime"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Dynamic X-ray photoelectron spectroscopy (DXPS) using Selenium (Se) 3d and Fluorine (F) 1s signals confirmed vertical phase separation in Q-PHJ films, with the acceptor enriched at the cathode interface and the donor at the anode interface.",
+      "evidence": "This indicates the enrichment in the upper layer of the polymer acceptor while the polymer donor is enriched in the lower layer... confirmed by the Se 3d electron scanning signals and F 1s signals.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "DXPS",
+        "vertical phase separation",
+        "depth profile",
+        "elemental mapping"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The recombination orders (R) for the devices, calculated from carrier lifetime vs. carrier density plots, were 2.04 for fresh Q-PHJ and 2.28 for fresh BHJ, increasing to 2.84 and 3.78 respectively after 900 hours of aging.",
+      "evidence": "The equation R = λ + 1 represents the recombination orders of devices, which were 2.04, 2.28, 2.84, and 3.78 for the fresh Q-PHJ, BHJ and the aging Q-PHJ and BHJ all-PSC devices, respectively.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "recombination order",
+        "carrier lifetime",
+        "trap-assisted recombination",
+        "aging"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "TEM imaging reveals that while BHJ films suffer from severe aggregation and domain size increases after 900 hours of light soaking, Q-PHJ films maintain a stable fiber network morphology.",
+      "evidence": "The extent of aggregation is increased significantly in the BHJ film... In contrast, the phase separation morphology is maintained well in the Q-PHJ film, and a clear fiber network structure still exists despite some local aggregation.",
+      "complexity": "single-hop",
+      "keywords": [
+        "TEM",
+        "morphological stability",
+        "aggregation",
+        "fiber network"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis shows that both Q-PHJ and BHJ films exhibit favorable face-on orientation with π-π stacking peaks located at 1.64 Å⁻¹ in the out-of-plane direction.",
+      "evidence": "In the out-of-plane direction, similar π-π stacking peaks at 1.64 Å⁻¹ were observed... Both of the Q-PHJ and BHJ films exhibit favorable face-on orientation.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "face-on orientation",
+        "pi-pi stacking",
+        "crystallinity"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Q-PHJ devices demonstrate faster charge extraction capacity than BHJ devices, with a sweep-out time (τs) of 0.383 μs compared to 0.578 μs for BHJ, as measured by transient photocurrent (TPC).",
+      "evidence": "The sweep-out time (τs) was 0.383 and 0.578 μs for Q-PHJ and BHJ all-PsCs, respectively. It was observed that a faster sweep-out process, or charge extraction capacity was obtained in the Q-PHJ structure.",
+      "complexity": "single-hop",
+      "keywords": [
+        "TPC",
+        "sweep-out time",
+        "charge extraction"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 12212,
+    "completion_tokens": 3667,
+    "total_tokens": 15879
+  }
+}

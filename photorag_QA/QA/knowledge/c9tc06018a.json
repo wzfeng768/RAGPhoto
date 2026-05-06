@@ -1,0 +1,156 @@
+{
+  "paper_id": "c9tc06018a",
+  "paper_title": "Halogenation on benzo[1,2-b:4,5-b0 ]difuran polymers for solvent additive-free non-fullerene polymer solar cells with efficiency exceeding 11%†",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/c9tc06018a/auto/c9tc06018a.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The polymers F10 and F11 are synthesized using a two-dimensional (2D) benzo[1,2-b:4,5-b']difuran (BDF) core with fluorine- and chlorine-substituted thiophene conjugated side chains, respectively, via Stille polymerization.",
+      "evidence": "The polymers F10 and F11 were synthesized by the copolymerization of M1 or M2 with FBTA-Br via Stille polymerization, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "BDF",
+        "halogenation",
+        "Stille polymerization",
+        "F10",
+        "F11"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The introduction of furan units into the polymer skeleton, as seen in BDF-based polymers, results in deeper HOMO energy levels compared to benzo[1,2-b:4,5-b']dithiophene (BDT) counterparts due to the higher electronegativity of oxygen compared to sulfur.",
+      "evidence": "BDF-based polymers will also possess deeper HOMO energy levels compared to their BDT counterparts because of the more electronegative oxygen atom in comparison with the BDT-based polymer",
+      "complexity": "single-hop",
+      "keywords": [
+        "BDF",
+        "BDT",
+        "HOMO",
+        "electronegativity",
+        "furan"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The chlorinated polymer F11, when paired with the m-ITIC acceptor, achieved a power conversion efficiency (PCE) of 11.37%, with an open-circuit voltage (Voc) of 0.921 V, a short-circuit current density (Jsc) of 17.75 mA/cm², and a fill factor (FF) of 69.6%.",
+      "evidence": "In the chlorinated polymer F11:m-ITIC-based device, a further higher Voc of 0.921 V with enhanced current density was achieved, which results in a promising PCE of 11.37%",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "Voc",
+        "Jsc",
+        "F11",
+        "m-ITIC"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The fluorinated polymer F10-based NF-PSC exhibited a power conversion efficiency (PCE) of 10.50% with an open-circuit voltage (Voc) of 0.908 V, a short-circuit current density (Jsc) of 16.89 mA/cm², and a fill factor (FF) of 69.5%.",
+      "evidence": "the fluorinated F10-based NF-PSC exhibited a power conversion efficiency (PCE) of 10.5% with a higher open circuit voltage (Voc) of 0.908 V... a Jsc of 16.89 mA cm−2 and a FF of 69.5%",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "Voc",
+        "F10",
+        "m-ITIC"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Chlorination in BDF polymers (F11) results in a deeper HOMO level (-5.50 eV) compared to fluorination (F10, -5.48 eV), which is attributed to the heavy atom effect and the empty 3d orbitals of the chlorine atom.",
+      "evidence": "the calculated HOMO energy levels are -5.48 eV and -5.50 eV for F10 and F11, respectively... the HOMO energy level of the target polymer is further lowered than that of the fluorine substituted polymer, which is due to the heavy atom effect and the empty 3d orbitals of the chlorine atom.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "chlorination",
+        "HOMO",
+        "heavy atom effect",
+        "3d orbitals"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The chlorinated F11-based device shows a higher exciton dissociation probability (Pdiss) of 92.9% compared to 86.2% for the fluorinated F10-based device under short-circuit conditions.",
+      "evidence": "the Pdiss of F10:m-ITIC- and F11:m-ITIC- based devices was calculated to be 86.2% and 92.9%, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "exciton dissociation",
+        "Pdiss",
+        "F11",
+        "F10"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "High photovoltaic performance in F10 and F11 devices was achieved without using solvent additives or solvent annealing, simplifying the fabrication process and making it suitable for large-area printing.",
+      "evidence": "It is also noted that these performances were obtained without using any solvent additive or solvent annealing process, which is attractive to large area printing processing technology.",
+      "complexity": "single-hop",
+      "keywords": [
+        "solvent additive-free",
+        "large-area printing",
+        "processing"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Intermolecular interactions such as F(Cl)···H(O) or F(Cl)···F(Cl) bonding in halogenated BDF polymers promote more ordered aggregation and preferred chain stacking, leading to improved charge carrier mobility.",
+      "evidence": "the intermolecular interactions induced by F(Cl)···H(O) and/or F(Cl)- - -F(Cl) can also promote more preferred polymeric chain stacking behavior... potentially improve charge carrier mobility.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "noncovalent interactions",
+        "chain stacking",
+        "charge mobility"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Space charge limit current (SCLC) measurements revealed that the F11:m-ITIC device possesses higher hole mobility (1.57 × 10⁻⁴ cm² V⁻¹ s⁻¹) and electron mobility (1.49 × 10⁻⁴ cm² V⁻¹ s⁻¹) than the F10:m-ITIC device.",
+      "evidence": "The hole mobility of the F10:m-ITIC device was found to be 1.27 × 10−4 cm2 V−1 s−1, whereas a higher hole mobility of 1.57 × 10−4 cm2 V−1 s−1 was observed for the F11:m-ITIC device. For the electron mobility, the F11:m-ITIC device also has a higher value of 1.49 × 10−4 cm2 V−1 s−1.",
+      "complexity": "single-hop",
+      "keywords": [
+        "SCLC",
+        "hole mobility",
+        "electron mobility",
+        "F11"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Atomic Force Microscopy (AFM) and Transmission Electron Microscopy (TEM) show that F11:m-ITIC blend films exhibit a more fibrillary nature and a smaller root-mean-square (RMS) roughness (1.27 nm) compared to F10:m-ITIC (1.69 nm).",
+      "evidence": "The RMS roughness of the F10:m-ITIC blend film was observed to be 1.69 nm, whereas the F11:m-ITIC blend film has a smaller RMS of 1.27 nm... the F11:m-ITIC film showed a more fibrillary nature than that of F10:m-ITIC.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "AFM",
+        "TEM",
+        "RMS roughness",
+        "fibrillary morphology"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Density Functional Theory (DFT) calculations indicate that both F10 and F11 maintain highly coplanar conjugated backbones with similar dihedral angles between the side chains and the backbone, despite the difference in halogen atomic radii.",
+      "evidence": "polymers F10 and F11 possessed smaller torsion angles between main chains suggesting that both polymers have better coplanar conjugated backbones... dihedral angles between side chain and polymer backbone are also very similar though fluorine and chlorine atoms have different atomic radii",
+      "complexity": "single-hop",
+      "keywords": [
+        "DFT",
+        "planarity",
+        "torsion angles",
+        "dihedral angles"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The exponential factor (α) for the relationship between short-circuit current (Jsc) and light intensity (Plight) is close to 1 for both F10 and F11 devices, indicating negligible bimolecular recombination.",
+      "evidence": "The α values of F10:m-ITIC and F11:m-ITIC devices are close to 1, indicating that almost all the charges are swept out and collected by the electrode before recombination",
+      "complexity": "single-hop",
+      "keywords": [
+        "bimolecular recombination",
+        "light intensity",
+        "Jsc"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 13834,
+    "completion_tokens": 3356,
+    "total_tokens": 17190
+  }
+}

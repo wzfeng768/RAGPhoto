@@ -1,0 +1,126 @@
+{
+  "paper_id": "ejic_201400127_sm_miscellaneous_information",
+  "paper_title": "Effects of Solvent Additives on the Crystal Architecture of Supramolecular Conductors Based on Diiodo(ethylenedithio)tetraselenafulvalene and Indium Tetrahalide Anions",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/ejic_201400127_sm_miscellaneous_information/auto/ejic_201400127_sm_miscellaneous_information.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Supramolecular conductors are synthesized using diiodo(ethylenedithio)tetraselenafulvalene (DIETS) as the organic donor molecule combined with indium tetrahalide anions.",
+      "evidence": "Title: 'Supramolecular Conductors Based on Diiodo(ethylenedithio)tetraselenafulvalene and Indium Tetrahalide Anions'",
+      "complexity": "single-hop",
+      "keywords": [
+        "DIETS",
+        "indium tetrahalide",
+        "supramolecular conductors",
+        "organic donor"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The crystallization of DIETS-based conductors is performed via electrochemical crystallization using chlorobenzene (PhCl) as the primary solvent.",
+      "evidence": "Table S1 lists 'PhCl/ml' as the primary solvent volume for all crystal growth experiments (1–6).",
+      "complexity": "single-hop",
+      "keywords": [
+        "electrochemical crystallization",
+        "chlorobenzene",
+        "solvent selection"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Specific solvent additives, including water (H2O), methanol (MeOH), and ethanol (EtOH), are employed during the electrochemical crystallization process to modify the crystal architecture.",
+      "evidence": "Table S1 and Scheme S1 detail the addition of 'HO', 'MeOH', and 'EtOH' as additives for crystals 2, 3, and 5 respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "solvent additives",
+        "methanol",
+        "ethanol",
+        "crystal architecture"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "To prevent the formation of tiny polycrystals during electrochemical growth, a constant current source with unsymmetrical reversed polarity (+0.80 sec, -0.20 sec) is utilized.",
+      "evidence": "Footnote b in Table S1: 'Polarity of the constant current source was reversed unsymmetrically (+ 0.80 sec, - 0.20 sec) to avoid the formation of tiny polycrystals.'",
+      "complexity": "single-hop",
+      "keywords": [
+        "current modulation",
+        "polycrystal prevention",
+        "electrochemical growth"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The typical current applied for the electrochemical crystallization of DIETS conductors ranges from 0.30 to 0.50 microamperes over a period of 4 to 5 days.",
+      "evidence": "Table S1 lists 'Currentb / A' as 0.30 or 0.50 and 'Time / days' as 4 or 5.",
+      "complexity": "single-hop",
+      "keywords": [
+        "current density",
+        "crystallization time",
+        "electrosynthesis"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The resistivity of the supramolecular conductor crystal 4 exhibits a temperature-dependent behavior that characterizes its electronic transport properties.",
+      "evidence": "Figure S1 shows the 'Temperature dependence of the resistivity for 4.'",
+      "complexity": "single-hop",
+      "keywords": [
+        "resistivity",
+        "temperature dependence",
+        "electronic transport"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The electronic properties of crystal 6, grown without additives in chlorobenzene, are evaluated through temperature-dependent resistivity measurements.",
+      "evidence": "Figure S2 shows the 'Temperature dependence of the resistivity for 6.'",
+      "complexity": "single-hop",
+      "keywords": [
+        "resistivity",
+        "temperature dependence",
+        "charge transport"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The ratio of DIETS donor to electrolyte mass is a critical parameter in the synthesis of these conductors, typically using approximately 4-5 mg of DIETS per 30-50 mg of electrolyte.",
+      "evidence": "Table S1 shows 'DIETS/mg' values (4.1 to 5.1) and 'Electrolyte / mg' values (29.1 to 50.8).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "mass ratio",
+        "DIETS",
+        "electrolyte",
+        "stoichiometry"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "A high concentration of methanol (approximately 14.25% by volume) can be used as a solvent additive in the chlorobenzene system to influence the crystallization of DIETS-based conductors.",
+      "evidence": "Table S1, Crystal 3: 'PhCl/ml' = 17.15, 'Additive / ml' = MeOH, 2.85 ml. (2.85 / (17.15 + 2.85) = 14.25%)",
+      "complexity": "multi-hop",
+      "keywords": [
+        "methanol additive",
+        "solvent ratio",
+        "crystallization"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The crystal architecture and subsequent electrical resistivity of DIETS-based conductors are sensitive to the presence of small amounts of polar additives like water in the growth medium.",
+      "evidence": "The paper title and Table S1 (Crystal 2) indicate that even small amounts of water (0.12 ml per 80 ml PhCl) are used to study effects on crystal architecture.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "structure-property",
+        "water additive",
+        "crystal architecture",
+        "supramolecular"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 1409,
+    "completion_tokens": 2498,
+    "total_tokens": 3907
+  }
+}

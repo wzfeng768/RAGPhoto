@@ -1,0 +1,138 @@
+{
+  "paper_id": "Solar_RRL_-_2018_-_Di_Carlo_Rasi_-_A_Universal_Route_to_Fabricate_nip_MultiJunction_Polymer_Solar_Ce",
+  "paper_title": "A Universal Route to Fabricate n-i-p Multi-Junction Polymer Solar Cells via Solution Processing",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Solar RRL - 2018 - Di Carlo Rasi - A Universal Route to Fabricate n‐i‐p Multi‐Junction Polymer Solar Cells via Solution/auto/Solar RRL - 2018 - Di Carlo Rasi - A Universal Route to Fabricate n‐i‐p Multi‐Junction Polymer Solar Cells via Solution.md",
+  "knowledge_points": [
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The study utilizes an inverted (n-i-p) multi-junction architecture where the electron transport layer (ETL) is deposited first, followed by the active layer and the hole transport layer (HTL), specifically to avoid the degradation of ZnO by the acidic nature of PEDOT:PSS and to minimize parasitic absorption.",
+      "evidence": "We adopted an inverted (n-i-p) device configuration in which the electron transporting layer (ETL) is deposited first, followed by the active layer and the hole transport layer (HTL). ... Reversing the processing order of the ZnO and PEDOT:PSS layers avoids these complications.",
+      "complexity": "single-hop",
+      "keywords": [
+        "n-i-p architecture",
+        "inverted structure",
+        "PEDOT:PSS",
+        "ZnO",
+        "charge transport"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "A novel hole transport layer (HTL) formulation, termed D-PEDOT:PSS, is created by diluting commercial PEDOT:PSS (Clevios P VPAl 4083) with n-propanol in a 1:2 volume ratio to improve wetting on organic surfaces.",
+      "evidence": "In this work, we introduce a novel formulation of PEDOT:PSS based on adding n-propanol. ... By further diluting to 1:2 (v/v), the coverage turned uniform for each of the cases considered.",
+      "complexity": "single-hop",
+      "keywords": [
+        "D-PEDOT:PSS",
+        "n-propanol",
+        "wetting",
+        "solution processing",
+        "HTL"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The 1:2 volume ratio of water to n-propanol in the D-PEDOT:PSS dispersion (0.38:0.62 w/w) is close to the azeotropic composition (0.28:0.72 w/w), which prevents de-wetting during the drying process by ensuring n-propanol remains present during evaporation.",
+      "evidence": "Furthermore the 1:2 volume ratio of water to n-propanol (0.38:0.62 w/w) is fairly close to the azeotropic composition (0.28:0.72 w/w). This ensures that during evaporation the evaporating layer will contain an appreciable amount of n-propanol, such that de-wetting during drying is prevented.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "azeotropic mixture",
+        "evaporation",
+        "de-wetting",
+        "n-propanol",
+        "PEDOT:PSS"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "For the electron transport layer (ETL) in the interconnection layer (ICL), ZnO nanoparticles with an average diameter of 4 nm are synthesized and dispersed in isoamyl alcohol to ensure orthogonality with the underlying PEDOT:PSS layer.",
+      "evidence": "The ZnO was either made by a sol-gel route or from pre-formed nanoparticles with average diameter of 4 nm... The ZnO nanoparticle dispersion was dynamically spin-coated in ambient air to give a 20 nm thick layer.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ZnO nanoparticles",
+        "isoamyl alcohol",
+        "ETL",
+        "interconnection layer"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The open-circuit voltage (Voc) of multi-junction cells is generally equal to the sum of the Voc of the individual subcells; however, materials like PDCBT (BHJ3) show a sensitivity to processing, resulting in a Voc loss of up to 110 mV in tandem configurations.",
+      "evidence": "The experimental Vocs generally agree within a few tens of mV with the value calculated from the sum of the corresponding single-junction devices... For BHJ3, the loss is evidently much larger (up to 110 mV).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "open-circuit voltage",
+        "PDCBT",
+        "voltage addition",
+        "tandem solar cells"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "A triple-junction solar cell using BHJ3 (PDCBT:PC60BM), BHJ5 (PTB7-Th:PC70BM), and BHJ8 (PMDPP3T:PC60BM) achieved a power conversion efficiency (PCE) of 10.0% with a Voc of 2.15 V and a fill factor (FF) of 0.68.",
+      "evidence": "We optimized the triple device with BHJ3, BHJ5, and BHJ8 as front, middle, and back subcells... a PCE of 10% was predicted and the corresponding experimental results are reported in Table 4.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "triple-junction",
+        "PTB7-Th",
+        "PMDPP3T",
+        "PDCBT"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Ethoxylated polyethylenimine (PEIE) diluted to 0.2 wt% in isopropanol can function as an ETL in tandem cells, but it is unsuitable for triple-junction cells because it deteriorates when a subsequent ICL is processed on top.",
+      "evidence": "For fabricating triple-junction solar cells we find that PEIE is not suitable in the bottom ICL because it deteriorates upon deposition of the top ICL. ... This problem is avoided by using ZnO nanoparticles.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "PEIE",
+        "triple-junction",
+        "ETL",
+        "interconnection layer",
+        "stability"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Semi-empirical opto-electrical modeling using transfer matrix (TM) analysis was employed to optimize the thickness of the eight layers in the triple-junction stack to maximize the matched current density.",
+      "evidence": "We further optimized the thickness of the active layers via semi-empirical opto-electrical modeling. ... First we determined the wavelength-dependent refractive index (n) and extinction coefficient (k) of each layer and determined the maximum current generated... using transfer matrix (TM) optical modeling.",
+      "complexity": "single-hop",
+      "keywords": [
+        "transfer matrix method",
+        "optical modeling",
+        "thickness optimization",
+        "IQE"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The study utilized a range of donor polymers with complementary bandgaps, including wide bandgap donors like PCDTBT (1.88 eV) and PBDTTPD (1.85 eV), and low bandgap donors like PMDPP3T (1.30 eV).",
+      "evidence": "We used PCDTBT (Eg = 1.88 eV), PBDTTPD (Eg = 1.85 eV), and PDCBT (Eg = 1.90 eV) as wide bandgap donors... For the back subcells we selected PDPP5T (Eg = 1.46 eV) PDPP3T (Eg = 1.33 eV), and its methylated version PMDPP3T (Eg = 1.30 eV).",
+      "complexity": "single-hop",
+      "keywords": [
+        "donor polymers",
+        "bandgap engineering",
+        "PCDTBT",
+        "PMDPP3T",
+        "PBDTTPD"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The BHJ5-BHJ8 (PTB7-Th and PMDPP3T) tandem solar cell achieved a high short-circuit current density (Jsc) of 10.1 mA/cm² and a PCE of 8.7%.",
+      "evidence": "Table 3: BHJ5-BHJ8 (ZnO ETL): Voc 1.39 V, Jsc 10.1 mA/cm2, FF 0.62, PCE 8.7%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "short-circuit current",
+        "PTB7-Th",
+        "PMDPP3T",
+        "tandem performance"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 14842,
+    "completion_tokens": 3133,
+    "total_tokens": 17975
+  }
+}

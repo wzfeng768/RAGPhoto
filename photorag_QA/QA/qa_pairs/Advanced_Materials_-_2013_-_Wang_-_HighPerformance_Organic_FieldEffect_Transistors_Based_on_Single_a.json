@@ -1,0 +1,75 @@
+{
+  "paper_id": "Advanced_Materials_-_2013_-_Wang_-_HighPerformance_Organic_FieldEffect_Transistors_Based_on_Single_a",
+  "paper_title": "High-Performance Organic Field-Effect Transistors Based on Single and Large-Area Aligned Crystalline Microribbons of 6,13-Dichloropentacene",
+  "qa_pairs": [
+    {
+      "question": "What is the maximum hole mobility achieved by 6,13-dichloropentacene (DCP) single-crystalline microribbon transistors grown via physical vapor transport (PVT)?",
+      "answer": "The single-crystalline microribbon transistors based on 6,13-dichloropentacene (DCP) grown by PVT exhibit a maximum hole mobility of 9.0 cm²/V·s.",
+      "category": "Performance Metrics",
+      "source_title": "High-Performance Organic Field-Effect Transistors Based on Single and Large-Area Aligned Crystalline Microribbons of 6,13-Dichloropentacene",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the introduction of chlorine substituents influence the intermolecular interactions and molecular packing of 6,13-dichloropentacene (DCP)?",
+      "answer": "The introduction of chlorine substituents in 6,13-dichloropentacene (DCP) promotes a slipped π–π stacking model characterized by large intermolecular overlap. Furthermore, it facilitates the formation of C–H···Cl interactions between neighboring molecules, which helps stabilize the crystal structure.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "High-Performance Organic Field-Effect Transistors Based on Single and Large-Area Aligned Crystalline Microribbons of 6,13-Dichloropentacene",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the field-effect mobility of 6,13-dichloropentacene (DCP) ribbons grown by physical vapor transport (PVT) compare to those produced via solution processing, and what factors contribute to this difference?",
+      "answer": "PVT-grown 6,13-dichloropentacene (DCP) ribbons exhibit significantly higher performance, with a maximum mobility of 9.0 cm²/V·s and an average of 5.71 cm²/V·s, compared to solution-processed ribbons which show a mobility of only 0.19 cm²/V·s. The lower performance of solution-processed ribbons is attributed to lower crystalline quality, higher trap density, and lower material purity.",
+      "category": "Performance Metrics",
+      "source_title": "High-Performance Organic Field-Effect Transistors Based on Single and Large-Area Aligned Crystalline Microribbons of 6,13-Dichloropentacene",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Describe the orientation of the unit cell axes and the π–π stacking direction relative to the substrate in 6,13-dichloropentacene (DCP) microribbons.",
+      "answer": "In 6,13-dichloropentacene (DCP) microribbons, the b-axis of the unit cell is oriented perpendicular to the substrate surface. The π–π stacking direction ([100] direction) is parallel to the substrate surface and aligned with the longitudinal growth direction of the microribbons.",
+      "category": "Structure-Property Relationships",
+      "source_title": "High-Performance Organic Field-Effect Transistors Based on Single and Large-Area Aligned Crystalline Microribbons of 6,13-Dichloropentacene",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What processing conditions are required to produce large-area well-aligned microribbons of 6,13-dichloropentacene (DCP) from solution?",
+      "answer": "To produce these aligned microribbons, a 1.0–1.5 mg/mL solution of 6,13-dichloropentacene (DCP) in o-dichlorobenzene is drop-cast onto a substrate that is maintained at a temperature of 140 °C.",
+      "category": "Processing & Fabrication",
+      "source_title": "High-Performance Organic Field-Effect Transistors Based on Single and Large-Area Aligned Crystalline Microribbons of 6,13-Dichloropentacene",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Does the molecular packing of 6,13-dichloropentacene (DCP) change when it is deposited on different types of substrates or via different methods?",
+      "answer": "No, 6,13-dichloropentacene (DCP) maintains a consistent molecular packing arrangement regardless of the substrate (such as bare SiO2/Si or OTS-modified SiO2) or the deposition method (PVT versus solution processing), showing a strong tendency to adopt the slipped π–π stacking model.",
+      "category": "Structure-Property Relationships",
+      "source_title": "High-Performance Organic Field-Effect Transistors Based on Single and Large-Area Aligned Crystalline Microribbons of 6,13-Dichloropentacene",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What are the typical threshold voltage and on/off ratio values for field-effect transistors based on 6,13-dichloropentacene (DCP) microribbons?",
+      "answer": "The 6,13-dichloropentacene (DCP) microribbon devices typically exhibit threshold voltages (VT) between -8 V and 1 V, with on/off current ratios (Ion/Ioff) exceeding 10^4.",
+      "category": "Performance Metrics",
+      "source_title": "High-Performance Organic Field-Effect Transistors Based on Single and Large-Area Aligned Crystalline Microribbons of 6,13-Dichloropentacene",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How long can 6,13-dichloropentacene (DCP) ribbon transistors be stored in ambient conditions without significant performance degradation?",
+      "answer": "6,13-dichloropentacene (DCP) ribbon transistors demonstrate high environmental stability, maintaining their performance without obvious degradation after being stored in ambient conditions for two months.",
+      "category": "Stability & Degradation",
+      "source_title": "High-Performance Organic Field-Effect Transistors Based on Single and Large-Area Aligned Crystalline Microribbons of 6,13-Dichloropentacene",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2866,
+    "completion_tokens": 3236,
+    "total_tokens": 6102
+  }
+}

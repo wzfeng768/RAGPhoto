@@ -1,0 +1,138 @@
+{
+  "paper_id": "Adv_Funct_Materials_-_2020_-_Qin_-_Recent_Progress_in_Flexible_and_Stretchable_Organic_Solar_Cells",
+  "paper_title": "Recent Progress in Flexible and Stretchable Organic Solar Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Adv Funct Materials - 2020 - Qin - Recent Progress in Flexible and Stretchable Organic Solar Cells/auto/Adv Funct Materials - 2020 - Qin - Recent Progress in Flexible and Stretchable Organic Solar Cells.md",
+  "knowledge_points": [
+    {
+      "category": "Performance Metrics",
+      "content": "State-of-the-art flexible organic solar cells have achieved a power conversion efficiency (PCE) of 15.21% for single-junction devices and 16.55% for tandem flexible devices.",
+      "evidence": "State-of-the-art flexible and stretchable OsCs have achieved a power conversion efficiency of 15.21% (16.55% for tandem flexible devices) and 13% respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "flexible OSCs",
+        "tandem devices"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Flexible Indium Tin Oxide (ITO) electrodes can be deposited on polymer substrates like PET using roll-to-roll sputtering, achieving a sheet resistance of 47.4 Ω sq⁻¹ and transparency of 83.46% at 500–550 nm.",
+      "evidence": "Kim's group deposited ITO electrode on PET substrates using a roll-to-roll sputtering process... the obtained flexible ITO electrode has a sheet resistance of 47.4 Ω sq⁻¹ and average transparency of 83.46% at 500-550 nm.",
+      "complexity": "single-hop",
+      "keywords": [
+        "roll-to-roll sputtering",
+        "ITO",
+        "PET",
+        "sheet resistance"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Amorphous transparent conducting oxides (TCOs) like Zn₀.₃In₀.₃Sn₀.₃O₃ (ZITO) serve as flexible alternatives to crystalline ITO, maintaining 85% of initial PCE after 10 flexing cycles at a 5 mm radius.",
+      "evidence": "Zhou et al. reported an amorphous TCOs electrode Zn0.3In0.3Sn0.3O3 (ZITO) on the AryLite substrate... which maintained 90% and 85% of the initial PCE after 10 flexing/relaxing cycles with a radius of 5 mm.",
+      "complexity": "single-hop",
+      "keywords": [
+        "amorphous TCO",
+        "ZITO",
+        "mechanical flexibility"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "In inverted flexible OSCs, ZnO is the most widely used cathode buffer layer, but its application is limited by the low glass transition temperature of plastic substrates, necessitating low-temperature growth methods like atomic layer deposition (80 °C) or mist pyrolysis (180 °C).",
+      "evidence": "In inverted OSCs, ZnO is the most widely used cathode buffer layer... However, due to the low glass transition temperature of the flexible plastic substrates, it restricts its application in flexible OsCs. To address this challenge, low-temperature growth ZnO films have been reported.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "ZnO",
+        "inverted structure",
+        "low-temperature processing",
+        "buffer layer"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Post-treatment of PEDOT:PSS films with concentrated sulfuric acid (H₂SO₄) can increase electrical conductivity to over 3000 S cm⁻¹, though milder organic acids like methanesulfonic acid (CH₃SO₃H) are preferred for flexible substrates to avoid damage.",
+      "evidence": "His group first reported metallic-like transport behavior in PEDOT:Pss film after posttreatment with H2SO4, whose conductivity hit a record high of over 3000 S cm⁻¹... Ouyang's group switched to mild and weak organic acids and found methanesulfonic acid (CH3SO3H) could also increase the conductivity to 3300 S cm⁻¹",
+      "complexity": "multi-hop",
+      "keywords": [
+        "PEDOT:PSS",
+        "conductivity",
+        "acid treatment",
+        "sulfuric acid"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Graphene electrodes produced via Chemical Vapor Deposition (CVD) exhibit high electron mobility (2 × 10⁵ cm² V⁻¹ s⁻¹), high conductivity (10⁴ S cm⁻¹), and high optical transparency (97.7%).",
+      "evidence": "Graphene is an excellent candidate for FTE due to its high electron mobility (2 × 10⁵ cm² V⁻¹ s⁻¹), high electrical conductivity (10⁴ S cm⁻¹), excellent optical transparency (97.7%)",
+      "complexity": "single-hop",
+      "keywords": [
+        "graphene",
+        "carrier mobility",
+        "transparency",
+        "CVD"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Flexible OSCs utilizing a PI@graphene (polyimide-integrated three-layer stacked graphene) electrode combined with a PM6:Y6 photoactive layer have reached a PCE of 15.2%.",
+      "evidence": "The PI@graphene-based flexible device with PM6:Y6 as the photoactive layer showed a high PCE of 15.2%, which retained above 90% of the initial efficiency after 1000 bending cycles at a radius of 2 mm.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PM6:Y6",
+        "graphene electrode",
+        "flexible efficiency"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Flexible devices based on PEDOT:PSS electrodes often suffer from degradation due to the material's inherent hygroscopicity and acidity.",
+      "evidence": "Firstly, the device based on PEDOT:PSS can easily cause degradation because of hygroscopicity and acidity.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PEDOT:PSS",
+        "stability",
+        "hygroscopicity",
+        "acidity"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Single-walled carbon nanotubes (SWCNTs) can be used as flexible transparent electrodes, with printed networks on PET substrates showing a sheet resistance of 200 Ω sq⁻¹ and 85% transmittance.",
+      "evidence": "Rowell et al. fabricated FTE by printing SWCNTs network films on PET substrate. The prepared swCNTs electrodes exhibited a sheet resistance of 200 Ω sq⁻¹ and light transmittance of 85% at 550 nm.",
+      "complexity": "single-hop",
+      "keywords": [
+        "SWCNT",
+        "carbon nanotubes",
+        "transparent electrode"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Slot-die coating is a scalable technique for large-area flexible OSCs, demonstrated by the fabrication of SMD2-based flexible modules with an active area of 80 cm² and a PCE of 5.25%.",
+      "evidence": "The SMD2-based flexible OSCs with PET/ITO as substrate exhibited a maximum PCE of 5.25% on an active area of 80 cm2... Consequently, the slot-die coating/printing technique can be suitable for large-area flexible OsCs and industrial manufacture.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "slot-die coating",
+        "large-area",
+        "OSC modules"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "There are two primary strategies for achieving stretchability in OSCs: modifying the device structure (e.g., buckling/textiles) or developing intrinsically stretchable semiconducting materials.",
+      "evidence": "There are two common strategies used for fabricating stretchable OsCs. The first method is to adjust the structure of the devices, such as buckling... The second method focuses on utilizing different functional semiconducting materials in the active layer toward intrinsically stretchable OsCs.",
+      "complexity": "single-hop",
+      "keywords": [
+        "stretchable OSCs",
+        "buckling",
+        "intrinsically stretchable"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 15307,
+    "completion_tokens": 2938,
+    "total_tokens": 18245
+  }
+}

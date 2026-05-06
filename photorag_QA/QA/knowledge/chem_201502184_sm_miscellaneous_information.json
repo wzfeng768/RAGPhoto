@@ -1,0 +1,176 @@
+{
+  "paper_id": "chem_201502184_sm_miscellaneous_information",
+  "paper_title": "Diaceno[a,e]pentalenes: An Excellent Molecular Platform for High-Performance Organic Semiconductors",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/chem_201502184_sm_miscellaneous_information/auto/chem_201502184_sm_miscellaneous_information.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The diaceno[a,e]pentalene derivatives (DBP, DNP, DAP) utilize bulky 3,5-di-tert-butylphenyl substituents to manage intermolecular arrangement and steric hindrance.",
+      "evidence": "The existence of bulky 3, 5-di-tert-butylphenyl substituents generated great steric hindrance for the intermolecular arrangement.",
+      "complexity": "single-hop",
+      "keywords": [
+        "diaceno[a,e]pentalenes",
+        "steric hindrance",
+        "3,5-di-tert-butylphenyl",
+        "molecular design"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The thermal stability of diaceno[a,e]pentalenes increases with the extension of the conjugated skeleton, with 5% weight loss temperatures (T5wt%) of 308 °C for DBP, 350 °C for DNP, and 426 °C for DAP.",
+      "evidence": "Thermal gravimetric analysis (TGA) curves of compounds (a) DBP (308 °C), (b) DNP (350 °C), and (c) DAP (426 °C).",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "TGA",
+        "DBP",
+        "DNP",
+        "DAP"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "As the conjugation length increases from DBP to DAP, the HOMO energy levels rise (-5.70 eV for DBP, -5.50 eV for DNP, and -5.26 eV for DAP), while the optical bandgap decreases (2.61 eV to 2.14 eV).",
+      "evidence": "Table S1. Photophysical and electrochemical properties... DBP HOMO -5.70 eV, Eopt 2.61 eV; DNP HOMO -5.50 eV, Eopt 2.32 eV; DAP HOMO -5.26 eV, Eopt 2.14 eV.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "HOMO",
+        "LUMO",
+        "energy levels",
+        "bandgap",
+        "conjugation"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "In diaceno[a,e]pentalene single crystals, the angle between the molecular skeleton and the 3,5-di-tert-butylphenyl substituent decreases as the conjugated skeleton extends: 50.61° for DBP, 46.76° for DNP, and 43.77° for DAP.",
+      "evidence": "With the extension of the conjugated molecular skeleton, the angle formed by the molecular skeleton and substituent is gradually smaller. (a) The angle in DBP single crystal is 50.61° (b) The angle in DNP single crystal is 46.76° (c) The angle in DAP single crystal is 43.77°",
+      "complexity": "single-hop",
+      "keywords": [
+        "crystal structure",
+        "steric hindrance",
+        "diaceno[a,e]pentalenes",
+        "molecular angle"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Single crystals of diaceno[a,e]pentalenes were grown using physical vapor transport (PVT) in a horizontal-tube furnace with ultrahigh-purity argon as the carrier gas at a flow rate of 100 cm³/min.",
+      "evidence": "Micro/nanometer-sized single-crystals of these compounds used in this study were grown in typical growth conditions by physical vapor transport (PVT) in a horizontal-tube furnace and the carrier gas was ultrahigh-purity argon at a flow rate of 100 cm3 min-1",
+      "complexity": "single-hop",
+      "keywords": [
+        "PVT",
+        "physical vapor transport",
+        "single crystal growth",
+        "fabrication"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The morphology of DAP single crystals is sensitive to the growth temperature during PVT: microribbons form at 280 °C (suppressed {100} face growth), while rectangular crystals form at 320 °C (increased {100} face growth).",
+      "evidence": "Figure S11. Growth pattern schematic for DAP single crystal. (a) At 280 °C, the growth rate of {100} faces is suppressed and single crystal microribbons were generated. (b) At 320 °C, the growth rate of {100} faces substantial increase and rectangle crystals were obtained.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "DAP",
+        "morphology control",
+        "PVT",
+        "growth temperature",
+        "crystal facets"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The solvent choice in drop-casting significantly impacts DAP crystal morphology: chloroform results in rod-shaped crystals, whereas toluene produces rhombus-shaped crystals.",
+      "evidence": "Rod-shaped crystals were obtained with chloroform as the solvent, while rhombus-shaped crystals were obtained with toluene as the solvent.",
+      "complexity": "single-hop",
+      "keywords": [
+        "solvent effect",
+        "drop-casting",
+        "DAP",
+        "morphology",
+        "chloroform",
+        "toluene"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "DAP single-crystal microribbon transistors exhibit a high average charge carrier mobility of 3.47 cm² V⁻¹ s⁻¹ and a maximum mobility of 6.55 cm² V⁻¹ s⁻¹ along the b-axis.",
+      "evidence": "Table S3. Field-effect characteristics... DAP (b-axis) (Ribbon crystal) μave (μmax) (cm2V-1 s-1): 3.47 (6.55).",
+      "complexity": "single-hop",
+      "keywords": [
+        "mobility",
+        "DAP",
+        "OFET",
+        "single crystal",
+        "performance"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "DNP single-crystal transistors demonstrate lower performance compared to DAP, with a maximum mobility of 0.52 cm² V⁻¹ s⁻¹ for hexagonal crystals along the b-axis.",
+      "evidence": "Table S3. Field-effect characteristics... DNP (b-axis) (Hexagonal crystal) μave (μmax) (cm2V-1 s-1): 0.14 (0.52).",
+      "complexity": "single-hop",
+      "keywords": [
+        "DNP",
+        "mobility",
+        "single crystal",
+        "OFET"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Thin film transistors based on DAP reached a maximum mobility of 0.87 cm² V⁻¹ s⁻¹, which is significantly lower than the mobility achieved in its single-crystal counterparts.",
+      "evidence": "Figure S15. (b) Thin film transistors based on DAP had a maximum mobility of 0.87 cm2 V-1 s-1",
+      "complexity": "single-hop",
+      "keywords": [
+        "thin film transistor",
+        "DAP",
+        "mobility",
+        "OTFT"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The OFET devices were fabricated using a top-contact bottom-gate (TCBG) configuration, employing an organic nanowire mask method for the precise deposition of 50 nm thick gold (Au) source and drain electrodes.",
+      "evidence": "The traditional top-contact bottom-gate devices based on the nano/micro-single crystal were fabricated respectively with the organic nanowire mask method... a layer of Au about 50 nm thick was deposited as the source and drain electrodes.",
+      "complexity": "single-hop",
+      "keywords": [
+        "TCBG",
+        "nanowire mask",
+        "device fabrication",
+        "gold electrodes"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Selected area electron diffraction (SAED) revealed that the d-spacing along the growth direction for DAP single crystal microribbons prepared by PVT is 0.94 nm.",
+      "evidence": "Figure S13. (a) The symmetric diffraction spots from the SAED pattern of DAP single crystal microribbon prepared by PVT show that the d-spacing along the growth direction is 0.94 nm.",
+      "complexity": "single-hop",
+      "keywords": [
+        "SAED",
+        "d-spacing",
+        "DAP",
+        "PVT",
+        "electron diffraction"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Morphology predictions using the Material Studio Package identified the {001} facet as the dominant surface for DBP (40.20% total facet area) and the {200} facet for DNP (56.45% total facet area).",
+      "evidence": "Table S2. Surface free and attachment energies... DBP {001} Total facet area (%) 40.20; DNP {200} Total facet area (%) 56.45.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "morphology prediction",
+        "Material Studio",
+        "crystal facets",
+        "DBP",
+        "DNP"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 5796,
+    "completion_tokens": 3795,
+    "total_tokens": 9591
+  }
+}

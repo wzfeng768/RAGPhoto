@@ -1,0 +1,156 @@
+{
+  "paper_id": "Advanced_Materials_-_2022_-_Xia_-_Novel_Oligomer_Enables_Green_Solvent_Processed_17_5_Ternary_Organi",
+  "paper_title": "Novel Oligomer Enables Green Solvent Processed 17.5% Ternary Organic Solar Cells: Synergistic Energy Loss Reduction and Morphology Fine-Tuning",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Materials - 2022 - Xia - Novel Oligomer Enables Green Solvent Processed 17 5  Ternary Organic Solar Cells /auto/Advanced Materials - 2022 - Xia - Novel Oligomer Enables Green Solvent Processed 17 5  Ternary Organic Solar Cells .md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Two structurally similar D-A type oligomers were synthesized for ternary OSCs: 5BDTBDD with a D-A-D-A-D configuration and 5BDDBDT with an A-D-A-D-A configuration, both utilizing BDT and BDD building blocks.",
+      "evidence": "In this work, two novel structurally similar oligomers (named 5BDTBDD and 5BDDBDT) with D-A-D-A-D and A-D-A-D-A configuration are synthesized for high-performance ternary OSCs... with 4,8-di(6-ethylhexylthiophen2-yl)benzo[1,2-b:4,5-b']dithiophene (BDT) and benzo[1,2-c:4,5- c'] dithiophene-4,8-dione (BDD) units.",
+      "complexity": "single-hop",
+      "keywords": [
+        "oligomer",
+        "5BDTBDD",
+        "5BDDBDT",
+        "D-A structure",
+        "BDT",
+        "BDD"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Ternary organic solar cells using PM6:5BDTBDD:BTP-BO4Cl achieved a power conversion efficiency (PCE) of 17.54% when processed with the green solvent o-xylene.",
+      "evidence": "The ternary devices based on PM6:5BDTBDD:BTPBO4Cl... achieve a significantly improved PCEs of 17.54%... representing the state-of-the art OSCs processed by green solvent of o-xylene.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "17.54%",
+        "o-xylene",
+        "ternary OSC",
+        "PM6",
+        "BTP-BO4Cl"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The oligomers 5BDTBDD and 5BDDBDT possess shallower HOMO levels (-5.40 eV and -5.27 eV, respectively) compared to the host polymer PM6 (-5.48 eV), yet they successfully increase the open-circuit voltage (Voc) by reducing non-radiative recombination.",
+      "evidence": "Although the highest occupied molecular orbital (HOMO) levels of 5BDTBDD and 5BDDBDT are higher than that of PM6, the oligomers enabled... improved Voc, indicating suppressing non-radiative recombination overweighs the common belief of deeper HOMO requirement in third component selection.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "HOMO level",
+        "Voc",
+        "non-radiative recombination",
+        "energy level alignment"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The non-radiative recombination loss (ΔE3) in the PM6:5BDTBDD:BTP-BO4Cl ternary device (0.224 eV) is lower than that of the binary PM6:BTP-BO4Cl device (0.241 eV), contributing to improved voltage.",
+      "evidence": "The ΔE3 values of the 5BDTBDD:BTP-BO4Cl device (0.197 eV) and the ternary devices (0.207–0.230 eV) are much lower than that of the binary PM6:BTP-BO4Cl device (0.241 eV).",
+      "complexity": "single-hop",
+      "keywords": [
+        "energy loss",
+        "non-radiative recombination",
+        "ΔE3",
+        "electroluminescence"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The ternary OSCs demonstrate high composition tolerance, maintaining a PCE of 16.15% even when the 5BDTBDD oligomer content is increased to 50% in the donor blend.",
+      "evidence": "It is noteworthy that even when incorporating 50% 5BDTBDD, a comparable 16.15% PCE was obtained in ternary devices, indicating the high tolerance of ternary blends to the proportion of the third component.",
+      "complexity": "single-hop",
+      "keywords": [
+        "composition tolerance",
+        "ternary blend",
+        "PCE",
+        "donor ratio"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis reveals that 5BDTBDD and 5BDDBDT neat films exhibit a dominant edge-on molecular orientation, with lamellar diffraction peaks (100) at 0.305 and 0.324 Å⁻¹ in the out-of-plane direction.",
+      "evidence": "5BDTBDD and 5BDDBDT neat films present dominant edge-on molecular orientation relative to the substrate... show a lamellar diffraction peak (100) at 0.305 and 0.324 Å⁻¹ in the out-of-plane (OOP), respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "molecular orientation",
+        "edge-on",
+        "crystallinity"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The miscibility between the components was evaluated using the Flory-Huggins interaction parameter (χ); the 5BDTBDD:BTP-BO4Cl pair showed a smaller χ (0.083) compared to PM6:BTP-BO4Cl (4.48), indicating better compatibility.",
+      "evidence": "The smaller interaction parameter between 5BDTBDD and BTP-BO4Cl (χ5BDTBDD-BTP-BO4Cl = 0.083) confirms that 5BDTBDD are more miscible in BTP-BO4Cl domains... smaller than that of the PM6-BTP-BO4Cl (4.48 mN m⁻¹).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "miscibility",
+        "Flory-Huggins",
+        "surface energy",
+        "compatibility"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Density functional theory (DFT) calculations showed that 5BDTBDD and 5BDDBDT have lower electrostatic potential (ESP) values than PM6, and the larger ESP difference between these oligomers and the BTP-BO4Cl acceptor facilitates exciton dissociation.",
+      "evidence": "It has been reported that a larger difference of ESP between donor and acceptor can induce larger intermolecular electric field, which is more favorable for the exciton dissociation... 5BDTBDD and 5BDDBDT exhibit lower ESP surface area, indicating lower ESP values of two oligomers than that of PM6 fragments.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "DFT",
+        "ESP",
+        "electrostatic potential",
+        "exciton dissociation"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The optimized ternary OSCs exhibited an external quantum efficiency of electroluminescence (EQEEL) of up to 0.05%, which is significantly higher than typical organic solar cells and indicates suppressed non-radiative recombination.",
+      "evidence": "the oligomers enabled ultra-high electroluminescence quantum efficiency (EQEEL) of 0.05%... indicating suppressing non-radiative recombination.",
+      "complexity": "single-hop",
+      "keywords": [
+        "EQEEL",
+        "electroluminescence",
+        "non-radiative recombination"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Urbach energy (EU) measurements via FTPS-EQE showed that the optimized ternary device (0.9:0.1:1.2) has a lower EU of 23.9 meV compared to the binary device (26.4 meV), indicating reduced energetic disorder.",
+      "evidence": "the optimized ternary device (0.9:0.1:1.2) showed a smaller Urbach energy (EU) of 23.9 meV than that of binary counterparts (26.4 meV).",
+      "complexity": "single-hop",
+      "keywords": [
+        "Urbach energy",
+        "energetic disorder",
+        "FTPS-EQE"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Both 5BDTBDD and 5BDDBDT oligomers demonstrate high thermal stability with decomposition temperatures (5% weight loss) exceeding 410 °C under nitrogen.",
+      "evidence": "Under a nitrogen atmosphere, the decomposition temperatures over 410 °C at 5% weight loss are observed for both molecules, indicating their good thermal stability.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "decomposition temperature",
+        "TGA"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Exciton dissociation efficiency (ηd) and charge collection efficiency (ηc) were improved in ternary devices, with ηd reaching 0.979 for the 5BDTBDD-based ternary cell compared to 0.972 for the binary cell.",
+      "evidence": "The ηd of PM6:5BDTBDD:BTP-BO4Cl and PM6:5BDDBDT:BTP-BO4Cl ternary OSCs (0.979 and 0.975) are slightly higher than of PM6:BTP-BO4Cl (0.972)... optimized ternary OSCs... exhibit a higher ηc value of 0.884 and 0.883 in comparison to the binary OSCs (0.879).",
+      "complexity": "single-hop",
+      "keywords": [
+        "exciton dissociation",
+        "charge collection efficiency",
+        "photocurrent density"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 16490,
+    "completion_tokens": 3480,
+    "total_tokens": 19970
+  }
+}

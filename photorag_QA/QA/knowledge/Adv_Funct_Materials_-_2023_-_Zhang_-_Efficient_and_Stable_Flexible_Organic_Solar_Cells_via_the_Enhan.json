@@ -1,0 +1,148 @@
+{
+  "paper_id": "Adv_Funct_Materials_-_2023_-_Zhang_-_Efficient_and_Stable_Flexible_Organic_Solar_Cells_via_the_Enhan",
+  "paper_title": "Efficient and Stable Flexible Organic Solar Cells via the Enhanced Optical-Thermal Radiative Transfer",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Adv Funct Materials - 2023 - Zhang - Efficient and Stable Flexible Organic Solar Cells via the Enhanced Optical‐Thermal/auto/Adv Funct Materials - 2023 - Zhang - Efficient and Stable Flexible Organic Solar Cells via the Enhanced Optical‐Thermal.md",
+  "knowledge_points": [
+    {
+      "category": "Device Architecture & Physics",
+      "content": "A spectrally selective coupling structure (SSCS) for flexible organic solar cells combines a periodic subwavelength hemisphere pattern for enhanced infrared radiation out-coupling with a distributed Bragg reflector (DBR) to block near-infrared absorption-induced heating.",
+      "evidence": "A spectrally selective coupling structure consisting of subwavelength hemisphere pattern and distributed Bragg reflector is integrated into FOSCs to collectively enhance out-coupling of infrared radiation and limit near-infrared absorption-induced heat generation.",
+      "complexity": "single-hop",
+      "keywords": [
+        "SSCS",
+        "passive cooling",
+        "infrared radiation",
+        "DBR"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The D18:Y6:PC71BM-based flexible organic solar cells utilizing the SSCS architecture achieved a power conversion efficiency (PCE) exceeding 17%.",
+      "evidence": "The D78:Y6:PC7BM-based FOSCs achieve a power conversion efficiency of over 17% with a prolonged T80 lifetime as long as one year under real outdoor working conditions.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "D18",
+        "Y6",
+        "flexible organic solar cells"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The integration of the SSCS reduces the heat power intensity of flexible organic solar cells by 292.5 W cm⁻² and decreases the working temperature by 9.6 °C under outdoor sunlight.",
+      "evidence": "leading to a reduced heat power intensity of 292.5 W cm⁻² and the decreased working temperature by 9.6 °C under outdoor sunlight irradiation.",
+      "complexity": "single-hop",
+      "keywords": [
+        "heat power intensity",
+        "working temperature",
+        "outdoor sunlight"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The T80 lifetime of flexible organic solar cells was extended to 350 days under real outdoor conditions using the SSCS strategy, compared to approximately 102 days for a reference device without the structure.",
+      "evidence": "The corresponding T80 lifetime... can be significantly prolonged to 350 days in the real outdoor application scenario, which is over triple that of the reference device without the optical structure (≈102 days).",
+      "complexity": "single-hop",
+      "keywords": [
+        "T80 lifetime",
+        "operational stability",
+        "outdoor conditions"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Polydimethylsiloxane (PDMS) was selected as the flexible substrate because it exhibits higher infrared emissivity (especially in the 8 to 13 μm atmospheric window) compared to polyethylene glycol terephthalate (PET) and polyimide (PI).",
+      "evidence": "PDMS was chosen as the substrate due to its relatively high infrared emissivity as compared to the other commonly used flexible substrates such as polyethylene glycol terephthalate and polyimide... Particularly, PDMS exhibits the highest emissivity in the spectral region of 8 to 13 μm.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "PDMS",
+        "substrate",
+        "infrared emissivity",
+        "atmospheric window"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Interface reflection at the substrate-air boundary traps infrared radiation in waveguide modes, which retards thermal dissipation and can increase the working temperature of FOSCs by over 26 °C.",
+      "evidence": "The presence of light trapping in this energy transfer process retards the out-coupling of thermal radiation and thus the cooling of FOSCs... The presence of interface reflection increases the working temperature of FOsCs from 60.3 to 86.6 °C.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "interface reflection",
+        "waveguide modes",
+        "thermal dissipation"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The periodic hemisphere patterns on the PDMS substrate were fabricated using soft nanoimprint lithography with a monolayer of 5 μm polystyrene (PS) spheres as the template.",
+      "evidence": "The periodic hemisphere pattern was fabricated on the PDMS substrate via soft nanoimprint lithography... indicating that the morphology of the 5 μm polystyrene (PS) spheres was completely transferred to the PDMS substrate.",
+      "complexity": "single-hop",
+      "keywords": [
+        "nanoimprint lithography",
+        "polystyrene spheres",
+        "PDMS patterning"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The Distributed Bragg Reflector (DBR) used in the SSCS consists of periodically stacked layers of TeO2 and MgF2 designed to reflect light with wavelengths longer than 1 μm.",
+      "evidence": "The DBR was constructed on PDMS by thermal depositing 104 nm MgF2, 136 nm TeO2, 208 nm MgF2, 136 nm TeO2, 208 nm MgF2, 136 nm TeO2 and 104 nm MgF2 in sequence... The onset edge of the dominant reflection peak of DBR was tuned to ≈1 μm.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "DBR",
+        "TeO2",
+        "MgF2",
+        "near-infrared reflection"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "FDTD simulations demonstrate that constructing a 5 μm hemisphere pattern on the substrate suppresses total internal reflection (TIR) and increases mid-infrared (MIR) emission intensity by 1.7 times.",
+      "evidence": "The construction of hemispheres suppresses the TIR and broke the waveguide mode, enhancing the electric field in the air region. The presence of subwavelength structure results in a 1.7 times stronger MIR emission.",
+      "complexity": "single-hop",
+      "keywords": [
+        "FDTD",
+        "total internal reflection",
+        "MIR emission"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Outdoor working temperatures were measured using a custom thermal box featuring transparent low-density polyethylene (LDPE) windows to minimize nonradiative heat exchange while allowing sunlight penetration.",
+      "evidence": "A thermal box was designed to measure the working temperature of flexible devices under real sunlight illumination... testing system that is made of transparent low-density polyethylene windows, acrylic walls, and aluminum-foil-wrapped legs.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal box",
+        "LDPE",
+        "outdoor testing"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "High operating temperatures in organic solar cells accelerate degradation through mechanisms such as severe phase segregation of the active layer, functional layer degradation, and ion diffusion from electrodes.",
+      "evidence": "The harsh operating condition leads to severe phase segregation of the active layer, degradation of functional layers, and ion diffusion from the electrodes, thereby holding back the device efficiency.",
+      "complexity": "single-hop",
+      "keywords": [
+        "degradation mechanisms",
+        "phase segregation",
+        "ion diffusion"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The integration of the hemisphere pattern alone (without DBR) increases the short-circuit current (Jsc) from 26.46 to 26.94 mA cm⁻² due to light-harvesting enhancement, but also increases heat generation.",
+      "evidence": "After patterning the PDMS substrate, the FOSC yields an increased Jsc of 26.94 mA cm⁻²... Such an enhancement is ascribed to the light-harvesting effect of the periodic hemisphere pattern... however, the heat generation in working FOSCs is found to increase from 449.4 to 480.7 W m⁻².",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Jsc",
+        "light harvesting",
+        "heat generation"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 14160,
+    "completion_tokens": 2964,
+    "total_tokens": 17124
+  }
+}

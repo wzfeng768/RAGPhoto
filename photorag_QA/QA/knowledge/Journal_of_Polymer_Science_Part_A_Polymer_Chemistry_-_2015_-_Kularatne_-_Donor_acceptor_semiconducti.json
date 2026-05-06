@@ -1,0 +1,129 @@
+{
+  "paper_id": "Journal_of_Polymer_Science_Part_A_Polymer_Chemistry_-_2015_-_Kularatne_-_Donor_acceptor_semiconducti",
+  "paper_title": "Donor-Acceptor Semiconducting Polymers Based on Pyromellitic Diimide",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Journal of Polymer Science Part A  Polymer Chemistry - 2015 - Kularatne - Donor acceptor semiconducting polymers based on/auto/Journal of Polymer Science Part A  Polymer Chemistry - 2015 - Kularatne - Donor acceptor semiconducting polymers based on.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The study utilizes N,N'-dodecylpyromellitic diimide as an electron-acceptor building block, which is the smallest arylene core moiety among aromatic diimides, to synthesize donor-acceptor copolymers.",
+      "evidence": "Pyromellitic diimides, which have only a central benzene ring, are the smallest arylene core moieties among the class of aromatic dimides... As such, we report here the synthesis, characterization, and optoelectronic properties of the three D-A polymers with pyromellitic diimide as the acceptor.",
+      "complexity": "single-hop",
+      "keywords": [
+        "pyromellitic diimide",
+        "electron acceptor",
+        "D-A copolymers"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Ethynyl linkages are incorporated at the 3,6-positions of the pyromellitic diimide core to reduce steric and electronic repulsions between the donor and acceptor units, facilitating a more planar polymer backbone.",
+      "evidence": "Thus, the insertion of ethynyl linkages at 3,6-positions on the pyromellitic diimides can decrease the steric and electronic repulsions and is expected to provide a more planar polymer backbone.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ethynyl linkage",
+        "steric repulsion",
+        "planarity",
+        "3,6-positions"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The three copolymers P1, P2, and P3 were synthesized via Sonogashira cross-coupling polymerization using 3,6-dibromo-N,N'-dodecylpyromellitic diimide and three different diethynyl-substituted donor monomers.",
+      "evidence": "Three donor-acceptor copolymers P1, P2, and P3 with N,N-dodecylpyromellitic diimide as the electron-acceptor unit with three diethynyl-substituted donor monomers... have been synthesized by Sonogashira crosscoupling polymerization.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Sonogashira cross-coupling",
+        "polymerization",
+        "P1",
+        "P2",
+        "P3"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The synthesized polymers P1, P2, and P3 exhibit number-average molecular weights (Mn) of 33,000 g/mol, 37,000 g/mol, and 16,000 g/mol, respectively, as determined by size exclusion chromatography (SEC) in THF.",
+      "evidence": "The SEC analysis of the polymers revealed the molecular weights of the three polymers; P1: Mn = 33,000 g mol-1... P2: Mn = 37,000 g mol-1... P3: Mn = 16,000 g mol-1.",
+      "complexity": "single-hop",
+      "keywords": [
+        "molecular weight",
+        "Mn",
+        "SEC",
+        "polydispersity index"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The introduction of electron-withdrawing ethynyl linkages results in deep highest occupied molecular orbital (HOMO) energy levels, ranging from -5.66 eV (P1) to -6.09 eV (P2).",
+      "evidence": "The deeper HOMO levels of the polymers may be owing to the electron-withdrawing nature of the ethynyl group... P1: 5.66, P2: 6.09, P3: -5.71 [eV].",
+      "complexity": "multi-hop",
+      "keywords": [
+        "HOMO level",
+        "ethynyl linkage",
+        "energy level engineering"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The polymers exhibit relatively large electrochemical band gaps (Eg) ranging from 2.52 eV to 2.98 eV, with the fluorene-containing polymer (P2) showing the largest band gap due to the weak electron donation ability of the fluorene moiety.",
+      "evidence": "The polymers had relatively large band gaps; P1: 2.52 eV, P2: 2.98 eV, and P3: 2.57 eV... The lower HOMO level for the polymer P2 is a common phenomenon observed in all fluorene D-A copolymers and it is owing to the weak electron donation ability of the fluorene moiety.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "band gap",
+        "fluorene",
+        "electrochemical band gap"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "UV-Vis absorption spectra of P3 show a significant red shift of approximately 60 nm when moving from solution (417 nm) to thin film (476 nm), indicating enhanced packing and conjugation in the solid state.",
+      "evidence": "However the polymer P3 displayed broader absorbance maxima with a red shift of ~60 nm (P3: λmax = 471 nm [film] vs 417 nm [solution]). This red shift observed for the polymer P3 indicates that there was enhanced packing, and conjugation in solid state compared to that of the solution state.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "UV-Vis spectroscopy",
+        "red shift",
+        "solid-state packing",
+        "P3"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Intermolecular photo-induced charge transfer between the donor polymers (P1-P3) and the PCBM acceptor is confirmed by the gradual quenching of polymer fluorescence intensity with increasing PCBM concentration.",
+      "evidence": "The fluorescence intensity of the polymers P1, P2, and P3 decreased gradually with the increasing concentration of PC61BM which indicates charge transfer from the polymers to PC61BM resulting into fluorescence quenching.",
+      "complexity": "single-hop",
+      "keywords": [
+        "fluorescence quenching",
+        "charge transfer",
+        "PCBM",
+        "photo-induced electron transfer"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "X-ray diffraction (XRD) analysis indicates that polymers P1, P2, and P3 are semicrystalline, showing a single lamellar packing peak (d-spacing of 16.0–30.6 Å) and a π-stacking peak at approximately 4.4 Å.",
+      "evidence": "All the polymers showed a single lamellar packing peak... and a π stacking peak around 2θ = 20.4° (d spacing of 4.4 Å)... indicating that the polymers P1, P2, and P3 are semicrystalline in nature.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "XRD",
+        "crystallinity",
+        "d-spacing",
+        "π-stacking"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The pyromellitic diimide-based polymers P1, P2, and P3 demonstrate high thermal stability with decomposition onset temperatures around 350 °C under a nitrogen atmosphere.",
+      "evidence": "The onset of decomposition for the three polymers was around 350 °C, indicating good thermal stability for all the polymers.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "TGA",
+        "decomposition temperature"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 12230,
+    "completion_tokens": 2889,
+    "total_tokens": 15119
+  }
+}

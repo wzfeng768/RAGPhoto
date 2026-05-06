@@ -1,0 +1,75 @@
+{
+  "paper_id": "Angew_Chem_Int_Ed_-_2024_-_Li_-_A_Domino_Protocol_toward_Highperformance_Unsymmetrical_Dibenzo_d_d_t",
+  "paper_title": "A Domino Protocol toward High-performance Unsymmetrical Dibenzo[d,d']thieno[2,3-b;4,5-b']dithiophenes Semiconductors",
+  "qa_pairs": [
+    {
+      "question": "What is the maximum hole mobility achieved by the unsymmetrical dibenzo[d,d']thieno[2,3-b;4,5-b']dithiophene (DBTDT) parent compound (2a) in single-crystal organic field-effect transistors (SC-OFETs)?",
+      "answer": "The unsymmetrical DBTDT parent compound (2a) exhibits a maximum hole mobility of 1.52 cm² V⁻¹ s⁻¹ in SC-OFETs, which is reported as the highest mobility among unsymmetric fused-ring parent compounds without substituents.",
+      "category": "Performance Metrics",
+      "source_title": "A Domino Protocol toward High-performance Unsymmetrical Dibenzo[d,d']thieno[2,3-b;4,5-b']dithiophenes Semiconductors",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Which specific chemical species acts as the key reactive intermediate in the metal-catalyst-free synthesis of unsymmetrical DBTDTs?",
+      "answer": "The trisulfur radical anion (S3•−) is the key reactive intermediate. It is generated in situ through the reaction between elemental sulfur (S8) and a base (potassium carbonate).",
+      "category": "Materials Design & Synthesis",
+      "source_title": "A Domino Protocol toward High-performance Unsymmetrical Dibenzo[d,d']thieno[2,3-b;4,5-b']dithiophenes Semiconductors",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Describe the molecular packing parameters and orientation of the unsymmetrical DBTDT (2a) single crystals.",
+      "answer": "DBTDT (2a) single crystals adopt a herringbone packing mode with a herringbone angle of 113°. The molecules exhibit a large-area face-to-face π-π overlap with a small distance of 3.373 Å between adjacent molecules.",
+      "category": "Structure-Property Relationships",
+      "source_title": "A Domino Protocol toward High-performance Unsymmetrical Dibenzo[d,d']thieno[2,3-b;4,5-b']dithiophenes Semiconductors",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the charge transfer integral of DBTDT (2a) vary across different crystallographic directions?",
+      "answer": "The charge transport in DBTDT (2a) is highly anisotropic. It features a large charge transfer integral of 88.6 meV along the π-π packing direction, whereas the integrals along the two transverse directions are significantly lower at 3.7 meV and -1.1 meV.",
+      "category": "Structure-Property Relationships",
+      "source_title": "A Domino Protocol toward High-performance Unsymmetrical Dibenzo[d,d']thieno[2,3-b;4,5-b']dithiophenes Semiconductors",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What evidence was provided to confirm that the thienannulation reaction for DBTDT synthesis involves a free radical mechanism?",
+      "answer": "The involvement of free radicals was confirmed by adding radical scavengers to the reaction. The yield of DBTDT (2a) dropped significantly from its standard level to 19% when TEMPO was added and to 15% when BHT was added, indicating that these scavengers inhibited the radical-mediated process.",
+      "category": "Characterization Methods",
+      "source_title": "A Domino Protocol toward High-performance Unsymmetrical Dibenzo[d,d']thieno[2,3-b;4,5-b']dithiophenes Semiconductors",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Compare the dipole moment of the unsymmetrical DBTDT (2a) with its symmetrical counterpart based on DFT calculations.",
+      "answer": "According to DFT calculations, the unsymmetrical DBTDT (2a) has a dipole moment of 0.6287 Debye, which is slightly lower than the 0.8536 Debye calculated for the symmetrical DBTDT counterpart.",
+      "category": "Computational & Machine Learning",
+      "source_title": "A Domino Protocol toward High-performance Unsymmetrical Dibenzo[d,d']thieno[2,3-b;4,5-b']dithiophenes Semiconductors",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What are the starting materials and reaction conditions required for the one-pot domino thienannulation of DBTDTs?",
+      "answer": "The synthesis uses 1-halo-2-ethynylbenzenes as starting materials. These are reacted with elemental sulfur (S8) and potassium carbonate (K2CO3) in N-methylpyrrolidone (NMP) at a temperature of 145 °C.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "A Domino Protocol toward High-performance Unsymmetrical Dibenzo[d,d']thieno[2,3-b;4,5-b']dithiophenes Semiconductors",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "In the domino thienannulation mechanism of DBTDT, which step is identified as the rate-determining step?",
+      "answer": "The mechanism involves three consecutive intramolecular cyclizations. The final cyclization, which converts intermediate G into the target DBTDT (2a) compound, is considered the rate-determining step.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "A Domino Protocol toward High-performance Unsymmetrical Dibenzo[d,d']thieno[2,3-b;4,5-b']dithiophenes Semiconductors",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2731,
+    "completion_tokens": 2786,
+    "total_tokens": 5517
+  }
+}

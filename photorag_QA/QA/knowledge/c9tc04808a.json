@@ -1,0 +1,155 @@
+{
+  "paper_id": "c9tc04808a",
+  "paper_title": "Non-halogenated solution-processed ambipolar plastic transistors based on conjugated polymers prepared by asymmetric donor engineering",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/c9tc04808a/auto/c9tc04808a.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Asymmetric donor engineering, using units like 2-(thiophen-2-yl)thieno[3,2-b]thiophene and 2-(selenophen-2-yl)thieno[3,2-b]thiophene, is used to disrupt the translational symmetry of the DPP polymer backbone to increase solubility in non-chlorinated solvents.",
+      "evidence": "The newly developed asymmetric donor units... enhance the solubility of the polymers due to the randomly oriented irregular backbone. In addition, the well-regulated donor length optimizes the ambipolar character of the polymers.",
+      "complexity": "single-hop",
+      "keywords": [
+        "asymmetric donor engineering",
+        "solubility",
+        "non-chlorinated solvents",
+        "DPP"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "P29DPP-TTSe polymer films processed in toluene with a DMSO additive achieved a maximum hole mobility of 6.36 cm²/V·s and a maximum electron mobility of 0.71 cm²/V·s.",
+      "evidence": "electrical performances of the P29DPP-TTSe polymer films processed in toluene were enhanced to have high hole (6.36 cm2 V-1 s-1) and electron (0.71 cm2 V-1 s-1) mobilities",
+      "complexity": "single-hop",
+      "keywords": [
+        "hole mobility",
+        "electron mobility",
+        "P29DPP-TTSe",
+        "toluene"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "P29DPP-TTTh and P29DPP-TTSe exhibit HOMO levels of -5.38 eV and -5.37 eV, and LUMO levels of -4.02 eV and -4.04 eV, respectively, facilitating ambipolar transport with gold electrodes.",
+      "evidence": "The highest occupied molecular orbital (HOMO) and the lowest unoccupied molecular orbital (LUMO) energy level... were -5.38 eV and -4.02 eV for P29DPP-TTTh and -5.37 eV and -4.04 eV for P29DPP-TTSe",
+      "complexity": "single-hop",
+      "keywords": [
+        "HOMO",
+        "LUMO",
+        "energy levels",
+        "ambipolar"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The optical band gaps for P29DPP-TTTh and P29DPP-TTSe, determined from UV-Vis absorption edges, are 1.36 eV and 1.33 eV, respectively.",
+      "evidence": "The optical band gaps of P29DPP-TTTh and P29DPP-TTSe calculated from the UV-Vis absorption edge were 1.36 eV and 1.33 eV, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "optical band gap",
+        "UV-Vis",
+        "P29DPP-TTTh",
+        "P29DPP-TTSe"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Dimethyl sulfoxide (DMSO) acts as a high-boiling-point, eco-friendly additive that promotes interchain aggregation and the formation of larger nanofibrillar aggregates during film drying.",
+      "evidence": "The introduction of high-boiling-point additive allows slow drying and evaporation of the processing solution, which gives the solvated polymer chains more time to aggregate prior to being fixed within the solid thin films.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "DMSO",
+        "additive",
+        "aggregation",
+        "processing"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "AFM analysis shows that the addition of DMSO to non-chlorinated polymer solutions increases the diameter of nanofibrillar aggregates from approximately 80 nm to 200 nm.",
+      "evidence": "AFM analysis revealed that the optimally annealed polymer films... consisted of large and densely packed nanofibrillar networks... additive treatment gave rise to the formation of much larger aggregates of nanofibrils (~200 nm in diameter)",
+      "complexity": "single-hop",
+      "keywords": [
+        "AFM",
+        "nanofibrils",
+        "morphology",
+        "aggregation"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIXD characterization reveals that both P29DPP-TTTh and P29DPP-TTSe maintain a dominant edge-on orientation relative to the substrate when processed from non-chlorinated solvents like toluene and o-xylene.",
+      "evidence": "Comparably high crystalline edge-on orientations were also obtained in polymer films spin-coated in non-chlorinated solvents with high-order out-of-plane diffraction peaks and a discernible in-plane diffraction peak at 1.73 Å-1.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIXD",
+        "edge-on orientation",
+        "crystallinity",
+        "molecular orientation"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Complementary metal oxide semiconductor (CMOS) inverters fabricated using P29DPP-TTSe in a single film deposition step achieved a high average voltage gain of 139.",
+      "evidence": "CMOS-like inverter characteristics of P29DPP-TTSe inverters processed in toluene and DMSO additive solution... exhibited high average gains of 139.",
+      "complexity": "single-hop",
+      "keywords": [
+        "CMOS inverter",
+        "voltage gain",
+        "logic circuits",
+        "ambipolar"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "TGA analysis indicates that P29DPP-TTTh and P29DPP-TTSe are thermally stable with decomposition temperatures reaching between 460 °C and 480 °C.",
+      "evidence": "TGA also showed them to be thermally stable up to 460–480 °C.",
+      "complexity": "single-hop",
+      "keywords": [
+        "TGA",
+        "thermal stability",
+        "decomposition temperature"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The use of asymmetric donor segments in the polymer backbone enables high solubility (0.5 wt% / mL) in non-chlorinated solvents such as toluene and o-xylene.",
+      "evidence": "The solubility was tested by checking the solution at a concentration of 0.5 wt%/mL... Both polymers with asymmetrically structured donor units showed good solubility in various solvents, including environmentally friendly solvents (e.g., toluene and xylene)",
+      "complexity": "single-hop",
+      "keywords": [
+        "solubility",
+        "toluene",
+        "xylene",
+        "non-chlorinated"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The number of layers in the edge-on lamellae structure, calculated from coherence length and d-spacing (Lc,(100)/d(100)), was found to be approximately 7.7 to 7.9 for films processed in chlorobenzene and toluene.",
+      "evidence": "The Lc,(100)/d(100) value of the P29DPP-TTTh polymer films processed in CB, toluene and o-xylene was estimated to be 7.7, 6.7 and 6.5 layers... The estimated numbers of layers within P29DPP-TTSe polymer films in CB, toluene and o-xylene were 7.9, 7.7 and 7.4",
+      "complexity": "multi-hop",
+      "keywords": [
+        "crystallinity",
+        "coherence length",
+        "lamellae",
+        "GIXD"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "To accurately characterize the mobility of DPP-based polymers exhibiting non-linear transfer curves, a reliability factor (r) is used, which for these polymers ranged from 7% to 21% depending on the solvent and additive.",
+      "evidence": "Furthermore, we calculated the reliability factor ri... A summary of the experimental results and estimated mobilities is presented in Table 1. (Table 1 shows rf values ranging from 7 to 21%)",
+      "complexity": "multi-hop",
+      "keywords": [
+        "reliability factor",
+        "mobility calculation",
+        "non-linear transfer",
+        "OFET"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 14851,
+    "completion_tokens": 3958,
+    "total_tokens": 18809
+  }
+}

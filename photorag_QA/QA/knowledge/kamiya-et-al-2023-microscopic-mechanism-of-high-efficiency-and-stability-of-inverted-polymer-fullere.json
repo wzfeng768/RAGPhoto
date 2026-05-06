@@ -1,0 +1,144 @@
+{
+  "paper_id": "kamiya-et-al-2023-microscopic-mechanism-of-high-efficiency-and-stability-of-inverted-polymer-fullere",
+  "paper_title": "Microscopic Mechanism of High Efficiency and Stability of Inverted Polymer Fullerene Solar Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/kamiya-et-al-2023-microscopic-mechanism-of-high-efficiency-and-stability-of-inverted-polymer-fullerene-solar-cells/auto/kamiya-et-al-2023-microscopic-mechanism-of-high-efficiency-and-stability-of-inverted-polymer-fullerene-solar-cells.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "PNTz4T is a donor-acceptor (D-A) semiconducting polymer composed of quaterthiophene (4T) as the donor unit and naphtho[1,2-c:5,6-c']bis[1,2,5]thiadiazole (NTz) as the acceptor unit.",
+      "evidence": "PNTz4T is a donner-accepter polymer (D-A polymer) composed of quaterthiophene (4T) and naphtho[1,2-c:5,6-c']bis[1,2,5]thiadiazole (NTz) as the donner and acceptor units, respectively",
+      "complexity": "single-hop",
+      "keywords": [
+        "PNTz4T",
+        "D-A polymer",
+        "quaterthiophene",
+        "naphthothiadiazole"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Inverted polymer fullerene solar cells using PNTz4T:PC61BM active layers achieve higher initial power conversion efficiencies (PCE) of 9.80–10.1% compared to conventional cells which range from 8.70–8.92%.",
+      "evidence": "This negligibly small charge formation may contribute to the higher initial PCE of the inverted cell (9.80-10.1%) than that of the conventional cell (8.70-8.92%)",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "PNTz4T",
+        "PC61BM",
+        "inverted structure"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The molecular orientation of PNTz4T varies through the film thickness, exhibiting edge-on orientation near the ITO substrate but transitioning to a favorable face-on orientation in the bulk and upper regions of the active layer.",
+      "evidence": "PNTz4T molecules tend to be aligned with edge-on orientation near the indium tin oxide (ITO) substrate; however, the molecules show face-on orientation in the bulk and upper regions of the active layer. The face-on orientation is more favorable for hole transport than the edge-on orientation.",
+      "complexity": "single-hop",
+      "keywords": [
+        "molecular orientation",
+        "face-on",
+        "edge-on",
+        "hole transport"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Operando electron spin resonance (ESR) spectroscopy using a 100 kHz modulation frequency allows for the detection of long-lived accumulated charges with lifetimes greater than 10 microseconds, which are distinct from short-lived carriers contributing to normal device operation.",
+      "evidence": "We used a lock-in detection method for the ESR measurements with a modulation frequency of 100 kHz... This enables the observation of long-lived (accumulated) charges (spins) with a lifetme of > 10 μs. This also means that detectable signals are not related to charge carriers with a short lifetime (< 10 μs) contributing to normal device operation",
+      "complexity": "multi-hop",
+      "keywords": [
+        "operando ESR",
+        "charge accumulation",
+        "carrier lifetime",
+        "spin dynamics"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "In conventional PNTz4T:PC61BM cells, ESR Signal A (g ≈ 2.0026) is identified as long-lived holes (cations) accumulated at bromine (Br) chain ends of the polymer and holes in the PEDOT:PSS layer.",
+      "evidence": "Signal A has g = 2.0026... These results indicate that Signal A originates from the formation and accumulation of long-lived holes at near Br ends in PNTz4T in the cells... Signal A is composed of the signal due to photogenerated cations (long-lived holes) in PNTz4T (g = 2.0023) and that due to cations (holes) in PEDOT chemically doped by PSS (g = 2.0030).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "ESR signal",
+        "g-factor",
+        "bromine chain ends",
+        "PEDOT:PSS"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "ESR Signal B (g ≈ 1.9995) in conventional cells originates from complexes of PC61BM anions and Li+ ions formed at the PC61BM/LiF interface, which increases the spin-lattice relaxation time of fullerene anions.",
+      "evidence": "the origin of Signal B with g = 1.9995 can be ascribed to the complexes composed of PC61BM- and Li+ formed at PC61BM/LiF interfaces... the signal of PC61BM anions becomes observable at room temperature.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PC61BM",
+        "LiF interface",
+        "fullerene anions",
+        "spin-lattice relaxation"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The degradation of short-circuit current density (JSC) in polymer fullerene solar cells is quantitatively linked to the density of long-lived accumulated charges through Matthiesen's rule, where accumulated charges act as scattering centers that reduce carrier mobility.",
+      "evidence": "This equation [Eq. 10] clearly shows that JSC decreases with the increased densities of long-lived accumulated charges. This correlation explains that the hole accumulation in PNTz4T and the electron accumulation in PC61BM- in the complexes with Li+ decrease the JSC in conventional cells.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "JSC degradation",
+        "Matthiesen's rule",
+        "carrier scattering",
+        "mobility"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Inverted solar cells exhibit higher stability than conventional cells because long-lived accumulated charges are distributed relatively homogeneously in the bulk active layer, whereas conventional cells suffer from high-density charge accumulation near the LiF/Al electrode.",
+      "evidence": "charge accumulation occurs in the active layer in the vicinity of the LiF/Al electrode in the conventional cell... the density of accumulated charges in the inverted cell seems lower than that in the conventional cell case, given that accumulated charges are distributed relatively homogeneously in the active layers.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "spatial distribution",
+        "inverted cell",
+        "stability",
+        "charge trapping"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "DFT calculations using the UB3LYP/6-31G(d,p) level of theory show that the averaged g-factor (gave) for a PNTz4T dimer with a bromine (Br) chain end is 2.00236, matching experimental ESR observations.",
+      "evidence": "DFT-calculated gave (2.00236) and the observed g factor (2.0023) of the PNTz4T:PC61BM films are consistent with each other... the gave of the dimer with a Br chain end is calculated as 2.00236",
+      "complexity": "single-hop",
+      "keywords": [
+        "DFT",
+        "g-tensor",
+        "PNTz4T",
+        "bromine ends"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Conventional cells in this study use a structure of ITO/PEDOT:PSS (30 nm)/PNTz4T:PC61BM (300 nm)/LiF (0.8 nm)/Al (100 nm), while inverted cells use ITO/ZnO (30 nm)/PNTz4T:PC61BM (300 nm)/MoOx (7.5 nm)/Ag (100 nm).",
+      "evidence": "The conventional cells were composed of ITO-coated quartz glass/poly(3,4- ethylenedioxythiophene):poly(4-styrenesulfonate) (PEDOT:PSS) (30 nm)/PNTz4T:PC61BM 300 nm)/LiF (0.8 nm)/Al (·100 nm)... the inverted cells were composed of ITO-coated quartz glass/ ZnO (30 nm)/PNTz4T:PC61BM (300 nm)/MoOx (7.5 nm)/Ag (100 nm).",
+      "complexity": "single-hop",
+      "keywords": [
+        "device architecture",
+        "layer thickness",
+        "ZnO",
+        "MoOx"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The open-circuit voltage (VOC) remains relatively stable during operation in PNTz4T:PC61BM cells because there is no significant charge transfer or deep trap formation at the active layer/PEDOT:PSS interface under dark conditions.",
+      "evidence": "there is almost no signal remaining after subtraction between these signals... detectable charge transfer from the active layer to PEDOT:PSS does not occur in the dark. This supports the relatively stable VOC observed in the present cells without forming deep trapping levels",
+      "complexity": "multi-hop",
+      "keywords": [
+        "VOC stability",
+        "charge transfer",
+        "interfacial dipole",
+        "PEDOT:PSS"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 14286,
+    "completion_tokens": 3424,
+    "total_tokens": 17710
+  }
+}

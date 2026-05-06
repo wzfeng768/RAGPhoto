@@ -1,0 +1,139 @@
+{
+  "paper_id": "d3tc01548c",
+  "paper_title": "Photoluminescence spectroscopy of dibenzopentacene single-crystals: multiple emissive states across temperature, time, and magnetic field in a pursuit of exothermic singlet fission",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/d3tc01548c/auto/d3tc01548c.md",
+  "knowledge_points": [
+    {
+      "category": "Structure-Property Relationships",
+      "content": "1,2;8,9-dibenzopentacene (DBP) single crystals pack in the P21212 space group with a herringbone arrangement, where each molecule has six nearest neighbors and three types of intermolecular contacts within the ac plane.",
+      "evidence": "The unit cell contains four symmetry-equivalent DBP molecules (space group P21212, Fig. 1b). The molecules are packed in layers parallel to the ac plane with a herringbone arrangement in each layer so that each DBP molecule has 6 close neighbors and three types of DBP-DBP intermolecular contacts in the layer.",
+      "complexity": "single-hop",
+      "keywords": [
+        "dibenzopentacene",
+        "crystal structure",
+        "herringbone packing",
+        "P21212"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The lowest-energy S0-S1 absorption transition in DBP single crystals is shifted to 2.09 eV, representing a 0.25 eV redshift compared to the solution phase due to intermolecular interactions.",
+      "evidence": "In crystalline DBP, intermolecular interactions shift the S0-S1 excitation to lower energy by 0.25 eV. Furthermore, the DBP single crystal shows strongly polarized absorption with well-resolved Davydov splitting... The more intense Davydov component with the maximum at 2.09 eV is polarized parallel to the a direction.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "absorption redshift",
+        "Davydov splitting",
+        "S0-S1 transition",
+        "intermolecular interactions"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "DBP single crystals exhibit five co-existing and interconverting emissive states (I-V), where free excitons (State I) dominate below 20 K and convert to self-trapped excitons (STEs) at higher temperatures.",
+      "evidence": "A complex evolution of excitation was found between 5 and 300 K, with in total five co-existing and interconverting emissive states. Free excitons dominate the PL spectra below 20 K, but then convert to self-trapped excitons (STEs) at higher temperatures.",
+      "complexity": "single-hop",
+      "keywords": [
+        "emissive states",
+        "free excitons",
+        "self-trapped excitons",
+        "temperature dependence"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The interconversion between free excitons (State I) and self-trapped excitons (State II/III) in DBP is thermally activated with a calculated activation barrier of 6.5 meV (52 cm⁻¹).",
+      "evidence": "The fast drop of the intensity of state I with temperature... points to the thermally activated mechanism (Fig. S7a, ESI†). Fitting the linear part gives the activation barrier of 6.5 meV (52 cm⁻¹).",
+      "complexity": "single-hop",
+      "keywords": [
+        "activation barrier",
+        "exciton interconversion",
+        "thermal activation"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "State II in DBP single crystals is characterized by a 0-0 transition at 2.04 eV (608 nm) and converts into State III with a thermal activation barrier of 16 meV (128 cm⁻¹).",
+      "evidence": "The spectrum of state II... has a 0–0 transition at 608 nm (2.04 eV)... the quenching of state II can be described as a thermally activated conversion into state III with the barrier of 16 meV (128 cm⁻¹).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "State II",
+        "State III",
+        "activation energy",
+        "0-0 transition"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The photoluminescence intensity of DBP single crystals decreases by approximately 20-fold between 120 K and room temperature, a phenomenon attributed to the onset of singlet fission.",
+      "evidence": "A 20-fold decrease of the PL intensity between 120 K and room temperature is ascribed to the singlet fission, which is confirmed by magneto-PL measurements.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PL quenching",
+        "singlet fission",
+        "temperature-dependent PL"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "At room temperature, DBP single crystals exhibit classical Merrifield signatures of singlet fission, characterized by a PL intensity decrease of 1.5% at 0.02 T followed by an increase of 4% at 0.2 T.",
+      "evidence": "By 300 K, the transition to the new regime is complete... the (T1...T1)-specific PLH/PL0 behavior with a negative dip of -1.5% at 0.02 T followed by a growth to +4% at 0.2 T becomes much more pronounced.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Merrifield signatures",
+        "magneto-PL",
+        "singlet fission",
+        "magnetic field effect"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "All emissive states in DBP single crystals are polarized along the 'a' crystallographic axis, matching the polarization of the lowest-energy Davydov component in the absorption spectrum.",
+      "evidence": "At all temperatures and all wavelengths, emission is polarized along the a crystallographic axis. This corresponds to the polarization of the lowest-energy Davydov component in the absorption spectra.",
+      "complexity": "single-hop",
+      "keywords": [
+        "polarization",
+        "crystallographic axis",
+        "Davydov component"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "State IV in DBP crystals is a long-lived emissive state with a 0-0 transition at 1.81 eV (687 nm) and a lifetime of 19 ns at 200 K, which shortens to 8 ns at 300 K.",
+      "evidence": "In addition to the 0–0 transition at 687 nm (1.81 eV), state IV also has a broadened vibronic peak at 750 nm... The lifetime of state IV at 200 K is 19 ns... shortened gradually from 19 ns at 200 K to 8 ns at 300 K.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "State IV",
+        "exciton lifetime",
+        "0-0 transition"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The quenching of State III above 140 K is a thermally activated process with a barrier of 63 meV (509 cm⁻¹), potentially leading to a non-radiative channel or conversion to State IV.",
+      "evidence": "The quenching of state III between 140 and 200 K can be described as a thermally-activated process with the barrier of 63 meV (509 cm⁻¹). However, it is not a conversion into another bright state... either it can be a conversion into state IV... or a new non-radiative channel is open.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "State III quenching",
+        "activation barrier",
+        "non-radiative decay"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "DBP exhibits enhanced photo and air stability compared to pentacene, making it a robust candidate for studying acene-based photophysics.",
+      "evidence": "1,2;8,9-dibenzopentacene (DBP hereafter...)... managed to avoid attention despite its availability as an unsubstituted PAH and enhanced photo and air stability in comparison to pentacene.",
+      "complexity": "single-hop",
+      "keywords": [
+        "photo stability",
+        "air stability",
+        "dibenzopentacene",
+        "pentacene analogue"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 14385,
+    "completion_tokens": 3051,
+    "total_tokens": 17436
+  }
+}

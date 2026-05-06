@@ -1,0 +1,130 @@
+{
+  "paper_id": "Angew_Chem_Int_Ed_-_2015_-_Wu_-_Conversion_of_2Iodobiaryls_into_2_2_Diiodobiaryls_via_OxidationIodin",
+  "paper_title": "Conversion of 2-Iodobiaryls into 2,2'-Diiodobiaryls via Oxidation-Iodination Sequences: A Versatile Route to Ladder-Type Heterofluorenes",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Angew Chem Int Ed - 2015 - Wu - Conversion of 2‐Iodobiaryls into 2 2 ‐Diiodobiaryls via Oxidation‐Iodination Sequences  A/auto/Angew Chem Int Ed - 2015 - Wu - Conversion of 2‐Iodobiaryls into 2 2 ‐Diiodobiaryls via Oxidation‐Iodination Sequences  A.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "A two-step synthetic route converts 2-iodobiaryls into 2,2'-diiodobiaryls via cyclic diaryliodonium triflate intermediates, which are subsequently opened using a copper/diamine catalyst system.",
+      "evidence": "Herein, we report a convenient method for the preparation of various 2,2’-diiodobiaryls from 2- iodobiaryls via cyclic diaryliodonium intermediates. An iodinative ring-opening of the diaryliodonium salts, mediated by a copper/diamine catalyst system, is able to afford the corresponding 2,2’-diiodobiaryls.",
+      "complexity": "single-hop",
+      "keywords": [
+        "2,2’-diiodobiaryls",
+        "diaryliodonium salts",
+        "copper catalysis",
+        "iodinative ring-opening"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The optimal catalyst system for the iodinative ring-opening of cyclic diaryliodonium triflates consists of 10 mol% CuI and 20 mol% N,N’-dimethylcyclohexane-1,2-diamine (L1) with tetrabutylammonium iodide as the iodide source.",
+      "evidence": "Using a combination of CuI and N,N’- dimethylcyclohexane-1,2-diamine (L1, 20 mol%) resulted in the clean conversion of 2a to 3a in 95% yield... (entry 2, Table 1).",
+      "complexity": "single-hop",
+      "keywords": [
+        "CuI",
+        "diamine ligand",
+        "catalyst optimization",
+        "tetrabutylammonium iodide"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The oxidation of 2-iodobiaryls to cyclic diaryliodonium triflates is achieved using m-chloroperoxybenzoic acid (mCPBA) and trifluoromethanesulfonic acid (TfOH) in dichloromethane at room temperature.",
+      "evidence": "Various 2-iodobiaryls (1b–1q) were readily oxidized using a mixture of mCPBA (1.5 equiv) and TfOH (3 equiv) in CH2Cl2 (room temperature, 1 h), thus affording the corresponding cyclic diaryliodonium triflates (2b–2q).",
+      "complexity": "single-hop",
+      "keywords": [
+        "mCPBA",
+        "TfOH",
+        "oxidation",
+        "diaryliodonium triflates"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "This synthetic method tolerates a wide range of functional groups on the biaryl backbone, including electron-donating methoxy groups and electron-withdrawing chloro, acetyl, cyano, trifluoromethyl, and nitro groups.",
+      "evidence": "The method showed tolerance toward electron-donating methoxy groups (3b, 3i, 3n) as well as toward electron-withdrawing chloro (3e, 3o–3q), acetyl (3f), cyano (3g), trifluoromethyl (3h, 3n), and nitro (3q) groups.",
+      "complexity": "single-hop",
+      "keywords": [
+        "functional group tolerance",
+        "electron-withdrawing groups",
+        "electron-donating groups"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The methodology enables the synthesis of novel 2,2',2'',5'-tetraiodo-p-terphenyl derivatives from 2',5'-diiodo-p-terphenyls through a twofold oxidation and iodinative ring-opening sequence.",
+      "evidence": "We extended the present method to the conversion of diiodoteraryls into the corresponding tetraiodoteraryls (Scheme 3). ... A twofold iodinative ring-opening of 5a–5d took place in acetonitrile at 60 °C, affording the desired 2,2',2'',5'-tetraiodo-p-terphenyl derivatives 6a–6d.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "tetraiodoteraryls",
+        "p-terphenyl",
+        "twofold oxidation",
+        "ladder-type precursors"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Tetraiodoteraryl precursors can be converted into sulfur- and selenium-bridged ladder-type systems, such as benzo[1,2-b:4,5-b’]bis[b]benzothiophene and benzo[1,2-b:4,5-b’]bis[b]benzoselenophene, which exhibit high coplanarity in the solid state.",
+      "evidence": "Exposure of 6b to a catalytic amount of CuI, sulfur powder, and K2CO3 in DMF resulted in a fourfold C-S bond formation to afford benzo[1,2-b:4,5-b’]bis[b]benzothiophene 10 in 86% yield. ... Single-crystal X-ray diffraction analysis ... invariably demonstrated high levels of coplanarity of their skeletons in the solid state.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "benzothiophene",
+        "benzoselenophene",
+        "coplanarity",
+        "ladder-type systems"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Germanium- and phosphoryl-bridged p-teraryls are synthesized from tetraiodoteraryls via a twofold iodine–lithium exchange followed by electrophilic trapping with Et2GeCl2 or PhPCl2.",
+      "evidence": "A twofold iodine–lithium exchange/electrophilic trapping sequence proved effective for the preparation of germanium- and phosphoryl-bridged p-teraryls 12 and 13, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "germanium-bridged",
+        "phosphoryl-bridged",
+        "iodine–lithium exchange",
+        "electrophilic trapping"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "X-ray crystallographic analysis is used to confirm the ladder-type structure of bis-iodonium triflates and the coplanar arrangement of the resulting bridged ladder-type pi-conjugated systems.",
+      "evidence": "The ladder-type structure of these bis-iodonium triflates was confirmed by X-ray crystallographic analysis of single crystals of 5b... Single-crystal X-ray diffraction analysis was performed for all of these ladder-type products except anti-13, which invariably demonstrated high levels of coplanarity.",
+      "complexity": "single-hop",
+      "keywords": [
+        "X-ray crystallography",
+        "coplanarity",
+        "structural characterization"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The synthesis of 3,4-diiodo-2,5-bis(2-iodophenyl)thiophene (a tetraiodide) from 2,5-bis(2-iodophenyl)thiophene demonstrates the method's applicability to heterocyclic biaryl systems.",
+      "evidence": "Furthermore, 2,5-bis(2-iodophenyl)thiophene (7) was also amenable to a twofold oxidation/ring-opening, which resulted in the formation of 3,4-diiodo-2,5-bis(2-iodophenyl)thiophene (9) in moderate yield (44%; Scheme 3b).",
+      "complexity": "single-hop",
+      "keywords": [
+        "thiophene",
+        "heterocyclic biaryl",
+        "tetraiodide",
+        "ladder-type"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Solubility limitations of certain iodonium triflate intermediates require switching the reaction solvent from dioxane to DMSO or DMF and increasing the temperature to 60 °C for successful iodinative ring-opening.",
+      "evidence": "The solubility of some iodonium triflates (2l, 2m, 2o–2q) was limited in dioxane, which required a modification of the reaction conditions (DMSO or DMF, T = 60 °C) to achieve the desired reaction.",
+      "complexity": "single-hop",
+      "keywords": [
+        "solubility",
+        "DMSO",
+        "DMF",
+        "processing conditions"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 6138,
+    "completion_tokens": 3128,
+    "total_tokens": 9266
+  }
+}

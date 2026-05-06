@@ -1,0 +1,75 @@
+{
+  "paper_id": "anie_201403816_sm_miscellaneous_information",
+  "paper_title": "Electron Delocalization in a Rigid Cofacial Naphthalene-1,8:4,5-bis(dicarboximide) Dimer",
+  "qa_pairs": [
+    {
+      "question": "Describe the synthesis procedure and yield of the naphthalene-1,8:4,5-bis(dicarboximide) dimer 2NDI.",
+      "answer": "The 2NDI dimer is synthesized through the condensation of naphthalenetetracarboxylic dianhydride with enantiopure trans-1,2-cyclohexanediamine. The reaction is carried out in anhydrous DMF at 130 °C, resulting in a product yield of approximately 10%.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Electron Delocalization in a Rigid Cofacial Naphthalene-1,8:4,5-bis(dicarboximide) Dimer",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What are the photophysical properties, specifically the quantum yield and excited-state lifetime, of the (-)-2NDI dimer in dichloromethane?",
+      "answer": "In dichloromethane at 298 K, the (-)-2NDI dimer exhibits an absolute photoluminescence quantum yield (PLQY) of 4.7 ± 0.6%. Its excimer-like state has a fluorescence lifetime (τ0) of 20.0 ± 0.1 ns, as measured by time-correlated single photon counting (TCSPC).",
+      "category": "Performance Metrics",
+      "source_title": "Electron Delocalization in a Rigid Cofacial Naphthalene-1,8:4,5-bis(dicarboximide) Dimer",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the hyperfine coupling constant (HFCC) of the [2NDI]•− radical anion compare to the monomeric Ref-NDI, and what does this reveal about its electronic structure?",
+      "answer": "The HFCC for the [2NDI]•− radical anion is 2.56 MHz, which is approximately half the value of the monomeric Ref-NDI (5.28 MHz). This reduction in the coupling constant indicates that the unpaired electron is delocalized and shared between the two NDI units of the dimer.",
+      "category": "Characterization Methods",
+      "source_title": "Electron Delocalization in a Rigid Cofacial Naphthalene-1,8:4,5-bis(dicarboximide) Dimer",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What spectroscopic evidence supports the presence of a delocalized mixed-valence state in the [2NDI]•− radical anion?",
+      "answer": "The presence of an intervalence charge transfer (IVCT) band in the near-infrared (NIR) region provides evidence for electron delocalization. Furthermore, the fact that this IVCT band is invariant with respect to changes in solvent polarity confirms the delocalized character of the radical anion's mixed-valence state.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Electron Delocalization in a Rigid Cofacial Naphthalene-1,8:4,5-bis(dicarboximide) Dimer",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What are the crystallographic parameters and calculated density of the (-)-2NDI enantiomer?",
+      "answer": "The (-)-2NDI enantiomer crystallizes in the triclinic space group P1. Its unit cell parameters are a = 7.0255 Å, b = 14.6532 Å, and c = 22.0962 Å, with a calculated density of 1.543 g/cm³.",
+      "category": "Characterization Methods",
+      "source_title": "Electron Delocalization in a Rigid Cofacial Naphthalene-1,8:4,5-bis(dicarboximide) Dimer",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How is the dianion [(-)-2NDI]2− prepared for structural characterization, and what specific conditions are required?",
+      "answer": "Single crystals of the dianion [(-)-2NDI]2− are grown under an Argon atmosphere in a glovebox. The process involves the slow vapor diffusion of n-hexane into a 1.0 mM chloroform solution containing the dimer and tetrabutylammonium counterions.",
+      "category": "Processing & Fabrication",
+      "source_title": "Electron Delocalization in a Rigid Cofacial Naphthalene-1,8:4,5-bis(dicarboximide) Dimer",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What computational level of theory and software were employed to study the neutral and ionic forms of 2NDI?",
+      "answer": "Density Functional Theory (DFT) calculations were performed using the Jaguar software package. The structures were optimized at the M06-2X/6-31G** level of theory for the neutral, monoanionic, and dianionic states of the dimer.",
+      "category": "Computational & Machine Learning",
+      "source_title": "Electron Delocalization in a Rigid Cofacial Naphthalene-1,8:4,5-bis(dicarboximide) Dimer",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What reagent is used to achieve the chemical reduction of 2NDI to its anionic states?",
+      "answer": "Cobaltocene (CoCp2) is used as a one-electron reductant to chemically reduce 2NDI to its radical anion and dianion states within a glovebox environment.",
+      "category": "Characterization Methods",
+      "source_title": "Electron Delocalization in a Rigid Cofacial Naphthalene-1,8:4,5-bis(dicarboximide) Dimer",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2440,
+    "completion_tokens": 2359,
+    "total_tokens": 4799
+  }
+}

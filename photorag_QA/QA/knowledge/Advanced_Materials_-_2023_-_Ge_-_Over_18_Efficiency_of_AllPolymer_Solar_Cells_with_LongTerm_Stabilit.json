@@ -1,0 +1,151 @@
+{
+  "paper_id": "Advanced_Materials_-_2023_-_Ge_-_Over_18_Efficiency_of_AllPolymer_Solar_Cells_with_LongTerm_Stabilit",
+  "paper_title": "Over 18% Efficiency of All-Polymer Solar Cells with Long-Term Stability Enabled by Y6 as a Solid Additive",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Materials - 2023 - Ge - Over 18  Efficiency of All‐Polymer Solar Cells with Long‐Term Stability Enabled by Y6 as a/auto/Advanced Materials - 2023 - Ge - Over 18  Efficiency of All‐Polymer Solar Cells with Long‐Term Stability Enabled by Y6 as a.md",
+  "knowledge_points": [
+    {
+      "category": "Performance Metrics",
+      "content": "A PM6:PY-DT all-polymer solar cell using 2 wt% Y6 as a solid additive achieves a power conversion efficiency (PCE) of 18.02%, with an open-circuit voltage (Voc) of 0.945 V, a short-circuit current (Jsc) of 24.51 mA cm^-2, and a fill factor (FF) of 77.8%.",
+      "evidence": "When Y6 (2 wt%) was added to the PM6:PY-DT blend, the FF and Jsc improved significantly, yielding a respectable PCE of 18.02%, with a Voc of 0.945 V, a Jsc of 24.51 mA cm−2, and an FF of 77.8%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "PM6:PY-DT",
+        "Y6",
+        "all-polymer solar cell"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Y6-processed all-polymer solar cells exhibit a T80 lifetime (80% of initial efficiency) of 1180 hours and an extrapolated T70 lifetime of 9185 hours under maximum power point tracking (MPP) conditions and continuous one-sun illumination.",
+      "evidence": "Consequently, Y6-processed all-PSCs achieved a high PCE of 18.02%, with T80 and T70 lifetimes of 1180 and 9185 h respectively, at maximum power point tracking (MPP) conditions under continuous one-sun illumination.",
+      "complexity": "single-hop",
+      "keywords": [
+        "T80 lifetime",
+        "photostability",
+        "MPP tracking",
+        "long-term stability"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Y6 and the polymer acceptor PY-DT show high miscibility with a calculated Flory-Huggins interaction parameter (χ) of 0.0008 mN m^-1, facilitating the formation of a well-mixed phase.",
+      "evidence": "The small value obtained for PY-DT with Y6 (0.0008 mN m−1), indicates perfect miscibility and the formation of a well-mixed phase.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Flory-Huggins interaction parameter",
+        "miscibility",
+        "PY-DT",
+        "well-mixed phase"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The addition of Y6 to the PY-DT acceptor increases the exciton diffusion length (LD) from 34.24 nm to 38.24 nm, which helps excitons reach the donor-acceptor interface in systems with large phase separation.",
+      "evidence": "The calculated LD of PY-DT (34.24 nm) was smaller than that of PY-DT with Y6 (38.24 nm), matching our results for the exciton lifetime. A long exciton diffusion length reduces non-geminate recombination, improving the movement of excitons to the D-A interface.",
+      "complexity": "single-hop",
+      "keywords": [
+        "exciton diffusion length",
+        "charge generation",
+        "non-geminate recombination"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The formation of a well-mixed phase between PY-DT and Y6 reduces the exciton binding energy (Eb) from 0.45 eV to 0.36 eV, lowering the driving force required for exciton dissociation.",
+      "evidence": "The calculated Eb values of PY-DT and PY-DT+Y6 are 0.45 and 0.36 eV, respectively (Table S8, Supporting Information), suggesting that the well-mixed phase between PY-DT and Y6 can reduce the exciton binding energies.",
+      "complexity": "single-hop",
+      "keywords": [
+        "exciton binding energy",
+        "exciton dissociation",
+        "driving force"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis reveals that Y6 addition increases the molecular packing in the PM6:PY-DT blend, as evidenced by an increase in the pi-pi stacking crystalline coherence length (CCL) from 19.36 Å to 20.71 Å in the out-of-plane direction.",
+      "evidence": "However, the CCL value increased from 19.36 to 20.71 Å after adding Y6, demonstrating the increased molecular packing in the blend with Y6.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "CCL",
+        "molecular packing",
+        "pi-pi stacking"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Mott-Schottky analysis indicates that incorporating Y6 as a solid additive reduces the trap density of states (DoS) from 4.57 x 10^16 cm^-3 eV^-1 to 2.27 x 10^16 cm^-3 eV^-1 and decreases the disorder parameter from 19.4 meV to 16.2 meV.",
+      "evidence": "The device with Y6 has low trap DoS and disorder values of 2.27 × 10^16 cm−3 eV−1 and 16.2 meV... the trap density of the PM6:PY-DT device increased from 4.57 × 10^16 [to 3.62 × 10^17 after aging].",
+      "complexity": "multi-hop",
+      "keywords": [
+        "trap density of states",
+        "Mott-Schottky",
+        "disorder parameter",
+        "electronic traps"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The introduction of Y6 improves and balances charge transport in PM6:PY-DT devices, reducing the electron-to-hole mobility ratio (μe/μh) from 1.41 to 1.16.",
+      "evidence": "Notably, the μe/μh ratio declined from 1.41 to 1.16 for the all-PSCs after adding Y6. It is believed the balanced μe/μh value is responsible for achieving a high FF in OSCs.",
+      "complexity": "single-hop",
+      "keywords": [
+        "charge mobility",
+        "SCLC",
+        "mobility balance",
+        "fill factor"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The Y6 solid additive strategy demonstrates universality across different all-polymer systems, showing PCE improvements in PM6:PY-DT-F, PM6:PYF-T-o, and PM6:PY-C11 blends.",
+      "evidence": "To assess the scope of this strategy, we employed Y6 as a solid additive in other all-PSC systems, including PM6:PY-DT-F, PM6:PYF-T-o, and PM6:PY-C11... demonstrating that the addition of Y6 is a universal and effective strategy for improving the performance of all-PSCs.",
+      "complexity": "single-hop",
+      "keywords": [
+        "solid additive",
+        "universality",
+        "all-polymer solar cells",
+        "PM6"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Y6 acts as a solid additive rather than a third acceptor component; a PM6:Y6 (2 wt%) device without the primary acceptor yields a negligible PCE of only 0.03%.",
+      "evidence": "To determine the function of Y6, we fabricated devices based on PM6:Y6 (2 wt%) that achieved a PCE of 0.03%... As a result, Y6 functions as an additive rather than a third acceptor component.",
+      "complexity": "single-hop",
+      "keywords": [
+        "solid additive",
+        "ternary system",
+        "PM6:Y6"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The relative dielectric constant (εr) of the PM6:PY-DT active layer increases from 2.98 to 3.10 with the addition of Y6, indicating improved molecular polarizability and charge delocalization.",
+      "evidence": "the εr values for PM6:PY-DT devices with and without Y6 are 2.98 and 3.10, respectively, which is the evidence that the new well-mixed phase has improved molecular polarizability and charge delocalization.",
+      "complexity": "single-hop",
+      "keywords": [
+        "dielectric constant",
+        "polarizability",
+        "charge delocalization"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The well-mixed phase formed by Y6 stabilizes the microstructure of the active layer under illumination, as indicated by a nearly unchanged pi-pi stacking distance and crystalline coherence length (CCL) after aging.",
+      "evidence": "The blend film with Y6 exhibited nearly unchanged d spacing and CCL, indicating a stable microstructure and molecular ordering. These results confirm that the well-mixed phase formed between PY-DT and Y6 maintained its molecular structure under illumination.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "microstructure stability",
+        "morphological evolution",
+        "pi-pi stacking distance"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 13880,
+    "completion_tokens": 4289,
+    "total_tokens": 18169
+  }
+}

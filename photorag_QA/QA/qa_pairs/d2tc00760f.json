@@ -1,0 +1,75 @@
+{
+  "paper_id": "d2tc00760f",
+  "paper_title": "Modulating electronic properties of dinitrosoarene polymers",
+  "qa_pairs": [
+    {
+      "question": "What is the chemical bond responsible for the formation of dinitrosoarene polymers, and how is it characterized in infrared (IR) spectroscopy?",
+      "answer": "Dinitrosoarene polymers are formed by the spontaneous creation of azodioxide bonds between monomers like 1,4-dinitrosobenzene. In IR spectroscopy, this is characterized by a prominent asymmetric azodioxide stretching signal in the 1200–1300 cm⁻¹ range and the absence of a free nitroso group signal at 1520 cm⁻¹.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Modulating electronic properties of dinitrosoarene polymers",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What is the experimental optical band gap of the crystalline dinitrosobenzene polymer (C1), and how was it determined?",
+      "answer": "The experimental optical band gap of the C1 polymer is 2.39 ± 0.02 eV. This value was determined using a Tauc plot derived from UV-vis diffuse reflectance spectroscopy data.",
+      "category": "Performance Metrics",
+      "source_title": "Modulating electronic properties of dinitrosoarene polymers",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the GW-BSE method with zero-gap renormalization (ZGR) compare to hybrid TD-DFT in predicting the band gap of the C1 polymer?",
+      "answer": "The GW-BSE method with ZGR is highly accurate, predicting a band gap of 2.41 eV, which is in excellent agreement with the experimental value of 2.39 eV. In contrast, hybrid TD-DFT (TD-HSE) underestimates the band gap by 0.23 eV.",
+      "category": "Computational & Machine Learning",
+      "source_title": "Modulating electronic properties of dinitrosoarene polymers",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Explain the mechanistic relationship between the torsional angle (θ) and the electronic band gap in dinitrosoarene polymers.",
+      "answer": "There is a linear dependence between the torsional angle (θ) and the band gap (Eg). For the crystalline dinitrosobenzene polymer (C1), the band gap increases as the torsional angle between the azodioxide and phenyl planes increases, with an estimated slope of 0.034 eV per degree (Eg ≈ 0.034 θ + 0.07 eV).",
+      "category": "Structure-Property Relationships",
+      "source_title": "Modulating electronic properties of dinitrosoarene polymers",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "How does extending the conjugation of the aromatic core from benzene to anthracene or tetracene impact the electronic properties of dinitrosoarene polymers?",
+      "answer": "Extending the aromatic core narrows the band gap significantly: anthracene-based A16 has a gap of 1.84 eV, while tetracene-based A18 has a gap of 1.68 eV. Additionally, this extension reduces the effective masses of both electrons (by ~40% for anthracene) and holes (by ~50% for anthracene).",
+      "category": "Structure-Property Relationships",
+      "source_title": "Modulating electronic properties of dinitrosoarene polymers",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What effect does adsorbing the dinitrosobenzene polymer onto a Au(111) surface have on its structure and band gap?",
+      "answer": "Adsorption onto a Au(111) surface causes significant planarization of the polymer, reducing the torsional angle (θ) to approximately 12.7°. This structural change leads to a dramatic narrowing of the band gap to 0.68 eV, as confirmed by spectroscopic ellipsometry.",
+      "category": "Processing & Fabrication",
+      "source_title": "Modulating electronic properties of dinitrosoarene polymers",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "How does the solid-state packing in the C1 dinitrosobenzene polymer affect its exciton binding energy compared to an isolated strand?",
+      "answer": "Solid-state packing screens the Coulombic interactions, which dramatically reduces the exciton binding energy from 1.44 eV in an isolated strand (1) to 0.53 eV in the crystalline form (C1).",
+      "category": "Computational & Machine Learning",
+      "source_title": "Modulating electronic properties of dinitrosoarene polymers",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Why is the dinitrosobenzene polymer C1 considered a potential candidate for 2-D electrical conductivity?",
+      "answer": "C1 shows similar band curvatures along both the polymer chain (x-direction) and the π–π stacking direction (z-direction). This similarity suggests comparable charge carrier mobility in both directions, which could allow for 2-D conductivity in doped polycrystalline films.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Modulating electronic properties of dinitrosoarene polymers",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2825,
+    "completion_tokens": 2068,
+    "total_tokens": 4893
+  }
+}

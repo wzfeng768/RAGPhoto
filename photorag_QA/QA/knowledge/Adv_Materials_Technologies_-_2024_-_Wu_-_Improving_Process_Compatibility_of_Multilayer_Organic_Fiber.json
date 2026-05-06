@@ -1,0 +1,150 @@
+{
+  "paper_id": "Adv_Materials_Technologies_-_2024_-_Wu_-_Improving_Process_Compatibility_of_Multilayer_Organic_Fiber",
+  "paper_title": "Improving Process Compatibility of Multilayer Organic Fiber Photodetectors by Combining Coaxial Thermal Evaporation with Dip-Coating",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Adv Materials Technologies - 2024 - Wu - Improving Process Compatibility of Multilayer Organic Fiber Photodetectors by/auto/Adv Materials Technologies - 2024 - Wu - Improving Process Compatibility of Multilayer Organic Fiber Photodetectors by.md",
+  "knowledge_points": [
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The organic fiber photodetector (OFPD) utilizes a five-layer coaxial diode structure consisting of Zn (core wire) / ZnO (ETL) / PBDB-T:ITIC-Th (active layer) / MoO3 (HTL) / PEDOT:PSS (transparent electrode).",
+      "evidence": "Herein, a diode-type five-layer OFPD with Zn/ZnO/PBDB-T:ITIC-Th, MoO3/PEDOT:PSS structure is prepared by combining thermal evaporation with a successive dip-coating method.",
+      "complexity": "single-hop",
+      "keywords": [
+        "coaxial structure",
+        "five-layer",
+        "photodiode",
+        "device architecture"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "A hybrid fabrication strategy is employed where the ZnO, organic photosensitive layer, and PEDOT:PSS are deposited via dip-coating, while the MoO3 layer is deposited using a specialized fiber-compatible thermal evaporation technique involving fiber rotation.",
+      "evidence": "the uniform coaxial MoO3 interfacial layer is processed by the proposed fiber-compatible thermal evaporation technique, while the other functional layers are enabled by the solution-based dip-coating method... the fiber substrate was rotated around an axis by the reversing equipment.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "dip-coating",
+        "thermal evaporation",
+        "fiber-compatible",
+        "process compatibility"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "At a bias of -0.5 V, the optimized OFPD achieves a dark current density of 8.46 × 10^-8 A cm^-2 and a responsivity of 86.4 mA W^-1 at a wavelength of 760 nm.",
+      "evidence": "At the bias of -0.5 V, the optimized OFPD exhibits a dark current density of 8.46 × 10^-8 A cm^-2, a responsivity of 86.4 mA W^-1 (@ 760 nm)",
+      "complexity": "single-hop",
+      "keywords": [
+        "dark current density",
+        "responsivity",
+        "performance metrics"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The OFPD exhibits a specific detectivity (D*) exceeding 10^11 Jones across the visible spectrum range of 400 to 760 nm.",
+      "evidence": "and a specific detectivity of over 10^11 Jones in the visible range of 400-760 nm.",
+      "complexity": "single-hop",
+      "keywords": [
+        "specific detectivity",
+        "visible range",
+        "Jones"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The device demonstrates a fast temporal response with a rise time of 0.44 ms and a fall time of 0.14 ms at 0 V bias under 650 nm laser pulse excitation.",
+      "evidence": "the device displays a fast response speed of 0.44 and 0.14 ms for rise and fall time... the response time of the device was tested at 0 V bias using a 650 nm laser pulse.",
+      "complexity": "single-hop",
+      "keywords": [
+        "response time",
+        "rise time",
+        "fall time",
+        "temporal response"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The thickness of the MoO3 hole transport layer significantly influences the dark current; an optimal thickness of 80 nm (measured by planar crystal oscillator) provides the lowest dark current density of 8.46 × 10^-8 A cm^-2 by effectively acting as an electron blocking layer.",
+      "evidence": "When the MoO3 film thickness was 20 nm the dark current of the device rose fast... When the film thickness was 80 nm the Jd was the lowest (8.46 × 10^-8 A cm^-2).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "MoO3 thickness",
+        "dark current suppression",
+        "electron blocking layer"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Atomic Force Microscopy (AFM) analysis on the curved fiber surface shows that the root-mean-square (RMS) roughness increases from the ZnO layer (0.84 nm) to the active layer (1.44 nm), and further to the MoO3 layer (2.5 nm).",
+      "evidence": "the surface root-mean-square (RMS) roughness of the ZnO layer is 0.84 nm... The RMS roughness of the PBDB-T:ITIC-Th organic photosensitive layer is 1.44 nm... After depositing a certain amount of MoO3 the RMS roughness is 2.5 nm",
+      "complexity": "multi-hop",
+      "keywords": [
+        "AFM",
+        "RMS roughness",
+        "surface morphology",
+        "fiber substrate"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The coaxial design of the fiber photodetector enables 360-degree full-angle light detection with a response uniformity where the ratio between minimum and maximum response points exceeds 80%.",
+      "evidence": "Figure 4a demonstrates that the ratio between the minimum and maximum response points was over 80%, indicating the device had excellent uniformity... suitable for detecting light from all angles.",
+      "complexity": "single-hop",
+      "keywords": [
+        "full-angle detection",
+        "coaxial design",
+        "uniformity"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The OFPD maintains 86% of its initial photocurrent after 1000 bending cycles at a 45-degree angle, while the dark current increases by only 8% over the same period.",
+      "evidence": "during the 1000 times of bending, the photocurrent did not drop obviously (maintaining 86% of the initial value). The dark current increased slightly... after 1000 times, it increased by 8% compared with the initial value.",
+      "complexity": "single-hop",
+      "keywords": [
+        "mechanical flexibility",
+        "bending stability",
+        "photocurrent retention"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "To prevent electrical short-circuiting during the final dip-coating of the PEDOT:PSS electrode, the fiber ends are insulated using Polydimethylsiloxane (PDMS).",
+      "evidence": "In order to prevent the short circuit, polydimethylsiloxane (PDMS from Dow Corning) was added dropwise to the end of the device before dip-coating the external electrodes",
+      "complexity": "single-hop",
+      "keywords": [
+        "short-circuit prevention",
+        "PDMS",
+        "insulation",
+        "fabrication"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The active layer utilizes a bulk heterojunction (BHJ) blend of the polymer donor PBDB-T and the small molecule acceptor ITIC-Th in a 1:1 mass ratio, chosen for their complementary absorption in the visible spectrum.",
+      "evidence": "Organic photosensitive layer solution: PBDB-T and ITIC-Th with a mass ratio of 1:1 were dissolved in chlorobenzene... Due to the strong and complementary absorption of the electron donor and acceptor materials in the visible light band... PBDB-T:ITIC-Th is a common combination",
+      "complexity": "multi-hop",
+      "keywords": [
+        "PBDB-T",
+        "ITIC-Th",
+        "bulk heterojunction",
+        "active layer"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The OFPD is successfully applied in photoplethysmography (PPG) for real-time heart-rate monitoring, detecting a heart rate of 70 beats per minute via light absorption changes in tissue.",
+      "evidence": "The device is demonstrated in photoplethysmography for real-time heart-rate monitoring... The heart rate can be determined as 70 beats min^-1 (Figure 4f).",
+      "complexity": "single-hop",
+      "keywords": [
+        "PPG",
+        "heart-rate monitoring",
+        "wearable electronics"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 12635,
+    "completion_tokens": 3276,
+    "total_tokens": 15911
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "paper_id": "Advanced_Materials_-_2017_-_Qi_-_Highly_Stretchable_Compliant_Polymeric_Microelectrode_Arrays_for_In",
+  "paper_title": "Highly Stretchable, Compliant, Polymeric Microelectrode Arrays for In Vivo Electrophysiological Interfacing",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Materials - 2017 - Qi - Highly Stretchable  Compliant  Polymeric Microelectrode Arrays for In Vivo/auto/Advanced Materials - 2017 - Qi - Highly Stretchable  Compliant  Polymeric Microelectrode Arrays for In Vivo.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Polypyrrole (PPy) microelectrode arrays are modified with integrated PPy nanowires to create a transition layer that enhances adhesion to the elastomer substrate.",
+      "evidence": "In this work, polypyrrole (PPy) electrode materials are designed, with PPy nanowires integrated on the high conductive PPy electrode arrays. By utilizing this electrode material... stretchable polymeric MEAs are fabricated with both high stretchability (≈100%) and good electrode-substrate adhesion (1.9 MPa).",
+      "complexity": "single-hop",
+      "keywords": [
+        "polypyrrole",
+        "nanowires",
+        "transition layer",
+        "adhesion"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The PPy-based polymeric microelectrode arrays exhibit a high stretchability of approximately 100% strain and a low Young's modulus of 450 kPa.",
+      "evidence": "the devices not only possess a high stretchability (100% strains) and low Young's modulus of ≈450 kPa",
+      "complexity": "single-hop",
+      "keywords": [
+        "stretchability",
+        "Young's modulus",
+        "compliance"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Optimized PPy films synthesized using a pyrrole to p-toluenesulfonic acid (PTSA) mole ratio of 1:2 achieve a high conductivity of 820 S/cm.",
+      "evidence": "In particular, when the mole ratio of pyrrole (py):PTSA is 1:2, the PPy film shows the highest conductivity of 820 S cm−1, which is much larger than the previous reports.",
+      "complexity": "single-hop",
+      "keywords": [
+        "conductivity",
+        "PTSA",
+        "polypyrrole"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The integration of PPy nanowires with an aspect ratio of approximately 10 increases the electrode-substrate adhesive strength to 1.9 MPa, compared to 0.25 MPa for flat films.",
+      "evidence": "As shown in Figure 2i, the adhesive strength increases to about 1.9 MPa after nanowires (aspect ratio is ≈10) modification (≈0.25 MPa without nanowires modification).",
+      "complexity": "single-hop",
+      "keywords": [
+        "aspect ratio",
+        "adhesive strength",
+        "nanowires"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "A 'stamping transfer method' is used to fabricate the MEAs, where PPy electrode arrays are transferred from an ITO slide to a prestretched PDMS substrate coated with a thin layer of semicured PDMS acting as glue.",
+      "evidence": "In this process, we stamped the PPy electrode arrays onto prestretched PDMS substrate. It should be pointed out that a thin layer of semicured PDMS was coated on the substrate's surface to serve as glue",
+      "complexity": "multi-hop",
+      "keywords": [
+        "stamping transfer",
+        "prestretch",
+        "PDMS",
+        "fabrication"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The polymeric microelectrode arrays maintain stable electrical conductivity over 10,000 cycles of mechanical stretching and relaxing.",
+      "evidence": "Moreover, the stability of the polymeric MEAs was tested by recording its resistance during 10 000 cycles of the stretching/relaxing processes and no obvious increase in resistance was observed",
+      "complexity": "single-hop",
+      "keywords": [
+        "mechanical stability",
+        "cycling stability",
+        "resistance"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Wavy microstructures induced by a prestretching strategy allow the electrode to accommodate high strain while reducing the overall Young's modulus of the device compared to flat structures.",
+      "evidence": "Here, the wavy structure not only enables the electrode to be highly stretchable, but also enables the whole MEAs device with a lower Young's modulus compared with that of the MEAs with flat electrode structures.",
+      "complexity": "single-hop",
+      "keywords": [
+        "wavy structure",
+        "buckling",
+        "compliance"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Raman spectroscopy indicates that PPy synthesized in PTSA solution has a longer pi-conjugation length than PPy in PTS-Na, evidenced by a higher intensity ratio of the symmetric C=C stretching mode (1580 cm⁻¹) to the skeletal band (1500 cm⁻¹).",
+      "evidence": "The intensity ratio of Raman peaks corresponding to the symmetric C=C stretching mode (1580 cm−1) and the skeletal band (1500 cm−1) of the PPy film synthesized in PTSA solution is larger than that of the PPy film fabricated in PTS-Na solution, which strongly indicates the lengthening of the π conjugation",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Raman spectra",
+        "conjugation length",
+        "PTSA"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The polymeric MEAs demonstrate a high charge storage capacity of 67.1 mC/cm² at a scan rate of 50 mV/s, which is significantly higher than smooth gold electrodes (1.4 mC/cm²).",
+      "evidence": "Our MEAs show a capacitance of ≈67.1 mC cm−2 at a scan rate of 50 mV s−1 (Figure 3f)... This value is an order magnitude higher than that of smooth gold electrode (1.4 mC cm−2).",
+      "complexity": "single-hop",
+      "keywords": [
+        "charge storage capacity",
+        "capacitance",
+        "gold electrode"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "PPy nanowire formation during electropolymerization is driven by O2 nanobubbles generated by water electrooxidation, which act as soft templates.",
+      "evidence": "The formation of the PPy nanowires most possibly attributes to the production of O2 nanobubbles at the PPy film surface... These O2 nanobubbles would prevent the polymer from further overoxidation, and work as soft templates to induce the formation of PPy nanowires",
+      "complexity": "single-hop",
+      "keywords": [
+        "electropolymerization",
+        "nanobubbles",
+        "soft templates"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The polymeric MEAs exhibit lower electrical impedance than gold electrodes at frequencies below 100 Hz, making them highly suitable for recording local field potentials.",
+      "evidence": "As the electrical impedance spectroscopy shown in Figure 3b, polymeric MEAs show a much better response than those of the gold electrodes at lower frequencies (below 100 Hz)... expected to be more suitable for recording local field potentials (1–100 Hz).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "impedance",
+        "local field potentials",
+        "frequency response"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The PPy microelectrodes are fabricated with a thickness of approximately 1.5 micrometers, which is one to two orders of magnitude thinner than previous polymeric MEAs, facilitating conformal contact with curvilinear tissues.",
+      "evidence": "In our work, the thickness of PPy electrodes has been decreased by one to two orders compared with their previous counterparts... The crease details of the hand can be clearly observed permeating through the 1.5 μm thick PPy conductors",
+      "complexity": "multi-hop",
+      "keywords": [
+        "thickness",
+        "conformal contact",
+        "biointerface"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 13107,
+    "completion_tokens": 3441,
+    "total_tokens": 16548
+  }
+}

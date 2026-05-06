@@ -1,0 +1,129 @@
+{
+  "paper_id": "Advanced_Materials_-_2017_-_Zhao_-_SingleJunction_BinaryBlend_Nonfullerene_Polymer_Solar_Cells_with_",
+  "paper_title": "Single-Junction Binary-Blend Nonfullerene Polymer Solar Cells with 12.1% Efficiency",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Materials - 2017 - Zhao - Single‐Junction Binary‐Blend Nonfullerene Polymer Solar Cells with 12 1  Efficiency/auto/Advanced Materials - 2017 - Zhao - Single‐Junction Binary‐Blend Nonfullerene Polymer Solar Cells with 12 1  Efficiency.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "ITIC-Th1 is a fluorinated fused-ring electron acceptor (FREA) synthesized by introducing fluorine atoms onto the 1,1-dicyanomethylene-3-indanone (IC) end-capping groups of the parent molecule ITIC-Th via Knoevenagel condensation.",
+      "evidence": "A new fluorinated nonfullerene acceptor, ITIC-Th1, has been designed and synthesized by introducing fluorine (F) atoms onto the end-capping group 1,1-dicyanomethylene-3-indanone (IC). ... Compound ITIC-Th1 was synthesized through facile Knoevenagel condensation reaction between aldehyde 1 and fluorinated IC (2).",
+      "complexity": "single-hop",
+      "keywords": [
+        "ITIC-Th1",
+        "fluorination",
+        "Knoevenagel condensation",
+        "end-capping group"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Organic solar cells using the FTAZ:ITIC-Th1 binary blend achieved a power conversion efficiency (PCE) of 12.1%, featuring an open-circuit voltage (Voc) of 0.849 V, a short-circuit current density (Jsc) of 19.33 mA cm-2, and a fill factor (FF) of 73.73%.",
+      "evidence": "the ITIC-Th1:FTAZ-based device achieves the best PCE of 12.1% with a Voc of 0.849 V, a Jsc of 19.33 mA cm-2, and an FF of 73.73%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "FTAZ",
+        "ITIC-Th1",
+        "fill factor"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Fluorination of the ITIC-Th backbone to create ITIC-Th1 results in a redshifted absorption and a reduced optical bandgap of 1.55 eV, which is 0.05 eV lower than that of the non-fluorinated ITIC-Th.",
+      "evidence": "The optical bandgap of ITIC-Th1 estimated from the absorption onset is 1.55, 0.05 eV smaller than that of ITIC-Th, which would benefit harvesting low-energy photons and enhancing Jsc.",
+      "complexity": "single-hop",
+      "keywords": [
+        "optical bandgap",
+        "redshift",
+        "fluorination",
+        "light harvesting"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The introduction of electron-withdrawing fluorine atoms in ITIC-Th1 lowers the energy levels, resulting in a HOMO of -5.74 eV and a LUMO of -4.01 eV, compared to -5.66 eV and -3.93 eV for ITIC-Th.",
+      "evidence": "The HOMO and LUMO energy levels of ITIC-Th1 film are estimated to be -5.74 and -4.01 eV... The HOMO and LUMO of ITIC-Th1 are relatively lower than those of ITIC-Th (HOMO = -5.66 eV, LUMO = -3.93 eV) due to the electron-withdrawing effect of fluorine.",
+      "complexity": "single-hop",
+      "keywords": [
+        "HOMO",
+        "LUMO",
+        "energy levels",
+        "fluorine"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Fluorination improves intermolecular interactions in ITIC-Th1 through C-F...S, C-F...H, and C-F...π noncovalent interactions, which enhances electron mobility and the fill factor in devices.",
+      "evidence": "incorporation of F would improve intermolecular interactions through C-F...S, C-F...H, and C-F...π noncovalent interactions and enhance electron mobility, which is beneficial to enhancing Jsc and fill factor (FF).",
+      "complexity": "single-hop",
+      "keywords": [
+        "noncovalent interactions",
+        "electron mobility",
+        "intermolecular interactions"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Optimal device fabrication for the FTAZ:ITIC-Th1 system involves using chloroform as a processing solvent with a 1:1.5 donor-to-acceptor weight ratio and 0.25% (v/v) 1,8-diiodooctane (DIO) as an additive.",
+      "evidence": "The optimized FTAZ/ acceptor weight ratio is 1:1.5, and the optimized content for the processing additive, 1,8-diiodooctane, is 0.25% (v/v) when using chloroform as processing solvent.",
+      "complexity": "single-hop",
+      "keywords": [
+        "chloroform",
+        "DIO",
+        "donor/acceptor ratio",
+        "optimization"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Resonant soft X-ray scattering (R-SoXS) measurements indicate that FTAZ:ITIC-Th1 blend films possess a smaller mode domain size of 15 nm compared to 29 nm for FTAZ:ITIC-Th, facilitating more efficient charge separation.",
+      "evidence": "The mode domain size of FTAZ:ITIC-Th and FTAZ:ITIC-Th1 is calculated to be 29 and 15 nm, respectively. ... smaller domains are favorable for the charge separation. Therefore, FTAZ: ITIC-Th1 shows higher Jsc.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "R-SoXS",
+        "domain size",
+        "charge separation",
+        "morphology"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The electron mobility of ITIC-Th1 in blended films (7.6 x 10^-3 cm^2 V^-1 s^-1) is higher than that of ITIC-Th (4.5 x 10^-3 cm^2 V^-1 s^-1), leading to more balanced charge transport with a hole/electron mobility ratio of 3.5.",
+      "evidence": "The electron mobility of ITIC-Th and ITIC-Th1 in blended films are 4.5 x 10-3 and 7.6 x 10-3 cm2 V-1 s-1, respectively... μh/μe of ITIC-Th and ITIC-Th1 blends are 5.3 and 3.5, respectively.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "electron mobility",
+        "balanced transport",
+        "SCLC"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Nonfullerene OSCs based on FTAZ:ITIC-Th1 show superior thermal stability compared to FTAZ:PC71BM devices, retaining 80% of their initial PCE after heating at 100 °C for 600 minutes, whereas PC71BM devices retained only 60%.",
+      "evidence": "Both devices retain 80% of their original PCEs after heating for 600 min while the PC71BM based devices only retain 60% of their original PCEs. Therefore, the nonfullerene OSCs exhibit better thermal stability than the fullerene devices.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "PC71BM",
+        "degradation"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis reveals that the coherence length of π-π stacking in FTAZ:ITIC-Th1 blend films is 4.0 nm, which is higher than the 3.7 nm observed for FTAZ:ITIC-Th films.",
+      "evidence": "The coherence length of ITIC-Th and ITIC-Th1 π-π stacking is calculated (via the Scherrer equation) to be 3.7 and 4.0 nm, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "coherence length",
+        "molecular packing",
+        "pi-pi stacking"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 11872,
+    "completion_tokens": 4195,
+    "total_tokens": 16067
+  }
+}

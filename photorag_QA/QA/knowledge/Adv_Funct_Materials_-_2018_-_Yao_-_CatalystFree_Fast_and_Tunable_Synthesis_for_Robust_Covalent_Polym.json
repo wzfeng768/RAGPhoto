@@ -1,0 +1,133 @@
+{
+  "paper_id": "Adv_Funct_Materials_-_2018_-_Yao_-_CatalystFree_Fast_and_Tunable_Synthesis_for_Robust_Covalent_Polym",
+  "paper_title": "Catalyst-Free, Fast, and Tunable Synthesis for Robust Covalent Polymer Network Semiconducting Thin Films",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Adv Funct Materials - 2018 - Yao - Catalyst‐Free  Fast  and Tunable Synthesis for Robust Covalent Polymer Network/auto/Adv Funct Materials - 2018 - Yao - Catalyst‐Free  Fast  and Tunable Synthesis for Robust Covalent Polymer Network.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The covalent polymer network (CPN) thin films are synthesized using a catalyst-free thermal azide-alkyne cycloaddition (TAAC) reaction between perylenediimide-diazide (PDI-DA) and triazine-trialkyne (TA) monomers.",
+      "evidence": "we report herein a novel fabrication method to overcome the challenge of CPN film fabrication, which is realized by the use of a catalyst-free thermal alkyne-azide cycloaddition (TAAC) reaction. The CPN thin films are rapidly obtained through the in situ heat treatment of a blend film containing alkyne- and azide-based monomers.",
+      "complexity": "single-hop",
+      "keywords": [
+        "CPN",
+        "TAAC",
+        "PDI-DA",
+        "triazine-trialkyne",
+        "catalyst-free"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Chloroform (CF) is the preferred solvent for spin-coating PDI-DA and triazine-TA blends to achieve smooth, homogeneous films, whereas chlorobenzene (CB) results in micrometer-scale phase segregation.",
+      "evidence": "While processing from chlorobenzene (CB) led to micrometer-scale phase segregation (Figure S6, Supporting Information), CF gave smooth and homogeneous films with no detectable phase separation, even after treating at Trxn = 180 °C.",
+      "complexity": "single-hop",
+      "keywords": [
+        "chloroform",
+        "chlorobenzene",
+        "phase segregation",
+        "spin-coating"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The formation of CPN films via the TAAC reaction is extremely rapid, with changes in absorption observed after 10 seconds of heating and the reaction reaching completion within 10 minutes at 180 °C.",
+      "evidence": "It is worth noting that the formation of CPN films is very fast: an obvious change of absorption is observed after heating for only 10 s and no change is seen after 10 min (at 180 °C).",
+      "complexity": "single-hop",
+      "keywords": [
+        "reaction kinetics",
+        "TAAC",
+        "thermal treatment",
+        "processing speed"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Increasing the reaction temperature (Trxn) from 90 to 180 °C during CPN formation disrupts the π-π stacking of PDI-DA, as evidenced by the decrease of the 670 nm absorption peak and the appearance of a 570 nm band corresponding to non-stacked PDI.",
+      "evidence": "The growth of the 570 nm band with heat treatment suggests that the π-π stacking is progressively disrupted as the TAAC reaction occurs, as expected from the covalent bonding between PDI and triazine.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "π-π stacking",
+        "UV-vis spectroscopy",
+        "self-assembly",
+        "PDI"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The CPN films exhibit energy levels with a HOMO of -5.9 eV and a LUMO of -3.7 eV, which remain invariant regardless of the reaction temperature used during synthesis.",
+      "evidence": "First, we established the highest occupied molecular orbital/lowest unoccupied molecular orbital levels the CPN film at −5.9 and −3.7 eV, respectively (Figure S17a, Supporting Information) and found these levels to be invariant with Trxn.",
+      "complexity": "single-hop",
+      "keywords": [
+        "HOMO",
+        "LUMO",
+        "energy levels",
+        "electronic properties"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "CPN films prepared at 120 °C and 150 °C maintain an electron mobility (μsat) within one order of magnitude of the as-cast blend (1.1 x 10^-5 cm^2 V^-1 s^-1) while gaining significant solvent resistance.",
+      "evidence": "The as-cast film exhibited μsat = 1.1 × 10^−5 cm^2 V^−1 s^−1... Importantly, heating at 120 or 150 °C reduced μsat by less than factor of 10 while still forming a robust CPN.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "electron mobility",
+        "OFET",
+        "solvent resistance",
+        "n-type"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "CPN films synthesized at temperatures between 120 and 180 °C demonstrate excellent solvent resistance to common organic solvents like chlorobenzene, whereas unreacted blend films dissolve completely within 5 minutes.",
+      "evidence": "For films treated at 180 °C for 10 min, there was no change in the UV-vis spectra after washing... In contrast, the as-cast blend film of PDI-DA and triazine-TA completely loses electrical signal after 5 min soaking in CB.",
+      "complexity": "single-hop",
+      "keywords": [
+        "solvent resistance",
+        "chemical stability",
+        "cross-linking"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Incorporating a CPN layer as an interfacial layer in a planar-mixed heterojunction (PM-HJ) device with PTB7:PC71BM improves the average power conversion efficiency (PCE) from 6.95% to 7.94%, with a peak efficiency of 8.19%.",
+      "evidence": "The control PTB7:PC71BM BHJ device without a CPN layer shows an average PCE of 6.95%... When adding a CPN layer prepared at Trxn = 120 °C, an enhanced Voc of 0.75 V and Jsc of 16.7 mA cm−2 is observed leading to an average PCE of 7.94% (highest PCE of 8.19%).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "PCE",
+        "PM-HJ",
+        "PTB7:PC71BM",
+        "organic solar cells",
+        "interfacial layer"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Grazing incident wide angle X-ray scattering (GIWAXS) and atomic force microscopy (AFM) confirm that CPN formation leads to a decrease in film crystallinity and surface roughness (RMS roughness decreases from 4.2 nm to 2.7 nm at 180 °C).",
+      "evidence": "A decrease in crystallinity as a result of the CPN formation is further supported by grazing incident wide angle X-ray scattering... AFM shows that an as-cast blend film is smooth (root mean square (RMS) roughness of 4.2 nm)... and the RMS roughness decreases to ... 2.7 nm (180 °C).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "GIWAXS",
+        "AFM",
+        "crystallinity",
+        "roughness"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "A 35 nm thick CPN film can be delaminated from an ITO substrate via dilute HCl etching to form a mechanically integral free-standing film that can be transferred to other substrates.",
+      "evidence": "The robustness of the CPN films is further demonstrated by delaminating a 35 nm thick CPN film from an ITO substrate (via dilute HCl etching). The resulting free-standing film (≈0.4 cm^2) retains mechanical integrity and can be easily transferred to any substrate.",
+      "complexity": "single-hop",
+      "keywords": [
+        "free-standing film",
+        "delamination",
+        "mechanical integrity",
+        "transfer printing"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 12910,
+    "completion_tokens": 3277,
+    "total_tokens": 16187
+  }
+}

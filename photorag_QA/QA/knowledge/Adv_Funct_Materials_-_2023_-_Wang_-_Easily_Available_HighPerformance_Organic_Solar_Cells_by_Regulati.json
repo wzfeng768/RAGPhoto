@@ -1,0 +1,119 @@
+{
+  "paper_id": "Adv_Funct_Materials_-_2023_-_Wang_-_Easily_Available_HighPerformance_Organic_Solar_Cells_by_Regulati",
+  "paper_title": "Easily Available High-Performance Organic Solar Cells by Regulating Phenylalkyl Side Groups of Non-Fused Ring Electron Acceptors",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Adv Funct Materials - 2023 - Wang - Easily Available High‐Performance Organic Solar Cells by Regulating Phenylalkyl Side/auto/Adv Funct Materials - 2023 - Wang - Easily Available High‐Performance Organic Solar Cells by Regulating Phenylalkyl Side.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "A series of non-fused ring electron acceptors (NFREAs) named BOR-CnPh (n = 3, 4, and 6) were synthesized by incorporating phenylalkyl side groups onto the dithiophene cyclopentadiene (DTC) moieties.",
+      "evidence": "Herein, phenylalkyl category side groups (CnPh) are employed to construct new NFREAs named BOR-CnPh (n = 3, 4, and 6)... the BOR-CnPh acceptors carry phenylalkyl side groups in the dithiophene cyclopentadiene (DTC) moieties.",
+      "complexity": "single-hop",
+      "keywords": [
+        "NFREA",
+        "BOR-CnPh",
+        "phenylalkyl side groups",
+        "DTC moiety"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The as-cast organic solar cell based on the PBDB-T:BOR-C4Ph blend achieved a power conversion efficiency (PCE) of 13.12%, with a VOC of 0.827 V, a JSC of 22.67 mA cm^-2, and a fill factor (FF) of 70.03%.",
+      "evidence": "the pristine PBDB-T:BOR-C4Ph blend delivers intrinsic fibrous networks with dominating face-on orientation, which yields an optimal efficiency up to 13.12%... with open-circuit voltage (VOC) of 0.827 V, short-circuit current density (JSC) of 22.67 mA cm-2, and FF of 70.03%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "as-cast",
+        "PBDB-T:BOR-C4Ph",
+        "fill factor"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The length of the alkyl spacer in the phenylalkyl side chain dictates the molecular orientation: BOR-C3Ph exhibits disordered stacking, BOR-C4Ph shows a distinct face-on orientation, and BOR-C6Ph displays weak aggregation and low crystallinity.",
+      "evidence": "strong aggregation but disordered orientations for BOR-C3Ph, strong aggregation and face-on orientations for BOR-C4Ph, and weak aggregation and disordered orientations for BOR-C6Ph.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "alkyl spacer",
+        "molecular orientation",
+        "face-on",
+        "crystallinity"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "BOR-CnPh acceptors exhibit significantly larger bathochromic shifts (>80 nm) in film compared to solution than the branched alkyl analog DOC2C6-2F (<40 nm), indicating enhanced molecular aggregation due to the phenylalkyl side groups.",
+      "evidence": "Compared to solution states, notable bathochromic shifts of over 80 nm were found in BOR-CnPh films, which are significantly larger than that of DOC2C6-2F with less than 40 nm offset.",
+      "complexity": "single-hop",
+      "keywords": [
+        "bathochromic shift",
+        "aggregation",
+        "phenylalkyl",
+        "absorption"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The PBDB-T:BOR-C3Ph system requires chloroform (CF) as a processing solvent to achieve a PCE of 10.36%, whereas processing with chlorobenzene (CB) leads to excessive phase separation and a low PCE of 4.16% due to limited solubility.",
+      "evidence": "Therefore, CF was employed to cast PBDB-T:BOR-C3Ph blend, which yields an increased PCE of 10.36%... the inefficient PCE of PBDB-T:BOR-C3Ph [in CB] is probably ascribed to the extremely serious phase-separation.",
+      "complexity": "single-hop",
+      "keywords": [
+        "chloroform",
+        "chlorobenzene",
+        "solubility",
+        "phase separation"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The PBDB-T:BOR-C4Ph as-cast device exhibits superior thermal stability, retaining 86% of its initial PCE after being heated at 65 °C for over 200 hours.",
+      "evidence": "the PBDB-T:BOR-C4Ph device retains 86% of its initial PCE, whereas the other devices showed larger decays to 70% (PBDB-T:BOR-C3Ph) and 77% (PBDB-T:BOR-C6Ph) in the same duration.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "operational lifetime",
+        "as-cast stability"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis reveals that the BOR-C4Ph neat film has a pi-pi stacking distance of 0.34 nm and a coherence length (CCL) of 4.90 nm, which are more compact and ordered than the branched alkyl analog DOC2C6-2F.",
+      "evidence": "the pi-pi stacking CCL of BOR-C4Ph was calculated to be 4.90 nm, with distance spacing (d_pi-pi) of 0.34 nm... all the three BOR-CnPh have more compact pi-pi stacking and greater CCL than those of their analog DOC2C6-2F.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "pi-pi stacking",
+        "coherence length",
+        "CCL"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The PBDB-T:BOR-C4Ph device demonstrates the most balanced charge transport among the studied NFREAs, with hole and electron mobilities of 5.68 x 10^-4 and 3.28 x 10^-4 cm^2 V^-1 s^-1, respectively.",
+      "evidence": "Notably, the PBDB-T:BOR-C4Ph device deliver the highest mu_h and the most balanced charge transport capacity... [Table 2: 5.68/3.28 x 10^-4 cm^2 V^-1 s^-1].",
+      "complexity": "single-hop",
+      "keywords": [
+        "charge mobility",
+        "SCLC",
+        "balanced transport",
+        "electron mobility"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Density functional theory (DFT) calculations show that BOR-CnPh molecules maintain good planarity with dihedral angles of 10-12 degrees between the central phenyl and adjacent DTC motifs, stabilized by O...S noncovalent interactions.",
+      "evidence": "All the three molecules possess good molecular planarity with dihedral angles of 10-12° between the central phenyl and adjacent DTC motifs, attributed to the lock effect of multiple O...S noncovalent interactions.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DFT",
+        "molecular planarity",
+        "dihedral angle",
+        "noncovalent interactions"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 14153,
+    "completion_tokens": 2912,
+    "total_tokens": 17065
+  }
+}

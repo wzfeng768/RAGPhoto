@@ -1,0 +1,145 @@
+{
+  "paper_id": "Adv_Funct_Materials_-_2012_-_Cowan_-_Charge_Formation_Recombination_and_SweepOut_Dynamics_in_Organic",
+  "paper_title": "Charge Formation, Recombination, and Sweep-Out Dynamics in Organic Solar Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Adv Funct Materials - 2012 - Cowan - Charge Formation  Recombination  and Sweep‐Out Dynamics in Organic Solar Cells/auto/Adv Funct Materials - 2012 - Cowan - Charge Formation  Recombination  and Sweep‐Out Dynamics in Organic Solar Cells.md",
+  "knowledge_points": [
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Ultrafast charge transfer in optimized polymer:fullerene bulk heterojunction blends occurs on a time scale of less than 100 femtoseconds.",
+      "evidence": "Many time-resolved studies have shown that the charge transfer to the fullerene materials is nearly quantitative and ultrafast (<100 fs for many optimized systems).",
+      "complexity": "single-hop",
+      "keywords": [
+        "charge transfer",
+        "ultrafast",
+        "timescale"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The traditional exciton diffusion model is inconsistent with ultrafast charge transfer because excitons can only diffuse 0.1-0.2 nm in 100 fs, while typical phase separation in optimized BHJs is 10-20 nm.",
+      "evidence": "According to the exciton diffusion coefficients reported in literature... excitons can diffuse by only 0.1-0.2 nm in 100 fs. This is clearly much less than the typical length scale of about 10-20 nm in optimized bulk heterojunctions.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "exciton diffusion",
+        "phase separation",
+        "length scale"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The primary photoexcitation in conjugated polymers like PCDTBT and P3HT is described as a delocalized, non-thermalized pair of mobile electrons and holes rather than a bound exciton.",
+      "evidence": "we use the semiconductor formalism and describe it as a correlated, but not bound, pair of a mobile electron and hole, formed by a π-π* interband transition.",
+      "complexity": "single-hop",
+      "keywords": [
+        "photoexcitation",
+        "delocalized carriers",
+        "PCDTBT",
+        "P3HT"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Organic bulk heterojunction solar cells have demonstrated internal quantum efficiencies (IQE) of almost unity and certified power conversion efficiencies (PCE) exceeding 8%.",
+      "evidence": "Internal quantum efficiency of almost unity has been demonstrated. National Renewable Energy Lab (N.R.E.L.)- certified power conversion efficiencies surpassing 8% have been achieved.",
+      "complexity": "single-hop",
+      "keywords": [
+        "IQE",
+        "PCE",
+        "efficiency"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Carrier sweep-out time (τsw) in a BHJ device is defined by the equation τsw = d^2 / (2μVint), where d is the active layer thickness, μ is the carrier mobility, and Vint is the internal voltage.",
+      "evidence": "the sweep-out time is defined as τsw = d^2 / 2μVint, inversely proportional to the internal voltage.",
+      "complexity": "single-hop",
+      "keywords": [
+        "sweep-out time",
+        "internal voltage",
+        "carrier mobility"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Bimolecular recombination is the dominant loss mechanism in optimized organic solar cells across the range from short circuit to open circuit conditions.",
+      "evidence": "an emerging hypothesis is discussed: that bimolecular recombination accounts for the majority of recombination from short circuit to open circuit in optimized solar cells.",
+      "complexity": "single-hop",
+      "keywords": [
+        "bimolecular recombination",
+        "loss mechanism",
+        "short circuit"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Time-delayed collection field (TDCF) measurements demonstrate that the density of generated charge is independent of the applied electric field during illumination, suggesting charge separation is not field-dependent.",
+      "evidence": "TDCF measurements resolve photocurrent extraction... Generated charge density is found to be independent of the applied electric field during illumination, indicating that charge separation is not a field-dependent process.",
+      "complexity": "single-hop",
+      "keywords": [
+        "TDCF",
+        "charge density",
+        "electric field"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Thermal annealing of P3HT:PCBM blends increases the power conversion efficiency from less than 1% to 5% by increasing phase separation and polymer crystallinity to a 10 nm scale.",
+      "evidence": "as-cast films of P3HT:PCBM have been shown to display intimate mixing and have a PCE of less than 1%... This can be increased to 5% by thermal annealing, which increases the phase separation and leads to more crystalline polymer domains of about 10 nm.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal annealing",
+        "P3HT:PCBM",
+        "crystallinity"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "At the short circuit condition, charge carriers are efficiently extracted via drift transport in the internal electric field in approximately less than 1 microsecond.",
+      "evidence": "At short circuit and room temperature, charge is extracted from both BHJ systems in < 1 μs. ... Jsc is thought to be dominated by charge carrier sweep-out via drift transport in the high internal electric field.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "short circuit",
+        "drift transport",
+        "extraction time"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Time-delayed dual pulse (TDDP) measurements utilize two pulsed lasers to vary the interaction time of charge populations, revealing that recombination rates are bias- and charge-density-dependent.",
+      "evidence": "TDDP probes P3HT:PCBM BHJ solar cell devices using two pulsed lasers... By varying the time delay between the two pulsed lasers, the interaction time of two charge populations is controlled. ... The measured charge-density- and bias-dependent recombination rates are again well-reproduced via a Langevin-type bimolecular recombination model.",
+      "complexity": "single-hop",
+      "keywords": [
+        "TDDP",
+        "recombination rate",
+        "charge density"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The power conversion efficiency of polymer BHJ solar cells does not scale linearly with thickness because increasing the active layer thickness increases the path length for carriers, leading to dominant recombination losses.",
+      "evidence": "the power conversion efficiency does not scale linearly with the thickness of the active layer... As the active layer thickness increases, the path length of photogenerated electrons and holes to the electrodes increases. ... Charge recombination becomes the dominant loss mechanism as the active layer thickness increases.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "active layer thickness",
+        "recombination",
+        "path length"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Bimolecular recombination (Langevin-type) in P3HT:PCBM devices is measured to increase from approximately 17% at short circuit to approximately 58% at a pre-bias of 0.55 V.",
+      "evidence": "Bimolecular (Langevin-type) recombination increases from ≈17% at short circuit to ≈58% at a pre-bias of 0.55 V, just slightly above the open circuit condition.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Langevin recombination",
+        "P3HT:PCBM",
+        "bias dependence"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 11770,
+    "completion_tokens": 3655,
+    "total_tokens": 15425
+  }
+}

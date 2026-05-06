@@ -1,0 +1,126 @@
+{
+  "paper_id": "Advanced_Science_-_2024_-_Li_-_Allogeneic_Zombie_Cell_as_OffTheShelf_Vaccine_for_Postsurgical_Cancer",
+  "paper_title": "Allogeneic \"Zombie Cell\" as Off-The-Shelf Vaccine for Postsurgical Cancer Immunotherapy",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Science - 2024 - Li - Allogeneic  Zombie Cell  as Off‐The‐Shelf Vaccine for Postsurgical Cancer Immunotherapy/auto/Advanced Science - 2024 - Li - Allogeneic  Zombie Cell  as Off‐The‐Shelf Vaccine for Postsurgical Cancer Immunotherapy.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The 'zombie cell' (zCT26-DBCO) is synthesized by treating allogeneic CT26 cells with the oncolytic peptide LTX-315 and subsequently inserting DSPE-PEG2k-DBCO artificial ligands into the lipid bilayer of the resulting cell corpses.",
+      "evidence": "Generation of zCT26-DBCO involved two steps: inducing oncolysis and inserting artificial ligands... CT26 cells were first treated with a clinical-grade oncolytic peptide of LTX-315... Then... the anchor of dibenzocyclooctylenyl (DBCO)-bearing, two-tailed lipids [DSPE-PEG2k-DBCO] were inserted into the lipid bilayer.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "zombie cell",
+        "LTX-315",
+        "DBCO",
+        "DSPE-PEG2k-DBCO"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The injectable hydrogel scaffold is composed of poly(vinyl alcohol) (PVA) crosslinked with N1-(4-boronobenzyl)-N3-(4-boronophenyl)-N1,N1,N3,N3-tetramethylpropane-1,3-diaminium (TSPBA), which forms ROS-labile pinacol ester bonds.",
+      "evidence": "an injectable hydrogel was self-assembled from two syringeable solutions - a hydrogel precursor poly(vinyl alcohol) (PVA) and a crosslinker N1-(4-boronobenzyl)-N3-(4-boronophenyl)-N1,N1,N3,N3-tetramethylpropane-1,3-diaminium (TSPBA).",
+      "complexity": "single-hop",
+      "keywords": [
+        "PVA",
+        "TSPBA",
+        "hydrogel",
+        "pinacol ester"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Metabolic glycoengineering is used to tag residual 4T1 tumor cells with azido groups by administering the unnatural sugar 1,3,4-O-acetyl-N-azidoacetylmannosamine (Ac4ManNAz) locally via a hydrogel.",
+      "evidence": "Adding unnatural sugar 1,3,4-O-acetyl-N-azidoacetylmannosamine (Ac4ManNAz) to cells is a well-established approach to enable metabolic glycoengineering to install azido-sialic acids on their surfaces... Ac4ManNAz-loaded hydrogel on day 0 for metabolic glycoengineering.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Ac4ManNAz",
+        "metabolic glycoengineering",
+        "azido tagging"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The vaccine platform utilizes a stepwise in situ gelation strategy in the tumor resection cavity: a first hydrogel degrades to release glycoengineering agents, followed by a second hydrogel that releases 'zombie cells' for bioorthogonal anchoring.",
+      "evidence": "The delivery strategy consists of stepwise in situ gelation in tumor resection cavity... Immediately after surgery, the first hydrogel is injected locally... Sequentially after the first hydrogel degrades, the second hydrogel is injected into the resection cavity... to gradually release the 'zombie cells'.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "stepwise gelation",
+        "resection cavity",
+        "in situ gelation"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Zombie cells induce 'pseudo-oncolysis' in targeted tumor cells by anchoring to their surface and providing high localized concentrations of damage-associated molecular patterns (DAMPs) such as calreticulin (CRT) and ATP.",
+      "evidence": "zombie cells, acting like cell-surface factories that massively produce damage-associated molecular patterns (DAMPs), camouflage the tumor cells in a pseudo-oncolysis state... cell corpses exhibit typical features of immunogenic cell death that implicated continuous surface exposure of calreticulin (CRT) and extracellular release of adenosine triphosphate (ATP).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "pseudo-oncolysis",
+        "DAMPs",
+        "calreticulin",
+        "ATP"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The ZCV system significantly enhances the recruitment of CD8+ T cells to the tumor site and increases the proportion of IFN-γ secreting cells compared to allogeneic vaccines lacking anchoring capabilities.",
+      "evidence": "ZCV_CT26@D-Gel recruited a significantly increased number of CD8+ T cells to the tumor site with an elevated proportion secreting IFN-γ to exert tumoricidal activity.",
+      "complexity": "single-hop",
+      "keywords": [
+        "CD8+ T cells",
+        "IFN-γ",
+        "immunogenicity"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The PVA-TSPBA hydrogel is responsive to reactive oxygen species (ROS) enriched in the surgical trauma site, allowing for complete degradation within 4 days without a burst release of encapsulated cargo.",
+      "evidence": "In response to surgical trauma where ROS is locally enriched... the hydrogel can gradually degrade... the hydrogel scaffold could be in situ formed, and completely degraded within 4 days without burst elimination of encapsulated cargos.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ROS-responsive",
+        "biodegradation",
+        "surgical stress"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Repetitive administration of the zombie cell vaccine (ZCV_CT26@D-Gel x 3) achieved a 100% long-term survival rate in orthotopic 4T1 tumor recurrence models.",
+      "evidence": "through repetitive stimulation, ZCV_CT26@D-Gel (x 3) eradicated the recurrent 4T1 tumor post-surgery and achieved a long-term 100% survival rate.",
+      "complexity": "single-hop",
+      "keywords": [
+        "survival rate",
+        "100%",
+        "repetitive stimulation"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Rheological analysis confirms the sol-to-gel transition of the PVA-TSPBA system, where the storage modulus (G') exceeds the loss modulus (G'') upon crosslinking, even when loaded with cells or small molecules.",
+      "evidence": "Rheological analysis showed the PVA precursor had solution-like properties before crosslinking. After crosslinking, the storage modulus (G') exceeded the loss modulus (G'') confirming sol-to-gel transition.",
+      "complexity": "single-hop",
+      "keywords": [
+        "rheology",
+        "storage modulus",
+        "G'",
+        "sol-to-gel"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Allogeneic zombie vaccines derived from B16 melanoma or LLC-1 lung cancer cells show anti-tumor efficacy against 4T1 breast tumors that is comparable to autologous (4T1-derived) vaccines.",
+      "evidence": "zombie vaccines ZCV_B16@D-Gel and ZCV_LLC-1@D-Gel effectively controlled the growth of tumor remnants, with the anti-tumor capabilities evenly matched with AuCV_4T1@D-Gel.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "allogeneic",
+        "autologous",
+        "off-the-shelf"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 15276,
+    "completion_tokens": 3301,
+    "total_tokens": 18577
+  }
+}

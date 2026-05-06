@@ -1,0 +1,132 @@
+{
+  "paper_id": "tian-et-al-2020-molecular-engineering-of-indoline-dyes-and-their-application-in-dye-sensitized-solar",
+  "paper_title": "Molecular Engineering of Indoline Dyes and Their Application in Dye-Sensitized Solar Cells: Effect of Planarity and Side Chain on Interfacial Charge-Transfer Processes",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/tian-et-al-2020-molecular-engineering-of-indoline-dyes-and-their-application-in-dye-sensitized-solar-cells-effect-of/auto/tian-et-al-2020-molecular-engineering-of-indoline-dyes-and-their-application-in-dye-sensitized-solar-cells-effect-of.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Molecular planarization of the indoline donor is achieved through cyclization between the indoline and phenyl groups, significantly reducing the dihedral angle from 55.9° in the twisted reference dye (CS-31) to 23.3° in the planarized version (CS-32).",
+      "evidence": "the reference dye CS-31 presented a quite large dihedral angle value of 55.9°... Through the cyclization of these two segments, the dihedral angle of CS-32 was sharply reduced to 23.3°",
+      "complexity": "single-hop",
+      "keywords": [
+        "indoline donor",
+        "molecular planarization",
+        "dihedral angle",
+        "cyclization"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Planarization of the donor segment in indoline dyes selectively upshifts the HOMO level while leaving the LUMO level largely unaffected, facilitating energy level engineering.",
+      "evidence": "the HOMO level was upshifted from 0.99 V of CS-31 to 0.87 V of CS-32 along with the planarization of the donor part, when their LUMO levels stayed at around -1.17 to -1.18 V.",
+      "complexity": "single-hop",
+      "keywords": [
+        "HOMO level",
+        "LUMO level",
+        "energy level engineering",
+        "donor planarization"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The introduction of longer alkyl chains (butyl and octyl) on the planar donor further reduces the dihedral angle to as low as 4.5°, enhancing π-conjugation and red-shifting the absorption maximum.",
+      "evidence": "along with the extension of the alkyl chains from methyl to butyl and octyl groups, the dihedral angles of CS-33 and CS-34 were further reduced to 5.5 and 4.5°, respectively... indicating a gradual improvement in the planarity",
+      "complexity": "multi-hop",
+      "keywords": [
+        "alkyl chains",
+        "π-conjugation",
+        "absorption red-shift",
+        "dihedral angle"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The dye CS-33, featuring a planarized indoline donor and butyl side chains, achieved a peak power conversion efficiency (PCE) of 8.38%, with a short-circuit current (JSC) of 15.79 mA cm⁻² and an open-circuit voltage (VOC) of 755 mV.",
+      "evidence": "planar dye CS-33-based DSSC presented the best power conversion efficiency (PCE) of 8.38% with a JSC of 15.79 mA cm⁻²; a VOC of 755 mV; and a fill factor of 0.705",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "JSC",
+        "VOC",
+        "CS-33"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Planarization of the donor segment improves the charge injection efficiency (ηinj) in DSSCs; for instance, ηinj increased from 74.27% for the twisted CS-31 to 86.81% for the planarized CS-32.",
+      "evidence": "the ηinj values for CS-31-34 were calculated to be 74.27, 86.81, 87.73, and 87.62% respectively. Therefore... the improvement of the planarity in the donor segment still obviously favored the higher ηinj values",
+      "complexity": "single-hop",
+      "keywords": [
+        "charge injection efficiency",
+        "ηinj",
+        "planarization",
+        "DSSC"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The open-circuit voltage (VOC) in these indoline-based DSSCs is a trade-off between the conduction band (CB) edge shift and the charge recombination rate, where the twisted dye CS-31 shows the largest CB upshift but the lowest VOC due to rapid recombination.",
+      "evidence": "CS-31 obviously showed the largest ΔECB among the four dyes, which was contrary to the VOC results... the relatively low VOC of the CS-31-based DSSC could only be attributed to its fast charge recombination rate",
+      "complexity": "multi-hop",
+      "keywords": [
+        "VOC",
+        "conduction band shift",
+        "charge recombination",
+        "vertical dipole moment"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Alkyl chains effectively suppress H-aggregation on TiO2 films, as evidenced by the reduced hypsochromic shifts of the ICT bands (15-17 nm for dyes with longer chains versus 31 nm for the dye with a methyl group).",
+      "evidence": "CS-31 presented the longest blue shift of 31 nm... Owing to the aggregation prevention effect of long alkyl chains, the blue shifts of CS-33 and 34 were decreased to 17 and 15 nm respectively",
+      "complexity": "single-hop",
+      "keywords": [
+        "H-aggregation",
+        "hypsochromic shift",
+        "TiO2 film",
+        "alkyl chain effect"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Electrochemical impedance spectroscopy (EIS) measurements reveal that extending alkyl chains to butyl groups increases charge-transfer resistance (RCT) to 37.25 Ω, effectively suppressing charge recombination between TiO2 and the electrolyte.",
+      "evidence": "CS-32-34 presented large RCT values of 33.38, 37.25, and 33.63 Ω respectively... extension of alkyl chains from methyl to butyl groups could further separate the I3- species far away from the TiO2 surface",
+      "complexity": "single-hop",
+      "keywords": [
+        "EIS",
+        "charge-transfer resistance",
+        "RCT",
+        "recombination suppression"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Overlong alkyl chains (e.g., octyl in CS-34) can negatively impact DSSC performance by increasing molecular volume, which reduces dye-loading amounts and provides space for redox species to approach the TiO2 surface, accelerating recombination.",
+      "evidence": "the overlarge alkyl chains would increase the molecular volume, thus resulting in its lower dye-loaded amount... would supply enough space for I3- species to get close to the TiO2 surface, leading to the fast charge recombination.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "octyl chain",
+        "dye loading",
+        "molecular volume",
+        "recombination"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "DFT calculations indicate that the vertical dipole moment (μnormal) of the dyes follows the order CS-31 (4.87 D) > CS-34 (4.33 D) > CS-33 (4.29 D) > CS-32 (4.11 D), which correlates with the observed shifts in the TiO2 conduction band.",
+      "evidence": "the μnormal values of all four dyes were extracted from their Gaussian calculation results, which were in the order of 4.87 > 4.33 > 4.29 > 4.11 D for CS-31, CS-34, CS-33, and CS-32",
+      "complexity": "single-hop",
+      "keywords": [
+        "DFT",
+        "vertical dipole moment",
+        "Gaussian calculation",
+        "conduction band shift"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 12037,
+    "completion_tokens": 3057,
+    "total_tokens": 15094
+  }
+}

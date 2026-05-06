@@ -1,0 +1,155 @@
+{
+  "paper_id": "Advanced_Materials_-_2022_-_Gao_-_Achieving_19_Power_Conversion_Efficiency_in_PlanarMixed_Heterojunc",
+  "paper_title": "Achieving 19% Power Conversion Efficiency in Planar-Mixed Heterojunction Organic Solar Cells Using a Pseudosymmetric Electron Acceptor",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Materials - 2022 - Gao - Achieving 19  Power Conversion Efficiency in Planar‐Mixed Heterojunction Organic Solar/auto/Advanced Materials - 2022 - Gao - Achieving 19  Power Conversion Efficiency in Planar‐Mixed Heterojunction Organic Solar.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "BS3TSe-4F is a pseudosymmetric electron acceptor designed by regio-selectively replacing two sulfur atoms in the central and lateral positions of the BP4T-4F pi-core with selenium atoms.",
+      "evidence": "By regio-selectively replacing the two sulfur atoms in the central and lateral positions with selenium on the π core of previously reported BP4T-4F, the typical molecular packing mode of Y6 derivatives is maintained.",
+      "complexity": "single-hop",
+      "keywords": [
+        "BS3TSe-4F",
+        "pseudosymmetric",
+        "selenium substitution",
+        "molecular design"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "A ternary PMHJ organic solar cell based on D18/BS3TSe-4F:Y6-O (1:0.1 weight ratio) achieved a record power conversion efficiency (PCE) of 19.03% with a VOC of 0.845 V and a JSC of 29.41 mA/cm².",
+      "evidence": "By incorporating another mid-bandgap acceptor Y6-O into D18/BS3TSe-4F to form a ternary PMHJ... realize an impressive PCE of 19.03%... with an enhanced VOC (0.845 V) and FF (76.56%).",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "19.03%",
+        "ternary",
+        "D18",
+        "BS3TSe-4F",
+        "Y6-O"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The asymmetric selenium substitution in BS3TSe-4F increases the dielectric constant (εr) of the D18/BS3TSe-4F blend to 2.80, which is significantly higher than the 2.15 observed for the D18/S9TBO-F blend.",
+      "evidence": "Figure 1d shows the εr values of D18, S9TBO-F, BS3TSe-4F, D18/S9TBO-F, and D18/BS3TSe-4F, which are 3.94, 2.36, 2.50, 2.15, and 2.80, respectively, under the frequency of 10^5 Hz.",
+      "complexity": "single-hop",
+      "keywords": [
+        "dielectric constant",
+        "selenium substitution",
+        "exciton binding energy"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The exciton binding energy of the D18/BS3TSe-4F blend (0.381 eV) is lower than that of the D18/S9TBO-F blend (0.495 eV), facilitating more efficient exciton dissociation.",
+      "evidence": "corresponding exciton binding energies... giving... 0.495 eV for D18/S9TBO-F and 0.381 eV for D18/BS3TSe-4F... significantly lower exciton binding energy of D18/BS3TSe-4F than that of D18/S9TBO-F should benefit efficient exciton dissociation.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "exciton binding energy",
+        "exciton dissociation",
+        "BS3TSe-4F"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The binary PMHJ organic solar cell based on D18/BS3TSe-4F achieved a PCE of 18.48%, with a VOC of 0.828 V, a JSC of 29.40 mA/cm², and a fill factor (FF) of 75.94%.",
+      "evidence": "As a result, PMHJ OSCs based on D18/BS3TSe-4F achieve a PCE of 18.48%... with a VOC of 0.828 V, JSC of 29.40 mA cm−2, and FF of 75.94%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "18.48%",
+        "binary",
+        "D18",
+        "BS3TSe-4F"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "In these materials systems, Planar-Mixed Heterojunction (PMHJ) devices exhibit higher PCEs than Bulk Heterojunction (BHJ) devices (e.g., 18.48% vs 16.14% for BS3TSe-4F), likely due to poor morphological compatibility in the BHJ blend of highly crystalline materials.",
+      "evidence": "D18:BS3TSe-4F-based BHJ OSCs showed significantly lower PCEs... (16.14% for D18:BS3TSe-4F) than those obtained from PMHJ OSCs... most likely due to poor morphology compatibility between the highly crystalline donor and acceptor materials.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "PMHJ",
+        "BHJ",
+        "crystallinity",
+        "device architecture"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "BS3TSe-4F-based devices exhibit a lower radiative recombination loss (ΔE2 = 0.053 eV) compared to S9TBO-F-based devices (ΔE2 = 0.062 eV), which helps compensate for slightly higher non-radiative losses.",
+      "evidence": "its lower radiative recombination loss (ΔE2, 0.053 eV compared to 0.062 eV for D18/S9TBO-F) helps compensate this disadvantage and leads to a lower Eloss in its derived device.",
+      "complexity": "single-hop",
+      "keywords": [
+        "radiative recombination loss",
+        "energy loss",
+        "ΔE2"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "DFT calculations show that molecular asymmetry in BS3TSe-4F reduces electron-hole overlapping in certain dimer packing patterns (e.g., Dimer D2 at 0.241), indicating a stronger tendency for free charge generation compared to the symmetric S9TBO-F.",
+      "evidence": "Theoretical calculation results show that pseudosymmetric BS3TSe-4F has a stronger tendency to generate free charge carriers than S9TBO-F... electron-hole overlapping of Dimer D can be further minimized in D2 (0.241).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "DFT",
+        "dimer packing",
+        "electron-hole overlapping",
+        "free charge generation"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS characterization indicates that D18/BS3TSe-4F films possess a 'face-on' orientation with coherence lengths (CLs) of 77 Å in the in-plane (IP) direction and 20.4 Å in the out-of-plane (OoP) direction.",
+      "evidence": "CLs in IP and OoP directions are 77/20.4 Å for D18/BS3TSe-4F and 64/19.4 Å for D18/S9TBO-F... all possess 'face-on' orientation.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "face-on orientation",
+        "coherence length",
+        "morphology"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "BS3TSe-4F has a narrow optical bandgap (Eg opt) of 1.280 eV with an absorption onset extending to 969 nm, and its HOMO/LUMO energy levels are -5.60 eV and -3.86 eV, respectively.",
+      "evidence": "corresponding to an optical bandgap (Eg opt) of 1.294 and 1.280 eV, respectively... HOMO energy levels... identified as -5.24, -5.61, and -5.60 eV... LUMO energy levels of -3.00, -3.84, and -3.86 eV.",
+      "complexity": "single-hop",
+      "keywords": [
+        "HOMO",
+        "LUMO",
+        "bandgap",
+        "NIR absorption"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The charge carrier mobilities in D18/BS3TSe-4F PMHJ devices are more balanced than in D18/S9TBO-F, with an electron mobility (μe) of 3.3 × 10⁻³ cm² V⁻¹ s⁻¹ and a hole mobility (μh) of 5.4 × 10⁻³ cm² V⁻¹ s⁻¹.",
+      "evidence": "electron (μe) and hole (μh) mobilities... were 3.3 × 10−3 and 5.4 × 10−3 cm2 V−1 s−1 for D18/BS3TSe-4F with μe/μh of 2.3 and 0.6, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "carrier mobility",
+        "SCLC",
+        "charge transport balance"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "RSoXS data revealed that D18/BS3TSe-4F:Y6-O ternary films have a higher volume fraction (63%) of smaller domains (~30 nm) compared to D18/S9TBO-F (42%), correlating with higher JSC and FF.",
+      "evidence": "Volume fractions of smaller domain are D18/BS3TSe-4F:Y6-O (63%) > D18/BS3TSe-4F (61%) > D18/S9TBO-F (42%), and the higher volume fraction of this domain will result in higher JSC and FF.",
+      "complexity": "single-hop",
+      "keywords": [
+        "RSoXS",
+        "domain size",
+        "volume fraction",
+        "phase purity"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 18021,
+    "completion_tokens": 3805,
+    "total_tokens": 21826
+  }
+}

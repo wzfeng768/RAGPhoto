@@ -1,0 +1,127 @@
+{
+  "paper_id": "Israel_Journal_of_Chemistry_-_2022_-_Hackl_-_Radiative_Recombination_in_BulkHeterojunction_Solar_Cel",
+  "paper_title": "Radiative Recombination in Bulk-Heterojunction Solar Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Israel Journal of Chemistry - 2022 - Hackl - Radiative Recombination in Bulk‐Heterojunction Solar Cells/auto/Israel Journal of Chemistry - 2022 - Hackl - Radiative Recombination in Bulk‐Heterojunction Solar Cells.md",
+  "knowledge_points": [
+    {
+      "category": "Performance Metrics",
+      "content": "The charge transfer (CT) emission in the PCPDTBT:PCBM solar cell system exhibits a short-lived decay component of approximately 1 ns but shows no evidence of long-lived emission in the microsecond range.",
+      "evidence": "We find a short-lived component (~1 ns) and no evidence of a long-lived emission (µs) expected if photo-generated free charge carriers would recombine radiatively via the charge transfer state.",
+      "complexity": "single-hop",
+      "keywords": [
+        "charge transfer emission",
+        "lifetime",
+        "PCPDTBT:PCBM",
+        "nanosecond"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "In PCPDTBT:PCBM blends, the radiative recombination of free charge carriers via the emissive charge transfer state is of minimal importance, suggesting that alternative non-radiative recombination paths dominate.",
+      "evidence": "This suggests that the recombination of free charges through an emissive charge transfer state is of minimal importance in the studied absorber blend, for which the CT-emission thus functions solely as a loss mechanism prior to the generation of free carriers.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "non-radiative recombination",
+        "free charge carriers",
+        "loss mechanism"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "A Superconducting Single Photon Detector (SSPD) with a quantum efficiency of approximately 12% at 1.31 µm and a time jitter of a few tens of picoseconds is used to detect weak near-infrared CT emission in the nano- to millisecond range.",
+      "evidence": "To be able to observe the dynamics of the weakly emitting CT states in the near-infrared (NIR) spectral region, a Superconducting Single Photon Detector (SsPD) capable to detect single NIR photons with efficiencies about 12% and a time jitter of only a few tens of picoseconds was used.",
+      "complexity": "single-hop",
+      "keywords": [
+        "SSPD",
+        "near-infrared",
+        "time-resolved photoluminescence",
+        "quantum efficiency"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The numerical modeling of the charge transfer state in PCPDTBT:PCBM uses a recombination rate constant (kr) of 10^9 s^-1 and a dissociation rate constant (kdis) of 10^12 s^-1.",
+      "evidence": "A temperature independent emission decay with a lifetime of approximately 1 ns was found resulting in kr = 10^9 s^-1... We set kdis = 10^12 s^-1.",
+      "complexity": "single-hop",
+      "keywords": [
+        "rate constants",
+        "dissociation",
+        "recombination",
+        "modeling"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "PCPDTBT:PCBM devices demonstrate a bimolecular recombination coefficient (krec) of approximately 10^-10 cm^3 s^-1 based on charge carrier lifetimes in the microsecond regime.",
+      "evidence": "For PCPDTBT:PCBM devices charge carrier lifetimes in the µs-regime have been reported. This leads to a bimolecular recombination coefficient krec ~ 10^-10 cm^3 s^-1.",
+      "complexity": "single-hop",
+      "keywords": [
+        "bimolecular recombination",
+        "krec",
+        "carrier lifetime"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "In PCPDTBT:PCBM solar cells, a strong charge transfer emission can correlate with poor device performance; specifically, adding a processing additive suppresses CT emission while nearly doubling the power conversion efficiency.",
+      "evidence": "E.g. in the low band gap absorber blend PCPDTBT:PCBM... a strong charge transfer state emission is found in poorly performing devices. When using a processing additive for device manufacturing, the charge transfer emission is suppressed, while the power efficiency is almost doubled.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "processing additive",
+        "CT emission",
+        "PCE",
+        "efficiency enhancement"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The lack of delayed CT emission suggests that free charge carriers in donor-acceptor blends predominantly recombine non-radiatively via a lower-energy triplet charge transfer state (N_CT^T).",
+      "evidence": "The recombination channel for free charge carriers is predominately the CT triplet state (N_CT^T) due to the favourable energetics and spin-multiplicity. The recombination of the N_CT^T may lead to the formation of molecular triplets or a direct deactivation to the ground state.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "triplet state",
+        "non-radiative recombination",
+        "spin-multiplicity"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "To isolate the low-energy charge transfer emission from the donor polymer's emission during photoluminescence experiments, a 1 mm thick silicon wafer can be utilized as a long-pass filter.",
+      "evidence": "A 1 mm thick silicon wafer was used as a long pass filter for selecting the low energy part of the emission spectrum originating from the charge transfer emission.",
+      "complexity": "single-hop",
+      "keywords": [
+        "silicon filter",
+        "long-pass filter",
+        "spectral isolation"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The onset of the external quantum efficiency (EQE) spectrum in PCPDTBT:PCBM blends is shifted to lower energies compared to pristine PCPDTBT due to the additional absorption contributed by the charge transfer state.",
+      "evidence": "The onset of the EQE spectrum of the PCPDTBT:PCBM solar cell is significantly shifted to lower energies compared to the EQE of the PCPDTBT-photodiode due to the additional absorption of the charge transfer state present in the donor-acceptor blend.",
+      "complexity": "single-hop",
+      "keywords": [
+        "EQE",
+        "absorption onset",
+        "energy level",
+        "CT state"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The observed charge transfer emission in the nanosecond range for PCPDTBT:PCBM is attributed to purely geminate recombination, which represents a loss of potential photocurrent.",
+      "evidence": "The observed CT-emission in the ns-range is a product of purely geminate recombination, and therefore it is a loss mechanism... As these carriers cannot contribute to photocurrent, this is a pure loss mechanism in the solar cell.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "geminate recombination",
+        "photocurrent loss",
+        "nanosecond decay"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 7610,
+    "completion_tokens": 3393,
+    "total_tokens": 11003
+  }
+}

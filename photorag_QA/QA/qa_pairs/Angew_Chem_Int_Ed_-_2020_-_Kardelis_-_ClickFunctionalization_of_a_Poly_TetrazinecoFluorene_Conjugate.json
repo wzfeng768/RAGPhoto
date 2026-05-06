@@ -1,0 +1,75 @@
+{
+  "paper_id": "Angew_Chem_Int_Ed_-_2020_-_Kardelis_-_ClickFunctionalization_of_a_Poly_TetrazinecoFluorene_Conjugate",
+  "paper_title": "Click-Functionalization of a Poly(Tetrazine-co-Fluorene)-Conjugated Polymer with a Series of trans-Cyclooctene Derivatives",
+  "qa_pairs": [
+    {
+      "question": "How is the progenitor poly(tetrazine) polymer, P1, synthesized and under what conditions?",
+      "answer": "The progenitor poly(tetrazine) P1 is synthesized via Suzuki polycondensation of 3,6-bis(5-bromofuran-2-yl)-1,2,4,5-tetrazine (monomer 2) and a fluorene bis(pinacolato)boronate ester (comonomer 3). The reaction is performed under mild conditions at 50 °C for 15 minutes.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Click-Functionalization of a Poly(Tetrazine-co-Fluorene)-Conjugated Polymer with a Series of trans-Cyclooctene Derivatives",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What are the molecular weight characteristics of the progenitor polymer P1 as determined by different analytical methods?",
+      "answer": "The number average molecular weight (Mn) of P1 was found to be 38.8 kDa using Gel Permeation Chromatography (GPC) and 36.3 kDa based on NMR end-group analysis. The polymer also exhibits a dispersity (D) of 1.64.",
+      "category": "Performance Metrics",
+      "source_title": "Click-Functionalization of a Poly(Tetrazine-co-Fluorene)-Conjugated Polymer with a Series of trans-Cyclooctene Derivatives",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Why does the functionalization of poly(tetrazine) P1 with trans-cyclooctene (TCO) derivatives lead to a hypsochromic shift in the absorption spectrum?",
+      "answer": "The Inverse Electron-Demand Diels-Alder (IEDDA) reaction between P1 and TCO derivatives introduces bulky side chains that create steric hindrance. This hindrance causes the polymer backbone to twist, which reduces the effective conjugation length and results in a significant hypsochromic shift, for example, from 457 nm in P1 to approximately 400 nm in the functionalized P2.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Click-Functionalization of a Poly(Tetrazine-co-Fluorene)-Conjugated Polymer with a Series of trans-Cyclooctene Derivatives",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "How does the fluorescence of the poly(tetrazine) P1 change upon reaction with TCO derivatives to form dihydropyridazine polymers?",
+      "answer": "While the unreacted poly(tetrazine) P1 is non-fluorescent (or exhibits only very weak fluorescence), the resulting dihydropyridazine polymers (P2 series) show significantly enhanced fluorescence intensity. They exhibit a broad emission band centered at approximately 510 nm.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Click-Functionalization of a Poly(Tetrazine-co-Fluorene)-Conjugated Polymer with a Series of trans-Cyclooctene Derivatives",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What is the second-order rate constant for the IEDDA reaction between poly(tetrazine) P1 and trans-cyclooct-4-enol (TCO-OH)?",
+      "answer": "The average second-order rate constant for the Inverse Electron-Demand Diels-Alder (IEDDA) reaction between the poly(tetrazine) P1 and TCO-OH is 1.25 ± 0.07 M⁻¹s⁻¹.",
+      "category": "Performance Metrics",
+      "source_title": "Click-Functionalization of a Poly(Tetrazine-co-Fluorene)-Conjugated Polymer with a Series of trans-Cyclooctene Derivatives",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What reagent and conditions are used to oxidize the dihydropyridazine polymers (P2 series) to pyridazine polymers (P3 series)?",
+      "answer": "The post-polymerization oxidation is achieved by treating the P2 series polymers with 2,3-dichloro-5,6-dicyano-1,4-benzoquinone (DDQ) in tetrahydrofuran (THF) at room temperature for 1 hour.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Click-Functionalization of a Poly(Tetrazine-co-Fluorene)-Conjugated Polymer with a Series of trans-Cyclooctene Derivatives",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the transition from a dihydropyridazine backbone to a pyridazine backbone affect the polymer's optical properties?",
+      "answer": "The oxidation of the dihydropyridazine backbone to a pyridazine backbone results in a bathochromic shift in the absorption spectrum, ranging from 16 to 38 nm. This shift indicates an increase in conjugation along the polymer backbone following the formation of the pyridazine rings.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Click-Functionalization of a Poly(Tetrazine-co-Fluorene)-Conjugated Polymer with a Series of trans-Cyclooctene Derivatives",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "According to thermogravimetric analysis (TGA), what are the two major mass loss events for poly(tetrazine) P1 and what do they represent?",
+      "answer": "P1 shows two distinct decomposition events: a 7% mass loss at approximately 280 °C, which corresponds to the loss of nitrogen (N2) gas, and a 78% mass loss at approximately 400 °C, which corresponds to the decomposition of the hexadecyl side chains.",
+      "category": "Stability & Degradation",
+      "source_title": "Click-Functionalization of a Poly(Tetrazine-co-Fluorene)-Conjugated Polymer with a Series of trans-Cyclooctene Derivatives",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2762,
+    "completion_tokens": 3168,
+    "total_tokens": 5930
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "paper_id": "c7tc02566a",
+  "paper_title": "Organic solar cells based on a Cu2O/FBT-TH4 anode buffer layer with enhanced power conversion efficiency and ambient stability",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/c7tc02566a/auto/c7tc02566a.md",
+  "knowledge_points": [
+    {
+      "category": "Performance Metrics",
+      "content": "The organic solar cells (OSCs) utilizing the Cu2O/FBT-TH4 integrated hole transport layer achieved a champion power conversion efficiency (PCE) of 9.56%, with a short-circuit current (JSC) of 17.5 mA/cm², an open-circuit voltage (VOC) of 0.77 V, and a fill factor (FF) of 70.7%.",
+      "evidence": "The best photovoltaic performance of devices with Cu2O/FBT-TH4 HTMs achieves a JSC of 17.5 mA cm−2, a VOC of 0.77 V, an FF of 70.7 and an enhanced PCE of 9.56%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "JSC",
+        "VOC",
+        "fill factor",
+        "Cu2O/FBT-TH4"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Introduction of an ultrathin FBT-TH4 layer on Cu2O significantly reduces the surface roughness, with the root-mean-square (RMS) roughness decreasing from 7.1 nm for pristine Cu2O to 1.9 nm for the Cu2O/FBT-TH4 composite.",
+      "evidence": "The root-mean square (RMS) roughness (Rq) of the Cu2O HTL is 7.1 nm while that of the Cu2O/FBT-TH4 HTL is just 1.9 nm",
+      "complexity": "single-hop",
+      "keywords": [
+        "RMS roughness",
+        "surface morphology",
+        "AFM",
+        "FBT-TH4"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The modification of Cu2O with FBT-TH4 results in an upward shift of the work function (WF) from -4.98 eV to -5.08 eV, which aligns more closely with the HOMO level of the active layer, facilitating better charge carrier extraction.",
+      "evidence": "The work functions of the untreated and FBT-TH4 treated Cu2O surfaces are -4.98 and -5.08 eV, respectively... It was found that the WF of the Cu2O/FBT-TH4 layer is very close to the HOMO of the active layers.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "work function",
+        "energy level alignment",
+        "UPS",
+        "charge extraction"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The Cu2O/FBT-TH4 integrated layer improves the hole mobility of the device from 2.3 × 10⁻⁴ cm² V⁻¹ s⁻¹ (pristine Cu2O) to 7.2 × 10⁻⁴ cm² V⁻¹ s⁻¹, thereby reducing exciton recombination and increasing the short-circuit current.",
+      "evidence": "The BHJ composite from the OSCs with Cu2O possesses a hole mobility of 2.3 × 10−4 cm2 V−1 s−1, whereas the BHJ composite from the inverted device using Cu2O/FBT-TH4 exhibits a hole mobility of 7.2 × 10−4 cm2 V−1 s−1.",
+      "complexity": "single-hop",
+      "keywords": [
+        "hole mobility",
+        "SCLC",
+        "charge transport",
+        "recombination"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "FBT-TH4 serves to passivate inherent defects on the Cu2O surface, specifically copper vacancies (VCu) and oxygen interstitials (Oi), which otherwise act as charge traps and recombination centers.",
+      "evidence": "defects such as Cu vacancies (VCu) and oxygen interstitials (Oi) are always present at the surface of Cu2O and act as charge traps... Incorporation of the polymer FBT-TH4 can contribute to passivation of the trap states of inorganic Cu2O",
+      "complexity": "multi-hop",
+      "keywords": [
+        "surface defects",
+        "passivation",
+        "copper vacancies",
+        "oxygen interstitials"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The optimal concentration for the FBT-TH4 modification solution was found to be 1 mg/mL; higher concentrations increase internal series resistance, while lower concentrations provide insufficient coverage of the Cu2O surface.",
+      "evidence": "The optimum concentration of ultrathin FBT-TH4 was determined as 1 mg mL−1, which is the compromise of passivation of the surface trap states, and external conductivity for charge transport.",
+      "complexity": "single-hop",
+      "keywords": [
+        "processing optimization",
+        "solution concentration",
+        "series resistance"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Devices using the Cu2O/FBT-TH4 HTL retained 75% of their original PCE after 30 days of storage in an ambient environment (25 °C, 20% humidity) without encapsulation, significantly outperforming pristine Cu2O-based devices.",
+      "evidence": "The PCE of the Cu2O/FBT-TH4-based device maintained the majority (75%) of the original device performance up to 30 d, whereas that of the untreated Cu2O-based device decayed dramatically from ≈8.5% to 4.5% within the first week.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ambient stability",
+        "operational lifetime",
+        "degradation"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The Cu2O/FBT-TH4 layer exhibits high hydrophobicity with a water contact angle of 105.1°, compared to 36.5° for Cu2O and 23.0° for PEDOT:PSS, which helps protect the active layer from moisture.",
+      "evidence": "the Cu2O/FBT-TH4 sample exhibited a much larger contact angle of 105.1°... Such a hydrophobic HTL would ease the protection of moisture in air and is beneficial for long-term stability",
+      "complexity": "single-hop",
+      "keywords": [
+        "contact angle",
+        "hydrophobicity",
+        "moisture stability"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The electrical conductivity of the HTL increases from 3.02 × 10⁻³ S/cm for pristine Cu2O to 4.69 × 10⁻³ S/cm upon modification with FBT-TH4, facilitating more efficient charge transport.",
+      "evidence": "The electrical conductivity of the Cu2O thin film and Cu2O/FBT-TH4 thin film is estimated to be 3.02 × 10−3 and 4.69 × 10−3 S cm−1, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "electrical conductivity",
+        "charge transport",
+        "HTL modification"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Analysis of dark J-V characteristics shows that the Cu2O/FBT-TH4 based devices have a lower dark saturation current density (J0) of 7.5 × 10⁻⁵ mA/cm² compared to 1.6 × 10⁻⁴ mA/cm² for pristine Cu2O devices, indicating reduced leakage current.",
+      "evidence": "The OSCs with the Cu2O/FBT-TH4 HTM show a dramatically reduced J0 of 7.5 × 10−5 mA cm−2 compared with 1.6 × 10−4 mA cm−2 from the device using the Cu2O HTM.",
+      "complexity": "single-hop",
+      "keywords": [
+        "dark saturation current",
+        "leakage current",
+        "recombination"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 12237,
+    "completion_tokens": 3144,
+    "total_tokens": 15381
+  }
+}

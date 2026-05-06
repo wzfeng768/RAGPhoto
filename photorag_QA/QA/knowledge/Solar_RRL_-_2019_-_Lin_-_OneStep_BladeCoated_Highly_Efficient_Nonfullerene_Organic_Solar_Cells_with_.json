@@ -1,0 +1,128 @@
+{
+  "paper_id": "Solar_RRL_-_2019_-_Lin_-_OneStep_BladeCoated_Highly_Efficient_Nonfullerene_Organic_Solar_Cells_with_",
+  "paper_title": "One-Step Blade-Coated Highly Efficient Nonfullerene Organic Solar Cells with a Self-Assembled Interfacial Layer Enabled by Solvent Vapor Annealing",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Solar RRL - 2019 - Lin - One‐Step Blade‐Coated Highly Efficient Nonfullerene Organic Solar Cells with a Self‐Assembled/auto/Solar RRL - 2019 - Lin - One‐Step Blade‐Coated Highly Efficient Nonfullerene Organic Solar Cells with a Self‐Assembled.md",
+  "knowledge_points": [
+    {
+      "category": "Performance Metrics",
+      "content": "One-step doctor-blade printed organic solar cells using PBDB-T:IT-M and a self-assembled PFN interfacial layer achieve a power conversion efficiency (PCE) of 11.14% after solvent vapor annealing.",
+      "evidence": "Remarkably, the spontaneous formation of a fine, self-organized IL between the bulk heterojunction (BHJ) layer and the indium tin oxide (ITO) electrode facilitated by SVA yields solar cells with a significantly higher PCE (11.14%) than in control devices (8.05%) without SVA",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "PBDB-T:IT-M",
+        "doctor-blade printing",
+        "11.14%"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The optimal solvent vapor annealing (SVA) condition for the PFN:PBDB-T:IT-M system involves exposure to chlorobenzene (CB) vapor at a substrate temperature of 70 °C for 30 minutes.",
+      "evidence": "After the mixtures of PFN:BHJ films are blade-coated (Figure 1c), the samples are directly placed into a Petri dish filled with chlorobenzene (CB) solution on a hot plate maintained at 70 °C... The optimum SVA duration is found to be 30 min for this particular system.",
+      "complexity": "single-hop",
+      "keywords": [
+        "solvent vapor annealing",
+        "chlorobenzene",
+        "processing conditions"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Vertical phase separation in PFN:BHJ blends is driven by surface energy differences, where PFN (48.2 mN m⁻¹) migrates toward the high-energy ITO electrode (51.1 mN m⁻¹), while the BHJ components (22 mN m⁻¹) remain at the top surface.",
+      "evidence": "the surface energy of PFN layer (48.2 mN m−1) is much higher than that of the donor-acceptor BHJ film (22 mN m−1) and close to that of ITO (51.1 mN m−1). Due to high surface energies of both ITO and PFN layers, the PFN molecules in PFN:BHJ film are expected to migrate toward the surface of the ITO electrode",
+      "complexity": "multi-hop",
+      "keywords": [
+        "surface energy",
+        "vertical phase separation",
+        "self-assembly",
+        "PFN"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "X-ray photoelectron spectroscopy (XPS) of the S 2p signal is used to confirm the completeness of vertical phase separation; the absence or suppression of sulfur at the bottom interface indicates the presence of a pure PFN layer.",
+      "evidence": "Because PFN does not contain any sulfur, any measured S 2p signal can safely be attributed to the presence of the PBDB-T and/or IT-M molecules on that particular interface... The analysis of the top interface (Figure 3e), on the other hand, yields a strong S 2p signal for all blend layers, indicating that PFN migrates to the bottom interface",
+      "complexity": "multi-hop",
+      "keywords": [
+        "XPS",
+        "S 2p signal",
+        "vertical distribution",
+        "elemental analysis"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "One-step printing with SVA produces a smoother interfacial layer (RMS roughness of 1.83 nm) compared to two-step sequential doctor-blade printing (RMS roughness of 2.07 nm).",
+      "evidence": "the RMS of the surface roughness which for type-I reduces rapidly from 5.24 to 1.83 nm upon SVA treatment. Surprisingly, the latter RMS value is even lower than that of type-II film (2.07 nm).",
+      "complexity": "single-hop",
+      "keywords": [
+        "RMS roughness",
+        "surface morphology",
+        "one-step vs two-step"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Grazing incidence wide angle X-ray scattering (GIWAXS) analysis shows that SVA treatment increases the crystallinity of the IT-M acceptor, evidenced by increased signal intensity in both lamellar and π-stacking diffractions.",
+      "evidence": "Following the SVA treatment, the signal intensity increases significantly for both lamellar and π stacking diffraction of the IT-M component within the type-I layers, suggesting an increase of the acceptor crystallinity",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "crystallinity",
+        "IT-M",
+        "molecular packing"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Solvent vapor annealing improves the open-circuit voltage (Voc) by increasing the charge-transfer state energy (Ect) and reducing the reorganization energy (λ) to 0.20 eV.",
+      "evidence": "the λ value of 0.20 eV is obtained from the fitting in Figure S11... which is lower than 0.23 eV for type-II device and 0.28 eV for type-I cells without SVA... conformal and uniform nature of the self-forming PFN interface layer in type-I device following SVA treatment is responsible for the increased ECT and VOC.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "charge-transfer state",
+        "reorganization energy",
+        "Voc",
+        "FTPS"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The empirical relationship between open-circuit voltage and charge-transfer state energy in these devices follows the equation Voc = Ect/q - 0.6.",
+      "evidence": "the ECT and VOC are in good agreement with the empirical relation of VOC = ECT/q − 0.6",
+      "complexity": "single-hop",
+      "keywords": [
+        "Voc",
+        "Ect",
+        "empirical relation"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The active layer blend consists of the donor polymer PBDB-T and the nonfullerene small molecule acceptor IT-M, with PFN added as a 4 wt% dopant for the self-assembled interfacial layer.",
+      "evidence": "composed of the poly[(2,6-(4,8- bis(5-(2-ethylhexyl)thiophen-2-yl)benzo[1,2-b:4,5-b'ldithiophene)- co-(1,3-di(5-thiophene-2-yl)-5,7-bis(2-ethylhexyl)-benzo 1,2·c:4,5·c'] dithiophene-4,8-dione)] (PBDB-T) as the donor and IT-M as the acceptor... about 4 wt% of PFN from CB:DIO solution was doped into the PBDB-T:IT-M active solution.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PBDB-T",
+        "IT-M",
+        "PFN",
+        "material composition"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Increasing the substrate temperature during the one-step doctor-blade printing process above 40 °C without SVA leads to a decrease in PCE due to rapid drying, which inhibits the formation of a continuous PFN interlayer.",
+      "evidence": "the PCE for cells processed at > 40 °C decreases with an increasing substrate temperature, an effect ascribed to fast drying of the bilayer that forbids the formation of a continuous and uniform PFN interlayer.",
+      "complexity": "single-hop",
+      "keywords": [
+        "substrate temperature",
+        "drying kinetics",
+        "interfacial layer formation"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 11233,
+    "completion_tokens": 3011,
+    "total_tokens": 14244
+  }
+}

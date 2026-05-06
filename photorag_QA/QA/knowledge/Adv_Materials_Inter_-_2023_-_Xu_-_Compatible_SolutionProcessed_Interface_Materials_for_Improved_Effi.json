@@ -1,0 +1,155 @@
+{
+  "paper_id": "Adv_Materials_Inter_-_2023_-_Xu_-_Compatible_SolutionProcessed_Interface_Materials_for_Improved_Effi",
+  "paper_title": "Compatible Solution-Processed Interface Materials for Improved Efficiency of Polymer Solar Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Adv Materials Inter - 2023 - Xu - Compatible Solution‐Processed Interface Materials for Improved Efficiency of Polymer/auto/Adv Materials Inter - 2023 - Xu - Compatible Solution‐Processed Interface Materials for Improved Efficiency of Polymer.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "A hybrid electron transport layer (ETL) was developed by blending the organic molecule PDINO with sol-gel derived inorganic TiOx in a 60:40 volume ratio.",
+      "evidence": "PDINO was mixed with TiOx in different ratios v/v and spin-coated onto the active layer... the best results were obtained when the PDINO:TiOx mixing ratio is 60:40 processed in an N2-filled glove box.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PDINO",
+        "TiOx",
+        "hybrid ETL",
+        "blend ratio"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "TiOx-based ETLs in conventional PBDTTT-C-T:PC71BM devices perform better without thermal annealing (processed at 22 °C) compared to those annealed at 110 °C.",
+      "evidence": "The devices without thermal treatment performed better than those with thermal treatment at 110 °C for 10 min... These interesting results suggest the easy approach without annealing is simpler and more suited for fabricating TiOx layer.",
+      "complexity": "single-hop",
+      "keywords": [
+        "annealing-free",
+        "TiOx",
+        "conventional structure",
+        "processing temperature"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The use of a PDINO:TiOx blend ETL in PBDTTT-C-T:PC71BM solar cells processed with halogen-free solvents achieved a power conversion efficiency (PCE) of 7.94%.",
+      "evidence": "The PCE of 7.94% is one of the highest reported efficiencies for halogen-free solvent processed PBDTTT-C-T:PC71BM based organic solar cells.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "halogen-free solvent",
+        "PBDTTT-C-T:PC71BM",
+        "7.94%"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The energy levels of the ETL materials are -4.10 eV for PDINO and -4.35 eV for TiOx, while the PDINO:TiOx blend exhibits a matching energy level of -4.20 eV.",
+      "evidence": "The energy level alignment of the layer stack as shown in Figure 1c between the TiOx of -4.35 eV and PDINO -4.10 eV; the highest occupied molecular orbital energy level of PDINO:TiOx was -4.20 eV.",
+      "complexity": "single-hop",
+      "keywords": [
+        "energy levels",
+        "LUMO",
+        "PDINO",
+        "TiOx"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The PDINO:TiOx blend ETL acts as an optical spacer, redistributing the optical-electric field intensity to enhance the short-circuit current (Jsc) by reducing parasitic absorption.",
+      "evidence": "there is a distinct increase in Jsc, which might originate from an optical spacer effect due to the blend ETL... the optical spacer layer spatially redistributes the optical-electric field intensity within the device... allowing the active layer to cover the ideal intensity region.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "optical spacer",
+        "short-circuit current",
+        "parasitic absorption",
+        "electric field"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Atomic Force Microscopy (AFM) reveals that the PDINO:TiOx blend (60:40) results in a more homogeneous film topography with smaller pore sizes compared to pristine TiOx or PDINO films.",
+      "evidence": "Clearly, the PDINO:TiOx blend bearing a ratio of 60:40 yielded the most homogeneous topography... Complementarity with large trenches and pore widths occurs after combining a low concentration TiOx with PDINO, leading to more homogeneous films with smaller pore sizes.",
+      "complexity": "single-hop",
+      "keywords": [
+        "AFM",
+        "surface morphology",
+        "homogeneity",
+        "pore size"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The hybrid PDINO:TiOx ETL reduces bimolecular recombination, as indicated by a higher alpha (α) value of 0.945 compared to TiOx (0.917) and PDINO (0.934) in light-intensity dependent measurements.",
+      "evidence": "a higher α value of 0.945 was obtained for the PDINO:TiOx based device... This result suggested that the device with PDINO:TiOx suppresses bimolecular recombination more effectively than the TiOx or PDINO-based device.",
+      "complexity": "single-hop",
+      "keywords": [
+        "bimolecular recombination",
+        "alpha value",
+        "light intensity dependence",
+        "charge extraction"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Trap-assisted recombination is suppressed in devices using the hybrid ETL, evidenced by a lower slope of 1.15 kBT/q in Voc versus light intensity plots.",
+      "evidence": "the device with PDINO:TiOx had a lower slope of 1.15 kBT/q than for TiOx or PDINO-based devices, which had a slope of 1.25 and 1.21 kBT/q respectively. Thus, less trap-assisted recombination occurs in mixed ETL-based devices.",
+      "complexity": "single-hop",
+      "keywords": [
+        "trap-assisted recombination",
+        "Voc slope",
+        "recombination mechanism"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The hybrid ETL strategy is applicable to non-fullerene systems, improving the PCE of PM6:Y6 based devices from 14.07% (TiOx-only) to 15.01% (PDINO:TiOx blend).",
+      "evidence": "PDINO:TiOx based device obtained the highest PCE of 15.01% compared to 14.07% for TiOx only and 14.33% for PDINO-only device... the strategy of simply mixing organic and inorganic material as an ETL can be effective in both fullerene and nonfullerene-based solar cells.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "PM6:Y6",
+        "non-fullerene acceptor",
+        "PCE",
+        "universality"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The PDINO:TiOx blend ETL enhances device photostability, achieving a T80 lifetime of 393 hours and a lifetime energy yield of 27.14 kWh/m² under 1 sun illumination at 45 °C.",
+      "evidence": "PDINO:TiOx based device had a greater lifetime energy yield within 0-T80... PDINO:TiOx exhibited a longer T80 lifetime of 393 h than TiOx (356 h), and PDINO (383 h) achieved a greater lifetime energy yield of 27.14 kWh m−2.",
+      "complexity": "single-hop",
+      "keywords": [
+        "T80 lifetime",
+        "energy yield",
+        "photostability",
+        "degradation"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The hybrid ETL facilitates more balanced charge transport, with an electron-to-hole mobility ratio (ue/uh) of 1.23, which is closer to unity than single-component ETL devices.",
+      "evidence": "the mixed ETL-based device showing an ue/uh of 1.23, which is closer to 1 than the TiOx based device with an ue/uh of 0.67 and PDINO-based device with an ue/uh of 1.45.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "charge mobility",
+        "mobility ratio",
+        "balanced transport",
+        "SCLC"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The active layer of PBDTTT-C-T:PC71BM was processed using m-xylene as a non-halogenated solvent and o-vanillin as a non-toxic additive.",
+      "evidence": "The PBDTTT-C-T:PC71BM (1:1.5, wt/wt) were dissolved with the nonhalogenated solvent m-xylene... The nontoxic o-vanillin as an additive was added into the host blend solution before casting.",
+      "complexity": "single-hop",
+      "keywords": [
+        "m-xylene",
+        "o-vanillin",
+        "halogen-free solvent",
+        "additive"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 14812,
+    "completion_tokens": 3464,
+    "total_tokens": 18276
+  }
+}

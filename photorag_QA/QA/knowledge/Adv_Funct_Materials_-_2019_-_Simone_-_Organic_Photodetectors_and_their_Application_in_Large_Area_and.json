@@ -1,0 +1,144 @@
+{
+  "paper_id": "Adv_Funct_Materials_-_2019_-_Simone_-_Organic_Photodetectors_and_their_Application_in_Large_Area_and",
+  "paper_title": "Organic Photodetectors and their Application in Large Area and Flexible Image Sensors: The Role of Dark Current",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Adv Funct Materials - 2019 - Simone - Organic Photodetectors and their Application in Large Area and Flexible Image Sensors/auto/Adv Funct Materials - 2019 - Simone - Organic Photodetectors and their Application in Large Area and Flexible Image Sensors.md",
+  "knowledge_points": [
+    {
+      "category": "Performance Metrics",
+      "content": "Specific detectivity (D*) is frequently estimated using the dark current density (Jd) under the assumption that shot noise is the dominant noise source, though this can overestimate performance compared to experimental noise measurements.",
+      "evidence": "For sake of simplicity, the shot noise ishot from the dark current id is often assumed to be the dominant contribution to inoise... It has been pointed out that this assumption can overestimate the specific detectivity.",
+      "complexity": "single-hop",
+      "keywords": [
+        "specific detectivity",
+        "shot noise",
+        "dark current density"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The primary sources of dark current in organic photodetectors are charge carrier injection from the electrodes and thermal generation within the bulk of the active layer.",
+      "evidence": "intrinsic Jd... is mainly attributed to the charge carrier injection rate from the contacts into the semiconductor, or the rate of thermal generation of charge carriers within the bulk of the active layer.",
+      "complexity": "single-hop",
+      "keywords": [
+        "dark current mechanisms",
+        "charge injection",
+        "thermal generation"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Using donor polymers with a deep HOMO energy level, such as PCDTBT (~5.5 eV), is a key material strategy to minimize hole injection and achieve record-low dark current densities.",
+      "evidence": "Indeed, the lowest dark current densities reported in literature for OPDs are achieved using polymers with a deep HOMO energy. It is no coincidence that the record values of Jd are achieved for ... (PCDTBT), which has one of the deepest HOMO energies amongst photovoltaic polymers (≈ 5.5 eV).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "PCDTBT",
+        "HOMO level",
+        "hole injection"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The transit time in polymer:fullerene bulk heterojunction OPDs is typically limited by the mobility of holes, which are generally the slowest charge carriers in these systems.",
+      "evidence": "For polymer:fullerene BHJ OPDs, it is widely accepted that the transit time is limited by the mobility of the slowest carrier, usually attributed to holes in the polymer phase.",
+      "complexity": "single-hop",
+      "keywords": [
+        "transit time",
+        "carrier mobility",
+        "hole transport"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Increasing the thickness of the photoactive layer can reduce dark current by minimizing extrinsic defects like pinholes and reducing the image charge effect at the electrodes.",
+      "evidence": "Jd is found to decrease with increasing photoactive layer thickness L for two main reasons, namely 1) the decrease of extrinsic defects... and 2) the reduction of image charge effect, resulting in a higher effective barrier for charge injection.",
+      "complexity": "single-hop",
+      "keywords": [
+        "active layer thickness",
+        "extrinsic defects",
+        "image charge effect"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "In Near-Infrared (NIR) photodetectors, a trade-off exists between detectivity and absorption range because a narrow bandgap facilitates both photon absorption and unwanted thermal generation of charge carriers.",
+      "evidence": "The relatively low Eg of NIR OPDs enhances charge injection from the metal electrodes... or thermal generation within the photoactive layer. This makes it challenging to achieve NIR-sensitive OPDs with low Jd and high D*.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "NIR photodetectors",
+        "bandgap trade-off",
+        "thermal generation"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Electron-blocking layers (EBLs) and hole-blocking layers (HBLs) reduce dark current by increasing the energetic barrier for charge injection while maintaining a cascade for photogenerated carrier extraction.",
+      "evidence": "This is obtained by raising energetic barriers to charge injection under reverse bias, while maintaining an energy cascade between the active layer and the corresponding electrodes to facilitate extraction of photogenerated carriers.",
+      "complexity": "single-hop",
+      "keywords": [
+        "blocking layers",
+        "injection barrier",
+        "charge selectivity"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Sequential solution processing (SSP) can create vertical stratification in OPDs that improves contact selectivity and reduces dark current, though it often involves a trade-off with external quantum efficiency (EQE).",
+      "evidence": "Changes in the vertical composition profile induced by annealing led to better contact selectivity that reduced Jd under reverse bias. However, the OPD with the lowest Jd ... also showed a relatively low EQE.",
+      "complexity": "single-hop",
+      "keywords": [
+        "sequential solution processing",
+        "stratification",
+        "contact selectivity"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "State-of-the-art organic photodetectors have achieved dark current densities as low as 3.4 x 10^-8 mA/cm^2 and external quantum efficiencies (EQE) of 0.82 at specific wavelengths.",
+      "evidence": "This led to an impressively low dark current density of Jd = 3.4 × 10^−8 mA cm^−2 and EQE = 0.82 at 650 nm under −5 V.",
+      "complexity": "single-hop",
+      "keywords": [
+        "state-of-the-art",
+        "Jd value",
+        "EQE"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "In indirect-conversion X-ray detectors, organic photodetector arrays are coupled with a scintillator layer that converts X-ray photons into UV or visible light for detection.",
+      "evidence": "In these indirect-conversion detectors, a scintillator layer converts X-ray photons into UV or optical photons, which are then detected by an amorphous-silicon photodetector (a-Si PD) array... Replacing the a-Si PDs with solution-processed OPDs simplifies the manufacturing process.",
+      "complexity": "single-hop",
+      "keywords": [
+        "X-ray detectors",
+        "scintillator",
+        "indirect-conversion"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The linear dynamic range (LDR) of an OPD is constrained by the dark current density, as a higher dark current increases the minimum detectable photocurrent.",
+      "evidence": "Furthermore, it constrains the linear dynamic range (LDR), i.e., the operational light intensity range of the image sensor, by increasing the minimum detectable photocurrent.",
+      "complexity": "single-hop",
+      "keywords": [
+        "linear dynamic range",
+        "LDR",
+        "detection limit"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "An energetic offset of approximately 0.2 to 0.3 eV between the donor and acceptor LUMO levels is generally required to ensure efficient charge transfer and exciton separation in organic photodetectors.",
+      "evidence": "Optimal energetic offset in the order of ≈ 0.2 – 0.3 eV is necessary to achieve CT from donor to acceptor.",
+      "complexity": "single-hop",
+      "keywords": [
+        "energetic offset",
+        "charge transfer",
+        "LUMO offset"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 13741,
+    "completion_tokens": 2742,
+    "total_tokens": 16483
+  }
+}

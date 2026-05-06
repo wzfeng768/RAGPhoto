@@ -1,0 +1,145 @@
+{
+  "paper_id": "Advanced_Materials_-_2017_-_Li_-_An_UnfusedCoreBased_Nonfullerene_Acceptor_Enables_HighEfficiency_Or",
+  "paper_title": "An Unfused-Core-Based Nonfullerene Acceptor Enables High-Efficiency Organic Solar Cells with Excellent Morphological Stability at High Temperatures",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Materials - 2017 - Li - An Unfused‐Core‐Based Nonfullerene Acceptor Enables High‐Efficiency Organic Solar Cells/auto/Advanced Materials - 2017 - Li - An Unfused‐Core‐Based Nonfullerene Acceptor Enables High‐Efficiency Organic Solar Cells.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "DF-PCIC is designed with an unfused-ring core consisting of two cyclopentadithiophene (CPDT) moieties connected to a central 2,5-difluorobenzene (DFB) group, terminated with 2-(3-oxo-2,3-dihydroinden-1-ylidene)malononitrile (IC) groups.",
+      "evidence": "DF-PCIC is synthesized with an unfused-ring core containing two cyclopentadithiophene (CPDT) moieties and one 2,5-difluorobenzene (DFB) group... which owns the same A terminal groups (2-(3-oxo-2,3-dihydroinden-1-ylidene) malononitrile, IC) as ITIC.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DF-PCIC",
+        "unfused-ring core",
+        "cyclopentadithiophene",
+        "2,5-difluorobenzene"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Intramolecular F...H noncovalent interactions between the fluorine atoms on the benzene ring and the hydrogen atoms on the adjacent CPDT units lock the DF-PCIC molecule into a nearly planar geometry with a dihedral angle of approximately 5.15°.",
+      "evidence": "The fluorine atoms on 2,5-difluorobenzene facilitates the F...H noncovalent interaction with the hydrogen atoms on adjacent CPDT units, therefore locking the molecular conformation with a planar geometry... the dihedral angle between the 2,5-difluorobenzene and CPDT units is found to be around 5.15°.",
+      "complexity": "single-hop",
+      "keywords": [
+        "noncovalent interaction",
+        "F...H interaction",
+        "planar geometry",
+        "dihedral angle"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Organic solar cells based on the PBDB-T:DF-PCIC blend achieved a maximum power conversion efficiency (PCE) of 10.14%, with an open-circuit voltage (Voc) of 0.91 V, a short-circuit current (Jsc) of 15.66 mA cm⁻², and a fill factor (FF) of 0.72.",
+      "evidence": "Thus, we achieve the highest PCE of 10.14% with a Voc of 0.91 V, a Jsc of 15.66 mA cm−2, and an FF of 0.72, under the condition of 0.5% CN additive and 130 °C annealing temperature.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "10.14%",
+        "PBDB-T",
+        "DF-PCIC",
+        "fill factor"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "PBDB-T:DF-PCIC devices demonstrate exceptional thermal stability, retaining 69.8% of their initial PCE after 12 hours of thermal treatment at 180 °C, significantly outperforming PBDB-T:PC71BM and PBDB-T:ITIC based devices.",
+      "evidence": "Even the temperature is increased to 180 °C, 69.8% initial efficiency can still be kept after 12 h thermal treatment... the devices based on PBDB-T:ITIC are defeated by PBDB-T:DF-PCIC-based ones in device stability.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "thermal stability",
+        "180 °C",
+        "morphological stability",
+        "device lifetime"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "DF-PCIC exhibits a deep HOMO level of -5.49 eV and a LUMO level of -3.77 eV, with an optical bandgap of 1.59 eV determined from a film absorption onset of 781 nm.",
+      "evidence": "LUMO and HOMO are calculated as -3.77 and -5.49 eV... the optical bandgap is calculated to be 1.59 eV... from the film absorption onset at around 781 nm.",
+      "complexity": "single-hop",
+      "keywords": [
+        "HOMO",
+        "LUMO",
+        "energy levels",
+        "optical bandgap"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The optimal processing conditions for the PBDB-T:DF-PCIC active layer involve a donor:acceptor weight ratio of 1:1.2, the use of 0.5% 1-chloronaphthalene (CN) as a solvent additive, and thermal annealing at 130 °C.",
+      "evidence": "The best device performance is reached when 130 °C annealing temperature is applied... 0.5% CN additive... 1:1.2 of D/A weight ratio is the best composition.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "1-chloronaphthalene",
+        "thermal annealing",
+        "D/A ratio",
+        "optimization"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Grazing incidence X-ray diffraction (GIXD) analysis shows that thermal annealing at 180 °C dramatically increases the crystal coherence length (CCL) of DF-PCIC π-π stacking in the blend from 14.6 Å to 58.7 Å.",
+      "evidence": "The CCL of π-π stacking in out-of-plane direction is estimated to be 58.7 Å, which is much larger than that in the neat film (14.6 Å).",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIXD",
+        "crystal coherence length",
+        "π-π stacking",
+        "crystallinity"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Thermal annealing at 180 °C significantly enhances charge transport in PBDB-T:DF-PCIC films, increasing hole mobility to 1.10 × 10⁻⁴ cm² V⁻¹ s⁻¹ and electron mobility to 1.00 × 10⁻⁴ cm² V⁻¹ s⁻¹.",
+      "evidence": "The hole mobility is improved from 0.15 × 10⁻⁴ (the as-cast device) to 1.10 × 10⁻⁴ cm2 V⁻¹ s⁻¹ while the electron mobility is improved from 0.10 × 10⁻⁴ (the as-cast device) to 1.00 × 10⁻⁴ cm2 V⁻¹ s⁻¹.",
+      "complexity": "single-hop",
+      "keywords": [
+        "hole mobility",
+        "electron mobility",
+        "SCLC",
+        "charge transport"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The high thermal stability of DF-PCIC is attributed to the disruption of F...H noncovalent interactions at high temperatures, which causes the molecule to adopt a twisted geometry that prevents the formation of large, performance-degrading aggregates.",
+      "evidence": "F...H noncovalent interactions... would be destroyed under thermal treatment at high temperatures... DF-PCIC may adopt a twisted molecular geometry, and thus over aggregation might be avoided at high temperatures.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "aggregation",
+        "twisted geometry",
+        "stability mechanism",
+        "noncovalent interaction"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The existence of F...H noncovalent interactions in DF-PCIC was experimentally verified using temperature-dependent NMR, showing significant chemical shifts in both ¹H and ¹⁹F spectra when heated from room temperature to 100–120 °C.",
+      "evidence": "To experimentally prove the existence of hydrogen bonds, we compare 1H NMR spectra of DF-PCIC at 120 °C and room temperature... and 19F NMR spectra... at 100 °C and room temperature. The results show that a large shift... happens... indicating that there indeed exist F...H noncovalent interaction.",
+      "complexity": "single-hop",
+      "keywords": [
+        "NMR",
+        "chemical shift",
+        "F...H interaction",
+        "temperature-dependent"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The study utilized an inverted device architecture consisting of ITO/ZnO/PFN/Active Layer/MoO3/Ag, where PFN acts as an interlayer to improve interface contact.",
+      "evidence": "An inverted device structure of indium tin oxide (ITO)/ZnO/poly[9,9-bis(3′-(N,N-dimethylamino)propyl)-2,7-fluorene)- alt-2,7-(9,9-ioctylfluorene](PFN)/PBDB-T:DF-PCIC/MoO3/Ag is adopted.",
+      "complexity": "single-hop",
+      "keywords": [
+        "inverted structure",
+        "PFN",
+        "interlayer",
+        "device architecture"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 14284,
+    "completion_tokens": 4491,
+    "total_tokens": 18775
+  }
+}

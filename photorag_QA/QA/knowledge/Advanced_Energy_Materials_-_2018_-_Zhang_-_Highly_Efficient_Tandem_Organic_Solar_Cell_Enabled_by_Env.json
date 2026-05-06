@@ -1,0 +1,147 @@
+{
+  "paper_id": "Advanced_Energy_Materials_-_2018_-_Zhang_-_Highly_Efficient_Tandem_Organic_Solar_Cell_Enabled_by_Env",
+  "paper_title": "Highly Efficient Tandem Organic Solar Cell Enabled by Environmentally Friendly Solvent Processed Polymeric Interconnecting Layer",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Energy Materials - 2018 - Zhang - Highly Efficient Tandem Organic Solar Cell Enabled by Environmentally Friendly/auto/Advanced Energy Materials - 2018 - Zhang - Highly Efficient Tandem Organic Solar Cell Enabled by Environmentally Friendly.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The interconnecting layer (ICL) in this tandem OSC is composed of a blend of poly[(9,9-bis(3'-(N,N-dimethylamino)propyl)-2,7-fluorene)-alt-5,5'-bis(2,2'-thiophene)-2,6-naphthalene-1,4,5,8-tetracaboxylic-N,N'-di(2-ethylhexyl)imide] (PNDIT-F3N) and poly(ethyleneimine) (PEI) as the electron transport layer, paired with PEDOT:PSS as the hole transport layer.",
+      "evidence": "In this work, a new way of achieving environmentally friendly solvent processed polymeric ICL by adopting poly[(9,9-bis(3'-(N,N-dimethylamino)propyl)-2,7-fluorene)-alt-5,5'-bis(2,2'-thiophene)-2,6-naphthalene-1,4,5,8-tetracaboxylic-N,N'-di(2-ethylhexyl)imide] (PNDIT-F3N) blended with poly(ethyleneimine) (PEI) as the electron transport layer (ETL) and PEDOT:PSS as the hole transport layer is reported.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PNDIT-F3N",
+        "PEI",
+        "PEDOT:PSS",
+        "interconnecting layer"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The optimized tandem organic solar cell achieved a peak power conversion efficiency (PCE) of 12.6% (measured as 13.2% without an aperture).",
+      "evidence": "At last, tandem OSC with highest PCE of 12.6% is achieved, which is one of the best tandem OSCs reported till now... (measured to be 13.2% without aperture)",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "tandem OSC",
+        "12.6%"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The work function (WF) of PEDOT:PSS modified by the PNDIT-F3N:PEI blend can be linearly tuned by adjusting the ratio of PEI, decreasing from 4.43 eV (pure PNDIT-F3N) to 3.75 eV (pure PEI).",
+      "evidence": "It is found that the modification ability of PNDIT-F3N on PEDOT can be linearly tuned by the incorporation of PEI... the WF of PEDOT was slightly reduced to 4.43 eV with the modification of PNDIT-F3N... the large amount of amine-group on PEI main chain and side chain endowed it the ability to largely reduce the WF of PEDOT (reduced to 3.75 eV).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "work function",
+        "PEDOT:PSS",
+        "PEI",
+        "linear tuning"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The tandem device connects a wide-bandgap front cell (PSTzBI-EHp:PC71BM) with a narrow-bandgap back cell (PBDTTT-E-T:IEICO) to harvest photons across a broad range from 300 to 920 nm.",
+      "evidence": "The front cell is constructed with a novel wide-bandgap conjugated polymer... (PSTzBI-EHp), which presents a PCE of 9.2% when blending with PC71BM. The back cell consists of a narrow-bandgap conjugated polymer... (PBDTTT-E-T) and a nonfullerene acceptor... (IEICO)... covering a broad range from 300 to 920 nm.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "tandem structure",
+        "PSTzBI-EHp",
+        "PBDTTT-E-T",
+        "IEICO"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The PNDIT-F3N:PEI ETL is processed using environmentally friendly solvents such as methanol, which prevents the erosion of the underlying active layer during device fabrication.",
+      "evidence": "Both PNDIT-F3N and PEI (with weight average molecular weight of 10,000 kDa) show excellent methanol solubility but insoluble in water, which offer them the feasibility to be solution processed without being dissolved during the spin-cast of PEDOT.",
+      "complexity": "single-hop",
+      "keywords": [
+        "methanol",
+        "environmentally friendly solvent",
+        "solution processing"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The PNDIT-F3N:PEI/PEDOT:PSS interconnecting layer exhibits thickness insensitivity, maintaining a PCE of 11.3% even when the total ICL thickness is increased to 140 nm.",
+      "evidence": "Efficient ICL with excellent charge recombination property with ICL thickness varied from 60 to 140 nm are obtained... Further increasing the thickness of PEDOT to 70 nm (with ICL total thickness of 140 nm) resulted in an impressive PCE of 11.3%.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "thickness insensitivity",
+        "ICL",
+        "large-area fabrication"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "A PNDIT-F3N:PEI ratio of 3:2 was found to be optimal for the ICL, providing a work function of 4.13 eV, which is low enough to collect electrons from the front cell and facilitate efficient charge recombination.",
+      "evidence": "The WF of PEDOT was reduced to 4.13 eV with the modification of PNDIT-F3N:PEI (3:2), which is low enough to collect electron from front cell, thus the tandem device with PNDIT-F3N:PEI (3:2) as ETL showed an ideal tandem behavior.",
+      "complexity": "single-hop",
+      "keywords": [
+        "3:2 ratio",
+        "charge recombination",
+        "work function"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Optical modeling using the transfer matrix method was employed to optimize subcell thicknesses, predicting an optimal front cell thickness of 150 nm and a back cell thickness of 90 nm.",
+      "evidence": "According to the simulation result that shown in Figure 4a,b, the optimal thicknesses of the front and back cell were 150 and 90 nm, respectively, with maximum Jsc of 11.8 mA cm−2.",
+      "complexity": "single-hop",
+      "keywords": [
+        "transfer matrix modeling",
+        "optical analysis",
+        "thickness optimization"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The front subcell (PSTzBI-EHp:PC71BM) in a single-junction configuration achieves a PCE of 9.2% with a Voc of 0.93 V, while the back subcell (PBDTTT-E-T:IEICO) achieves a PCE of 9.6% with a Voc of 0.82 V.",
+      "evidence": "When the thickness increased to 90 nm a best PCE of 9.2% with Jsc of 13.5 mA cm−2, Voc of 0.93 V, and fill factor (FF) of 73% was achieved... for the back cell based on PBDTTT-E-T:IEICO, a PCE of 9.6% with Jsc of 17.5 mA cm−2, Voc of 0.82 V, and FF of 67% was achieved.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "single-junction",
+        "PCE",
+        "subcell performance"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The tandem OSC demonstrates superior storage stability compared to single-junction subcells, retaining 96% of its initial PCE after 12 days of storage.",
+      "evidence": "the tandem device exhibited better stability with PCE of 12.1% (96% of its initial PCE) after 12 d storage, implying that tandem device has a good stability.",
+      "complexity": "single-hop",
+      "keywords": [
+        "stability",
+        "storage life",
+        "PCE retention"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The addition of PEI to the PNDIT-F3N matrix does not significantly hinder the electron transport pathway or the conductivity of the ETL, despite PEI being an insulating material.",
+      "evidence": "It can be seen that with the addition of a small amount of PEI into PNDIT-F3N, the conductivity of PNDIT-F3N slightly decreased, but still remained in a reasonable level, implying that the electron transport pathway was not hindered by the addition of small amount of PEI.",
+      "complexity": "single-hop",
+      "keywords": [
+        "conductivity",
+        "electron transport",
+        "PEI blend"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Poor charge recombination in ICLs using only PNDIT-F3N causes S-shaped J-V curves due to an energy barrier between the front cell and the ETL-modified PEDOT:PSS, leading to hole accumulation.",
+      "evidence": "The device based on pure PNDIT-F3N showed apparent S shape... which can be ascribed to the low efficient electron extraction from active layer to PEDOT/Ag... due to the big energy barrier between front cell active layer and PNDIT-F3N modified PEDOT, electrons were inefficiently extracted from front cell to recombine with holes, which resulted in the holes accumulation and S shape curve.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "S-shaped J-V curve",
+        "charge accumulation",
+        "energy barrier"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 14871,
+    "completion_tokens": 3606,
+    "total_tokens": 18477
+  }
+}

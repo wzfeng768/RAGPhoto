@@ -1,0 +1,129 @@
+{
+  "paper_id": "d4tc00121d",
+  "paper_title": "Achieving phthalide-based fluorescent materials with hybridized local and charge-transfer characteristics for efficient deep blue OLEDs",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/d4tc00121d/auto/d4tc00121d.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Phthalide is utilized as a functional electron acceptor in D-A and D-π-A type blue emitters (PPT, PPPT, and PAPT) due to its carbonyl group, which enhances electron affinity and provides a low LUMO energy of -2.63 eV.",
+      "evidence": "In this work, three blue emitters, PPT, PPPT and PAPT with D-A/D-π-A architectures have been developed, in which phthalide was first adopted as a functional acceptor... The carbonyl group in phthalide also endows it with a low LUMO energy of -2.63 eV.",
+      "complexity": "single-hop",
+      "keywords": [
+        "phthalide",
+        "electron acceptor",
+        "molecular design",
+        "LUMO"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The PAPT-based doped OLED achieves a maximum external quantum efficiency (EQE) of 10.2% with CIE coordinates of (0.151, 0.085) and a narrow full width at half maximum (FWHM) of 53 nm.",
+      "evidence": "Particularly, the doped device based on PAPT exhibited superior performance with the maximum EQE of 10.2% and CIE coordinates of (0.151, 0.085), and the full width at half maximum (FWHM) was determined to be only 53 nm.",
+      "complexity": "single-hop",
+      "keywords": [
+        "EQE",
+        "CIE coordinates",
+        "FWHM",
+        "PAPT"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The inclusion of an anthracene π-bridge in PAPT, compared to the benzene bridge in PPPT, increases the Local Excited (LE) state component of the HLCT state, leading to a higher photoluminescence quantum yield (PLQY) of 80.8% in doped films.",
+      "evidence": "PAPT with the π bridge of anthracene exerts the advantages of the LE-dominated HLCT excited state... PAPT exhibited... high PLQYs of 80.8%... the LE component was gradually increased in the sequence of PPT < PPPT < PAPT.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "anthracene bridge",
+        "LE state",
+        "HLCT",
+        "PLQY"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The high electroluminescent efficiency of these phthalide-based emitters is attributed to the 'hot exciton' mechanism, where triplet excitons are harvested via high-lying reverse intersystem crossing (hRISC) from the T2 state to the S1 state.",
+      "evidence": "The theoretical calculations revealed a possible hRISC channel from T2 to S1 states... the hot exciton theory should be the most appropriate mechanism for explaining the high EL efficiency of these devices.",
+      "complexity": "single-hop",
+      "keywords": [
+        "hot exciton",
+        "hRISC",
+        "triplet harvesting",
+        "T2 state"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Theoretical calculations show that the energy gaps between the S1 and T2 states (ΔES1T2) for PPT, PPPT, and PAPT are 0.06 eV, 0.11 eV, and 0.01 eV, respectively, which are small enough to facilitate the spin-flip process required for hot exciton channels.",
+      "evidence": "the S1-T2 energy gaps were calculated to be as small as 0.06 eV, 0.11 eV and 0.01 eV, respectively, favoring the spin-flip through hot exciton channels.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DFT",
+        "S1-T2 energy gap",
+        "spin-flip",
+        "theoretical calculation"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "PPT, PPPT, and PAPT demonstrate high thermal stability with decomposition temperatures (Td) of 432 °C, 447 °C, and 452 °C, respectively, at 5% weight loss.",
+      "evidence": "PPT, PPPT and PAPT exhibited high thermal decomposition temperatures (Td) of 432 °C, 447 °C, and 452 °C, respectively, at a corresponding weight loss of 5%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "decomposition temperature",
+        "TGA"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The optimized non-doped OLED device structure used for these materials is ITO/HATCN (6 nm)/TAPC (30 nm)/TCTA (10 nm)/emitters (20 nm)/TmPyPB (40 nm)/LiF (1 nm)/Al (120 nm).",
+      "evidence": "non-doped devices were fabricated with the structure of ITO/HATCN (6 nm)/TAPC (30 nm)/TCTA (10 nm)/emitters (20 nm)/TmPyPB (40 nm)/LiF (1 nm)/Al (120 nm) by vacuum evaporation.",
+      "complexity": "single-hop",
+      "keywords": [
+        "device architecture",
+        "vacuum evaporation",
+        "OLED fabrication"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Single-crystal X-ray diffraction analysis of PPT and PPPT reveals that the phthalide oxygen atom induces multiple C-H···O hydrogen bonds (ranging from 2.479 to 2.701 Å), which help inhibit aggregation quenching and increase PLQY in the solid state.",
+      "evidence": "The oxygen atom in phthalide induced three kinds of C-H···O hydrogen bonds with distances in the range 2.479-2.631 Å in PPT... These results suggest that phthalide could be employed for constructing emitters capable of producing multiple supramolecular interactions... inhibiting aggregation quenching.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "X-ray diffraction",
+        "hydrogen bonds",
+        "aggregation quenching",
+        "phthalide"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The PAPT-based non-doped device maintains a high EQE of 6.2% even at a high luminance of 10,000 cd m⁻², representing a relatively low efficiency roll-off of 17% from its maximum.",
+      "evidence": "The EQEmax reached 7.5% at the high luminance of ~1800 cd m-2, and the EQE remained at 6.2% at the luminance of 10,000 cd m-2 with a slight roll-off of 17%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "efficiency roll-off",
+        "luminance",
+        "non-doped device",
+        "PAPT"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The exciton utilization efficiency (EUE) for the PPT, PPPT, and PAPT-based OLEDs was calculated to be 64%, 54%, and 63% respectively, significantly exceeding the 25% limit imposed by spin statistics for traditional fluorescent emitters.",
+      "evidence": "the exciton utilization efficiencies (EUEs) were calculated to be 64%, 54% and 63% in the PPT, PPPT and PAPT-based OLEDs, respectively, indicating that the EUEs of the devices exceeded the limitation of spin-statistics of 25%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "exciton utilization efficiency",
+        "spin statistics",
+        "fluorescence"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 13169,
+    "completion_tokens": 3255,
+    "total_tokens": 16424
+  }
+}

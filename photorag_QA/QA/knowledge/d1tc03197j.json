@@ -1,0 +1,130 @@
+{
+  "paper_id": "d1tc03197j",
+  "paper_title": "A donor–acceptor liganded metal–organic framework showcases the hydrogen-bondenhanced sensing of N-heterocyclic explosives",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/d1tc03197j/auto/d1tc03197j.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "ZnMOF-1 is synthesized via a one-step solvothermal condensation using Zn(NO3)2·6H2O, biphenyl-4,4'-dicarboxylic acid (H2BPDC), and the donor-acceptor ligand 2,7-di(pyridin-4-yl)-9H-fluoren-9-one (DPyF) in a molar ratio of 2:2:1 in DMF at 100 °C for 48 h.",
+      "evidence": "Typically, DPyF and Zn(NO3)2·6H2O were mixed with biphenyl-4,4'-dicarboxylic acid (H2BPDC) with a molar ratio of 2 : 2 : 1 in DMF. After sonication, the fully dissolved mixture was sealed and left to react at 100 °C for 48 h, affording the resultant MOF... in over 78% yield.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ZnMOF-1",
+        "solvothermal synthesis",
+        "DPyF ligand",
+        "H2BPDC"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "ZnMOF-1 features a 3-fold interpenetrating 3D framework constructed from Zn2(-COO)4(-Py)2 pillared paddlewheel secondary building units (SBUs) that create 1D channels with dimensions of approximately 5.3 Å × 15.1 Å.",
+      "evidence": "The 2D layer structures stack along the out-of-plane direction in a three-fold interdigitated fashion, resulting in three interpenetrating 3D frameworks... the structure contains 1D channels running along both the b and c axes. The channel has dimensions of ~5.3 Å × 15.1 Å along its cross section.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "interpenetrating framework",
+        "pore dimensions",
+        "secondary building units",
+        "3D network"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "ZnMOF-1 achieves a limit of detection (LOD) as low as 0.14 ppm for the N-heterocyclic explosive TriazFOX and 0.32 ppm for TetrazFOX.",
+      "evidence": "The LOD for TriazFOX and TetrazFOX was found to be as low as 0.14 and 0.32 ppm, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "limit of detection",
+        "TriazFOX",
+        "TetrazFOX",
+        "explosive sensing"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The fluorescence quenching constant (Ks) of ZnMOF-1 for TriazFOX is 3.22 × 10^4 M^-1, which is significantly higher than its Ks for traditional nitroaromatic compounds like nitrobenzene (1.14 × 10^3 M^-1).",
+      "evidence": "ZnMOF-1 exhibits the best sensitivity for TriazFOX, indicated by its highest Ks of 3.22 × 10^4 M^-1... In contrast, the non-selective detection of nitrobenzenes by the MOF was confirmed by their lowest Ks values ~10^3 M^-1.",
+      "complexity": "single-hop",
+      "keywords": [
+        "quenching constant",
+        "Stern-Volmer",
+        "TriazFOX",
+        "nitrobenzene"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The fluorescence quenching mechanism in ZnMOF-1 for N-heterocyclic explosives is primarily attributed to strong host-guest interactions including hydrogen bonding and dipole-dipole interactions rather than electron transfer or energy transfer.",
+      "evidence": "The experimental results are in sharp contrast, indicating that the fluorescence quenching of ZnMOF-1 is not dominated by an electron transfer mechanism... such overlaying can be observed between the UV-vis absorption spectra of the explosives and the emission spectrum of ZnMOF-1... indicating that energy transfer also cannot account for our ZnMOF’s detection.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "quenching mechanism",
+        "host-guest interaction",
+        "hydrogen bonding",
+        "dipole-dipole interaction"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "ZnMOF-1 exhibits high thermal stability with a decomposition temperature of 341 °C, corresponding to a 5 wt% weight loss.",
+      "evidence": "The MOF also shows excellent thermal stability, indicated by its high decomposition temperature of 341 °C (corresponding to 5 wt% weight loss) according to TGA.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "decomposition temperature",
+        "TGA"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The photoluminescence intensity of ZnMOF-1 is solvent-dependent, showing the strongest emission in acetonitrile (MeCN) and weak emission in protic solvents like water and methanol due to the suppression of intramolecular hydrogen bonds.",
+      "evidence": "Among them, the MOF dispersion in MeCN was found to afford the strongest PL intensity... Surprisingly, ZnMOF-1 emitted weakly in proton solvents like H2O and methanol, mainly due to their suppression effect on intramolecular hydrogen bonds among MOFs.",
+      "complexity": "single-hop",
+      "keywords": [
+        "solvent effect",
+        "acetonitrile",
+        "photoluminescence",
+        "intramolecular hydrogen bonds"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The Brunauer–Emmett–Teller (BET) surface area of ZnMOF-1 is 670 m^2 g^-1, and it has an experimental pore volume of 0.41 cm^3 g^-1.",
+      "evidence": "More excitingly, a Brunauer–Emmett–Teller (BET) surface area of 670 m^2 g^-1 was calculated... Our MOF was found to have an experimental pore volume of 0.41 cm^3 g^-1.",
+      "complexity": "single-hop",
+      "keywords": [
+        "BET surface area",
+        "pore volume",
+        "N2 adsorption"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "DFT calculations show that TriazFOX has a significantly higher binding energy with ZnMOF-1 (-0.77 eV) compared to 1,4-dinitrobenzene (-0.70 eV) because TriazFOX forms synergetic hydrogen bonds and dipole-dipole interactions with the MOF framework.",
+      "evidence": "the optimized model (as shown in Fig. 5a) exhibits an increased binding energy of -0.77 eV... This result indicates that hydrogen bonds form between ZnMOF-1 and TriazFOX... 1,4-DNB interacted with ZnMOF-1 only through π-π interaction... leading to a lower binding energy (-0.70 eV).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "DFT",
+        "binding energy",
+        "TriazFOX",
+        "1,4-DNB"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The DPyF ligand in ZnMOF-1 possesses a dipole moment of 4.125 Debye, which facilitates strong dipole-dipole interactions with explosives like TriazFOX (6.598 Debye) and TetrazFOX (6.646 Debye).",
+      "evidence": "DPyF has a dipole moment of 4.125 Debye... TriazFOX exhibits the highest dipole moment of 6.598 Debye... Clearly, the FOX-7-like compounds and nitrophenols form stronger dipole–dipole interactions with ZnMOF-1.",
+      "complexity": "single-hop",
+      "keywords": [
+        "dipole moment",
+        "DPyF",
+        "dipole-dipole interaction",
+        "FOX-7"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 14870,
+    "completion_tokens": 2950,
+    "total_tokens": 17820
+  }
+}

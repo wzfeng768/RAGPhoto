@@ -1,0 +1,75 @@
+{
+  "paper_id": "Adv_Materials_Inter_-_2021_-_Haldar_-_Antenna_Doping_The_Key_for_Achieving_Efficient_Optical_Wavelen",
+  "paper_title": "Antenna Doping: The Key for Achieving Efficient Optical Wavelength Conversion in Crystalline Chromophoric Heterolayers",
+  "qa_pairs": [
+    {
+      "question": "Which specific core-substituted naphthalenediimide (cNDI) linkers are utilized to create the wavelength conversion cascade in the SURMOF heterostructures?",
+      "answer": "The wavelength conversion cascade utilizes three specific linkers: bis-ethoxy-naphthalenediimide (cNDI-G) for green/blue absorption, ethoxy-cyclohexylamine-naphthalenediimide (cNDI-O) as an intermediate energy acceptor, and bis-cyclohexylamine-naphthalenediimide (cNDI-R) for red emission.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Antenna Doping: The Key for Achieving Efficient Optical Wavelength Conversion in Crystalline Chromophoric Heterolayers",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Describe the architectural components and symmetry of the Zn-SURMOF-2 structure used as the framework for these chromophoric layers.",
+      "answer": "The Zn-SURMOF-2 framework consists of ditopic dicarboxylate linkers connected to Zn++ ions, which form paddle-wheel secondary building units. These units are organized into a 2D square-grid-like structure characterized by P4 symmetry.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Antenna Doping: The Key for Achieving Efficient Optical Wavelength Conversion in Crystalline Chromophoric Heterolayers",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Why is energy transport in neat chromophoric SURMOFs considered highly anisotropic?",
+      "answer": "Energy transport is highly anisotropic because Forster resonance energy transfer (FRET) is very efficient parallel to the substrate due to J-aggregate coupling. Conversely, the transport efficiency in the direction perpendicular to the layers is approximately 1000 times lower, hindering vertical energy movement.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Antenna Doping: The Key for Achieving Efficient Optical Wavelength Conversion in Crystalline Chromophoric Heterolayers",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the 'antenna doping' strategy facilitate efficient interlayer energy transfer in crystalline SURMOF heterostructures?",
+      "answer": "The 'antenna doping' strategy involves introducing a small percentage (e.g., 1.6%) of energy acceptor linkers, such as cNDI-O, into a donor layer like Zn-cNDI-G. This dopant facilitates more isotropic energy coupling, overcoming the inherent transport anisotropy of the pristine crystal and enabling the energy to transfer between layers in the heterostructure.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Antenna Doping: The Key for Achieving Efficient Optical Wavelength Conversion in Crystalline Chromophoric Heterolayers",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What is the overall optical wavelength conversion efficiency achieved by the antenna-doped HL-2 trilayer heterostructure?",
+      "answer": "The HL-2 three-layer SURMOF heterostructure, utilizing optimized antenna doping and fabrication parameters, achieved an overall optical wavelength conversion efficiency of approximately 75%.",
+      "category": "Performance Metrics",
+      "source_title": "Antenna Doping: The Key for Achieving Efficient Optical Wavelength Conversion in Crystalline Chromophoric Heterolayers",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Compare the fluorescence quantum yield of the HL-2 antenna-doped trilayer to that of the individual pristine SURMOF components.",
+      "answer": "The HL-2 antenna-doped trilayer reached a fluorescence quantum yield of approximately 10.5%. This is a significant improvement over the pristine SURMOFs, representing a fourfold increase compared to Zn-cNDI-G (2.3%) and Zn-cNDI-R (2.9%).",
+      "category": "Performance Metrics",
+      "source_title": "Antenna Doping: The Key for Achieving Efficient Optical Wavelength Conversion in Crystalline Chromophoric Heterolayers",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What fabrication method is used to ensure the [001] orientation of the chromophoric SURMOF thin films?",
+      "answer": "The thin films are fabricated using a layer-by-layer (lbl) spin-coating method applied onto hydroxyl-terminated surfaces, which ensures high crystallinity and a specific [001] orientation.",
+      "category": "Processing & Fabrication",
+      "source_title": "Antenna Doping: The Key for Achieving Efficient Optical Wavelength Conversion in Crystalline Chromophoric Heterolayers",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "According to XRD analysis, what are the crystallographic stacking parameters for the isostructural cNDI-based SURMOFs?",
+      "answer": "XRD analysis confirmed that the three SURMOFs are isostructural, with the cNDI linkers stacking along the [010] crystallographic direction and maintaining an inter-linker distance of 6.8 Å.",
+      "category": "Characterization Methods",
+      "source_title": "Antenna Doping: The Key for Achieving Efficient Optical Wavelength Conversion in Crystalline Chromophoric Heterolayers",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2507,
+    "completion_tokens": 2727,
+    "total_tokens": 5234
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "paper_id": "zhang-et-al-2020-high-efficiency-thermal-annealing-free-organic-solar-cells-based-on-an-asymmetric-a",
+  "paper_title": "High-Efficiency Thermal-Annealing-Free Organic Solar Cells Based on an Asymmetric Acceptor with Improved Thermal and Air Stability",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/zhang-et-al-2020-high-efficiency-thermal-annealing-free-organic-solar-cells-based-on-an-asymmetric-acceptor-with/auto/zhang-et-al-2020-high-efficiency-thermal-annealing-free-organic-solar-cells-based-on-an-asymmetric-acceptor-with.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "TB-4Cl is an asymmetric small molecule acceptor (SMA) featuring an A-D1A'D2-A framework and an asymmetric ladder-type core.",
+      "evidence": "In this work, a novel asymmetric molecule TB-4Cl was designed and synthesized... designed a new asymmetric acceptor TB-4Cl with an A-D1A'D2-A structure.",
+      "complexity": "single-hop",
+      "keywords": [
+        "TB-4Cl",
+        "asymmetric acceptor",
+        "A-D1A'D2-A structure",
+        "ladder-type core"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Organic solar cells based on the PM6:TB-4Cl blend achieved a power conversion efficiency (PCE) of 14.67% without the use of thermal annealing (TA-free).",
+      "evidence": "Without thermal annealing, devices based on PM6:TB-4Cl achieved a higher efficiency of 14.67%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "PM6",
+        "TB-4Cl",
+        "thermal-annealing-free"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "TB-4Cl exhibits a dipole moment of 1.98 Debye, which is significantly higher than the 1.07 Debye observed for the symmetric acceptor Y6, leading to enhanced intermolecular dipole-dipole interactions.",
+      "evidence": "Quantum chemical computations revealed that TB-4Cl has a larger dipole moment of 1.98 Debye than that of Y6 (1.07 Debye), which can induce a stronger intermolecular interaction.",
+      "complexity": "single-hop",
+      "keywords": [
+        "dipole moment",
+        "intermolecular interaction",
+        "Y6",
+        "TB-4Cl"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Unencapsulated inverted devices based on PM6:TB-4Cl retain 75% of their initial PCE after heating at 100 °C in nitrogen for 110 hours, outperforming PM6:Y6 devices which retain only 60%.",
+      "evidence": "PM6:TB-4Cl-based devices exhibited improved thermal and air stability, evidenced by retaining around 75% (TB-4Cl) and 60% (Y6) after being heated at 100 °C in nitrogen for 110 h.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "thermal stability",
+        "degradation",
+        "nitrogen",
+        "inverted structure"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "PM6:TB-4Cl-based solar cells show superior air stability over PM6:Y6, maintaining 65% of initial efficiency after 92 hours in air (60-70% humidity) compared to 50% for Y6.",
+      "evidence": "65% (TB-4Cl) and 50% (Y6) in air for 92 h... storage time in air (20-30 °C, 60-70% humidity).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "air stability",
+        "humidity",
+        "shelf life",
+        "Y6"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "DFT calculations at the wb97xd/6-31g** level indicate that TB-4Cl has a planar structure with small dihedral angles (0.74° and 0.61°), which facilitates π-π packing and electron mobility.",
+      "evidence": "The density functional theory (DFT) calculations at wb97xd/6.31g** were conducted to optimize molecular conformation... The dihedral angles of 0.74° and 0.61° indicate that TB-4Cl has a planar structure.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DFT",
+        "dihedral angle",
+        "planarity",
+        "π-π packing"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The HOMO and LUMO energy levels of TB-4Cl are -5.7 eV and -4.1 eV, respectively, which are well-matched with the polymer donor PM6 (-5.47 eV/-3.67 eV).",
+      "evidence": "Figure 3a shows the HOMO/LUMO energy levels of TB-4Cl (-5.7/-4.1 eV), which match well with those of PM6 (-5.47/-3.67 eV).",
+      "complexity": "single-hop",
+      "keywords": [
+        "HOMO",
+        "LUMO",
+        "energy level alignment",
+        "PM6"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "TB-4Cl-based devices are insensitive to thermal annealing, showing nearly identical PCE values before and after treatment (e.g., 14.67% TA-free vs. 14.56% with TA for PM6:TB-4Cl).",
+      "evidence": "Impressively, all of the devices showed a negligible difference in power conversion efficiency (PCE) before and after thermal-annealing treatment... 14.67 (14.58 ± 0.15) [free] and 14.56 (14.53 ± 0.08) [100 C].",
+      "complexity": "multi-hop",
+      "keywords": [
+        "thermal annealing",
+        "processing",
+        "morphological stability"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis confirms that TB-4Cl molecules in binary blend films adopt a face-on orientation, evidenced by a strong π-π stacking peak in the out-of-plane direction at q = 1.70 Å⁻¹ (d = 3.70 Å).",
+      "evidence": "In the OOP direction, there are the same qz = 1.70 Å (d = 3.70 Å), which is assigned to intermolecular π-π stacking of TB-4Cl, verifying that molecules in binary blend films tend to form a face-on orientation.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "face-on orientation",
+        "π-π stacking",
+        "crystallinity"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The TA-free PM6:TB-4Cl devices exhibit balanced charge transport with an electron mobility of 5.76 × 10⁻⁴ cm² V⁻¹ s⁻¹ and a hole mobility of 4.29 × 10⁻⁴ cm² V⁻¹ s⁻¹.",
+      "evidence": "electron mobility and hole mobility are... 5.76 × 10⁻⁴ / 4.29 × 10⁻⁴ cm² V⁻¹ s⁻¹ for PM6:TB-4Cl (TA-free).",
+      "complexity": "single-hop",
+      "keywords": [
+        "electron mobility",
+        "hole mobility",
+        "SCLC",
+        "charge transport"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "TB-4Cl exhibits a 75 nm red shift in its absorption peak from solution (732 nm) to film (807 nm), indicating significant intermolecular π-π packing in the solid state.",
+      "evidence": "the peak of absorbance increases from 732 nm in solution to 807 nm in film. A 75 nm red shift confirms that TB-4Cl has a strong molecular π-π packing.",
+      "complexity": "single-hop",
+      "keywords": [
+        "UV-vis absorption",
+        "red shift",
+        "J-aggregation",
+        "π-π packing"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "TB-4Cl-based films without thermal annealing exhibit slightly larger phase separation than annealed films, which is theorized to reduce the donor/acceptor interface area and contribute to higher open-circuit voltage (Voc).",
+      "evidence": "TB-4Cl-based films with TA-free exhibit a slightly larger phase separation than that of TA-processed films. The slightly larger phase separation can lessen the D/A interface area, thus leading to the improvement of Voc.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "phase separation",
+        "Voc",
+        "AFM",
+        "donor-acceptor interface"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 14947,
+    "completion_tokens": 3997,
+    "total_tokens": 18944
+  }
+}

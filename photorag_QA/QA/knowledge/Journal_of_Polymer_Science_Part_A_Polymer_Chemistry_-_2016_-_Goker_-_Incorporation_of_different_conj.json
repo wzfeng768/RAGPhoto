@@ -1,0 +1,132 @@
+{
+  "paper_id": "Journal_of_Polymer_Science_Part_A_Polymer_Chemistry_-_2016_-_Goker_-_Incorporation_of_different_conj",
+  "paper_title": "Incorporation of Different Conjugated Linkers into Low Band Gap Polymers Based on 5,6-Bis(octyloxy)-2,1,3 benzooxadiazole for Tuning Optoelectronic Properties",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Journal of Polymer Science Part A  Polymer Chemistry - 2016 - Goker - Incorporation of different conjugated linkers into/auto/Journal of Polymer Science Part A  Polymer Chemistry - 2016 - Goker - Incorporation of different conjugated linkers into.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Four new donor-acceptor conjugated polymers (PSBSC, PFBFC, PSBSFL, and PFBFFL) were synthesized via Suzuki polycondensation using 5,6-bis(octyloxy)-2,1,3-benzooxadiazole as the acceptor unit and either carbazole or fluorene as the donor unit, bridged by selenophene or furan linkers.",
+      "evidence": "Four new 2,1,3-benzooxadiazole-based donoracceptor conjugated polymers... were synthesized via Stille polycondensation reaction [Note: Experimental section specifies Suzuki]. ...PSBSC, PFBFC, PSBSFL, and PFBFFL were synthesized.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Suzuki polycondensation",
+        "benzooxadiazole",
+        "carbazole",
+        "fluorene",
+        "D-A polymers"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The polymer PSBSC, when blended with PC71BM in a 1:3 weight ratio, achieved a power conversion efficiency (PCE) of 1.89%, an open-circuit voltage (Voc) of 0.62 V, a short-circuit current (Jsc) of 7.63 mA/cm², and a fill factor (FF) of 40%.",
+      "evidence": "Among all polymers, photovoltaic cells based on the device structure of ITO/PEDOT:PSS/PSBSC:PC;1BM(1:3, w/w)/LiF/AI revealed an open-circuit voltage of 0.62 V, a short circuit current of 7.63 mA cm-2 and a power conversion efficiency of 1.89%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "PSBSC",
+        "Voc",
+        "Jsc",
+        "fill factor"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The incorporation of selenophene as a linker in the polymer backbone results in a lower band gap compared to thiophene-based analogues due to the lower aromaticity of selenophene, which improves planarity and increases the ground-state quinoid resonance character.",
+      "evidence": "the relatively lower aromaticity of selenophene increases the ground-state quinoid resonance character of its resulting polymers with improved planarity, increased effective conjugation length, and lower band-gap energy.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "selenophene",
+        "quinoid resonance",
+        "band gap",
+        "planarity"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Furan-based linkers are used as an alternative to thiophene to increase solubility and potentially lower the HOMO energy level due to the higher electronegativity of oxygen compared to sulfur.",
+      "evidence": "furan-based polymers have lower highest occupied molecular orbital (Homo) energy level than thiophene counterparts due to high electronegativity of oxygen compared to sulfur atom. ...Wang et al. synthesized furan-based polymers as an alternative to thiophene-based ones and the results revealed increased solubility.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "furan",
+        "electronegativity",
+        "solubility",
+        "HOMO level"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The synthesized polymers exhibit ambipolar character, meaning they are both p-dopable and n-dopable, which is evidenced by distinct oxidation and reduction peaks in cyclic voltammetry studies.",
+      "evidence": "A rare property, n-doping, for conjugated polymer systems was clearly observed by CV studies for polymer films. ...In this study, selenophene and furan bridges provide copolymers ambipolar (both p- and n-dopable) character.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ambipolar",
+        "n-doping",
+        "p-doping",
+        "cyclic voltammetry"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Optical band gaps (Eg,op) for the polymers were determined via spectroelectrochemistry and found to be 1.98 eV for PSBSC, 1.95 eV for PFBFC, 1.88 eV for PSBSFL, and 2.07 eV for PFBFFL.",
+      "evidence": "The optical band gap of the polymers was calculated from those transitions as 1.98, 1.88, 1.95, and 2.07 eV for PSBSC, PSBSFL, PFBFC, and PFBFFL, respectively. [Table 2] PSBSC: 1.98, PFBFC: 1.95, PSBSFL: 1.88, PFBFFL: 2.07.",
+      "complexity": "single-hop",
+      "keywords": [
+        "optical band gap",
+        "spectroelectrochemistry",
+        "UV-Vis-NIR"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "AFM analysis revealed that furan-linked polymers (PFBFC and PFBFFL) formed large agglomerates and higher surface roughness (15.1 nm and 10.1 nm, respectively) in PCBM blends, which negatively impacted charge carrier transport compared to the smoother PSBSC blend (2.60 nm).",
+      "evidence": "Agglomerates and high root mean square roughness values obtained in PFBFC and PFBFFL PCBM blend films adversely affect the transport of charge carriers. ...Surface roughness values were determined as 2.60, 0.47, 15.1, and 10.1 nm for PSBSC, PSBSFL, PFBFC, and PFBFFL blend films.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "AFM",
+        "surface roughness",
+        "agglomerates",
+        "charge transport"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The Incident Photon-to-Electron Conversion Efficiency (IPCE) measurements showed maximum values of 38% for PSBSC, 26% for PSBSFL, 17% for PFBFC, and 13% for PFBFFL.",
+      "evidence": "the maximum IPCE values obtained with devices based on PSBSC, PSBSFL, PFBFC, and PFBFFL were measured 38, 26, 17, and 13% respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "IPCE",
+        "quantum efficiency",
+        "photovoltaics"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Carbazole-containing polymers (PSBSC and PFBFC) demonstrated superior air stability compared to fluorene-based polymers (PSBSFL and PFBFFL) because carbazole is a fully aromatic unit with higher chemical and environmental stability.",
+      "evidence": "Air stability of carbazole comprising polymers (PsBsc and PFBFC) was greater than those of fluorene-based polymers (PSBSFL and PFBFFL) since carbazole is fully aromatic unit with stronger chemical and air stability than that of fluorene.",
+      "complexity": "single-hop",
+      "keywords": [
+        "air stability",
+        "carbazole",
+        "fluorene",
+        "aromaticity"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The use of 5,6-bisalkoxy side chains on the benzooxadiazole (BO) moiety is essential for ensuring the solubility and high molecular weight of the resulting polymers, as unsubstituted BO-based polymers typically exhibit poor solubility.",
+      "evidence": "5,6-Bisalkoxy-substituted BO-based conjugated polymers reveal better solubility than that of their unsubstituted counterparts. Without alkyl chains, BO-based polymers have low molecular weights and poor solubility.",
+      "complexity": "single-hop",
+      "keywords": [
+        "side chain engineering",
+        "solubility",
+        "benzooxadiazole",
+        "alkoxy chains"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 13984,
+    "completion_tokens": 3298,
+    "total_tokens": 17282
+  }
+}

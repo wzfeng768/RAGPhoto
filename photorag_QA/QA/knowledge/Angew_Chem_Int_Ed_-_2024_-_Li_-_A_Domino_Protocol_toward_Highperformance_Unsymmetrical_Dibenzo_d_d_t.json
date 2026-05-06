@@ -1,0 +1,152 @@
+{
+  "paper_id": "Angew_Chem_Int_Ed_-_2024_-_Li_-_A_Domino_Protocol_toward_Highperformance_Unsymmetrical_Dibenzo_d_d_t",
+  "paper_title": "A Domino Protocol toward High-performance Unsymmetrical Dibenzo[d,d']thieno[2,3-b;4,5-b']dithiophenes Semiconductors",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Angew Chem Int Ed - 2024 - Li - A Domino Protocol toward High‐performance Unsymmetrical Dibenzo d d  thieno 2 3‐b 4 5‐b /auto/Angew Chem Int Ed - 2024 - Li - A Domino Protocol toward High‐performance Unsymmetrical Dibenzo d d  thieno 2 3‐b 4 5‐b .md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "A metal-catalyst-free one-pot domino thienannulation strategy was developed to synthesize unsymmetrical dibenzo[d,d']thieno[2,3-b;4,5-b']dithiophenes (DBTDTs) by forming six C-S and one C-C bonds simultaneously.",
+      "evidence": "This domino protocol features no metal catalyst and the formation of six C-S and one C-C bonds in a one-pot reaction.",
+      "complexity": "single-hop",
+      "keywords": [
+        "domino thienannulation",
+        "metal-free synthesis",
+        "DBTDT",
+        "unsymmetrical semiconductors"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The synthesis of DBTDTs utilizes 1-halo-2-ethynylbenzenes as starting materials, reacting with elemental sulfur (S8) and potassium carbonate (K2CO3) in N-methylpyrrolidone (NMP) at 145 °C.",
+      "evidence": "DBTDTs using readily available 1-halo-2-ethynylbenzenes as starting materials... heated in N-methylpyrrolidone (NMP) in the presence of S8 and K2CO3 to afford the corresponding unsymmetric DBTDTs.",
+      "complexity": "single-hop",
+      "keywords": [
+        "starting materials",
+        "K2CO3",
+        "NMP",
+        "elemental sulfur"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The trisulfur radical anion (S3•−) acts as the key reactive intermediate in the domino thienannulation process, generated in situ from the reaction of S8 and a base.",
+      "evidence": "This remarkable improvement is attributed to the production of S3•− from the reaction between S8 and the base. ...S3•−-triggered domino thienannulation strategy",
+      "complexity": "single-hop",
+      "keywords": [
+        "trisulfur radical anion",
+        "S3•-",
+        "reactive intermediate",
+        "mechanism"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Single-crystal organic field-effect transistors (SC-OFETs) based on the unsymmetric DBTDT parent compound (2a) exhibit a maximum hole mobility of 1.52 cm² V⁻¹ s⁻¹.",
+      "evidence": "the maximum mobility of 1.52 cm² V⁻¹ s⁻¹ (Figure S7a). ...SC-OFETs demonstrate the highest mobility among unsymmetric fused-ring parent compounds without substituent.",
+      "complexity": "single-hop",
+      "keywords": [
+        "hole mobility",
+        "SC-OFET",
+        "charge transport",
+        "1.52 cm2 V-1 s-1"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "DBTDT-based SC-OFET devices demonstrate an on/off current ratio (Ion/Ioff) greater than 10^5 and a threshold voltage (Vth) of approximately -7 V.",
+      "evidence": "The devices based on 2a single crystals show Ion/Ioff larger than 10^5 and a low threshold voltage of around -7 V.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Ion/Ioff",
+        "threshold voltage",
+        "device performance"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The unsymmetrical nature of DBTDT (2a) significantly enhances its solubility in common organic solvents, with solubility values of ~10 mg/mL in THF and ~7 mg/mL in chloroform at room temperature.",
+      "evidence": "2a possesses remarkable solubility in common solvents such as tetrahydrofuran (~10 mg mL−1), chloroform (~7 mg mL−1) and dichloromethane (~6 mg mL−1) at room temperature thanks to its unsymmetric nature",
+      "complexity": "single-hop",
+      "keywords": [
+        "solubility",
+        "unsymmetrical structure",
+        "THF",
+        "chloroform"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Unsymmetric DBTDT (2a) single crystals adopt a herringbone packing mode with a herringbone angle of 113° and a face-to-face π-π overlap distance of 3.373 Å.",
+      "evidence": "Figure 1d displays the herringbone packing mode of 2a single crystals with herringbone angle of 113°... large-area face-to-face overlap with a small distance of 3.373 Å between adjacent molecules along π-π direction",
+      "complexity": "multi-hop",
+      "keywords": [
+        "herringbone packing",
+        "pi-pi distance",
+        "molecular arrangement",
+        "crystal structure"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The charge transfer integral for DBTDT (2a) along the π-π packing direction is calculated to be 88.6 meV, while integrals along transverse directions are significantly lower (3.7 and -1.1 meV).",
+      "evidence": "large charge transfer integral of 88.6 meV is obtained for 2a single crystals along the π-π packing direction... while the charge transfer integrals along the two transverse directions are very small (3.7 and -1.1 meV)",
+      "complexity": "multi-hop",
+      "keywords": [
+        "transfer integral",
+        "charge transport",
+        "anisotropy",
+        "88.6 meV"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The involvement of free radicals in the thienannulation reaction was confirmed by the significant decrease in yield upon adding radical scavengers TEMPO (19% yield) or BHT (15% yield).",
+      "evidence": "the yields of 2a were affected obviously by adding 2,2,6,6-tetramethyl-1-piperidinyloxy (TEMPO) (19% yield) or 2,6-di-tert-butyl-4-methylphenol (BHT) (15% yield) ... which indicates that free radicals be involved in this thienannulation reaction.",
+      "complexity": "single-hop",
+      "keywords": [
+        "TEMPO",
+        "BHT",
+        "radical scavenger",
+        "mechanism study"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "High-quality single crystals of DBTDT (2a) used for device characterization are grown using the physical vapor transport (PVT) method.",
+      "evidence": "High quality single crystals of 2a are prepared via physical vapor transport (PVT) method.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PVT",
+        "single crystal growth",
+        "device fabrication"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "DFT calculations indicate that the dipole moment of unsymmetrical DBTDT (2a) is 0.6287 Debye, which is lower than the 0.8536 Debye calculated for its symmetrical counterpart.",
+      "evidence": "the dipole moment of 2a is 0.6287 Debye, which is slightly smaller than that of symmetric DBTDT (0.8536 Debye)",
+      "complexity": "single-hop",
+      "keywords": [
+        "DFT",
+        "dipole moment",
+        "molecular simulation"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The reaction mechanism involves three consecutive intramolecular cyclizations, where the final cyclization from intermediate G to the target DBTDT (2a) is the rate-determining step.",
+      "evidence": "Intermediate F undergoes the second intramolecular cyclization to obtain intermediate G, which eventually affords the target compound 2a by the third intramolecular cyclization. ...the last cyclization step (G to 2a) is considered as the rate-determining step",
+      "complexity": "multi-hop",
+      "keywords": [
+        "rate-determining step",
+        "intramolecular cyclization",
+        "reaction mechanism"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 13488,
+    "completion_tokens": 3826,
+    "total_tokens": 17314
+  }
+}

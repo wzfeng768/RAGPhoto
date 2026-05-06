@@ -1,0 +1,153 @@
+{
+  "paper_id": "du-et-al-2011-9-alkylidene-9h-fluorene-containing-polymer-for-high-efficiency-polymer-solar-cells",
+  "paper_title": "9-Alkylidene-9H-Fluorene-Containing Polymer for High-Efficiency Polymer Solar Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/du-et-al-2011-9-alkylidene-9h-fluorene-containing-polymer-for-high-efficiency-polymer-solar-cells/auto/du-et-al-2011-9-alkylidene-9h-fluorene-containing-polymer-for-high-efficiency-polymer-solar-cells.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "PAFDTBT is a donor-acceptor copolymer synthesized via Suzuki-Miyaura-Schluter polymerization, consisting of a 9-(1'-hexylheptylidene)-2,7-fluorene donor unit and a 5,5-(4',7'-di-2-thienyl-5',6'-dialkoxy-2,1',3'-benzothiadiazole) acceptor unit.",
+      "evidence": "Poly[9-( 1 ' - hexylheptylidene)-2,7-fluorene-alt-5, 5-( 4 ' , 7 ' -di-2-thienyl- s ' , 6 ' -- dialkoxy- · 2 ' , 1 ' , 3 ' -benzothiadiazole)] (PAFDTBT)... Suzuki-Miyaura-Schluter polymerization of M1 and M2 was carried out.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PAFDTBT",
+        "Suzuki-Miyaura-Schluter",
+        "donor-acceptor copolymer",
+        "fluorene"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The 9-alkylidene-9H-fluorene unit utilizes an sp2-hybridized carbon at the 9-position, which promotes a more planar conformation and closer interchain packing compared to 9,9-dialkyl-substituted fluorene (sp3-hybridized).",
+      "evidence": "Compared with 9,9-dialkyl-substituted fluorene, the 9-alkylidene-9H-fluorene unit is inclined to take on a planar conformation,26 which facilitates the polymer backbones forming close packing in solid state to enhance charge carrier transportation.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "sp2-hybridized",
+        "planarity",
+        "chain packing",
+        "9-alkylidene-9H-fluorene"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Bulk heterojunction polymer solar cells based on PAFDTBT:PC71BM (1:3 weight ratio) achieved a power conversion efficiency (PCE) of 6.2%, an open-circuit voltage (Voc) of 0.89 V, a short-circuit current (Jsc) of 9.9 mA/cm², and a fill factor (FF) of 0.70.",
+      "evidence": "PCE of 6.2% is achieved in the PSCs composed of PAFDTBT and (6,6)- phenyl-C71-butyric acid methyl ester ( PC 71 BM ) . The devices illustrate a V oc of 0 . 89 V ; J sc of 9 . 9 mA / cm 2 and a considerably high fill factor (FF) of 0.70.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "fill factor",
+        "PC71BM",
+        "PAFDTBT"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "PAFDTBT exhibits a lower optical band gap (1.84 eV) compared to its 9,9-dialkylfluorene-based analogue P1 (2.04 eV), attributed to the extended pi-conjugation provided by the 9-alkylidene unit.",
+      "evidence": "Meanwhile, PAFDTBT possesses a lower optical band gap of 1 . 84 eV than that of P1 ( 2.04 eV ) ... the extended π conjugation in the 9-alkylidene-9H-fluorene unit will act as a stronger electron-rich donor, resulting in a lower band gap.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "band gap",
+        "conjugation",
+        "9-alkylidene",
+        "P1"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "X-ray diffraction (XRD) analysis of PAFDTBT reveals a pi-pi stacking distance of 4.1 Å and a distance of 17.9 Å between polymer backbones separated by alkyl side chains.",
+      "evidence": "the first peak with small angel of 4 . 9 ° indicated the distance of 17 . 9 Å between polymer backbones separated by alkyl side chains, and the second peak at 21 . 4 ° showed the formation a π - π distance of 4 . 1 Å between the polymer backbones.",
+      "complexity": "single-hop",
+      "keywords": [
+        "XRD",
+        "pi-pi stacking",
+        "d-spacing"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The addition of 0.5 vol% 1,8-diiodooctane (DIO) as a processing additive in 1,2-dichlorobenzene significantly improved the fill factor of PAFDTBT solar cells from 0.51 to 0.70.",
+      "evidence": "It is especially striking that FF was improved 37% with the addition of the additive D1O although V oc is the same as and J sc is almost even up with the PSCs without DIO... In this condition, PCE of 6 . 2% was achieved ... and FF = 0.70",
+      "complexity": "multi-hop",
+      "keywords": [
+        "DIO",
+        "processing additive",
+        "fill factor",
+        "1,2-dichlorobenzene"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The hole mobility of pristine PAFDTBT measured via organic field-effect transistors (OFET) is 1.67 × 10⁻³ cm² V⁻¹ s⁻¹, which improves to 1.0 × 10⁻² cm² V⁻¹ s⁻¹ after solvent-assisted annealing at 120 °C.",
+      "evidence": "The hole mobility of the pristine PAFDTBT film spin-cast from 1,2-DCB solution was 1 . 67 × 10 -3 cm 2 V -1 s -1 ... When PAFDTBT film was treated by solvent-assistant annealing at 1 20 °C for 1 5 min, the hole mobility was further improved 1 order of magnitude to 1 . 0 × 10 -2 cm 2 V -1 s -1",
+      "complexity": "single-hop",
+      "keywords": [
+        "hole mobility",
+        "OFET",
+        "annealing",
+        "PAFDTBT"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "PAFDTBT possesses a low-lying HOMO energy level of -5.32 eV and a LUMO energy level of -3.48 eV, which provides sufficient driving force for exciton dissociation when paired with PC71BM.",
+      "evidence": "The HOMO energy level is determined by cyclic voltammogram to be at - 5 . 32 eV , and the LUMO energy level of PAFDTBT is calculated to be - 3 . 48 eV ... Such high LUMO energy level is expected to provide an enough driving force for efficient exciton dissociation.",
+      "complexity": "single-hop",
+      "keywords": [
+        "HOMO",
+        "LUMO",
+        "energy levels",
+        "exciton dissociation"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "End-capping the polymer chains with phenylboronic acid and bromobenzene is necessary to ensure stable and high photovoltaic performance in PAFDTBT.",
+      "evidence": "After polymerization for 72 h, phenylboronic acid and then bromobenzene were consecutively added at a time interval of 4 h to end-cap the polymer. In order to have stable and high photovoltaic performance conjugated polymers, capping of the end-groups is necessary.",
+      "complexity": "single-hop",
+      "keywords": [
+        "end-capping",
+        "stability",
+        "polymerization"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Atomic force microscopy (AFM) showed that adding 0.5 vol% DIO increased the root-mean-square (RMS) surface roughness of the PAFDTBT:PC71BM blend film from 0.486 nm to 0.735 nm, indicating more favorable phase separation for charge transport.",
+      "evidence": "without the additive the surface of the active layers of PAFDTBT: PC 71 BM is quite smooth, with a root-mean-square (rms) of 0 . 486 nm Meanwhile, with the addition of DIO (0.5 vol % ), the surface of the active layers become rough, with a rms of 0 . 735 nm. which suggested larger phase separation is more favorable for charge transport.",
+      "complexity": "single-hop",
+      "keywords": [
+        "AFM",
+        "RMS roughness",
+        "phase separation",
+        "DIO"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Thermogravimetric analysis (TGA) indicates that PAFDTBT is thermally stable up to 340 °C under a nitrogen atmosphere.",
+      "evidence": "Thermogravimetric analysis (TGA) indicated that PAFDTBT is of good stability up to 3 40 °C under a nitrogen atmosphere",
+      "complexity": "single-hop",
+      "keywords": [
+        "TGA",
+        "thermal stability",
+        "degradation temperature"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The optimized device fabrication conditions for PAFDTBT:PC71BM involved a 1:3 weight ratio, a blend concentration of 28 mg/mL in 1,2-DCB with 0.5 vol% DIO, and a spin-coating speed of 600 rpm.",
+      "evidence": "The characterization showed that the optimized stoichiometry of PAFDTBT to PC 71 BM is 1:3 by weight, the blend concentration is 2 8 mg/mL DIO content is 0 . 5 vol% in 1,2-DCB, and the spincoating speed is 6 00 rpm .",
+      "complexity": "single-hop",
+      "keywords": [
+        "optimization",
+        "spin-coating",
+        "fabrication",
+        "active layer"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 15459,
+    "completion_tokens": 3590,
+    "total_tokens": 19049
+  }
+}

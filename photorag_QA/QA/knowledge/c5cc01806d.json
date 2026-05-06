@@ -1,0 +1,133 @@
+{
+  "paper_id": "c5cc01806d",
+  "paper_title": "Thiophene synthesis via 1,1-carboboration",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/c5cc01806d/auto/c5cc01806d.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Borylated thiophenes can be synthesized through the 1,1-carboboration of bis(tert-butylethynyl)sulfide using boron Lewis acid reagents such as MeB(C6F5)2, ClB(C6F5)2, or B(C6F5)3 in pentane at room temperature.",
+      "evidence": "Reaction of bis(tert-butylethynyl)sulfide (12) with the boron Lewis acid reagents X-B(C6F5)2 (X = CH3, Cl, C6F5) in pentane at r.t. gave the respective borylated thiophenes in a sequence of 1,1-carboboration reactions.",
+      "complexity": "single-hop",
+      "keywords": [
+        "1,1-carboboration",
+        "borylated thiophenes",
+        "bis(alkynyl)sulfide",
+        "boron Lewis acids"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The synthesis of borylated thiophenes 13a, 13b, and 13c achieves yields of 50%, 45%, and 50% respectively, while the benzothiophene derivative 8a is obtained in 54% yield.",
+      "evidence": "yielded the product 13a in 50% yield... afforded 13b or 13c in 45% and 50% yields... give the substituted benzothiophene product 8a in 54% yield.",
+      "complexity": "single-hop",
+      "keywords": [
+        "yield",
+        "13a",
+        "13b",
+        "13c",
+        "8a"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The reaction of bis(phenylethynyl)sulfide with B(C6F5)3 follows a 2:1 stoichiometry to produce a benzothiophenethiol derivative (8a) rather than a simple thiophene, due to a sequence involving intermolecular 1,1-vinylboration and [2+2+2] cycloaddition.",
+      "evidence": "bis(phenylethynyl)sulfide reacted with B(C6F5)3 only in a 2 : 1 molar ratio to give a benzothiophene derivative... Subsequent intermolecular 1,1-vinylboration reaction with a second equivalent of 6 would generate 10 which could thermally undergo an intramolecular ring-closure [2+2+2] cycloaddition reaction forming 11.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "benzothiophene",
+        "bis(phenylethynyl)sulfide",
+        "cycloaddition",
+        "stoichiometry"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The use of a polar solvent like dichloromethane (DCM) during the reaction of bis(tert-butylethynyl)sulfide with B(C6F5)3 leads to a competing carbocation pathway involving a Wagner-Meerwein rearrangement, producing a seven-membered ring product (14) alongside the expected thiophene.",
+      "evidence": "repetition of the reaction between the bis(tertbutylethynyl)sulfide (12) and B(C6F5)3 in the polar solvent dichloromethane... two new compounds were formed and identified as the product 13c and the new compound 14... involving the Wagner–Meerwein rearrangement step.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "dichloromethane",
+        "solvent effect",
+        "Wagner-Meerwein rearrangement",
+        "reaction pathway"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Boryl substituents on thiophenes synthesized via 1,1-carboboration can be selectively removed through protonolysis using excess acetic acid in pentane, yielding trisubstituted thiophenes such as compound 20 with high efficiency (80% yield).",
+      "evidence": "treatment of in situ generated 13c with excess acetic acid in pentane solution (r.t., 2 h) gave the trisubstituted thiophene derivative 20 in 80% yield.",
+      "complexity": "single-hop",
+      "keywords": [
+        "protonolysis",
+        "acetic acid",
+        "deboronylation",
+        "thiophene synthesis"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The boryl group in 2-borylthiophenes serves as a functional handle for Suzuki-Miyaura cross-coupling reactions with aryl iodides or alpha-iodothiophene to form extended conjugated systems like bis(thiophene) 22.",
+      "evidence": "13c was subjected to a Suzuki–Miyaura cross-coupling reaction with phenyl iodide... Cross-coupling with alpha-iodothiophene gave the bis(thiophene) derivative 22.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Suzuki-Miyaura cross-coupling",
+        "bis(thiophene)",
+        "conjugated systems",
+        "functionalization"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Tricoordinated planar boron centers in borylthiophene 13a are characterized by an 11B NMR resonance at delta 63.9 and a 19F NMR chemical shift difference (delta-delta 19F m,p) of 15.3 ppm.",
+      "evidence": "The B(C6F5)2 substituent showed a 11B NMR resonance (d 63.9) and 19F NMR features (delta delta 19F m,p = 15.3) typical of a planar tricoordinated boron center.",
+      "complexity": "single-hop",
+      "keywords": [
+        "NMR spectroscopy",
+        "boron-11",
+        "fluorine-19",
+        "coordination state"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The bis(thiophene) derivative 22, prepared via cross-coupling, exhibits a non-planar configuration with a measured dihedral angle (theta C5A–C4A–C6A–S2A) of 93.2(3) degrees, indicating significant steric hindrance between the rings.",
+      "evidence": "In the case of 22 the attachment of the 2-thienyl substituent at the beta-carbon atom (C4) of the central tetrasubstituted thiophene ring... it exhibits a marked deviation from planarity (theta C5A–C4A–C6A–S2A 93.2(3) deg).",
+      "complexity": "single-hop",
+      "keywords": [
+        "dihedral angle",
+        "planarity",
+        "bis(thiophene)",
+        "steric hindrance"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "1,1-carboboration reactions allow for the selective migration of organic groups (methyl, chloride, or C6F5) from the boron atom to the alkyne carbon to form specific beta-substituted thiophenes.",
+      "evidence": "This confirms selective migration of the methyl group from boron to carbon during the 1,1-carboboration... NMR data and X-ray crystal structures... confirmed chloride and C6F5 migrations, respectively, yielding the beta-substituted thiophenes.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "group migration",
+        "beta-substitution",
+        "regioselectivity",
+        "boron reagents"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The formation of benzothiophene precursors containing S-B(C6F5)2 linkages (compounds 7a, 7b) was confirmed in situ using 2D NMR experiments, revealing hindered rotation of aryl and C6F5 groups at room temperature.",
+      "evidence": "The proposed precursors 7a,b were confirmed by a series of 2D NMR experiments in which the formation of the compounds 7 was observed in situ. Three of the four Ph substituents and the single C6F5 group at the thiophene ring exhibit hindered rotation at room temperature.",
+      "complexity": "single-hop",
+      "keywords": [
+        "in situ NMR",
+        "2D NMR",
+        "hindered rotation",
+        "reaction intermediate"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 6943,
+    "completion_tokens": 3445,
+    "total_tokens": 10388
+  }
+}

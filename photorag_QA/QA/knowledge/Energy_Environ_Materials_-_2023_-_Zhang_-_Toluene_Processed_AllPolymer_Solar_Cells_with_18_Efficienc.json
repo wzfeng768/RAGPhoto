@@ -1,0 +1,143 @@
+{
+  "paper_id": "Energy_Environ_Materials_-_2023_-_Zhang_-_Toluene_Processed_AllPolymer_Solar_Cells_with_18_Efficienc",
+  "paper_title": "Toluene Processed All-Polymer Solar Cells with 18% Efficiency and Enhanced Stability Enabled by Solid Additive: Comparison Between Sequential-Processing and Blend-Casting",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Energy   Environ Materials - 2023 - Zhang - Toluene Processed All‐Polymer Solar Cells with 18  Efficiency and Enhanced/auto/Energy   Environ Materials - 2023 - Zhang - Toluene Processed All‐Polymer Solar Cells with 18  Efficiency and Enhanced.md",
+  "knowledge_points": [
+    {
+      "category": "Performance Metrics",
+      "content": "A power conversion efficiency (PCE) of 18.0% was achieved for all-polymer solar cells using the donor PM6 and the acceptor PJ1-γ processed from toluene via sequential processing (SqP) with 0.5%wt PC71BM as a solid additive.",
+      "evidence": "Subsequently, when 0.5% PC71BM is introduced as a SA into the active layer, the PCE is further increased to 18.0%... for the toluene-processed SqP device, (SqP)PM6/PJ1-γ + SA.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "PCE",
+        "toluene",
+        "sequential processing",
+        "PC71BM"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The polymerized small molecule acceptor PJ1-γ features frontier orbital energy levels (LUMO of -3.72 eV and HOMO of -5.61 eV) that are higher than those of the common acceptor PYF-T-o, facilitating higher open-circuit voltage (Voc) potential.",
+      "evidence": "Figure 2b illustrates the energy levels of the active layer materials, where PJ1-γ exhibits higher LUMO (-3.72 eV) and HOMO levels (-5.61 eV) than PYF-T-o. Therefore, the PJ1-γ-based solar cell has a greater potential to realize a high Voc.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PJ1-γ",
+        "LUMO",
+        "HOMO",
+        "energy levels"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Toluene is employed as a high-boiling-point, non-halogenated aromatic hydrocarbon solvent to replace chloroform, which is unsuitable for large-scale fabrication due to its high vapor pressure and hazardous nature.",
+      "evidence": "To take advantage of the superior film-formation properties and mechanical properties of allPSCs in future large-scale productions, chloroform must be replaced processing solvent with a high boiling point at standard pressure, preferentially non-halogen solvents... toluene, an aromatic hydrocarbon solvent.",
+      "complexity": "single-hop",
+      "keywords": [
+        "toluene",
+        "non-halogen solvent",
+        "large-scale fabrication"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The addition of 0.5%wt PC71BM as a solid additive (SA) enhances the vertical phase segregation in PM6/PJ1-γ films, specifically increasing the donor concentration and decreasing the acceptor concentration near the bottom anode interface.",
+      "evidence": "The addition of the SA makes the bottom portion of the active layer (closer to the anode) to exhibit a higher concentration of donor and a lower concentration of acceptor than those without the SA, which is beneficial for interfacial charge selectivity.",
+      "complexity": "single-hop",
+      "keywords": [
+        "solid additive",
+        "vertical phase segregation",
+        "PC71BM",
+        "morphology"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Sequential processing (SqP) significantly reduces trap-assisted recombination compared to blend-casting (BC), as indicated by lower ideality factors (nid,l) and fewer states in the low-energy region (1.20–1.28 eV) of FTPS-EQE spectra.",
+      "evidence": "Firstly, the SqP method significantly reduces the trap-assisted recombination as the nid,l values are much lower than those of the BC devices... devices prepared via the SqP method exhibited fewer states in the low-energy region overall compared to those prepared using the BC method.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "trap-assisted recombination",
+        "sequential processing",
+        "FTPS-EQE",
+        "ideality factor"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The electron mobility of PM6:PYF-T-o devices (2.40 × 10⁻⁴ cm² V⁻¹ s⁻¹) is typically lower than the hole mobility (4.14 × 10⁻⁴ cm² V⁻¹ s⁻¹), but both sequential processing and solid additives can improve electron mobility to achieve more balanced transport.",
+      "evidence": "the electron mobility of the (BC)PM6: PYF-T-o device is 2.40 × 10⁻⁴ cm² V⁻¹ s⁻¹ while the hole mobility is 4.14 × 10⁻⁴ cm² V⁻¹ s⁻¹... we found that the electron mobility can be improved by both the SqP method and the incorporation of the SA.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "electron mobility",
+        "hole mobility",
+        "SCLC",
+        "charge transport"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "In situ UV-vis absorption measurements reveal that the sequential processing method involves a swelling phase where the donor film interacts with the acceptor solution, followed by a liquid-to-solid transition that occurs in approximately 1.7 to 1.8 seconds for toluene-based solutions.",
+      "evidence": "In the SqP method, the deposition of the acceptor solution makes the donor's absorption resemble that of the liquid state, suggesting a high degree of swelling... drying times for without and with SA solution are 1.706 and 1.790 [seconds], respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "in situ UV-vis",
+        "swelling",
+        "film formation",
+        "drying time"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The (SqP)PM6/PJ1-γ + SA device demonstrates superior photostability with a T80 value of approximately 310 hours under continuous 1-sun LED illumination, significantly higher than the ~65 hours observed for the blend-cast (BC) equivalent.",
+      "evidence": "the (BC)PM6:PJ1-y device has a rapid decrease in PCE with a T80 value of ~65 h... after over 300 h of continuous illumination, the (SqP)PM6/PJ1-y+ SA devices exhibit the highest photostability (T80 value is almost 310 h).",
+      "complexity": "single-hop",
+      "keywords": [
+        "photostability",
+        "T80",
+        "MPPT",
+        "operational lifetime"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Interfacial tension calculations indicate that PM6 and PJ1-γ have lower miscibility (0.67 mN/m) than PM6 and PYF-T-o (0.03 mN/m), leading to a higher tendency for phase separation in the PJ1-γ system, which is further promoted by the solid additive (2.08 mN/m).",
+      "evidence": "interfacial tension value between PM6 and PYF-T-o is 0.03 mN/m while that between PM6 and PJ1-γ is 0.67 mN/m... PJ1-γ has a higher tendency for phase separation... interfacial tension increases to 2.08 mN/m [with SA].",
+      "complexity": "multi-hop",
+      "keywords": [
+        "interfacial tension",
+        "miscibility",
+        "phase separation",
+        "surface tension"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis shows that the π-π stacking distance for PM6/PJ1-γ blend films is 3.70 Å, while the (100) crystal coherence length (CCL) for PJ1-γ-based films (88–95 Å) is significantly larger than that of PYF-T-o-based films (54–58 Å).",
+      "evidence": "The π-π stacking distances for all four films were found to be 3.70 Å... CCL values for the (100) peak of the PYF-T-o based blend films are in the range of 54–58 Å while those of the PJ1-y-based films are in the range of 88–95 Å.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "π-π stacking",
+        "crystal coherence length",
+        "d-spacing"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Sequential processing reduces non-radiative recombination energy losses (ΔE3) in all-polymer solar cells compared to blend-casting, which is attributed to the formation of purer domains and fewer structural irregularities in the active layer.",
+      "evidence": "an in-depth exploration of ΔE3, indicative of losses arising from non-radiative recombination, unveiled significantly diminished values in the two SqP-treated devices compared to their BC analogs... heightened non-radiative energy dissipation is likely rooted in traps or structural irregularities.",
+      "complexity": "single-hop",
+      "keywords": [
+        "non-radiative recombination",
+        "energy loss",
+        "purer domains",
+        "ΔE3"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 14253,
+    "completion_tokens": 4437,
+    "total_tokens": 18690
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "paper_id": "song-et-al-2020-semitransparent-organic-solar-cells-enabled-by-a-sequentially-deposited-bilayer-stru",
+  "paper_title": "Semitransparent Organic Solar Cells Enabled by a Sequentially Deposited Bilayer Structure",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/song-et-al-2020-semitransparent-organic-solar-cells-enabled-by-a-sequentially-deposited-bilayer-structure/auto/song-et-al-2020-semitransparent-organic-solar-cells-enabled-by-a-sequentially-deposited-bilayer-structure.md",
+  "knowledge_points": [
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The sequentially deposited bilayer structure in organic solar cells allows for the formation of a p-i-n-like junction due to the enrichment of the donor and acceptor at their respective interfaces, which facilitates charge carrier transportation and extraction.",
+      "evidence": "The enrichment of the donor and the acceptor at their respective interfaces helps the formation of a p-i-n-like junction, which facilitates the charge carrier transportation and extraction.",
+      "complexity": "single-hop",
+      "keywords": [
+        "bilayer structure",
+        "p-i-n junction",
+        "charge transport",
+        "sequential deposition"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "A semi-orthogonal solvent system consisting of o-xylene for the donor and a mixed solvent of o-xylene/n-butanol for the acceptor is used to prevent the donor layer from being washed off during sequential deposition.",
+      "evidence": "As n-butanol has poor solubility for PTB7-Th, it was added into the acceptor solution with a blend ratio of 3:1 (o-xylene/n-butanol, v/v) to avoid washing off the donor film during sequential deposition.",
+      "complexity": "single-hop",
+      "keywords": [
+        "semi-orthogonal solvents",
+        "o-xylene",
+        "n-butanol",
+        "sequential deposition"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Opaque organic solar cells based on the PTB7-Th/IEICO-4F bilayer structure achieved a maximum power conversion efficiency (PCE) of 12.0% with a short-circuit current density (JSC) of 25.4 mA/cm² when using 2% 1-chloronaphthalene (CN) as an additive.",
+      "evidence": "the best bilayer device with a PCE of 12.0% at a total thickness of 110 nm (60 nm donor and 50 nm acceptor)... the JSC of the bilayer device was improved from 23.9 to 25.4 mA cm−2",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "JSC",
+        "IEICO-4F",
+        "1-chloronaphthalene"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "In bilayer semitransparent organic solar cells, the power conversion efficiency can be improved by increasing the thickness of the IEICO-4F acceptor layer (from 50 to 70 nm) without significantly reducing the average visible light transmittance (AVT), because IEICO-4F has strong near-infrared absorption but weak visible light absorption.",
+      "evidence": "the PCE of bilayer ST-OSCs can be improved by simply increasing the thickness of IEICO-4F, which has strong near infrared absorption but weak visible light absorption, without significantly affecting the average visible light transmittance (AVT) of the device.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "IEICO-4F",
+        "AVT",
+        "acceptor thickness",
+        "semitransparent"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "In bulk heterojunction (BHJ) semitransparent solar cells, increasing the active layer thickness to improve efficiency leads to a significant loss in average visible light transmittance (AVT) because the donor polymer (PTB7-Th) absorption in the visible region is unavoidably enhanced.",
+      "evidence": "in the BHJ structure, the increase in BHJ film thickness unavoidably enhances the donor absorption in the visible light region, leading to a tradeoff between the PCE and AVT",
+      "complexity": "single-hop",
+      "keywords": [
+        "BHJ",
+        "AVT tradeoff",
+        "PTB7-Th",
+        "visible absorption"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The best-performing bilayer semitransparent organic solar cell achieved a PCE of 8.5% with an average visible light transmittance (AVT) of 21.5%, outperforming the best BHJ-structured device which reached a PCE of 8.1% and an AVT of 21.1%.",
+      "evidence": "Eventually, the bilayer-structured device exhibited a better overall performance than the BHJ-structured device, e.g., a PCE of 8.5% for the bilayer structure versus a PCE of 8.1% for the BHJ structure with an AVT around 21%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ST-OSC",
+        "PCE",
+        "AVT",
+        "bilayer vs BHJ"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The addition of 2% 1-chloronaphthalene (CN) to the acceptor solution reduces both bimolecular and trap-assisted recombination, as evidenced by the change in the slope of Voc versus light intensity from 1.39 kT/q to 1.27 kT/q.",
+      "evidence": "the CN-treated and as-cast devices based on the PTB7-Th/IEICO-4F bilayer structure displayed slopes of 1.27 and 1.39 kBT/q, respectively... both the bimolecular recombination and trap-assisted recombination are really weakened in the CN-treated device.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "recombination",
+        "1-chloronaphthalene",
+        "Voc",
+        "light intensity dependence"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Atomic force microscopy (AFM) reveals that 2% 1-chloronaphthalene (CN) additive inhibits the aggregation of IEICO-4F, increasing the donor-acceptor interface area and benefiting exciton dissociation.",
+      "evidence": "The pure IEICO-4F film without the CN additive exhibits a larger acceptor profile than the pure IEICO-4F film with 2% CN, which indicates that the CN additive has inhibited the aggregation of IEICO-4F.",
+      "complexity": "single-hop",
+      "keywords": [
+        "AFM",
+        "morphology",
+        "aggregation",
+        "exciton dissociation"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The transparency of the semitransparent devices was evaluated using the CIE 1931 chromaticity diagram, showing color coordinates for the best devices (A-D) near (0.26, 0.30) with correlated color temperatures (CCT) ranging from 10,764 to 11,310 K.",
+      "evidence": "The CIE XYZ color coordinates of devices A, B, C, and D are located at (0.261, 0.299), (0.260, 0.301), (0.258, 0.305), and (0.259, 0.312), respectively, corresponding to the CCT of 11,264, 11,310, 11,161, and 10,764 K",
+      "complexity": "single-hop",
+      "keywords": [
+        "CIE 1931",
+        "CCT",
+        "color coordinates",
+        "transparency"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Bilayer semitransparent organic solar cells retained 85% of their initial power conversion efficiency after 192 hours of storage in the dark and 67% after 67 hours of thermal stress at 85 °C.",
+      "evidence": "The devices retained 85% of its initial PCE after being aged in the dark for 192 h (Figure S7b) and 67% of its initial PCE after being thermally stressed at 85 °C for 67 h (Figure S8b).",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "storage stability",
+        "PCE degradation"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The exciton dissociation probability [P(E,T)] under short-circuit conditions increased from 90.18% in as-cast bilayer devices to 92.35% in devices treated with 2% 1-chloronaphthalene (CN).",
+      "evidence": "Under short-circuit conditions, a P(E,T) of 92.35% was achieved for the CN-treated device, which is higher than that (90.18%) of the as-cast device (Table S4).",
+      "complexity": "single-hop",
+      "keywords": [
+        "exciton dissociation",
+        "photocurrent",
+        "1-chloronaphthalene"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "A transparent top electrode consisting of 1 nm Gold (Au) and 12 nm Silver (Ag) was utilized to replace the 100 nm thick Ag electrode used in opaque devices for the construction of semitransparent solar cells.",
+      "evidence": "a series of ST-OSCs were constructed by using 1 nm Au/12 nm Ag as the top transparent electrode to replace 100 nm Ag.",
+      "complexity": "single-hop",
+      "keywords": [
+        "transparent electrode",
+        "Gold",
+        "Silver",
+        "device fabrication"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 15881,
+    "completion_tokens": 3428,
+    "total_tokens": 19309
+  }
+}

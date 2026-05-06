@@ -1,0 +1,134 @@
+{
+  "paper_id": "wang-et-al-2019-improving-active-layer-morphology-of-all-polymer-solar-cells-by-dissolving-the-two-p",
+  "paper_title": "Improving Active Layer Morphology of All-Polymer Solar Cells by Dissolving the Two Polymers Individually",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/wang-et-al-2019-improving-active-layer-morphology-of-all-polymer-solar-cells-by-dissolving-the-two-polymers-individually/auto/wang-et-al-2019-improving-active-layer-morphology-of-all-polymer-solar-cells-by-dissolving-the-two-polymers-individually.md",
+  "knowledge_points": [
+    {
+      "category": "Processing & Fabrication",
+      "content": "The DI (Dissolving Individually) method involves dissolving the polymer donor and polymer acceptor in separate solutions and mixing them immediately before spin-coating, whereas the conventional DT (Dissolving Together) method involves dissolving both polymers in the same solution simultaneously.",
+      "evidence": "The regular method is to dissolve polymer donor and polymer acceptor together to get a well-intermixed blend solution (referred to as the DT method, Scheme 1a). Our new method is to dissolve the two polymers individually and then mix the two solutions immediately before spin-coating (referred to as the DI method, Scheme 1b).",
+      "complexity": "single-hop",
+      "keywords": [
+        "DI method",
+        "DT method",
+        "spin-coating",
+        "solution preparation"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The all-polymer solar cell using J61 as the donor and PBN-10 as the acceptor achieved a power conversion efficiency (PCE) of 7.09% and an open-circuit voltage (VOC) of 1.24 V when processed using the DI method.",
+      "evidence": "While the device based on the regular DT method shows the PCE of 5.36%, the all-PSC device with the DI method exhibits an enhanced PCE of 7.09% at a high open-circuit voltage (VOC) of 1.24 V.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "VOC",
+        "J61",
+        "PBN-10",
+        "all-polymer solar cells"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The LUMO and HOMO energy levels of the donor polymer J61 are -3.08 eV and -5.32 eV, respectively, while the acceptor polymer PBN-10 has LUMO and HOMO levels of -3.42 eV and -5.81 eV.",
+      "evidence": "The LUMO/HOMO energy levels were determined to be −3.08/−5.32 eV for J61 and −3.42/−5.81 eV for PBN-10, respectively (Figure S1).",
+      "complexity": "single-hop",
+      "keywords": [
+        "LUMO",
+        "HOMO",
+        "energy levels",
+        "J61",
+        "PBN-10"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The DI method enhances device performance because the low diffusion coefficient of long polymer chains prevents pre-formed aggregates from deaggregating or intermixing completely during the brief mixing period, thereby preserving the solution-state aggregation in the resulting thin film.",
+      "evidence": "When mixed together, because of the low diffusion coefficient of polymer chains, these aggregates of polymer chains have not been disturbed completely and can be partially preserved in the thin film after spin-coating.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "diffusion coefficient",
+        "polymer aggregates",
+        "phase separation",
+        "morphology control"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Using the DI method for the J61:PBN-10 blend improves the hole mobility (μh) from 6.05 × 10⁻⁵ to 1.83 × 10⁻⁴ cm² V⁻¹ s⁻¹ and the electron mobility (μe) from 3.16 × 10⁻⁴ to 5.88 × 10⁻⁴ cm² V⁻¹ s⁻¹ compared to the DT method.",
+      "evidence": "The J61:PBN-10 blend with the DT method shows a hole mobility (μh) of 6.05 × 10−5 cm2 V−1 s−1 and an electron mobility (μe) of 3.16 × 10−4 cm2 V−1 s−1... In comparison, the μh and μe are improved to 1.83 × 10−4 and 5.88 × 10−4 cm2 V−1 s−1... for the J61:PBN-10 blend with the DI method.",
+      "complexity": "single-hop",
+      "keywords": [
+        "carrier mobility",
+        "SCLC",
+        "charge transport",
+        "DI method"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "2D-GIWAXS analysis reveals that the coherence length (CL) of the (010) π–π stacking peak in the J61:PBN-10 blend increases from 34 Å in the DT-processed film to 36 Å in the DI-processed film, indicating enhanced polymer ordering.",
+      "evidence": "The CL of (100) lamellar and (010) π−π stacking are 101 and 34 Å for the blend film with the DT method. In comparison, the CL of (100) lamellar and (010) π−π stacking increase to 122 and 36 Å for the blend film with the DI method.",
+      "complexity": "single-hop",
+      "keywords": [
+        "2D-GIWAXS",
+        "coherence length",
+        "crystallinity",
+        "polymer ordering"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Resonant soft X-ray scattering (R-SoXS) measurements show that the relative domain purity of the J61:PBN-10 active layer increases from 0.71 (DT method) to 1.00 (DI method).",
+      "evidence": "Most importantly, the relative domain purity of the active layer increases from 0.71 with the DT method to 1.00 with the DI method.",
+      "complexity": "single-hop",
+      "keywords": [
+        "R-SoXS",
+        "domain purity",
+        "morphology",
+        "phase separation"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The power-law exponent (α) derived from light-intensity-dependent short-circuit current (JSC) measurements increased from 0.93 for the DT method to 0.95 for the DI method, suggesting more efficient charge collection and reduced bimolecular recombination.",
+      "evidence": "the α values of the fitted line for the all-PSC devices with DT and DI methods are 0.93 and 0.95, respectively. The larger α value indicates the free charge carriers are more efficiently swept out and collected prior to recombination",
+      "complexity": "single-hop",
+      "keywords": [
+        "bimolecular recombination",
+        "charge collection",
+        "light intensity dependence"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The generality of the DI method was demonstrated using other polymer systems, such as J71:PBN-10 (PCE increased from 5.13% to 5.78%) and PTB7-Th:N2200 (PCE increased from 4.02% to 4.75%).",
+      "evidence": "As a result, the J71:PBN-10 and PTB7-Th:N2200 based all-PSC devices with DI method exhibit PCEs of 5.78% and 4.75% which is higher than those with DT method (the PCEs are 5.13% and 4.02%)",
+      "complexity": "single-hop",
+      "keywords": [
+        "generality",
+        "J71",
+        "PTB7-Th",
+        "N2200",
+        "PCE enhancement"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Temperature-dependent UV-vis absorption spectra indicate that PBN-10 chains exhibit strong aggregation at 20 °C in chlorobenzene, which dramatically decreases as the temperature increases to 90 °C.",
+      "evidence": "With the temperature increased from 20 to 90 °C, the intensity of the long wavelength absorption peak at 623 nm decreases dramatically. The temperature-dependent absorption spectra indicate that PBN-10 chains aggregate at 20 °C and tend to deaggregate at high temperature.",
+      "complexity": "single-hop",
+      "keywords": [
+        "UV-vis absorption",
+        "temperature-dependent",
+        "aggregation",
+        "PBN-10"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 15233,
+    "completion_tokens": 3997,
+    "total_tokens": 19230
+  }
+}

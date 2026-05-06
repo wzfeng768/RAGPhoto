@@ -1,0 +1,129 @@
+{
+  "paper_id": "Solar_RRL_-_2022_-_Zhang_-_18_66_Efficiency_of_Polymer_Solar_Cells_Employing_Two_Nonfullerene_Accept",
+  "paper_title": "18.66% Efficiency of Polymer Solar Cells Employing Two Nonfullerene Acceptors with Fluorine or Chlorine Substitution",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Solar RRL - 2022 - Zhang - 18 66  Efficiency of Polymer Solar Cells Employing Two Nonfullerene Acceptors with Fluorine or/auto/Solar RRL - 2022 - Zhang - 18 66  Efficiency of Polymer Solar Cells Employing Two Nonfullerene Acceptors with Fluorine or.md",
+  "knowledge_points": [
+    {
+      "category": "Performance Metrics",
+      "content": "The optimal ternary polymer solar cell based on PM6:L8-BO:eC9-2Cl (1:0.8:0.2 weight ratio) achieves a champion power conversion efficiency (PCE) of 18.66%, with an open-circuit voltage (Voc) of 0.89 V, a short-circuit current density (Jsc) of 26.63 mA cm^-2, and a fill factor (FF) of 78.74%.",
+      "evidence": "The optimal ternary PSCs exhibit a power conversion efficiency of 18.66%, benefiting from the simultaneously increased open-circuit voltage (Voc) of 0.89 V, short-circuit current density (Jsc) of 26.63 mA cm^-2, and fill factor of 78.74% when the content of chlorine substitution eC9-2Cl is about 20% in acceptors.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "ternary solar cells",
+        "PM6",
+        "L8-BO",
+        "eC9-2Cl"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Chlorinated non-fullerene acceptors like eC9-2Cl exhibit enhanced pi-electron overlap and crystalline properties compared to fluorinated analogs because chlorine atoms possess a larger atomic radius and empty 3d orbitals.",
+      "evidence": "Chlorinated materials have special crystalline conditions due to the specific features of the chlorine atoms with large atomic radius and the empty 3d orbits compared to the corresponding fluorinated materials. ... the enhanced π electron overlap is conducive to increase the intermolecular packing and crystal properties.",
+      "complexity": "single-hop",
+      "keywords": [
+        "chlorination",
+        "fluorination",
+        "atomic radius",
+        "3d orbitals",
+        "molecular packing"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The chlorinated acceptor eC9-2Cl possesses a redshifted absorption spectrum and uplifted LUMO levels compared to the fluorinated L8-BO, which contributes to higher short-circuit current density and open-circuit voltage in ternary devices.",
+      "evidence": "The absorption spectra of chlorinated molecules are normally redshifted; the narrower bandgap acceptor materials can harvest more photons in long wavelength range... The uplifted LUMO levels of the chlorinated acceptor eC9-2Cl are favorable to enhancing the Voc of PSCs.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "redshift",
+        "LUMO",
+        "absorption spectrum",
+        "eC9-2Cl"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The binary solar cell using PM6:L8-BO achieves a PCE of 18.01% (Voc 0.88 V, Jsc 26.37 mA cm^-2, FF 77.59%), while the PM6:eC9-2Cl binary cell achieves a PCE of 17.12% (Voc 0.90 V, Jsc 25.63 mA cm^-2, FF 74.23%).",
+      "evidence": "The eC9-2Cl-based binary PSCs exhibit a PCE of 17.12% with Jsc of 25.63 mA cm−2, Voc of 0.90 V, and fill factor (FF) of 74.23%. The L8-BO-based binary PSCs display a PCE of 18.01%, with Jsc of 26.37 mA cm−2, Voc of 0.88 V and FF of 77.59%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "binary solar cells",
+        "efficiency",
+        "L8-BO",
+        "eC9-2Cl"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "In the PM6:L8-BO:eC9-2Cl ternary system, both bimolecular and trap-assisted recombination are minimized at 20 wt% eC9-2Cl content, as evidenced by an alpha value of 0.975 and a beta value of 1.226.",
+      "evidence": "When the eC9-2Cl content is 20 wt% in acceptors, the calculated α value is 0.975... The β value of the optimal ternary blend system is 1.226, which is closest to 1 than 1.268 and 1.375 of PM6:L8-BO and PM6:eC9-2Cl binary PSCs.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "bimolecular recombination",
+        "trap-assisted recombination",
+        "light intensity dependence"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The optimal ternary blend (PM6:L8-BO:eC9-2Cl) exhibits a charge-transfer lifetime (tau) of 104.53 ns, which is shorter than the binary systems (118.14 ns for L8-BO and 141.7 ns for eC9-2Cl), indicating suppressed charge recombination.",
+      "evidence": "the τ values of PM6:L8-BO binary system, the PM6:L8-BO:eC9-2Cl optimal ternary blend film, and PM6: eC9-2Cl binary system are 118.14, 104.53, and 141.7 ns, respectively. The τ of the optimal ternary PSCs is moderately short, indicating that charge recombination could be effectively suppressed.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "electrochemical impedance spectroscopy",
+        "charge-transfer lifetime",
+        "recombination"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The charge carrier mobility in the optimal ternary devices is more balanced than in binary devices, with a hole-to-electron mobility ratio (mu_h/mu_e) of 0.89.",
+      "evidence": "The μh/μe values are 0.79, 0.89, and 0.7 for devices with PM6:L8-BO, ternary, and PM6:eC9-2Cl as active layers, respectively. The μh/μe of the optimal ternary devices is 0.89 and the closest to 1.",
+      "complexity": "single-hop",
+      "keywords": [
+        "charge mobility",
+        "SCLC",
+        "mobility balance"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis reveals that the optimal ternary blend has a larger crystalline coherence length (CCL) for both pi-pi stacking (2.36 nm) and lamellar stacking (7.53 nm) compared to the L8-BO-based binary film.",
+      "evidence": "The crystalline coherence length (CCL) values related to π-π stacking and lamellar stacking can be calculated (2.34 and 6.15 nm for PM6:L8-BO, 2.36 and 7.53 nm for PM6: L8-BO:eC9-2Cl... The optimal ternary blended film exhibits larger CCL of both the π-π stacking and lamellar stacking in comparison to the L8-BO-based binary blend film.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "GIWAXS",
+        "CCL",
+        "crystallinity",
+        "pi-pi stacking"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The optimal ternary solar cell demonstrates an exciton dissociation efficiency (eta_diss) of 98.21% and a charge collection efficiency (eta_coll) of 89.38%.",
+      "evidence": "The ηdiss and the ηcoll of L8-BO-based device and eC9-2Cl-based device and L8-BO:eC9-2Cl-based device were 97.73%/88.42%, 96.48%/87.69%, and 98.21%/89.38%, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "exciton dissociation",
+        "charge collection efficiency",
+        "Jph"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The optimal ternary device performance is achieved by incorporating 20 wt% of the chlorinated acceptor eC9-2Cl relative to the total acceptor weight (PM6:L8-BO:eC9-2Cl ratio of 1:0.8:0.2).",
+      "evidence": "The champion PCE of 18.66% is achieved... when the weight ratio of PM6:L8-BO:eC9-2Cl is 1:0.8:0.2.",
+      "complexity": "single-hop",
+      "keywords": [
+        "weight ratio",
+        "optimization",
+        "ternary blend"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 11867,
+    "completion_tokens": 3217,
+    "total_tokens": 15084
+  }
+}

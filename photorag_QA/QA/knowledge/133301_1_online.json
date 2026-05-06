@@ -1,0 +1,144 @@
+{
+  "paper_id": "133301_1_online",
+  "paper_title": "Direct observation of UV-induced charge accumulation in inverted-type polymer solar cells with a TiOx layer: Microscopic elucidation of the light-soaking phenomenon",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/133301_1_online/auto/133301_1_online.md",
+  "knowledge_points": [
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The inverted-type organic solar cell (IOSC) structure used for ESR study consists of Indium-Tin-Oxide (ITO) / TiOx (~30 nm) / P3HT:PCBM (~250 nm) / Au (~150 nm).",
+      "evidence": "The structure is indium-tin-oxide (ITO)/TiOx poly(3-hexylthiopene) (P3HT):[6,6]-phenyl C61-butyric acid methyl ester (PCBM)/Au.",
+      "complexity": "single-hop",
+      "keywords": [
+        "inverted structure",
+        "ITO",
+        "TiOx",
+        "P3HT:PCBM",
+        "device architecture"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The light-soaking phenomenon in TiOx-based IOSCs is characterized by an initial S-shaped J-V curve that transforms into a proper J-shaped curve upon white light (UV-containing) irradiation.",
+      "evidence": "the J-V curve remained in an S-shape until the device was irradiated by white light. When the device was irradiated by white light, the cell performance greatly improved, showing a proper J-shaped J-V curve",
+      "complexity": "single-hop",
+      "keywords": [
+        "light-soaking",
+        "S-shape",
+        "J-V characteristics",
+        "UV-light irradiation"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Electron spin resonance (ESR) spectroscopy with a modulation frequency of 100 kHz allows for the direct observation of accumulated photogenerated charge carriers with lifetimes exceeding 10 microseconds.",
+      "evidence": "the observed light-induced ESR signals are due to accumulated (or deeply trapped) photogenerated charge carriers with a lifetime of > 10 μs.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ESR",
+        "charge accumulation",
+        "carrier lifetime",
+        "spectroscopy"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The ESR signal of the IOSC under light can be deconvoluted into a narrow component (g = 2.0021, ΔHpp = 0.22 mT) and a broad component (g = 2.0033, ΔHpp = 0.96 mT).",
+      "evidence": "The g value and peak-to-peak ESR linewidth ΔHpp of each component were determined as g_broad = 2.0033, ΔHpp = 0.96 mT and g_narrow = 2.0021, ΔHpp = 0.22 mT, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "g-value",
+        "linewidth",
+        "ESR signal deconvolution",
+        "P3HT radical cations"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Residual bromine atoms at P3HT polymer-chain ends, resulting from incomplete polymerization reactions, act as deep hole-trapping sites in the device.",
+      "evidence": "The origin of the charge accumulation is clarified as holes that are deeply trapped at p-type P3HT polymer-chain ends with bromine... The end groups with bromine have been reported to act as hole-trapping sites.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "P3HT",
+        "bromine",
+        "polymer-chain ends",
+        "hole trapping"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The broad ESR component (g = 2.0033) is attributed to holes trapped at bromine-terminated thiophene units where large spin-orbit coupling from the heavy bromine atom increases the g-value compared to standard P3HT radical cations.",
+      "evidence": "When holes are trapped at such sites, holes’ spins are affected by nearby heavy-atom bromine via large spin-orbit couplings, resulting in a large g value. This explanation is fully consistent with the observed larger g value of the broad component (g_broad = 2.0033) than that of the narrow component (g_narrow = 2.0021).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "spin-orbit coupling",
+        "bromine",
+        "g-value",
+        "P3HT"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The source of accumulated holes in the P3HT layer during light-soaking is the band excitation of the TiOx layer, which has a bandgap of approximately 3.2 eV.",
+      "evidence": "the source of the accumulated holes is considered to originate from the band excitation in TiOx with a bandgap of ~3.2 eV.",
+      "complexity": "single-hop",
+      "keywords": [
+        "TiOx",
+        "bandgap",
+        "band excitation",
+        "hole transfer"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Residual OH groups in the TiOx layer act as electron-trapping sites; filling these traps via UV-light irradiation improves the electron-transport characteristics of the layer.",
+      "evidence": "Other possible electron-trapping sites are OH groups in TiOx... Such electron-trap fillings at OH groups can greatly improve the electron-transport characteristics of the TiOx layer.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "OH groups",
+        "electron traps",
+        "TiOx",
+        "electron transport"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The light-soaking mechanism involves holes from TiOx band excitation transferring to P3HT bromine-traps, where they are electrostatically attracted to electrons trapped at OH groups in the TiOx layer.",
+      "evidence": "The holes are considered to be electrostatically attracted to trapped electrons in the TiOx layer after the band excitation. These accumulated charges are the origin of the light-soaking phenomenon.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "electrostatic attraction",
+        "charge trapping",
+        "light-soaking mechanism"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Passivation of residual OH groups in the TiOx layer is proposed as a necessary strategy to eliminate the light-soaking phenomenon and enable stable operation of IOSCs without UV-light irradiation.",
+      "evidence": "Our results strongly suggest that passivation of the residual OH groups in the TiOx layer is needed to avoid the light-soaking phenomenon by preventing electron trappings",
+      "complexity": "single-hop",
+      "keywords": [
+        "passivation",
+        "OH groups",
+        "TiOx",
+        "device stability"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "There is a direct temporal correlation between the increase in the number of spins (Nspin) measured by ESR and the increase in short-circuit current density (JSC) during UV-light irradiation.",
+      "evidence": "The Nspin and Jsc rapidly increased immediately after exposure to white light, and then both continued to gradually increase... These photoresponses demonstrate the clear correlation between the broad component and the light-soaking phenomenon.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Nspin",
+        "JSC",
+        "correlation",
+        "photoresponse"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 8788,
+    "completion_tokens": 2762,
+    "total_tokens": 11550
+  }
+}

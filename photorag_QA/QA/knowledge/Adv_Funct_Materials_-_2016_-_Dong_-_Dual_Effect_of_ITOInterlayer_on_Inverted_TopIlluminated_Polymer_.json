@@ -1,0 +1,133 @@
+{
+  "paper_id": "Adv_Funct_Materials_-_2016_-_Dong_-_Dual_Effect_of_ITOInterlayer_on_Inverted_TopIlluminated_Polymer_",
+  "paper_title": "Dual Effect of ITO-Interlayer on Inverted Top-Illuminated Polymer Solar Cells: Wetting of Polyelectrolyte and Tuning of Cavity",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Adv Funct Materials - 2016 - Dong - Dual Effect of ITO‐Interlayer on Inverted Top‐Illuminated Polymer Solar Cells  Wetting/auto/Adv Funct Materials - 2016 - Dong - Dual Effect of ITO‐Interlayer on Inverted Top‐Illuminated Polymer Solar Cells  Wetting.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "An Indium-Tin-Oxide (ITO) interlayer is deposited on top of an Ag reflector to create a hydrophilic surface suitable for the uniform solution-processing of a polyethyleneimine ethoxylated (PEIE) cathode interlayer.",
+      "evidence": "The ITO-coated Ag makes the surface hydrophilic, thereby improving wettability of polyethyleneimine (PEIE). This increased wettability of PEIE yields a reflective cathode with low work function of 3.73 eV.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ITO interlayer",
+        "Ag reflector",
+        "PEIE",
+        "wettability",
+        "hydrophilic"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The optimized inverted top-illuminated polymer solar cells achieved a maximum power conversion efficiency (PCE) of 6.4% on plastic PET film and 6.1% on opaque copper foil.",
+      "evidence": "The designed IT-PSCs show a maximum photo-conversion efficiency of 6.4% on plastic film and 6.1% on opaque copper foil; these are the highest values obtained by top-illuminated PSCs on a metallic substrate.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "copper foil",
+        "PET",
+        "top-illuminated"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The work function of the Ag/ITO/PEIE reflective cathode is reduced to 3.73 eV, representing a vacuum level shift of 0.47 eV due to the formation of strong interfacial dipoles between the oxygen-related anions on the ITO and protonated nitrogen cations in PEIE.",
+      "evidence": "Consequently, the surface dipole moment down-shifts the vacuum level, resulting and thereby reduces the work function (ΔΦ = −0.47 eV)... resulting in a reflective cathode with low work function (3.73 eV).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "work function",
+        "interfacial dipole",
+        "PEIE",
+        "vacuum level shift"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The device utilizes a MoO3/Ag/MoO3 (MAM) transparent top anode, where the inner MoO3 thickness (10 nm) is optimized to balance hole transport conductance and microcavity resonance.",
+      "evidence": "The MAM structure was determined to be 10 nm thick inner MoO3, 12 nm thick Ag, and 40 nm thick outer MoO3... the highest PCE of 6.3% was achieved in PSC with 10 nm thick MoO3 layer.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "MAM electrode",
+        "MoO3",
+        "transparent anode",
+        "microcavity"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "UV-ozone treatment effectively increases the hydrophilicity of Ag reflectors but causes severe surface roughening (Ra increasing from 1.2 to 32.0 nm) and oxidation; however, an ITO coating protects the Ag from such degradation.",
+      "evidence": "In contrast, Ag/ITO reflector did not show Ag agglomeration... Smooth morphology Ra ≈ 1.5 nm was maintained after the UVO treatment... the ITO layer prevents oxidation of the Ag reflector.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "UV-ozone",
+        "surface roughness",
+        "agglomeration",
+        "Ag oxidation"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Finite-domain time-difference (FDTD) simulations demonstrate that varying the ITO thickness from 0 to 50 nm shifts the peak resonant absorption wavelength of the PTB7:PCBM active layer from 460 nm to 780 nm.",
+      "evidence": "When the thickness of ITO was increased from 0 to 50 nm, the wavelength at which absorption was greatest shifted from 460 to 780 nm, because increased cavity length between two Ag mirrors increases the resonance wavelength of photons.",
+      "complexity": "single-hop",
+      "keywords": [
+        "FDTD",
+        "ITO thickness",
+        "resonant wavelength",
+        "microcavity"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Time-dependent optical simulations reveal that a microcavity structure increases light absorption by delaying the time to reach steady-state (6.6 fs compared to 3.8 fs for non-cavity), effectively trapping photons in the active layer for a longer duration.",
+      "evidence": "The time to reach steady-state light absorption is longer (6.6 fs) when a microcavity is present than when it is not present (3.8 fs); i.e., the microcavity increases light absorption in the active layer.",
+      "complexity": "single-hop",
+      "keywords": [
+        "time-dependent simulation",
+        "steady-state absorption",
+        "photon trapping",
+        "onset time"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Inverted top-illuminated polymer solar cells (IT-PSCs) exhibit air stability more than nine times higher than conventional normal bottom-illuminated structures (NB-PSCs) due to the absence of acidic PEDOT:PSS and vulnerable BCP layers.",
+      "evidence": "The PCE of NB-PSCs decreased by ≈50% after 25 h because highly acidic and hygroscopic PEDOT:PSS layer and chemically vulnerable BCP layer. The IT-PSCs were more than nine times more stable in air than were NB-PSCs.",
+      "complexity": "single-hop",
+      "keywords": [
+        "air stability",
+        "degradation",
+        "PEDOT:PSS",
+        "inverted structure"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The use of an Ag/ITO bottom electrode provides superior mechanical flexibility compared to conventional PET/ITO substrates, maintaining initial PCE after 500 bending cycles at a radius of 0.36 cm.",
+      "evidence": "In IT-PSCs on PET film, PCE did not change after 500 bending cycles to a radius of 0.36 cm... In contrast, in NB-PSCs on the PET/ITO film, the PCE decreased to 39% of its initial value after 200 cycles.",
+      "complexity": "single-hop",
+      "keywords": [
+        "flexibility",
+        "bending cycles",
+        "PET/ITO",
+        "mechanical resilience"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The optimal thickness for the ITO cavity-tuning layer was determined to be 15-20 nm, where the resonant wavelength most effectively matches the absorbance spectrum of the PTB7:PCBM blend.",
+      "evidence": "When the thickness of inner MoO3 was fixed at 10 nm, the highest light absorption of 330.2 W m−2 was attained using a 15 nm thick ITO layer... In 15 nm thick ITO, the most broadband (400 ≤ λ ≤ 800 nm) absorption occurred.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "optimal thickness",
+        "ITO",
+        "PTB7:PCBM",
+        "light absorption"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 14088,
+    "completion_tokens": 2841,
+    "total_tokens": 16929
+  }
+}

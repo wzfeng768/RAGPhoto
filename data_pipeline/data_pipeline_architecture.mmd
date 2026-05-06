@@ -1,0 +1,62 @@
+graph TD
+    %% Styling
+    classDef input fill:#f5f5f5,stroke:#666,stroke-width:2px;
+    classDef process fill:#e1f5fe,stroke:#01579b,stroke-width:2px;
+    classDef algo fill:#e8eaf6,stroke:#3f51b5,stroke-width:2px;
+    classDef db fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px;
+    classDef model fill:#fff3e0,stroke:#ef6c00,stroke-width:2px;
+
+    %% Nodes
+    Docs[Academic Documents<br/>MD / TXT / PDF]:::input
+    
+    subgraph Preprocessing [Data Preprocessing]
+        Loader[Document Loader]:::process
+        Cleaner[Content Cleaner<br/>LaTeX Normalization]:::process
+        Fingerprint[Change Detection<br/>MD5 Fingerprinting]:::algo
+    end
+
+    subgraph Splitting [Intelligent Layered Splitting]
+        Splitter[PhotovoltaicTextSplitter]:::algo
+        SectionRec[Section Recognition<br/>Regex Patterns]:::algo
+        
+        subgraph Strategies [Differential Strategies]
+            Strat1[Abstract/Conclusion<br/>Small Chunk / Low Overlap]:::algo
+            Strat2[Methodology/Fab<br/>Medium Chunk / High Overlap]:::algo
+            Strat3[Results/Tables<br/>Large Chunk / Keep Tables]:::algo
+        end
+    end
+
+    subgraph VectorPipeline [Vector Database Pipeline]
+        Enricher[Metadata Enricher<br/>Semantic Tagging]:::process
+        EmbedModel[Embedding Generator<br/>OpenAI/HF Model]:::model
+        Milvus[(Milvus Vector DB)]:::db
+    end
+
+    subgraph KGPipeline [Knowledge Graph Pipeline]
+        KGExtractor[KG Extractor<br/>LLM-based / Traceable]:::model
+        Normalizer[Entity Normalizer<br/>Deduplication & Merging]:::process
+        Neo4j[(Neo4j Graph DB)]:::db
+    end
+
+    %% Connections
+    Docs --> Loader
+    Loader --> Cleaner
+    Cleaner -.-> Fingerprint
+    Cleaner --> Splitter
+    
+    Splitter --> SectionRec
+    SectionRec --> Strat1
+    SectionRec --> Strat2
+    SectionRec --> Strat3
+    
+    Strat1 & Strat2 & Strat3 --> Enricher
+    Strat1 & Strat2 & Strat3 --> KGExtractor
+    
+    Enricher --> EmbedModel
+    EmbedModel --> Milvus
+    
+    KGExtractor --> Normalizer
+    Normalizer --> Neo4j
+
+    %% Annotations
+    Fingerprint -.-> Milvus

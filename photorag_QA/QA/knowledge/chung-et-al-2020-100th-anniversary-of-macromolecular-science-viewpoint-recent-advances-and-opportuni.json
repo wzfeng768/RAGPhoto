@@ -1,0 +1,148 @@
+{
+  "paper_id": "chung-et-al-2020-100th-anniversary-of-macromolecular-science-viewpoint-recent-advances-and-opportuni",
+  "paper_title": "100th Anniversary of Macromolecular Science Viewpoint: Recent Advances and Opportunities for Mixed Ion and Charge Conducting Polymers",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/chung-et-al-2020-100th-anniversary-of-macromolecular-science-viewpoint-recent-advances-and-opportunities-for-mixed-ion/auto/chung-et-al-2020-100th-anniversary-of-macromolecular-science-viewpoint-recent-advances-and-opportunities-for-mixed-ion.md",
+  "knowledge_points": [
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Mixed conducting polymers exhibit a unique coupling between electronic transport and ionic mass transport, allowing for the modulation of one conduction mechanism by the other, which is central to the operation of organic electrochemical transistors (OECTs).",
+      "evidence": "The unique coupling between the two modes of conduction puts these materials at the center of many next-generation organic electronic applications... the ionic transport and electronic transport of organic mixed ionic-electronic conductors is modulated by the coupling between these two conduction mechanisms.",
+      "complexity": "single-hop",
+      "keywords": [
+        "mixed ionic-electronic conductors",
+        "OECT",
+        "transport coupling"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "A primary modular strategy for creating mixed conductors involves combining electronically active moieties (for charge transport) with polyelectrolyte or ion-conducting species (for ion transport) into a single polymer architecture, such as homopolymers with conjugated backbones and ion-conducting side chains.",
+      "evidence": "the syntheses of materials exhibiting mixed conduction typically have been achieved by combining known ion-conducting and charge-conducting components into a single polymeric material. In this approach, polyelectrolyte species are introduced to facilitate ion transport, while electronically active moieties are introduced to facilitate charge transport.",
+      "complexity": "single-hop",
+      "keywords": [
+        "molecular design",
+        "modular synthesis",
+        "polyelectrolytes"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Unlike standard Organic Field-Effect Transistors (OFETs) where charge accumulation is limited to the interface, Organic Electrochemical Transistors (OECTs) utilize an electrolyte gate that enables ions to penetrate the entire volume of the mixed conducting active layer, facilitating volumetric doping.",
+      "evidence": "For the OFET, the source-drain current is modulated based on the gate voltage, because the amount of the accumulated charge at the interface... For the OECT, the dopant migration into the mixed conducting layer is modulated by the gate voltage and causes the penetration of ions into the active layer polymer, which facilitates mixed charge and ion conduction.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "OECT",
+        "OFET",
+        "volumetric doping",
+        "electrolyte gate"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "In mixed conducting polymers, amorphous morphologies generally favor ionic transport and electrolyte absorption, whereas crystalline morphologies are typically required to facilitate efficient electronic charge transport.",
+      "evidence": "The baseline expectation is that amorphous morphologies favor ion transport while crystalline morphologies favor electron transport. This has led some studies to consider whether there is an intrinsic optimum that balances these two considerations.",
+      "complexity": "single-hop",
+      "keywords": [
+        "morphology",
+        "crystallinity",
+        "ion transport",
+        "charge transport"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The incorporation of oligo(ethylene glycol) side chains in polymers like p(g2T-TT) and p(gNDI-gT2) is a common strategy to enhance ion incorporation and improve OECT device performance by promoting compatibility with aqueous electrolytes.",
+      "evidence": "oligo(ether) groups on the side chain of poly(2-3,3'-bis(2-(2-(2-methoxyethoxy)ethoxy)ethoxy)-[2,2'-bithiophen]-5-yl)thieno [3,2-b]thiophene), p(g2T-TT) and p(gNDI-gT2)... showed enhanced incorporation of ions in the mixed conductor matrix, thereby improving the OECT device performance.",
+      "complexity": "single-hop",
+      "keywords": [
+        "oligo(ethylene glycol)",
+        "side chain engineering",
+        "p(g2T-TT)",
+        "p(gNDI-gT2)"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "PEDOT:PSS, a benchmark mixed conductor, exhibits an ionic mobility of approximately 10⁻³ cm² V⁻¹ s⁻¹, a value that is comparable to the hole mobility observed in many of its formulations.",
+      "evidence": "In mixed conductors the dopant ion is, by design, mobile and capable of diffusing with complementary charges in the semiconductor... For instance, PEDOT:PSS exhibits an ionic mobility of ~10⁻³ cm² V⁻¹ s⁻¹, which is comparable to the hole mobility of many PEDOT:PSS formulations.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PEDOT:PSS",
+        "ionic mobility",
+        "hole mobility"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Mixed conducting devices often experience a 'break-in' effect during the initial (de)doping cycles, where the polymer morphology undergoes irreversible rearrangement due to electrolyte absorption before stabilizing.",
+      "evidence": "This is vividly illustrated by break-in effects that occur during the first few (de)doping cycles of functional devices. Because electron transport is particularly susceptible to structural changes, it is expected that electrolyte-driven changes in morphology will likewise modulate electronic transport.",
+      "complexity": "single-hop",
+      "keywords": [
+        "break-in effect",
+        "morphological stability",
+        "operational stability"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Coarse-grained (CG) models based on the Martini force-field are utilized to simulate mesoscale morphological changes in mixed conductors, such as the effect of side-chain hydrophilicity on the spatial distribution of aqueous electrolyte phases.",
+      "evidence": "Coarse-grained (CG) models of mixed conductors are well-suited for this purpose... CG models are based on the Martini force-field, augmented to include anisotropic Gay-Berne interactions for the backbone beads... we find that for balanced mixtures of polar and apolar side chains, aqueous channels can be established.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "coarse-grained modeling",
+        "Martini force-field",
+        "molecular simulation"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Increasing the hydrophilicity of polymer side chains in mixed conductors promotes the mixing of aqueous and organic phases but may lead to the disruption of large electronically conducting clusters, highlighting a trade-off in side-chain design.",
+      "evidence": "Intuitively, we observe that increasing the hydrophilicity of side chains leads to intimate mixing of the aqueous and organic phases with concomitant breakup of the large conducting clusters.",
+      "complexity": "single-hop",
+      "keywords": [
+        "hydrophilicity",
+        "phase separation",
+        "percolation"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Drift-diffusion modeling at the device scale is used to characterize OECT output and transfer curves by incorporating ionic and electronic coupling through macroscopic charge balance, though it lacks molecular-level detail.",
+      "evidence": "At the device scale, drift-diffusion modeling incorporates ionic and electronic coupling through macroscopic charge balance, and this method has been used to characterize OECT output and transfer curves and charge concentration profiles.",
+      "complexity": "single-hop",
+      "keywords": [
+        "drift-diffusion",
+        "device modeling",
+        "OECT characterization"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The presence of a stable percolating aqueous phase in mixed conductors increases the dielectric screening within the material, which likely mitigates Coulomb trapping between mobile dopant ions and the semiconductor backbone compared to dry organic semiconductors.",
+      "evidence": "The increased screening from the aqueous phase is likely to mitigate the effect of Coulomb trapping between dopant ions and the semiconductor in comparison with organic semiconductors, but has yet to receive detailed characterization.",
+      "complexity": "single-hop",
+      "keywords": [
+        "dielectric screening",
+        "Coulomb trapping",
+        "aqueous phase"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Naphthalene diimide (NDI) is a prevalent building block for the synthesis of n-type (electron-transporting) mixed ionic-electronic conductors, providing a counterpart to p-type materials based on thiophenes or thienothiophenes.",
+      "evidence": "naphthalene diimide is prevalent in mixed conductors exhibiting n-type transport... thiophenes and thienothiophenes (groups that are well-represented in organic semiconducting and conducting materials) are extant in mixed conductors exhibiting p-type transport.",
+      "complexity": "single-hop",
+      "keywords": [
+        "naphthalene diimide",
+        "n-type",
+        "p-type",
+        "building blocks"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 12505,
+    "completion_tokens": 4162,
+    "total_tokens": 16667
+  }
+}

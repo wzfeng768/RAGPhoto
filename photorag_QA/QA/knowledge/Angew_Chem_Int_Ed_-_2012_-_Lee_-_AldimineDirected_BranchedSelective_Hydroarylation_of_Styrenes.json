@@ -1,0 +1,124 @@
+{
+  "paper_id": "Angew_Chem_Int_Ed_-_2012_-_Lee_-_AldimineDirected_BranchedSelective_Hydroarylation_of_Styrenes",
+  "paper_title": "Aldimine-Directed Branched-Selective Hydroarylation of Styrenes",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Angew Chem Int Ed - 2012 - Lee - Aldimine‐Directed Branched‐Selective Hydroarylation of Styrenes/auto/Angew Chem Int Ed - 2012 - Lee - Aldimine‐Directed Branched‐Selective Hydroarylation of Styrenes.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "A catalytic system consisting of CoBr2 (10 mol%), PPh3 (20 mol%), and Me3SiCH2MgCl (50 mol%) enables the branched-selective hydroarylation of styrenes using aldimines as directing groups to form 1,1-diarylethane structures.",
+      "evidence": "A catalytic system consisting of CoBr2 (10 mol%), PPh3 (20 mol%), and Me3SiCH2MgCl (50 mol%) promoted this transformation... affording the adduct 3aa in 84% yield with exclusive branched selectivity.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Cobalt catalyst",
+        "aldimine",
+        "1,1-diarylethane",
+        "hydroarylation"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Linearly fused polycyclic aromatic hydrocarbons (PAHs), such as tetraphenes and heteroacenes, can be synthesized from hydroarylation products via In(OTf)3-catalyzed dehydrative cyclization or BF3-catalyzed deaminative cyclization.",
+      "evidence": "The ortho-formyl group of the 1,1-diarylethane products can either be utilized as a synthetic handle to construct polycyclic aromatic hydrocarbons (PAHs) by Lewis acid catalyzed dehydrative cyclization... tetraphene derivatives 5aa, 5ad, and 5ae were obtained in good yields by In(OTf)3-catalyzed dehydrative cyclization or BF3-catalyzed, sulfonamide-mediated deaminative cyclization.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "PAHs",
+        "tetraphenes",
+        "dehydrative cyclization",
+        "Lewis acid"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The cobalt-catalyzed addition of aldimine 1a to styrene 2a on a 10 mmol scale at 40 °C achieves an 84% yield of the 1,1-diarylethane adduct with a branched-to-linear ratio greater than 50:1.",
+      "evidence": "promoted this transformation on a 10 mmol scale at 40 °C... afforded the adduct 3aa in 84% yield with exclusive branched selectivity... The branched/linear ratio was greater than 50:1.",
+      "complexity": "single-hop",
+      "keywords": [
+        "yield",
+        "branched selectivity",
+        "regioselectivity"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The choice of Grignard reagent acts as a regioselectivity switch in cobalt-catalyzed hydroarylation; Me3SiCH2MgCl favors branched adducts, while tBuCH2MgBr can lead to the selective formation of linear adducts.",
+      "evidence": "Whereas the reaction of 1a and 2-fluorostyrene (2r) preferentially afforded the expected branched adduct 3ar' under the standard reaction conditions employing Me3SiCH2MgCl, the use of tBuCH2MgBr instead resulted in selective formation of the linear adduct 4ar'.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Grignard reagent",
+        "regioselectivity",
+        "branched vs linear"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Triarylphosphine ligands with electron-donating p-methyl or p-methoxy groups provide high catalytic activity for cobalt-catalyzed aldimine hydroarylation, while ligands with electron-withdrawing groups like F or Cl result in lower efficiency.",
+      "evidence": "Comparable reaction efficiencies were achieved using triarylphosphine ligands bearing p-methyl and p-methoxy substituents, whereas the use of triarylphosphines with electron-withdrawing substituents (e.g., F, Cl) and PCy3 led to lower catalytic activities.",
+      "complexity": "single-hop",
+      "keywords": [
+        "triarylphosphine",
+        "ligand engineering",
+        "electronic effects"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "In cobalt-catalyzed styrene hydroarylation, ortho-substituents on the styrene ring, such as a methoxy group, stericly hinder the reaction and lead to slower reaction rates compared to meta or para substituents.",
+      "evidence": "An ortho substituent, especially the methoxy group, slowed the reaction (see 3ai and 3aj).",
+      "complexity": "single-hop",
+      "keywords": [
+        "steric effects",
+        "reaction kinetics",
+        "ortho-substitution"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Deuterium-labeling experiments using [D5]-benzaldimine reveal that C-H oxidative addition is the rate-influencing step in the cobalt/triarylphosphine-catalyzed hydroarylation, as evidenced by a lack of deuterium scrambling at the ortho position.",
+      "evidence": "The deuterium content at the ortho position of [D5] 1h did not decrease at all... the most rate-influencing steps of the present reaction is likely the C-H oxidative addition rather than reductive elimination.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "deuterium labeling",
+        "rate-determining step",
+        "C-H activation"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The ortho-formyl directing group can be removed from 1,1-diarylethane products through iridium-catalyzed decarbonylation using [{Ir(cod)Cl}2] and PPh3, enabling the synthesis of 1,1-diarylethanes with substitution patterns not possible via Friedel-Crafts alkylation.",
+      "evidence": "With the aid of the [{Ir(cod)Cl}2]/PPh3 catalytic system, the formyl groups on the hydroarylation products... were removed to afford the corresponding 1,1-diarylethanes... featuring substitution patterns that are not accessible by the Friedel-Crafts-type alkylation.",
+      "complexity": "single-hop",
+      "keywords": [
+        "decarbonylation",
+        "iridium catalyst",
+        "Friedel-Crafts alternative"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The cobalt-catalyzed hydroarylation process is compatible with various functional groups on the styrene partner, including alkoxy, amino, silyl, chloro, and fluoro groups, though bromo and iodo groups are incompatible due to hydrodehalogenation.",
+      "evidence": "A variety of styrene derivatives bearing electron-donating (alkoxy, amino, and silyl) and electron-withdrawing (chloro and fluoro) substituents participated in the reaction... bromo and iodo substituents were not tolerable because of hydrodehalogenation.",
+      "complexity": "single-hop",
+      "keywords": [
+        "functional group tolerance",
+        "hydrodehalogenation",
+        "substrate scope"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Aldimines derived from 2-naphthaldehyde react regioselectively at the more hindered C3 position under cobalt catalysis, while m-fluorobenzaldehyde derivatives react at the C-H bond proximal to the fluorine atom.",
+      "evidence": "An aldimine derived from m-fluorobenzaldehyde reacted regioselectively at the C-H bond proximal to the fluorine atom... An aldimine derived from 2-naphthaldehyde reacted regioselectively at the more hindered position, thus affording the adduct 3la.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "regioselectivity",
+        "naphthaldehyde",
+        "hindered position"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 8069,
+    "completion_tokens": 4601,
+    "total_tokens": 12670
+  }
+}

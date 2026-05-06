@@ -1,0 +1,153 @@
+{
+  "paper_id": "The_Chemical_Record_-_2019_-_Kolaczkowski_-_Functional_Organic_Semiconductors_Based_on_BayAnnulated_",
+  "paper_title": "Functional Organic Semiconductors Based on Bay-Annulated Indigo (BAI)",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/The Chemical Record - 2019 - Kolaczkowski - Functional Organic Semiconductors Based on Bay‐Annulated Indigo  BAI/auto/The Chemical Record - 2019 - Kolaczkowski - Functional Organic Semiconductors Based on Bay‐Annulated Indigo  BAI.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Bay-annulated indigo (BAI) is synthesized through a modular condensation reaction between indigo dye and aromatic-acetyl chlorides (such as 2-thiopheneacetyl chloride) under refluxing xylene conditions.",
+      "evidence": "Simple treatment of indigo with commercially available 2-thiopheneacetyl chloride (4 equivalents) under refluxing xylene conditions provides good yields of the BAI product which can be purified in gram scales by precipitation.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Bay-Annulated Indigo",
+        "synthesis",
+        "condensation",
+        "indigo dye"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Desymmetrized BAI derivatives can be synthesized stepwise by utilizing a soluble N-acetylated indigo precursor, allowing the sequential addition of two different aromatic-acetyl chlorides to the bay positions.",
+      "evidence": "As a result, annulation on the two bay positions can be conducted stepwise with two different aromatic-acetyl chlorides, opening the door for dissymmetrically functionalized BAI derivatives, such as 5.",
+      "complexity": "single-hop",
+      "keywords": [
+        "desymmetrization",
+        "stepwise synthesis",
+        "N-acetylated indigo"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "BAI-based materials exhibit panchromatic absorption by extending conjugation along two orthogonal axes: the bay axis shifts absorption to the near-IR, while the phenylene axis fills the blue region of the visible spectrum.",
+      "evidence": "This complementarity allows for panchromatic absorption, where extended conjugation on the bay axis red-shifts the absorption, while extension of the phenylene region fills in absorption in the smaller wavelengths.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "panchromatic absorption",
+        "orthogonal conjugation",
+        "spectral coverage"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The frontier molecular orbital energy levels of BAI systems typically feature a LUMO around -3.6 eV, dominated by the amide functionality, and a HOMO ranging from -4.9 to -5.5 eV, which is easily modified by altering donor groups.",
+      "evidence": "In the parent BAI molecule 2 a characteristic double reduction, corresponding to an approximate LUMO energy of -3.6 eV... resulting in HOMO levels between -4.9 and -5.5 eV.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "HOMO",
+        "LUMO",
+        "energy levels",
+        "cyclic voltammetry"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The BAI-based polymer P14 achieves a high electron mobility of 3.11 cm²V⁻¹s⁻¹ and a hole mobility of 0.63 cm²V⁻¹s⁻¹ in ambipolar organic field-effect transistors (OFETs).",
+      "evidence": "The electron mobility of 3.11 cm2 V-1 s-1 displayed in P14 is among the highest for n-type conducting polymers (entry 12), matched with a respectable hole mobility of 0.63 cm2 V-1 s-1 (entry 11).",
+      "complexity": "single-hop",
+      "keywords": [
+        "electron mobility",
+        "hole mobility",
+        "OFET",
+        "P14"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS characterization of the polymer P14 reveals high backbone crystallinity with a (001) reflection peak indicating a correlation length of 23 nm, equivalent to approximately 13 repeat units.",
+      "evidence": "its GIWAXS pattern also shows a striking (001) peak, corresponding to backbone ordering to the length of 23 nm equivalent to 13 repeat units on average (Figure 8).",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "backbone ordering",
+        "correlation length",
+        "crystallinity"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Computational analysis reveals that the thiophene rings at the bay positions of BAI are locked at a 30-degree angle relative to the core due to steric S-O/H-O interactions and the loss of conjugation at higher rotation angles.",
+      "evidence": "These two barriers effectively lock the BAI thiophene into a 30° angle with respect to the BAI core, allowing some level of conformational flexibility while maintaining effective conjugation.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DFT",
+        "rotation barrier",
+        "conformational flexibility",
+        "conjugation"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "BAI-based polymers used as donors in organic solar cells (paired with PC71BM) have demonstrated power conversion efficiencies (PCE) reaching 4.1%, with high open-circuit voltages (Voc) up to 0.93 V.",
+      "evidence": "Devices with moderate PCEs of 4.1% and 3.9% have been independently fabricated... Polymers P8-P10... resulting in improved Voc, fill factor (FF), and power conversion efficiency (PCE). [Table 2, Entry 9: Voc 0.93V]",
+      "complexity": "multi-hop",
+      "keywords": [
+        "PCE",
+        "Voc",
+        "organic photovoltaics",
+        "PC71BM"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "BAI polymers P9 and P10 exhibit robust electrochromic stability, maintaining performance over 7,500 cycles under ambient conditions, with P9 achieving optical contrasts of 41% (visible) and 59% (IR).",
+      "evidence": "Polymers P9 and P10 were tested for electrochromic capacity and found to be very robust, successfully cycling 7500 times before degradation under ambient conditions, and in the case of P9, high optical contrast of 41% and 59% were achieved.",
+      "complexity": "single-hop",
+      "keywords": [
+        "electrochromism",
+        "cycling stability",
+        "optical contrast"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Environmental oxygen acts as a p-type dopant for BAI-based polymers, creating electron traps that increase hole conductivity while decreasing electron conductivity in ambipolar devices.",
+      "evidence": "This is caused by molecular oxygen introduced electron traps that act as a ptype dopant for the polymers. Despite this doping effect, the polymers maintain their semiconducting capacity.",
+      "complexity": "single-hop",
+      "keywords": [
+        "oxygen doping",
+        "electron traps",
+        "ambipolar transport",
+        "stability"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Moving the alkyl chain branching point further from the polymer backbone in BAI polymers (e.g., P15-P18) increases the (100) unit cell size and promotes closer (010) pi-pi packing, but can induce a mixed edge-on and face-on morphology.",
+      "evidence": "Moving the branching point of the sidechain further from the polymer backbone increases the unit cell size (100) while allowing closer packing between polymer chains (010)... giving a mixed edge-on and face-on orientation relative to the substrate.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "side chain engineering",
+        "branching point",
+        "morphology",
+        "pi-pi stacking"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Encapsulated BAI polymer P14 nanoparticles are highly stable under laser excitation, showing no degradation after 20,000 pulses at wavelengths between 700-800 nm, which is ideal for photoacoustic imaging.",
+      "evidence": "laser excitation studies of these particles showed remarkable stability with no visible degradation up to 2 x 10^4 pulses at wavelengths between 700-800 nm at a fluence of ~2 mJ cm-2.",
+      "complexity": "single-hop",
+      "keywords": [
+        "photoacoustic imaging",
+        "photostability",
+        "nanoparticles",
+        "near-IR"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 14218,
+    "completion_tokens": 4315,
+    "total_tokens": 18533
+  }
+}

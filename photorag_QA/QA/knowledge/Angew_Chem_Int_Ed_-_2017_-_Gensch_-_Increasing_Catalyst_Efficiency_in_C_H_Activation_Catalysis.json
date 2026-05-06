@@ -1,0 +1,156 @@
+{
+  "paper_id": "Angew_Chem_Int_Ed_-_2017_-_Gensch_-_Increasing_Catalyst_Efficiency_in_C_H_Activation_Catalysis",
+  "paper_title": "Increasing Catalyst Efficiency in C-H Activation Catalysis",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Angew Chem Int Ed - 2017 - Gensch - Increasing Catalyst Efficiency in C H Activation Catalysis/auto/Angew Chem Int Ed - 2017 - Gensch - Increasing Catalyst Efficiency in C H Activation Catalysis.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Direct arylation polymerization (DArP) is an efficient method for synthesizing polythiophenes, which are essential organic semiconductor materials, using low palladium catalyst loadings.",
+      "evidence": "Polythiophenes are an important class of organic semiconductor materials and recently their synthesis by direct arylation polymerization (DArP) has been popularized, as exemplified by a protocol from the Thompson group (Scheme 4) at low catalyst loadings.",
+      "complexity": "single-hop",
+      "keywords": [
+        "direct arylation polymerization",
+        "DArP",
+        "polythiophenes",
+        "organic semiconductors"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "In undirected palladium-catalyzed direct arylation of simple arenes, the use of a diimine ligand enabled a turnover number (TON) of 290 with a catalyst loading of 0.1 mol %.",
+      "evidence": "The use of a diimine ligand enabled a TON of 290 with 0.1 mol % of catalyst. (Scheme 2)",
+      "complexity": "single-hop",
+      "keywords": [
+        "turnover number",
+        "TON",
+        "palladium catalysis",
+        "diimine ligand"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Palladium-catalyzed direct arylation of electron-rich heteroarenes can achieve exceptionally high efficiency, with reported turnover numbers reaching up to 85,000.",
+      "evidence": "the group of Doucet reported a series of methods for highly efficient direct arylation of a range of heteroarenes reaching impressive TONs up to 85 000 (Scheme 3).",
+      "complexity": "single-hop",
+      "keywords": [
+        "heteroarenes",
+        "direct arylation",
+        "palladium",
+        "TON"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Cross-dehydrogenative coupling (CDC) of dimethylphthalate is utilized on an industrial scale to produce precursors for Upilex polyimides, achieving a turnover number of approximately 300 using molecular oxygen as the terminal oxidant.",
+      "evidence": "The Pd-catalyzed CDC of arenes is well-established in industrial processes for the synthesis of precursors to the polyimides Upilex (Scheme 8)... The ton-scale CDC of dimethylphthalate, with a TON of approximately 300, is run in preference to o-xylene.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "cross-dehydrogenative coupling",
+        "CDC",
+        "Upilex",
+        "polyimides"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The introduction of monoprotected amino acid ligands, such as N-acetyl isoleucine, enhances palladium-catalyzed oxidative arene olefination by preventing the formation of less active palladium species, resulting in a TON of 415.",
+      "evidence": "using 0.2 mol % of Pd(OAc)2 and 0.4 mol % of N-acetyl isoleucine, the olefination of a substituted phenylacetic acid proceeded with a TON of 415... The formation of less active palladium species by coordination with carboxylates derived from the substrate or product is therefore suppressed by the introduction of suitable ligands.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "amino acid ligands",
+        "oxidative olefination",
+        "palladium",
+        "catalyst deactivation"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Palladium-catalyzed arene acetoxylation efficiency is significantly improved by using 6-fluoropicolinic acid as a ligand, reaching a turnover number of 7,800 at a Pd-to-ligand ratio of 1:0.75.",
+      "evidence": "Using 6-fluoropicolinic acid in a 1:0.75 ratio of Pd to ligand, they observed a TON of 7800 under otherwise identical reaction conditions to those reported by Sanford (Scheme 16).",
+      "complexity": "single-hop",
+      "keywords": [
+        "acetoxylation",
+        "picolinic acid",
+        "palladium",
+        "TON"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "In rhodium-catalyzed alkyne annulations, the use of directing groups that act as internal oxidants, such as o-pivaloyl benzhydroxamates, facilitates the oxidation of rhodium and increases catalyst efficiency to a TON of 610.",
+      "evidence": "The use of the directing group as an internal oxidant greatly facilitates the oxidation of rhodium and is probably linked with the efficiency of this transformation... the TON was demonstrated to reach 610 with 0.05 mol % [Cp*RhCl2]2.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "rhodium catalysis",
+        "internal oxidant",
+        "directing group",
+        "alkyne annulation"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Cp*Co(III) catalysts demonstrate high efficiency in the directed C-H allylation of pyrimidylindoles, achieving a turnover number of 2,200 at room temperature when the catalyst loading is reduced to 0.01 mol %.",
+      "evidence": "with 0.01 mol % of the precatalyst, a TON of 2200 was observed after a reaction time of one week. (Scheme 21)",
+      "complexity": "single-hop",
+      "keywords": [
+        "cobalt catalysis",
+        "C-H allylation",
+        "TON",
+        "pyrimidylindoles"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Iridium-catalyzed C-H borylation of benzene using a bipyridyl-ligated complex (dtbpy) and B2pin2 can reach a turnover number of 24,800 under mild conditions without coordinating solvents.",
+      "evidence": "benzene was borylated using 0.0015 mol % [Ir(cod)Cl]2, 0.003 mol % 4,4'-di-tert-butyl-2,2'-bipyridyl (dtbpy) and B2pin2 to afford the borylated product in 75 % yield with an outstanding TON of 24 800 (Scheme 23).",
+      "complexity": "single-hop",
+      "keywords": [
+        "iridium catalysis",
+        "C-H borylation",
+        "TON",
+        "dtbpy"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Heterogeneous iridium catalysis using a silica-supported phosphine ligand (silica-SMAP) enables the directed ortho borylation of arenes with a turnover number of 17,600.",
+      "evidence": "Sawamura and co-workers performed the directed ortho borylation of arenes with a highly efficient heterogeneous iridium catalyst system, enabled by a solid-supported phosphine ligand (silica-SMAP, Scheme 24)... the borylated product was formed in three hours with an impressive TON of 17 600.",
+      "complexity": "single-hop",
+      "keywords": [
+        "heterogeneous catalysis",
+        "silica-SMAP",
+        "iridium",
+        "borylation"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Platinum-catalyzed methane oxygenation to methyl bisulfate in oleum using K2PtCl4 as the catalyst achieved turnover numbers exceeding 16,000 without catalyst precipitation.",
+      "evidence": "Recently Schuth published a substantially improved system, with TONs of > 16 000 using the highly active catalyst K2PtCl4 in oleum (Scheme 28)... No precipitation of inactive PtCl2 or 'Pt black' was detected.",
+      "complexity": "single-hop",
+      "keywords": [
+        "methane activation",
+        "platinum",
+        "TON",
+        "oleum"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The application of flow reactors in palladium-catalyzed intramolecular Csp3-H amination achieves a turnover frequency (TOF) of 1080 h⁻¹ and a TON of 180 by utilizing optimized kinetic modeling.",
+      "evidence": "allowed the development of a flow process using 0.5 mol % of the catalyst that produces 90 % product yield within 10 minutes, which corresponds to a TON of 180 and an exceptional turnover frequency (TOF) of 1080 h-1.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "flow chemistry",
+        "turnover frequency",
+        "TOF",
+        "Csp3-H amination"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 16041,
+    "completion_tokens": 3646,
+    "total_tokens": 19687
+  }
+}

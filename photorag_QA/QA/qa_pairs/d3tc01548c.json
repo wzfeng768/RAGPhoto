@@ -1,0 +1,75 @@
+{
+  "paper_id": "d3tc01548c",
+  "paper_title": "Photoluminescence spectroscopy of dibenzopentacene single-crystals: multiple emissive states across temperature, time, and magnetic field in a pursuit of exothermic singlet fission",
+  "qa_pairs": [
+    {
+      "question": "What are the crystal system parameters and molecular packing arrangement of 1,2;8,9-dibenzopentacene (DBP) single crystals?",
+      "answer": "1,2;8,9-dibenzopentacene (DBP) single crystals pack in the P21212 space group with a herringbone arrangement. Within the layers parallel to the ac plane, each molecule is surrounded by six nearest neighbors and exhibits three distinct types of intermolecular contacts.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Photoluminescence spectroscopy of dibenzopentacene single-crystals: multiple emissive states across temperature, time, and magnetic field in a pursuit of exothermic singlet fission",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the S0-S1 absorption transition of 1,2;8,9-dibenzopentacene (DBP) change when transitioning from solution to a single crystal, and why?",
+      "answer": "The S0-S1 absorption transition in DBP single crystals is redshifted by 0.25 eV compared to the solution phase, resulting in a transition energy of 2.09 eV. This shift is caused by intermolecular interactions in the crystalline state, which also result in strongly polarized absorption and well-resolved Davydov splitting.",
+      "category": "Performance Metrics",
+      "source_title": "Photoluminescence spectroscopy of dibenzopentacene single-crystals: multiple emissive states across temperature, time, and magnetic field in a pursuit of exothermic singlet fission",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Describe the temperature-dependent evolution of emissive states in 1,2;8,9-dibenzopentacene (DBP) crystals between 5 K and 300 K.",
+      "answer": "DBP crystals exhibit five co-existing and interconverting emissive states (I-V). Below 20 K, the photoluminescence is dominated by free excitons (State I), which then convert into self-trapped excitons (STEs) as the temperature increases.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Photoluminescence spectroscopy of dibenzopentacene single-crystals: multiple emissive states across temperature, time, and magnetic field in a pursuit of exothermic singlet fission",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What is the thermal activation barrier for the conversion of free excitons (State I) to self-trapped excitons in 1,2;8,9-dibenzopentacene (DBP)?",
+      "answer": "The interconversion from free excitons (State I) to self-trapped excitons (State II/III) is a thermally activated process with a calculated activation barrier of 6.5 meV (52 cm⁻¹).",
+      "category": "Processing & Fabrication",
+      "source_title": "Photoluminescence spectroscopy of dibenzopentacene single-crystals: multiple emissive states across temperature, time, and magnetic field in a pursuit of exothermic singlet fission",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Compare the thermal activation barriers for the interconversion of State II to State III versus the quenching of State III in 1,2;8,9-dibenzopentacene (DBP).",
+      "answer": "The conversion of State II into State III has a thermal activation barrier of 16 meV (128 cm⁻¹). In contrast, the quenching of State III above 140 K requires a significantly higher activation energy of 63 meV (509 cm⁻¹).",
+      "category": "Performance Metrics",
+      "source_title": "Photoluminescence spectroscopy of dibenzopentacene single-crystals: multiple emissive states across temperature, time, and magnetic field in a pursuit of exothermic singlet fission",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What evidence suggests the occurrence of singlet fission in 1,2;8,9-dibenzopentacene (DBP) crystals at higher temperatures?",
+      "answer": "Singlet fission is evidenced by a 20-fold decrease in photoluminescence intensity between 120 K and room temperature. This is further confirmed by magneto-PL measurements at 300 K showing Merrifield signatures: a 1.5% PL decrease at 0.02 T followed by a 4% increase at 0.2 T.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Photoluminescence spectroscopy of dibenzopentacene single-crystals: multiple emissive states across temperature, time, and magnetic field in a pursuit of exothermic singlet fission",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "How does the polarization of the emissive states in 1,2;8,9-dibenzopentacene (DBP) relate to its absorption characteristics?",
+      "answer": "All five emissive states in DBP single crystals are polarized along the 'a' crystallographic axis. This alignment matches the polarization of the lowest-energy Davydov component observed in the crystal's absorption spectrum.",
+      "category": "Characterization Methods",
+      "source_title": "Photoluminescence spectroscopy of dibenzopentacene single-crystals: multiple emissive states across temperature, time, and magnetic field in a pursuit of exothermic singlet fission",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What are the optical and temporal characteristics of State IV in 1,2;8,9-dibenzopentacene (DBP) single crystals?",
+      "answer": "State IV is a long-lived emissive state with a 0-0 transition at 1.81 eV (687 nm). Its lifetime is 19 ns at 200 K, which shortens to 8 ns as the temperature reaches 300 K.",
+      "category": "Performance Metrics",
+      "source_title": "Photoluminescence spectroscopy of dibenzopentacene single-crystals: multiple emissive states across temperature, time, and magnetic field in a pursuit of exothermic singlet fission",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2737,
+    "completion_tokens": 2647,
+    "total_tokens": 5384
+  }
+}

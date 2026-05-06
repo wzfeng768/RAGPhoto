@@ -1,0 +1,157 @@
+{
+  "paper_id": "Advanced_Energy_Materials_-_2019_-_He_-_Evidencing_Excellent_Thermal_and_Photostability_for_SingleCo",
+  "paper_title": "Evidencing Excellent Thermal- and Photostability for Single-Component Organic Solar Cells with Inherently Built-In Microstructure",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Energy Materials - 2019 - He - Evidencing Excellent Thermal‐ and Photostability for Single‐Component Organic Solar/auto/Advanced Energy Materials - 2019 - He - Evidencing Excellent Thermal‐ and Photostability for Single‐Component Organic Solar.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "SCP3 is a double-cable conjugated polymer consisting of a diketopyrrolopyrrole (DPP)-based backbone as the donor and pendant perylene bisimide (PBI) units as the electron acceptor, connected via flexible alkyl side chains.",
+      "evidence": "In 2017, Li et al. developed a double-cable polymer (called SCP3) using diketopyrrolopyrrole (DPP)-based backbone and pendant perylene bisimide (PBI) as electron acceptor, connected with flexible alkyl side chains.",
+      "complexity": "single-hop",
+      "keywords": [
+        "SCP3",
+        "double-cable polymer",
+        "DPP",
+        "PBI",
+        "molecular structure"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Optimized single-component organic solar cells based on the double-cable polymer SCP3 achieve a power conversion efficiency (PCE) of approximately 2.6%.",
+      "evidence": "The current density-voltage (J-V) curves for SCP3-based solar cells under both light and dark conditions are exhibited in Figure 1, showing an efficiency of around 2.6% which is in accordance with the values reported in literature.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "SCP3",
+        "efficiency",
+        "SCOsC"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "SCP3-based organic solar cells demonstrate exceptional thermal stability, maintaining 100% of their initial power conversion efficiency after being heated at 160 °C for over 400 hours in a nitrogen atmosphere.",
+      "evidence": "Particularly, the SCOsCs exhibit ultrahigh long-term thermal stability with 100% PCE remaining after heating at temperature up to 160 °C for over 400 h, indicating an excellent candidate for extremely rugged applications.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "SCP3",
+        "long-term stability",
+        "160 °C"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The superior stability of single-component organic solar cells compared to bulk-heterojunction (BHJ) systems is attributed to the covalent linkage between donor and acceptor units, which prevents large-scale phase de-mixing and morphological evolution under thermal or light stress.",
+      "evidence": "Large scale de-mixing was prevented in such a design, and as a result we found an exceptional thermal stability for a solution-processed OSC... the double-cable design, relying on a covalently linked and therefore inherently fixed microstructure, is a generic way to overcome microstructure induced burn-in degradation.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "covalent linkage",
+        "phase segregation",
+        "microstructure stability",
+        "BHJ vs SCOsC"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The temperature coefficient of the open-circuit voltage (VOC) for SCP3-based solar cells is approximately -2.1 mV/K, which is comparable to the values observed for crystalline silicon and GaAs solar cells.",
+      "evidence": "SCP3-based solar cells displayed a comparable temperature coefficient of -2.1 mV K^-1, which was comparable to Si and GaAs solar cells (around -2.1 -1.7 mV K^-1).",
+      "complexity": "single-hop",
+      "keywords": [
+        "open-circuit voltage",
+        "temperature coefficient",
+        "VOC",
+        "thermal physics"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Transient photovoltage (TPV) and charge extraction (CE) measurements reveal a recombination order of approximately 2.8 to 3.0 for both fresh and aged SCP3-based solar cells, indicating second-order recombination in the presence of energetic disorder.",
+      "evidence": "We calculated a recombination order of 2.8 for fresh and 2.9, 3.0, and 2.9 for aged SCP3-based solar cells... These values presented second-order recombination (R = 2) behavior in the presence of significant energetic disorder.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "recombination order",
+        "TPV",
+        "charge extraction",
+        "energetic disorder"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Differential scanning calorimetry (DSC) and modulated DSC (m-DSC) of the SCP3 polymer show no melting peaks, phase changes, or clear glass transitions between 50 °C and 200 °C, indicating a highly crystalline and thermally stable material.",
+      "evidence": "The differential scanning calorimetry (DSC) curves of SCP3... exhibited no melting peaks and no phase change between 50 and 200 °C. Besides, no clear glass transition was observed from the temperature modulated DSC (m-DSC) measurement, resulting from the high crystallinity nature of SCP3 material.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DSC",
+        "glass transition",
+        "crystallinity",
+        "thermal analysis"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The performance of SCP3-based solar cells remains stable under simultaneous stress of 90 °C and 1 sun illumination for 300 hours, with less than 5% variation in VOC and Fill Factor (FF).",
+      "evidence": "We further investigated the stability of SCP3-based solar cells under 90 °C & illumination. As displayed in Figure 2C, the efficiency remained still unaffected, with almost identical VOC and FF values as the initial ones (less than 5% variation).",
+      "complexity": "single-hop",
+      "keywords": [
+        "photostability",
+        "thermal stress",
+        "1 sun",
+        "90 °C"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Optimal performance for SCP3-based solar cells in an inverted structure is achieved by implementing a high-temperature thermal annealing step at 200 °C for 10 minutes prior to the evaporation of the top silver electrode.",
+      "evidence": "With an inverted structure (Figure 1), the performance of SCP3-based OSCs was optimized by a thermal annealing step at 200 °C for 10 min before evaporation of the top electrode.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal annealing",
+        "optimization",
+        "inverted structure",
+        "fabrication"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "While the SCP3 active layer is stable at 200 °C, the overall device performance decreases at this temperature due to the penetration of the silver top electrode into the active layer.",
+      "evidence": "As indicated by DSC curves, SCP3 material should be fairly stable at 200 °C; while from the picture of silver electrodes after heating at 200 °C for 1 h... it is obvious that the top electrode became foggy, indicating silver penetrating into active layer and thus decreasing the performance.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "electrode degradation",
+        "silver penetration",
+        "thermal limits",
+        "interface stability"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The charge carrier mobility of fresh SCP3-based solar cells, as determined by Photo-CELIV, is approximately 4.93 x 10^-5 cm^2 V^-1 s^-1, and it remains relatively stable after degradation under various conditions.",
+      "evidence": "As calculated from the Photo-CELIV traces in Figure S11... the charge carrier mobility of fresh SCP3-based solar cells was 4.93 x 10^-5 cm^2 V^-1 s^-1... the extraction peak (t_max) was hardly shifted and broadened after degradation.",
+      "complexity": "single-hop",
+      "keywords": [
+        "charge carrier mobility",
+        "Photo-CELIV",
+        "SCP3",
+        "transport properties"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The high crystallinity of the SCP3 polymer is a key factor in its resistance to the formation of thermal- or light-induced trap states, which helps maintain stable photovoltaic performance.",
+      "evidence": "It is plausible that this peculiar morphology with high crystallinity is a chief aspect of its enhanced stability, which is consistent with earlier work, showing that crystalline polymers are less prone to thermal- or light-induced traps.",
+      "complexity": "single-hop",
+      "keywords": [
+        "crystallinity",
+        "trap states",
+        "morphology",
+        "stability mechanism"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 11456,
+    "completion_tokens": 3113,
+    "total_tokens": 14569
+  }
+}

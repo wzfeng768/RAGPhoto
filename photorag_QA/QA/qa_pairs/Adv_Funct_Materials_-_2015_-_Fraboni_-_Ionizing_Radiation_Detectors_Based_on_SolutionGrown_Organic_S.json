@@ -1,0 +1,75 @@
+{
+  "paper_id": "Adv_Funct_Materials_-_2015_-_Fraboni_-_Ionizing_Radiation_Detectors_Based_on_SolutionGrown_Organic_S",
+  "paper_title": "Ionizing Radiation Detectors Based on Solution-Grown Organic Single Crystals",
+  "qa_pairs": [
+    {
+      "question": "What are the primary performance advantages of trans-stilbene single crystals grown via temperature-reduction solution growth compared to those grown by the Bridgman technique?",
+      "answer": "Solution-grown trans-stilbene single crystals exhibit a 20% to 50% higher scintillation light output (LO) and superior pulse-shape discrimination (PSD) compared to Bridgman-grown crystals of the same size. These improvements are attributed to higher structural perfection and the absence of the mosaic structures and grain boundaries typically found in melt-grown crystals.",
+      "category": "Performance Metrics",
+      "source_title": "Ionizing Radiation Detectors Based on Solution-Grown Organic Single Crystals",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the physical mechanism of pulse-shape discrimination (PSD) allow organic scintillators to distinguish between neutrons and gamma rays?",
+      "answer": "PSD functions because heavy particles like neutrons (which produce slow-moving protons) create a higher localized density of triplet states compared to gamma-ray interactions. This high triplet concentration leads to more intense delayed fluorescence via triplet-triplet annihilation, resulting in a distinct pulse shape for neutron-induced events compared to gamma-induced pulses.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Ionizing Radiation Detectors Based on Solution-Grown Organic Single Crystals",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Why are hydrogen-rich aromatic organic crystals specifically favored for the detection of high-energy fast neutrons?",
+      "answer": "Organic aromatic crystals are uniquely suited for fast neutron detection because their high hydrogen content facilitates efficient detection through elastic scattering collisions between neutrons and the light hydrogen nuclei.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Ionizing Radiation Detectors Based on Solution-Grown Organic Single Crystals",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What impact do chemical impurities with lower bandgaps have on the performance of organic scintillators, specifically regarding pulse-shape discrimination?",
+      "answer": "Impurity molecules with a lower bandgap than the host matrix act as traps for both singlet and triplet excitations. Because these traps can almost completely suppress the delayed light emission resulting from triplet-triplet annihilation, they interfere with the mechanism necessary for effective pulse-shape discrimination.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Ionizing Radiation Detectors Based on Solution-Grown Organic Single Crystals",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What are the reported sensitivity and response characteristics of 1,5-dinitronaphthalene (DNN) single crystals when used as direct X-ray detectors?",
+      "answer": "Direct X-ray detectors based on 1,5-dinitronaphthalene (DNN) single crystals achieve a sensitivity of approximately 6 nC mGy⁻¹ at a 10 V bias. Furthermore, these detectors demonstrate a linear response to radiation dose rates when operated under ambient conditions.",
+      "category": "Performance Metrics",
+      "source_title": "Ionizing Radiation Detectors Based on Solution-Grown Organic Single Crystals",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Compare the charge transport properties of organic semiconducting single crystals (OSsCs) to organic thin films in the context of ionizing radiation detection.",
+      "answer": "Organic semiconducting single crystals (OSsCs) offer significantly superior charge transport compared to thin films, achieving carrier mobilities as high as 20 cm² V⁻¹ s⁻¹ and exceptionally long exciton diffusion lengths of up to 8 μm. These properties, along with transport anisotropy, make OSsCs highly effective for radiation detection applications.",
+      "category": "Performance Metrics",
+      "source_title": "Ionizing Radiation Detectors Based on Solution-Grown Organic Single Crystals",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How can inkjet printing be combined with antisolvent liquid diffusion to manufacture organic single-crystal devices?",
+      "answer": "This fabrication method involves inkjet printing a solution containing the organic molecule (such as C8-BTBT) alongside an antisolvent that promotes crystallization. This technique allows for the growth of mm-sized organic single crystals directly onto pre-patterned electrode matrices, facilitating device integration.",
+      "category": "Processing & Fabrication",
+      "source_title": "Ionizing Radiation Detectors Based on Solution-Grown Organic Single Crystals",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Contrast the environmental stability and radiation hardness of solution-grown organic single crystals (OSCs) with conjugated polymer thin films.",
+      "answer": "While conjugated polymer thin films often suffer from irreversible increases in conductivity due to radiation-induced degradation, solution-grown OSCs demonstrate high radiation hardness. Additionally, these single crystals exhibit high operational stability in air, allowing them to function as effective solid-state detectors without the need for encapsulation.",
+      "category": "Stability & Degradation",
+      "source_title": "Ionizing Radiation Detectors Based on Solution-Grown Organic Single Crystals",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2700,
+    "completion_tokens": 2543,
+    "total_tokens": 5243
+  }
+}

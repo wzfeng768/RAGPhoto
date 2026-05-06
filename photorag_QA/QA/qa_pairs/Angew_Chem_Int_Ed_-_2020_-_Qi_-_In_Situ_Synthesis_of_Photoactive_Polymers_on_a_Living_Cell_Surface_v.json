@@ -1,0 +1,75 @@
+{
+  "paper_id": "Angew_Chem_Int_Ed_-_2020_-_Qi_-_In_Situ_Synthesis_of_Photoactive_Polymers_on_a_Living_Cell_Surface_v",
+  "paper_title": "In Situ Synthesis of Photoactive Polymers on a Living Cell Surface via Bio-Palladium Catalysis for Modulating Biological Functions",
+  "qa_pairs": [
+    {
+      "question": "What are the specific chemical structures and design rationales for the monomers M1 and M2 used in the in situ synthesis of photoactive polymers?",
+      "answer": "M1 is 1,4-bis(oxy-hexamethylene-trimethylammonium bromide)-2,5-diiodobenzene and M2 is 1,4-bis(oxy-hexamethylene-trimethylammonium bromide)-2,5-diethynylbenzene. These monomers were designed as cationic species to ensure water solubility and to facilitate electrostatic binding to the negatively charged surfaces of living cells.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "In Situ Synthesis of Photoactive Polymers on a Living Cell Surface via Bio-Palladium Catalysis for Modulating Biological Functions",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the conversion efficiency of the Sonogashira polymerization of M1 and M2 change over time at a concentration of 100 μM?",
+      "answer": "In an aqueous solution with a monomer concentration of 100 μM, the polymer conversion efficiency reaches 32% after 2 hours and increases to 49% after 5 hours.",
+      "category": "Performance Metrics",
+      "source_title": "In Situ Synthesis of Photoactive Polymers on a Living Cell Surface via Bio-Palladium Catalysis for Modulating Biological Functions",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What are the physical characteristics of the polyphenyleneethynylene (PPE) formed via in situ polymerization on cell surfaces?",
+      "answer": "The resulting PPE possesses a molecular weight of approximately 3.5 × 10³ g/mol, which corresponds to a degree of polymerization of roughly 9 repeat units.",
+      "category": "Structure-Property Relationships",
+      "source_title": "In Situ Synthesis of Photoactive Polymers on a Living Cell Surface via Bio-Palladium Catalysis for Modulating Biological Functions",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Describe the multi-step process by which bio-Pd catalysts are localized and formed on the surface of E. coli.",
+      "answer": "First, Pd(II) ions bind to specific functional groups on the cell surface, such as carboxyl, amino, and phosphate groups. Subsequently, these ions are reduced to Pd(0) nanoparticles by cellular molybdoenzymes or through the addition of sodium formate as a reducing agent.",
+      "category": "Processing & Fabrication",
+      "source_title": "In Situ Synthesis of Photoactive Polymers on a Living Cell Surface via Bio-Palladium Catalysis for Modulating Biological Functions",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What crystallographic evidence confirms the successful formation of metallic palladium nanoparticles on the E. coli surface?",
+      "answer": "High-resolution TEM imaging reveals Pd nanoparticles with an inter-planar spacing of 1.93 Å. This value corresponds specifically to the (200) lattice fringe of Pd(0) crystals, confirming the presence of metallic palladium.",
+      "category": "Characterization Methods",
+      "source_title": "In Situ Synthesis of Photoactive Polymers on a Living Cell Surface via Bio-Palladium Catalysis for Modulating Biological Functions",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the concentration of monomers during in situ PPE synthesis affect the viability of E. coli?",
+      "answer": "The bacterial viability is dose-dependent; when the monomer concentration is increased to 500 μM, the viability of E. coli is significantly reduced to 28%.",
+      "category": "Performance Metrics",
+      "source_title": "In Situ Synthesis of Photoactive Polymers on a Living Cell Surface via Bio-Palladium Catalysis for Modulating Biological Functions",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What is the underlying mechanism for the antibacterial activity of the in situ synthesized PPE against E. coli?",
+      "answer": "The antibacterial activity is driven by the combination of the polymer's cationic charge and its hydrophobic moieties. These structural features allow the PPE to interact with the bacterial cell wall, inducing significant membrane damage and resulting in bactericidal effects.",
+      "category": "Structure-Property Relationships",
+      "source_title": "In Situ Synthesis of Photoactive Polymers on a Living Cell Surface via Bio-Palladium Catalysis for Modulating Biological Functions",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What is the impact of in situ PPE synthesis on the energy metabolism of C. pyrenoidosa under white light irradiation?",
+      "answer": "The synthesis of PPE on the surface of C. pyrenoidosa enhances its energy metabolism significantly. Specifically, using 100 μM and 500 μM monomer concentrations results in a 42% and 115% increase in ATP production, respectively, compared to untreated algae.",
+      "category": "Performance Metrics",
+      "source_title": "In Situ Synthesis of Photoactive Polymers on a Living Cell Surface via Bio-Palladium Catalysis for Modulating Biological Functions",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2411,
+    "completion_tokens": 2325,
+    "total_tokens": 4736
+  }
+}

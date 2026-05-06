@@ -1,0 +1,75 @@
+{
+  "paper_id": "Adv_Funct_Materials_-_2020_-_Qin_-_Recent_Progress_in_Flexible_and_Stretchable_Organic_Solar_Cells",
+  "paper_title": "Recent Progress in Flexible and Stretchable Organic Solar Cells",
+  "qa_pairs": [
+    {
+      "question": "What are the current state-of-the-art power conversion efficiencies (PCE) for single-junction and tandem flexible organic solar cells?",
+      "answer": "State-of-the-art single-junction flexible organic solar cells have achieved a power conversion efficiency (PCE) of 15.21%, while tandem flexible devices have reached a higher efficiency of 16.55%.",
+      "category": "Performance Metrics",
+      "source_title": "Recent Progress in Flexible and Stretchable Organic Solar Cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What are the electrical and optical properties of Indium Tin Oxide (ITO) electrodes deposited on PET substrates via roll-to-roll sputtering?",
+      "answer": "Flexible ITO electrodes deposited on PET using roll-to-roll sputtering exhibit a sheet resistance of 47.4 Ω sq⁻¹ and an average optical transparency of 83.46% within the 500–550 nm wavelength range.",
+      "category": "Processing & Fabrication",
+      "source_title": "Recent Progress in Flexible and Stretchable Organic Solar Cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the use of methanesulfonic acid (CH₃SO₃H) compare to concentrated sulfuric acid (H₂SO₄) in the post-treatment of PEDOT:PSS films for flexible electronics?",
+      "answer": "While concentrated H₂SO₄ can increase PEDOT:PSS conductivity to over 3000 S cm⁻¹, it is highly aggressive. Methanesulfonic acid (CH₃SO₃H) is a milder organic acid alternative that achieves a similarly high conductivity of 3300 S cm⁻¹ without damaging the flexible substrates.",
+      "category": "Processing & Fabrication",
+      "source_title": "Recent Progress in Flexible and Stretchable Organic Solar Cells",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Why is the conventional high-temperature growth of ZnO buffer layers problematic for flexible organic solar cells, and what methods are used to overcome this?",
+      "answer": "The application of ZnO is limited by the low glass transition temperature (Tg) of flexible plastic substrates, which cannot withstand high-temperature processing. To address this, low-temperature growth methods such as atomic layer deposition (conducted at 80 °C) or mist pyrolysis (conducted at 180 °C) are employed.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Recent Progress in Flexible and Stretchable Organic Solar Cells",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Compare the performance and mechanical stability of flexible organic solar cells using PI@graphene electrodes versus those using amorphous ZITO electrodes.",
+      "answer": "Devices using PI@graphene electrodes with a PM6:Y6 active layer achieve a PCE of 15.2% and retain 90% efficiency after 1000 bending cycles at a 2 mm radius. In comparison, devices using amorphous ZITO (Zn₀.₃In₀.₃Sn₀.₃O₃) electrodes maintain 85% of their initial PCE after only 10 flexing cycles at a larger radius of 5 mm.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Recent Progress in Flexible and Stretchable Organic Solar Cells",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What physical characteristics make CVD-grown graphene an ideal candidate for flexible transparent electrodes?",
+      "answer": "Graphene produced via Chemical Vapor Deposition (CVD) is ideal due to its high electron mobility (2 × 10⁵ cm² V⁻¹ s⁻¹), high electrical conductivity (10⁴ S cm⁻¹), and excellent optical transparency of 97.7%.",
+      "category": "Characterization Methods",
+      "source_title": "Recent Progress in Flexible and Stretchable Organic Solar Cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What are the two primary inherent material properties of PEDOT:PSS that lead to the degradation of flexible organic solar cells?",
+      "answer": "The degradation of flexible devices using PEDOT:PSS electrodes is primarily caused by the material's inherent hygroscopicity (tendency to absorb moisture) and its acidity.",
+      "category": "Stability & Degradation",
+      "source_title": "Recent Progress in Flexible and Stretchable Organic Solar Cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Describe the performance and scale of flexible organic solar cell modules fabricated using slot-die coating.",
+      "answer": "Slot-die coating has been used to fabricate large-area SMD2-based flexible modules with an active area of 80 cm², achieving a maximum power conversion efficiency of 5.25%. This technique is considered suitable for industrial-scale manufacturing.",
+      "category": "Processing & Fabrication",
+      "source_title": "Recent Progress in Flexible and Stretchable Organic Solar Cells",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2661,
+    "completion_tokens": 2227,
+    "total_tokens": 4888
+  }
+}

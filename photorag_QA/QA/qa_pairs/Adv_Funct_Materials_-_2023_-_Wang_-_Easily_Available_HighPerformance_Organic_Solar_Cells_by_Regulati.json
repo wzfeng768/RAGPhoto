@@ -1,0 +1,75 @@
+{
+  "paper_id": "Adv_Funct_Materials_-_2023_-_Wang_-_Easily_Available_HighPerformance_Organic_Solar_Cells_by_Regulati",
+  "paper_title": "Easily Available High-Performance Organic Solar Cells by Regulating Phenylalkyl Side Groups of Non-Fused Ring Electron Acceptors",
+  "qa_pairs": [
+    {
+      "question": "What are the photovoltaic performance parameters of the as-cast organic solar cell using the PBDB-T:BOR-C4Ph blend?",
+      "answer": "The as-cast PBDB-T:BOR-C4Ph based organic solar cell achieved a power conversion efficiency (PCE) of 13.12%, with an open-circuit voltage (VOC) of 0.827 V, a short-circuit current density (JSC) of 22.67 mA cm^-2, and a fill factor (FF) of 70.03%.",
+      "category": "Performance Metrics",
+      "source_title": "Easily Available High-Performance Organic Solar Cells by Regulating Phenylalkyl Side Groups of Non-Fused Ring Electron Acceptors",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Which specific chemical moieties were used as the core for the BOR-CnPh series of non-fused ring electron acceptors, and what side groups were attached?",
+      "answer": "The BOR-CnPh series (where n = 3, 4, and 6) was synthesized using dithiophene cyclopentadiene (DTC) moieties as the core, onto which phenylalkyl side groups (CnPh) were incorporated.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Easily Available High-Performance Organic Solar Cells by Regulating Phenylalkyl Side Groups of Non-Fused Ring Electron Acceptors",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the length of the alkyl spacer in the phenylalkyl side chain affect the molecular orientation and aggregation of BOR-C3Ph, BOR-C4Ph, and BOR-C6Ph?",
+      "answer": "The alkyl spacer length significantly dictates the morphology: BOR-C3Ph exhibits strong aggregation but disordered molecular orientations; BOR-C4Ph shows strong aggregation with a distinct face-on orientation; and BOR-C6Ph displays weak aggregation with disordered orientations and low crystallinity.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Easily Available High-Performance Organic Solar Cells by Regulating Phenylalkyl Side Groups of Non-Fused Ring Electron Acceptors",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Compare the bathochromic shifts of the BOR-CnPh films to the branched alkyl analog DOC2C6-2F and explain what this indicates about molecular aggregation.",
+      "answer": "BOR-CnPh acceptors exhibit bathochromic shifts of over 80 nm when moving from solution to film, which is significantly larger than the shift of less than 40 nm observed for the branched alkyl analog DOC2C6-2F. This larger shift indicates that the phenylalkyl side groups in BOR-CnPh enhance molecular aggregation in the solid state.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Easily Available High-Performance Organic Solar Cells by Regulating Phenylalkyl Side Groups of Non-Fused Ring Electron Acceptors",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Why is chloroform (CF) preferred over chlorobenzene (CB) for processing the PBDB-T:BOR-C3Ph system?",
+      "answer": "Chloroform is preferred because the PBDB-T:BOR-C3Ph system has limited solubility in chlorobenzene. Processing with chlorobenzene leads to excessive phase separation and a low PCE of 4.16%, whereas using chloroform yields a significantly higher PCE of 10.36%.",
+      "category": "Processing & Fabrication",
+      "source_title": "Easily Available High-Performance Organic Solar Cells by Regulating Phenylalkyl Side Groups of Non-Fused Ring Electron Acceptors",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What evidence from GIWAXS analysis suggests that BOR-C4Ph has superior molecular packing compared to the analog DOC2C6-2F?",
+      "answer": "GIWAXS analysis shows that the BOR-C4Ph neat film has a more compact pi-pi stacking distance of 0.34 nm and a larger crystal coherence length (CCL) of 4.90 nm compared to the branched alkyl analog DOC2C6-2F, indicating a more ordered and compact molecular arrangement.",
+      "category": "Characterization Methods",
+      "source_title": "Easily Available High-Performance Organic Solar Cells by Regulating Phenylalkyl Side Groups of Non-Fused Ring Electron Acceptors",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the thermal stability of the BOR-C4Ph based device compare to the BOR-C3Ph and BOR-C6Ph based devices?",
+      "answer": "The PBDB-T:BOR-C4Ph device demonstrates superior thermal stability, retaining 86% of its initial PCE after 200 hours of heating at 65 °C. In contrast, the BOR-C3Ph and BOR-C6Ph devices showed larger decays, retaining only 70% and 77% of their initial PCEs, respectively.",
+      "category": "Stability & Degradation",
+      "source_title": "Easily Available High-Performance Organic Solar Cells by Regulating Phenylalkyl Side Groups of Non-Fused Ring Electron Acceptors",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Describe the charge transport characteristics of the PBDB-T:BOR-C4Ph device in terms of mobility values.",
+      "answer": "The PBDB-T:BOR-C4Ph device exhibits the most balanced charge transport among the BOR-CnPh series, with a hole mobility (mu_h) of 5.68 x 10^-4 cm^2 V^-1 s^-1 and an electron mobility (mu_e) of 3.28 x 10^-4 cm^2 V^-1 s^-1.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Easily Available High-Performance Organic Solar Cells by Regulating Phenylalkyl Side Groups of Non-Fused Ring Electron Acceptors",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2482,
+    "completion_tokens": 2333,
+    "total_tokens": 4815
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "paper_id": "oh-et-al-2021-enhanced-charge-separation-in-ternary-bulk-heterojunction-organic-solar-cells-by-fulle",
+  "paper_title": "Enhanced Charge Separation in Ternary Bulk-Heterojunction Organic Solar Cells by Fullerenes",
+  "qa_pairs": [
+    {
+      "question": "What are the key photovoltaic performance metrics for the ternary organic solar cell based on PTB7-Th:COi8DFIC:PC71BM?",
+      "answer": "The ternary PTB7-Th:COi8DFIC:PC71BM (1:1.05:0.45) solar cell achieves a power conversion efficiency (PCE) of 13.42%, a short-circuit current (JSC) of 27.29 mA/cm², a fill factor (FF) of 70%, and an open-circuit voltage (Voc) of 0.70 V.",
+      "category": "Performance Metrics",
+      "source_title": "Enhanced Charge Separation in Ternary Bulk-Heterojunction Organic Solar Cells by Fullerenes",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the power conversion efficiency (PCE) of the PTB7-Th:COi8DFIC:PC71BM ternary blend compare to the PTB7-Th:COi8DFIC binary blend?",
+      "answer": "The ternary blend exhibits a significantly higher PCE of 13.42% compared to the 10.48% achieved by the binary PTB7-Th:COi8DFIC (1:1.5) blend. This improvement is largely driven by an increase in the short-circuit current from 23.05 mA/cm² in the binary cell to 27.29 mA/cm² in the ternary cell.",
+      "category": "Performance Metrics",
+      "source_title": "Enhanced Charge Separation in Ternary Bulk-Heterojunction Organic Solar Cells by Fullerenes",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What effect does adding PC71BM have on the exciton separation yield of the non-fullerene acceptor COi8DFIC?",
+      "answer": "The addition of PC71BM increases the exciton separation yield of COi8DFIC from 68% in the binary PTB7-Th:COi8DFIC blend to 94% in the ternary PTB7-Th:COi8DFIC:PC71BM blend. This is attributed to faster hole transfer kinetics and the formation of an electron transfer cascade.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Enhanced Charge Separation in Ternary Bulk-Heterojunction Organic Solar Cells by Fullerenes",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Describe the electron transfer cascade mechanism facilitated by PC71BM in the PTB7-Th:COi8DFIC system.",
+      "answer": "The addition of PC71BM enables an electron transfer cascade in the sequence PTB7-Th → COi8DFIC → PC71BM. This cascade reduces the residence time of carriers at the interfaces and effectively deactivates back-electron transfer (carrier recombination loss) from COi8DFIC to PTB7-Th.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Enhanced Charge Separation in Ternary Bulk-Heterojunction Organic Solar Cells by Fullerenes",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "How does the hole transfer rate from COi8DFIC to PTB7-Th change when transitioning from a binary to a ternary system?",
+      "answer": "The hole transfer from the non-fullerene acceptor COi8DFIC to the polymer donor PTB7-Th is significantly accelerated in the ternary blend, occurring in 8 ps compared to 21 ps in the binary PTB7-Th:COi8DFIC blend.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Enhanced Charge Separation in Ternary Bulk-Heterojunction Organic Solar Cells by Fullerenes",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "To what extent is carrier recombination loss reduced in the PTB7-Th:COi8DFIC:PC71BM ternary composite at the 160 ps timescale?",
+      "answer": "Carrier recombination loss occurring at approximately 160 ps is reduced by more than 50% in the ternary PTB7-Th:COi8DFIC:PC71BM composite compared to the binary PTB7-Th:COi8DFIC composite.",
+      "category": "Stability & Degradation",
+      "source_title": "Enhanced Charge Separation in Ternary Bulk-Heterojunction Organic Solar Cells by Fullerenes",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Compare the surface roughness of the PTB7-Th:COi8DFIC binary blend with the PTB7-Th:COi8DFIC:PC71BM ternary blend.",
+      "answer": "The ternary PTB7-Th:COi8DFIC:PC71BM composite features a smoother surface with a root-mean-square (RMS) roughness of 3.19 nm, which is nearly half the roughness of the binary PTB7-Th:COi8DFIC composite (6.08 nm).",
+      "category": "Processing & Fabrication",
+      "source_title": "Enhanced Charge Separation in Ternary Bulk-Heterojunction Organic Solar Cells by Fullerenes",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "In femtosecond transient absorption spectroscopy, what are the characteristic photoinduced absorption (PIA) bands for PTB7-Th and COi8DFIC singlet excitons?",
+      "answer": "The singlet exciton state of PTB7-Th is identified by a short-lived PIA band at wavelengths greater than 1150 nm. In contrast, the singlet exciton state of the non-fullerene acceptor COi8DFIC exhibits a PIA band centered at 1030 nm with a decay lifetime of approximately 65 ps.",
+      "category": "Characterization Methods",
+      "source_title": "Enhanced Charge Separation in Ternary Bulk-Heterojunction Organic Solar Cells by Fullerenes",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2725,
+    "completion_tokens": 2770,
+    "total_tokens": 5495
+  }
+}

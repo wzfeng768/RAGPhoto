@@ -1,0 +1,152 @@
+{
+  "paper_id": "d2cc04625c",
+  "paper_title": "Tunable cyano substituents in D-A conjugated polymers accessed via direct arylation for photocatalytic hydrogen production",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/d2cc04625c/auto/d2cc04625c.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "A series of 2-styrylthiophene-based linear conjugated polymers (CP1-CP4) were synthesized using a one-component direct C-H arylation polymerization (DArP) method, which involves C-H/C-Br coupling.",
+      "evidence": "The one-component DArP (i.e. V C-H/C-Br coupling polymerization) of M1-M4 in the last step accordingly yielded P1-P4.",
+      "complexity": "single-hop",
+      "keywords": [
+        "direct C-H arylation polymerization",
+        "DArP",
+        "2-styrylthiophene",
+        "conjugated polymers"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The monomers for the polymers were synthesized using atom-economic reactions: M1 via C-H vinylation, M2 and M3 via Knoevenagel condensation, and M4 via a C-H cyanation protocol using K3[Fe(CN)6].",
+      "evidence": "Monomer M1 without the -CN group was obtained by C-H vinylation... Monomers M2 and M3 with the -CN group... were obtained by Knoevenagel condensation... A novel C-H cyanation protocol using nontoxic K3Fe(CN)6... was employed to re-cyanate M3 to afford M4.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Knoevenagel condensation",
+        "C-H vinylation",
+        "C-H cyanation",
+        "monomer synthesis"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The homopolymer CP2, which features a cyano group adjacent to the phenyl ring, achieved a hydrogen evolution rate (HER) of 8.78 mmol h⁻¹ g⁻¹ under visible light irradiation in the absence of a platinum cocatalyst.",
+      "evidence": "The hydrogen evolution rates (HERs) of CP1, CP2, CP3 and CP4 were 0.28, 8.78, 7.60, and 0 mmol h-1 g-1, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "hydrogen evolution rate",
+        "HER",
+        "CP2",
+        "platinum-free"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "A co-polymer synthesized from monomers M2 and M3 at a 1:3 feed ratio achieved an optimized hydrogen evolution rate of 9.79 mmol h⁻¹ g⁻¹.",
+      "evidence": "Impressively, the co-polymerized product from M2:M3 at a 1:3 ratio afforded a HER of 9.79 mmol h-1 g-1 (Fig. s9, Esit), even higher than the best-performing CP2 (8.78 mmol h-1 g-1).",
+      "complexity": "single-hop",
+      "keywords": [
+        "co-polymerization",
+        "HER",
+        "feed ratio optimization"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The position of the cyano group significantly impacts molecular planarity; the dihedral angle between phenyl and thienyl rings is 12.15° for monomer M2 (CN near phenyl) compared to 43.51° for M3 (CN near thienyl).",
+      "evidence": "The dihedral angles between phenyl and thienyl rings are 12.15° and 43.51° for M2 and M3, respectively. A smaller dihedral angle endows M2 with better planarity.",
+      "complexity": "single-hop",
+      "keywords": [
+        "dihedral angle",
+        "planarity",
+        "cyano substituent position",
+        "crystal structure"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The introduction of electron-withdrawing cyano groups results in a redshift in light absorption and a decrease in optical bandgap (Eg) from 2.18 eV (CP1, no CN) to 1.88 eV (CP4, double CN).",
+      "evidence": "The optical bandgaps (Eg) estimated by plotting the curves of (αhν)2 vs. hv (Fig. S5, ESI+) are 2.18, 2.01, 1.92 and 1.88 eV for CP1-CP4, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "optical bandgap",
+        "redshift",
+        "cyano group",
+        "light absorption"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Incorporating cyano substituents downshifts both the HOMO and LUMO energy levels, with CP4 (containing two CN groups) exhibiting the deepest levels in the series.",
+      "evidence": "The incorporation of the electron-withdrawing -CN substituent can simultaneously downshift the LUMO and HOMO levels. As a result, CP1 without -CN and CP4 with double -CN groups exhibit the highest and lowest FMO levels, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "HOMO",
+        "LUMO",
+        "energy level engineering",
+        "electron-withdrawing group"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The lack of photocatalytic activity in CP4 (0 mmol h⁻¹ g⁻¹) is attributed to its deep-lying LUMO level, which provides insufficient driving force for the proton reduction reaction.",
+      "evidence": "CP4 (0 mmol h-1 g-1) showed the lowest PHP performance, which can be ascribed... to the deepest LUMO levels of CP4 with the lowest driving force for the proton reduction.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "LUMO",
+        "driving force",
+        "proton reduction",
+        "photocatalysis"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The inclusion of cyano groups increases the surface polarity and hydrophilicity of the conjugated polymers, reducing the water contact angle from 140.3° (CP1) to 50.6° (CP4).",
+      "evidence": "the contact angles follow the order of CP1 (140.3°) > CP3 (119.6°) > CP2 (74.6°) > CP4 (50.6°) revealing that the inclusion of the electron-withdrawing -CN group can improve the polarity and hydrophilicity of the CPs.",
+      "complexity": "single-hop",
+      "keywords": [
+        "water contact angle",
+        "wettability",
+        "hydrophilicity",
+        "cyano group"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Steady-state photoluminescence (PL) quenching in CP2, CP3, and CP4 compared to CP1 indicates that the D-A architecture created by cyano groups promotes effective intramolecular charge separation.",
+      "evidence": "CP2-CP4 exhibit much lower PL intensities compared to CP1, implying that the -CN-based D-A architecture can effectively promote intramolecular charge separation and minimize radiative recombination.",
+      "complexity": "single-hop",
+      "keywords": [
+        "photoluminescence quenching",
+        "charge separation",
+        "radiative recombination"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The polymer photocatalyst CP2 exhibits high operational stability, retaining approximately 84% of its initial hydrogen evolution activity after four cycles of testing totaling 20 hours.",
+      "evidence": "After four cycles of CP2 for 20 h about 84% of initial H2 evolution (0.185 mmol) can still be maintained, showing good stability to sacrificial photocatalytic hydrogen production.",
+      "complexity": "single-hop",
+      "keywords": [
+        "stability",
+        "recycling test",
+        "hydrogen evolution"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Transient photocurrent response (TPR) measurements showed that CP2 generates the highest photocurrent among the homopolymers, attributed to its planar precursor and D-A architecture.",
+      "evidence": "CP2 exhibits the maximum photocurrent... The highest TPR of CP2 can be ascribed to the synergistic effect of the planar M2 precursor and its D-A architecture, which yields the highest intermolecular charge transport.",
+      "complexity": "single-hop",
+      "keywords": [
+        "transient photocurrent response",
+        "TPR",
+        "charge transport"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 8389,
+    "completion_tokens": 4173,
+    "total_tokens": 12562
+  }
+}

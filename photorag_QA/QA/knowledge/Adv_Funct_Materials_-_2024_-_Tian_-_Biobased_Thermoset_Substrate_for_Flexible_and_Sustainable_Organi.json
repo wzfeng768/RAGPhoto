@@ -1,0 +1,146 @@
+{
+  "paper_id": "Adv_Funct_Materials_-_2024_-_Tian_-_Biobased_Thermoset_Substrate_for_Flexible_and_Sustainable_Organi",
+  "paper_title": "Biobased Thermoset Substrate for Flexible and Sustainable Organic Photovoltaics",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Adv Funct Materials - 2024 - Tian - Biobased Thermoset Substrate for Flexible and Sustainable Organic Photovoltaics/auto/Adv Funct Materials - 2024 - Tian - Biobased Thermoset Substrate for Flexible and Sustainable Organic Photovoltaics.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "A polymerizable aromatic carbonate monomer (2E) with α,ω-diene functionality is synthesized from biobased eugenol and triphosgene, while a robust aromatic acetal monomer (4E) with α,ω-tetraene functionality is derived from vanillin through Williamson ether synthesis, Claisen rearrangement, and acetalization.",
+      "evidence": "taking structural advantages of biobased eugenol and vanillin, a polymerizable aromatic carbonate monomer with α, ω-diene functionality (2E), and a robust aromatic acetal monomer with α, ω-tetraene functionality (4E), are designed and prepared.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "eugenol",
+        "vanillin",
+        "monomer synthesis",
+        "thiol-ene click"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The crosslinking density (Ve) of the ternary poly(thioether carbonate acetal) thermosets can be tuned by varying the content of the 4E monomer; increasing the 4E ratio from 0% to 100% raises the crosslinking density from 284.5 to 1479.8 mol m⁻³.",
+      "evidence": "As displayed in Figure 2c and summarized in Table 1, the crosslinking densities were calculated to be 284.5, 449.4, 750.1, 1024.9, and 1479.8 mol m⁻³ for the thiol-ene thermosets with 4E contents of 0, 20, 30, 40, and 100%, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "crosslinking density",
+        "4E monomer",
+        "DMA"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The optimal biobased thermoset containing 30% 4E monomer exhibits a tensile strength of 55.2 MPa, a Young's modulus of 428.1 MPa, and a break elongation of 31.7%.",
+      "evidence": "When the 4E contents was fixed at 30% (molar ratio of alkenyls), the thermosets obtained optimal properties with an excellent tensile strength of 55 MPa... tensile strength of 55.2 ± 1.8 MPa, Young's modulus of 428.1 MPa, and break elongation of 31.7 ± 1.9%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "tensile strength",
+        "Young's modulus",
+        "mechanical properties"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The 30% 4E biobased thermoset substrate demonstrates an average optical transmittance of over 90% in the visible range (400–800 nm), which is superior to the 85% transmittance of commercial PET.",
+      "evidence": "the thiol-ene thermosets with 0%, 20%, and 30% 4E contents showed excellent averaged transmittances of ≈90% in the range between 400 and 800 nm, which exceeds the value of 85% for commercial PET",
+      "complexity": "single-hop",
+      "keywords": [
+        "transmittance",
+        "UV-vis spectroscopy",
+        "PET comparison"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The biobased thermosets are fabricated using a solvent-free process where the monomer mixture (2E, 4E, and 4SH) is melted at 120 °C in a mold and subsequently cured under ultraviolet (UV) light.",
+      "evidence": "a series of robust transparent thermosets were achieved via thiol-ene click reaction under solvent-free conditions when the mixture was melted at 120 °C in a mold and then cured under ultraviolet light",
+      "complexity": "single-hop",
+      "keywords": [
+        "solvent-free",
+        "UV curing",
+        "fabrication"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Atomic force microscopy (AFM) reveals that the 30% 4E thermoset has a root-mean-square (RMS) surface roughness of 1.45 nm, which is lower than the 3.62 nm measured for commercial PET substrates.",
+      "evidence": "the root mean square (RMS) roughness of thiol-ene thermosets with... 30%... is 1.45 nm, which are comparable to the value of commercial PET substrate (3.62 nm).",
+      "complexity": "single-hop",
+      "keywords": [
+        "AFM",
+        "surface roughness",
+        "RMS"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The biobased thermoset substrate is chemically degradable in a 3 M NaOH aqueous solution at 80 °C, completely decomposing within 80 minutes into recyclable small molecules like pentaerythritol due to the hydrolysis of ester and acetal bonds.",
+      "evidence": "the thermoset... can be decomposed into recyclable small molecules under harsher conditions (3 m NaOH, 80 °C)... The thiol-ene thermoset was completely decomposed within 80 min to obtain a uniform solution.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "degradability",
+        "hydrolysis",
+        "pentaerythritol",
+        "circular economy"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Flexible organic solar cells utilizing the 30% 4E biobased thermoset as a substrate and PM6:BTP-eC9 as the active layer achieved a power conversion efficiency (PCE) of 15.41%, outperforming PET-based devices which reached 14.53%.",
+      "evidence": "the resultant device achieved a best PCE of 15.41% when using PM6:BTP-eC9 as the active layer, which is higher than the value of 14.53% of PET based OSCs.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "PM6:BTP-eC9",
+        "flexible OSCs"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The flexible OSC device architecture consists of the biobased substrate/PH1000 PEDOT:PSS (anode)/PM6:BTP-eC9 (active layer)/PNDIT-F3N (cathode interface layer)/Ag (cathode).",
+      "evidence": "The device architecture of flexible OsC is displayed in Figure 5a, where the optimal ternary thermoset is used as flexible substrate, highly conductive PEDOT:PSS (PH1000, ≈120 nm) is selected as bottom transparent anode, the widely used PM6:BTP-eC9 [110 nm] blend act as active layer, PEDOT:PSS (Al 4083, 40 nm) and PNDIT-F3N (5 nm) act as anode and cathode interface layer, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "device structure",
+        "PEDOT:PSS",
+        "PNDIT-F3N"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The 30% 4E biobased thermoset exhibits superior barrier properties compared to PET, with a water vapor transmission rate (WVTR) of 1.35 g m⁻² day⁻¹ and an oxygen transmission rate (OTR) of 0.05 cc m⁻² day⁻¹.",
+      "evidence": "the water vapor transmission rate (WVTR) and oxygen transmission rate (OTR) of thiol-ene thermoset (30% 4E) are 1.35 g m⁻² day⁻¹ and 0.05 cc m⁻² day⁻¹, respectively, which both are lower than 2.1 g m⁻² day⁻¹ and 0.12 cc m⁻² day⁻¹ of PET.",
+      "complexity": "single-hop",
+      "keywords": [
+        "WVTR",
+        "OTR",
+        "barrier properties"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Flexible OSCs on the biobased thermoset substrate demonstrate high mechanical stability, retaining 96.2% of their initial PCE after 1000 bending cycles at a curvature radius of 5 mm.",
+      "evidence": "after 1000 bending cycles with a curvature radius of 5 mm the PCE of the PET and ternary thermoset-based device remained at 92.0% and 96.2% of the initial value, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "bending test",
+        "mechanical stability",
+        "flexural endurance"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Economic analysis estimates the total cost (including preparation, degradation, and collection) of the biobased thermoset substrate at $1.73/m², which is less than half the estimated cost of PET ($4.32/m²).",
+      "evidence": "the total cost of thiol-ene thermoset was calculated to $1.73/m², which is less than half of the total cost of PET ($4.32/m²).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "cost analysis",
+        "economic benefit",
+        "sustainability"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 12917,
+    "completion_tokens": 3442,
+    "total_tokens": 16359
+  }
+}

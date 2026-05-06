@@ -1,0 +1,135 @@
+{
+  "paper_id": "Advanced_Materials_-_2015_-_Ji_-_Asymmetric_Diketopyrrolopyrrole_Conjugated_Polymers_for_FieldEffect",
+  "paper_title": "Asymmetric Diketopyrrolopyrrole Conjugated Polymers for Field-Effect Transistors and Polymer Solar Cells Processed from a Nonchlorinated Solvent",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Materials - 2015 - Ji - Asymmetric Diketopyrrolopyrrole Conjugated Polymers for Field‐Effect Transistors and/auto/Advanced Materials - 2015 - Ji - Asymmetric Diketopyrrolopyrrole Conjugated Polymers for Field‐Effect Transistors and.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The study introduces a molecular design strategy using two different flanking aromatic substituents (asymmetric structure) on the diketopyrrolopyrrole (DPP) monomer to enhance solubility in nonchlorinated solvents while maintaining high crystallinity.",
+      "evidence": "Our design strategy is based on the use of two different flanking aromatic substituents on the DPP monomer... The results demonstrate that incorporating structural asymmetry into the main chain via different aromatic substituents is an efficient strategy to achieve high-performance FETs and PSCs of DPP polymers using nonchlorinated solution-processing.",
+      "complexity": "single-hop",
+      "keywords": [
+        "asymmetric DPP",
+        "solubility",
+        "molecular design",
+        "nonchlorinated solvents"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The use of diphenyl ether (DPE) as a high-boiling-point solvent additive in toluene solutions significantly enhances the hole mobility of DPP-based polymers in field-effect transistors.",
+      "evidence": "When adding a small amount of high-boiling-point DPE as additive into toluene solution, the hole mobilities increased dramatically to 5.24 and 10.3 cm2 V−1 s−1 for PDPPTT-2T and PDPPMT-2T, with a maximum mobility of 12.5 cm2 V−1 s−1 for the latter.",
+      "complexity": "single-hop",
+      "keywords": [
+        "diphenyl ether",
+        "DPE",
+        "solvent additive",
+        "toluene",
+        "hole mobility"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "PDPPMT-2T, processed from a toluene/DPE mixture, achieved a maximum hole mobility of 12.5 cm²/V·s in a bottom-gate bottom-contact (BGBC) FET configuration, which was the highest reported for polymer FETs from nonchlorinated solvents at the time of publication.",
+      "evidence": "the hole mobilities increased dramatically to 5.24 and 10.3 cm2 V−1 s−1 for PDPPTT-2T and PDPPMT-2T, with a maximum mobility of 12.5 cm2 V−1 s−1 for the latter... To the best of our knowledge, this represents the highest hole mobility for polymer FETs fabricated from a nonchlorinated solvent.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PDPPMT-2T",
+        "hole mobility",
+        "BGBC FET",
+        "12.5 cm2 V-1 s-1"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Polymer solar cells (PSCs) based on PDPPMT-2T:[70]PCBM processed from toluene/DPE reached a power conversion efficiency (PCE) of 6.5%, with a short-circuit current (JSC) of 15.8 mA cm⁻² and a fill factor (FF) of 0.66.",
+      "evidence": "For PDPPMT-2T:[70]PCBM cells... increased to 6.5% when spin coating from toluene/DPE. This was mainly due to the enhancement of Jsc from 15.1 to 15.8 mA cm−2 and FF from 0.61 to 0.66.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PDPPMT-2T",
+        "PCE",
+        "6.5%",
+        "JSC",
+        "fill factor"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Despite having a less pronounced (010) diffraction peak and less preferential order than PDPPTT-2T in GIWAXS, PDPPMT-2T exhibits more than double the hole mobility, likely due to better aggregation in disordered regions.",
+      "evidence": "PDPPMT-2T shows a less pronounced (010) diffraction peak... This indicates that PDPPMT-2T has less preferential order than PDPPTT-2T, although PDPPMT-2T shows a much higher hole mobility than PDPPTT-2T... Compared to PDPPTT-2T, PDPPMT-2T may show better aggregation in the disordered regions, explaining the higher mobility.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "PDPPMT-2T",
+        "crystallinity",
+        "disordered regions",
+        "charge transport"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The optical bandgaps of the asymmetric polymers PDPPTT-2T and PDPPMT-2T in thin films are 1.36 eV and 1.34 eV, respectively, allowing for a broad photoresponse extending to 900 nm in solar cells.",
+      "evidence": "The optical bandgaps (Eg) of PDPPTT-2T and PDPPMT-2T were... 1.36 eV and 1.34 eV in thin films... photovoltaic devices based on these two polymers reach PCEs of 6.5% with a photoresponse up to 900 nm.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "bandgap",
+        "PDPPTT-2T",
+        "PDPPMT-2T",
+        "photoresponse",
+        "900 nm"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "2D-GIWAXS characterization revealed that both asymmetric DPP polymers exhibit a preferential edge-on molecular packing with high crystallinity when processed from toluene/DPE solutions, indicated by distinct (h00) diffraction peaks in the out-of-plane direction.",
+      "evidence": "2D-GIWAXS results show that both asymmetric DPP polymers exhibit preferentially edge-on molecular packing with high crystallinity when processed from toluene/DPE solutions... Distinct (h00) diffraction peaks up to the fourth order can be observed in the out-of-plane direction.",
+      "complexity": "single-hop",
+      "keywords": [
+        "2D-GIWAXS",
+        "edge-on orientation",
+        "crystallinity",
+        "lamellar packing"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Asymmetric DPP polymers form gel-like structures in toluene at room temperature within 10 minutes, indicating pre-aggregation that facilitates improved polymer aggregation and crystallinity in the final blend films.",
+      "evidence": "The polymers are also soluble in toluene, but form gel-like structures in 10 min. at room temperature... As indicated in the solubility test, the polymers form gel-like structures in toluene solution, indicating pre-aggregation before solution-processing. This may responsible for the better aggregation of polymers in blending films.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "pre-aggregation",
+        "gelation",
+        "toluene",
+        "morphology control"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Transmission electron microscopy (TEM) of the optimized polymer:[70]PCBM blend films shows fibril-like nanostructures with diameters below 10 nm, which is within the exciton diffusion length, facilitating efficient charge generation.",
+      "evidence": "TEM images based on the polymer-fullerene systems spin coated from toluene/ DPE solution reveal that both of PDPPTT-2T and PDPPMT-2T present fibril-like nanostructures with a diameter below 10 nm... Because the radius of these polymer fibrils is on the order of the exciton diffusion length, most excitons will reach the donor/acceptor interface.",
+      "complexity": "single-hop",
+      "keywords": [
+        "TEM",
+        "fibrillar nanostructure",
+        "exciton diffusion length",
+        "charge generation"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "High molecular weights (Mn > 100 kg/mol) for the asymmetric DPP polymers were achieved using Stille polymerization with a Pd2(dba)3/PPh3 catalyst system in a toluene/DMF (10:1 v/v) solvent mixture to minimize homo-coupling side reactions.",
+      "evidence": "The polymers PDPPTT-2T and PDPPMT-2T were synthesized via Stille polymerization, in which a Pd2(dba)3/PPh3 (1:4) catalyst and toluene/DMF (10:1) solvent mixture were applied to reduce the homo-coupling side reactions and achieve a high molecular weight... Both polymers show a number-average molecular weight (Mn) above 100 kg mol−1.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Stille polymerization",
+        "high molecular weight",
+        "Pd2(dba)3",
+        "homo-coupling"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 11253,
+    "completion_tokens": 3163,
+    "total_tokens": 14416
+  }
+}

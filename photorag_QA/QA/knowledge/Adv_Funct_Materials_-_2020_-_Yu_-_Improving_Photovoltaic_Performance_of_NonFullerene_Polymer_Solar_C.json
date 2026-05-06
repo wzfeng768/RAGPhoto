@@ -1,0 +1,127 @@
+{
+  "paper_id": "Adv_Funct_Materials_-_2020_-_Yu_-_Improving_Photovoltaic_Performance_of_NonFullerene_Polymer_Solar_C",
+  "paper_title": "Improving Photovoltaic Performance of Non-Fullerene Polymer Solar Cells Enables by Fine-Tuning Blend Microstructure via Binary Solvent Mixtures",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Adv Funct Materials - 2020 - Yu - Improving Photovoltaic Performance of Non‐Fullerene Polymer Solar Cells Enables by/auto/Adv Funct Materials - 2020 - Yu - Improving Photovoltaic Performance of Non‐Fullerene Polymer Solar Cells Enables by.md",
+  "knowledge_points": [
+    {
+      "category": "Performance Metrics",
+      "content": "Organic solar cells based on the PM6:Y6-2Cl blend achieved a maximum power conversion efficiency (PCE) of 16.17% when processed with a binary solvent mixture of chloroform (CF) and chlorobenzene (CB) at a 1.2:1 volume ratio.",
+      "evidence": "Optimized Y6-2Cl-based devices with a CF:CB volume ratio of 1.2:1 exhibit a PCE of up to 16.17% by incorporating the polymer donor PM6... which is much higher than those of CF- and CB-bladed devices (14.08% and 11.44%, respectively).",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "PM6",
+        "Y6-2Cl",
+        "binary solvent"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The binary solvent strategy using a CF:CB mixture (1.2:1 vol%) for blade-coating PM6:Y6-2Cl eliminates the need for common post-treatments like thermal annealing or the addition of solvent additives like DIO or CN while maintaining high performance.",
+      "evidence": "Notably, the above-mentioned PCE (16.17%) of PM6:Y6-2Cl active layer processed by the CF:CB cosolvent without any post-treatments is also higher than those of the optimized devices based on CB or CF as solvent and CN as additive (14.8% and 12.9%, Table 3).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "doctor-blade",
+        "binary solvent",
+        "as-cast",
+        "post-treatment"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "In situ photoluminescence (PL) spectroscopy was utilized to track the real-time evolution of blend morphology and film-formation kinetics during the rapid solvent evaporation of the doctor-blade coating process.",
+      "evidence": "we used in situ photoluminescence (PL) spectroscopy to investigate the real-time evolution of the CB-, CF-, and CF: CB co-solventbased blends morphologies fabricated by a doctor-blade technique.",
+      "complexity": "single-hop",
+      "keywords": [
+        "in situ PL",
+        "film formation",
+        "kinetics"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Chloroform (CF) as a single processing solvent leads to rapid phase separation before proper crystallization due to its low boiling point (62 °C), while chlorobenzene (CB) results in excessive Y6-2Cl crystallization and large phase separation.",
+      "evidence": "The peak position of CF solvent blend rapidly increased... indicating that the PM6:Y6-2Cl mixture force a phase separation before a proper crystallization... The largest change of the peak position and the film formation time with CB solvent blend indicate the excessive crystallites of Y6-2Cl, causing a large phase separation.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "crystallization",
+        "phase separation",
+        "boiling point",
+        "CF",
+        "CB"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Synchrotron-based Grazing-Incidence Small-Angle X-ray Scattering (GISAXS) revealed that the CF:CB co-solvent induces higher domain purity in the PM6:Y6-2Cl blend compared to single-solvent CB processing, despite both showing similar domain sizes around 20 nm.",
+      "evidence": "PM6:Y6 processed by CF:CB co-solvent displays stronger overall scattering than that processed only by CB solvent. This suggests that the combination of CF and CB indcues higher domain purity between PM6 and Y6 although without changing the domain size.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "GISAXS",
+        "domain purity",
+        "domain size"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The hole mobility (μh) and electron mobility (μe) for the optimized CF:CB processed PM6:Y6-2Cl device were measured as 5.31 × 10⁻⁴ cm² V⁻¹ s⁻¹ and 9.43 × 10⁻⁵ cm² V⁻¹ s⁻¹, respectively, providing more balanced transport than the CB-only system (μh/μe = 10.3).",
+      "evidence": "For the CB-processed device... the charge transport is unbalanced (μh/μe = 10.3)... the calculated hole and electron mobilities (μh and μe) are shown in Figure 5C [Table 2: CF:CB μh=5.31 x 10^-4, μe=9.43 x 10^-5].",
+      "complexity": "single-hop",
+      "keywords": [
+        "SCLC",
+        "carrier mobility",
+        "charge transport"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Transient photovoltage (TPV) measurements indicated a significantly longer charge carrier lifetime of 3.65 μs for CF:CB processed devices compared to CB-processed (2.40 μs) and CF-processed (2.03 μs) devices, suggesting reduced non-geminate recombination.",
+      "evidence": "The TPV data exhibits higher lifetimes (3.65 μs) for the CF:CB co-solvent processed devices compared to the CB- and CF-processed devices (2.40 and 2.03 μs). This confirms a significantly slower non-geminate recombination.",
+      "complexity": "single-hop",
+      "keywords": [
+        "TPV",
+        "carrier lifetime",
+        "recombination"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS patterns confirm that PM6:Y6-2Cl blends maintain a preferred face-on orientation with an out-of-plane (010) diffraction peak at qz ≈ 1.73 Å⁻¹ across all solvent processing conditions.",
+      "evidence": "All three blends remain in the preferred face-on orientation, evidenced by the appearance of an obvious (010) peak in the out-of-plane (OOP) direction... (qz ≈ 1.73 Å⁻¹).",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "face-on orientation",
+        "crystallinity"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The charge dissociation probability (PE,T) under short-circuit conditions reached 96.4% for the CF:CB binary solvent blend, indicating efficient exciton dissociation and charge collection compared to single-solvent blends.",
+      "evidence": "Among these three blends, the PE,T value of binary solvent blend was calculated to be 96.4%, respectively, revealing the more efficient processes of exciton dissociation and charge collection.",
+      "complexity": "single-hop",
+      "keywords": [
+        "exciton dissociation",
+        "charge collection",
+        "photocurrent density"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The CF:CB co-solvent strategy demonstrated generality by achieving 16.2% PCE in PM6-Ir1:BTP-eC9 and PM6:N3 systems, matching or exceeding the performance of devices optimized with traditional additives like DIO or CN.",
+      "evidence": "The PM6-Ir1: BTP-eC9 blade-coated devices fabricated by CF:CB co-solvent also exhibit a good PCE of 16.2%... CF:CB co-solvent processed devices show a higher PCE of 16.2% [for PM6:N3].",
+      "complexity": "multi-hop",
+      "keywords": [
+        "generality",
+        "PM6-Ir1:BTP-eC9",
+        "PM6:N3",
+        "PCE"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 15369,
+    "completion_tokens": 4296,
+    "total_tokens": 19665
+  }
+}

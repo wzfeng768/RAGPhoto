@@ -1,0 +1,155 @@
+{
+  "paper_id": "Advanced_Materials_-_2018_-_Dai_-_Enhancing_the_Performance_of_Polymer_Solar_Cells_via_Core_Engineer",
+  "paper_title": "Enhancing the Performance of Polymer Solar Cells via Core Engineering of NIR-Absorbing Electron Acceptors",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Materials - 2018 - Dai - Enhancing the Performance of Polymer Solar Cells via Core Engineering of NIR‐Absorbing/auto/Advanced Materials - 2018 - Dai - Enhancing the Performance of Polymer Solar Cells via Core Engineering of NIR‐Absorbing.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Three fused-ring electron acceptors (FREAs) named F6IC, F8IC, and F10IC were synthesized based on fused-6-ring, fused-8-ring, and fused-10-ring electron-rich cores, respectively, all end-capped with 2-(5,6-difluoro-3-oxo-2,3-dihydro-1H-inden-1-ylidene)malononitrile (2FIC).",
+      "evidence": "In this work, we designed and synthesized three FREAs—F6IC, F8IC, and F10IC... based on fused-6-ring, fused-8-ring, and fused-10-ring electron-rich cores, respectively, end-capped with electron-deficient unit 2-(5,6-difluoro3-oxo-2,3-dihydro-1H-inden-1-ylidene)malononitrile (2FIC).",
+      "complexity": "single-hop",
+      "keywords": [
+        "fused-ring electron acceptors",
+        "core engineering",
+        "2FIC",
+        "F6IC",
+        "F8IC",
+        "F10IC"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Increasing the aromatic core size from 6 to 10 rings in the F-series acceptors significantly upshifts the HOMO level from -5.66 eV to -5.26 eV, while the LUMO level upshifts only slightly from -4.02 eV to -3.96 eV.",
+      "evidence": "Increasing core size from 6 rings to 10 rings significantly upshifts the HOMO level from -5.66 to -5.26 eV, while slightly upshifts the LUMO level from -4.02 to -3.96 eV.",
+      "complexity": "single-hop",
+      "keywords": [
+        "HOMO",
+        "LUMO",
+        "energy level engineering",
+        "core size"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The fused-ring electron acceptors F6IC, F8IC, and F10IC exhibit strong near-infrared (NIR) absorption from 600 to 1000 nm with narrow optical bandgaps of 1.36 eV, 1.27 eV, and 1.25 eV, respectively.",
+      "evidence": "All these molecules exhibit strong absorption in 600-1000 nm, very low bandgap (1.36-1.25 eV)... The optical bandgaps of F6IC, F8IC, and F10IC are calculated to be 1.36, 1.27, and 1.25 eV from the absorption edge.",
+      "complexity": "single-hop",
+      "keywords": [
+        "NIR absorption",
+        "optical bandgap",
+        "F8IC",
+        "F10IC"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The binary organic solar cell based on the PTB7-Th:F8IC blend achieved a power conversion efficiency (PCE) of 10.9% with a short-circuit current density (JSC) of 25.12 mA/cm².",
+      "evidence": "The OSCs based on F8IC show the highest JSC of 25.12 mA cm-2... The OSCs based on F8IC show the best PCE of 10.9%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "JSC",
+        "PTB7-Th",
+        "F8IC"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "A ternary-blend organic solar cell using PTB7-Th:F8IC:PC71BM (weight ratio 1:1.7 with 30% PC71BM in the acceptor) achieved a champion PCE of 12.3% and a JSC of 25.61 mA/cm².",
+      "evidence": "When the PC71BM ratio is 30%, the devices yield the best PCE of 12.3%, with VOC of 0.670 V, JSC of 25.61 mA cm-2, and FF of 71.5%.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "ternary solar cell",
+        "PC71BM",
+        "PCE",
+        "PTB7-Th"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Core engineering in FREAs allows for the simultaneous enhancement of VOC and JSC, avoiding the performance trade-off typically observed with end-group engineering (e.g., fluorination) which usually increases JSC while decreasing VOC.",
+      "evidence": "This core engineering can simultaneously enhance VOC and JSC, differing from the typical end group engineering that generally induces tradeoff between VOC and JSC. For example... fluorination of the end groups increases JSC but decreases VOC.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "core engineering",
+        "end group engineering",
+        "VOC",
+        "JSC"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis revealed that the PTB7-Th:F8IC blend has the smallest π-π stacking distance of 3.41 Å among the three binary blends, which facilitates the highest electron mobility of 1.6 x 10^-4 cm²/V·s in the blend film.",
+      "evidence": "Among them, the PTB7-Th/F8IC film exhibits the smallest π-π stacking distance of 3.41 Å, consistent with the observed highest electron mobility... PTB7-Th/F8IC exhibits higher electron mobility (1.6 x 10^-4 cm2 V-1 s-1).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "GIWAXS",
+        "pi-pi stacking",
+        "electron mobility",
+        "F8IC"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GISAXS characterization showed that the acceptor domain sizes (2Rg) for F8IC (18.5 nm) and F10IC (14.8 nm) blends are comparable to the theoretical exciton diffusion length, whereas the F6IC blend has significantly larger domains (54.2 nm).",
+      "evidence": "The corresponding acceptor domain sizes (2Rg) are fitted to be 54.2, 18.5, 14.8, and 11.0 nm... Except the PTB7-Th/F6IC film, the domain sizes of other films are comparable to the theoretical exciton diffusion length.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GISAXS",
+        "domain size",
+        "exciton diffusion",
+        "F6IC"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The alpha values for F6IC, F8IC, and F10IC based devices range from 0.94 to 0.97 in the JSC versus light intensity relationship, indicating that bimolecular charge recombination is negligible in these binary systems.",
+      "evidence": "The alpha values of F6IC, F8IC, F10IC, and F8IC/PC71BM-based OSCs are 0.94, 0.97, 0.95, and 0.96, respectively, suggesting negligible bimolecular charge recombination.",
+      "complexity": "single-hop",
+      "keywords": [
+        "bimolecular recombination",
+        "light intensity",
+        "alpha value"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The optimized fabrication for the PTB7-Th:acceptor solar cells used a donor:acceptor weight ratio of 1:1.7 and utilized 0.5% (v/v) diphenyl ether (DPE) as a solvent additive.",
+      "evidence": "The optimized PTB7-Th/acceptor weight ratio is 1:1.7... The optimized additive diphenyl ether content is 0.5% (v/v).",
+      "complexity": "single-hop",
+      "keywords": [
+        "solvent additive",
+        "diphenyl ether",
+        "blend ratio",
+        "optimization"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The nonfullerene acceptors F6IC, F8IC, and F10IC show high thermal stability with 5% weight loss decomposition temperatures (Td) of 314 °C, 331 °C, and 367 °C, respectively.",
+      "evidence": "The decomposition temperatures (Td, 5% weight loss) of F6IC, F8IC, and F10IC are 314, 331, and 367 °C respectively, which indicate good thermal stability.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "decomposition temperature",
+        "TGA"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Laser-induced transient photocurrent measurements identified that the F8IC-based device has a shorter tmax (73 ns) compared to F6IC (119 ns), indicating more efficient charge dissociation in the F8IC system.",
+      "evidence": "the tmax (the time when the photocurrent reaches its maximum value) for F6IC, F8IC, F10IC, and F8IC/PC71BM-based devices are 119, 73, 116, and 67 ns, respectively, suggesting that F8IC-based device has more efficient charge dissociation.",
+      "complexity": "single-hop",
+      "keywords": [
+        "transient photocurrent",
+        "charge dissociation",
+        "tmax"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 15755,
+    "completion_tokens": 4915,
+    "total_tokens": 20670
+  }
+}

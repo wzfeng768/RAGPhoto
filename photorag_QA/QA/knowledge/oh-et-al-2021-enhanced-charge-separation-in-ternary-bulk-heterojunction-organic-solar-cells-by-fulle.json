@@ -1,0 +1,134 @@
+{
+  "paper_id": "oh-et-al-2021-enhanced-charge-separation-in-ternary-bulk-heterojunction-organic-solar-cells-by-fulle",
+  "paper_title": "Enhanced Charge Separation in Ternary Bulk-Heterojunction Organic Solar Cells by Fullerenes",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/oh-et-al-2021-enhanced-charge-separation-in-ternary-bulk-heterojunction-organic-solar-cells-by-fullerenes/auto/oh-et-al-2021-enhanced-charge-separation-in-ternary-bulk-heterojunction-organic-solar-cells-by-fullerenes.md",
+  "knowledge_points": [
+    {
+      "category": "Performance Metrics",
+      "content": "The ternary bulk-heterojunction (BHJ) organic solar cell based on PTB7-Th:COi8DFIC:PC71BM (1:1.05:0.45) achieves a power conversion efficiency (PCE) of 13.42%, a short-circuit current (JSC) of 27.29 mA/cm², and a fill factor (FF) of 70%.",
+      "evidence": "The OSC fabricated using the ternary composite exhibits device parameters (PCE, FF, Jsc and Voc of 13.42%, 70%, 27.29 mA/cm2 and 0.70 V, respectively)",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "JSC",
+        "fill factor",
+        "ternary solar cell"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The binary bulk-heterojunction solar cell based on PTB7-Th:COi8DFIC (1:1.5) demonstrates a power conversion efficiency (PCE) of 10.48% and a short-circuit current (JSC) of 23.05 mA/cm².",
+      "evidence": "better than those of the binary BHJ cell (PCE, FF, Jsc and Voc of 10.48%, 65%, 23.05 mA/cm2 and 0.68 V, respectively)",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "JSC",
+        "binary solar cell"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The exciton separation yield of the non-fullerene acceptor COi8DFIC increases from 68% in the binary PTB7-Th:COi8DFIC blend to 94% in the ternary PTB7-Th:COi8DFIC:PC71BM blend.",
+      "evidence": "revealed that the ternary composite exhibited faster hole transfer from COi8DFIC to PTB7-Th... which led to an improved exciton separation yield in COi8DFIC (94% compared to 68% in the binary composite).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "exciton separation yield",
+        "COi8DFIC",
+        "ternary blend"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The addition of PC71BM to the PTB7-Th:COi8DFIC system enables an electron transfer cascade (PTB7-Th → COi8DFIC → PC71BM), which reduces carrier residence time at the interfaces and deactivates back-electron transfer.",
+      "evidence": "The COi8DFIC-to-PC71BM electron transfer promoted an electron transport cascade over PTB7-Th, COi8DFIC and PC71BM, which efficiently deactivated back-electron transfer (carrier recombination loss) from COi8DFIC to PTB7-Th",
+      "complexity": "multi-hop",
+      "keywords": [
+        "electron transfer cascade",
+        "back-electron transfer",
+        "PC71BM"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Hole transfer from the non-fullerene acceptor COi8DFIC to the polymer donor PTB7-Th is accelerated in the ternary blend (8 ps) compared to the binary blend (21 ps).",
+      "evidence": "the ternary composite exhibited faster hole transfer from COi8DFIC to PTB7-Th (8 ps compared to 21 ps in the binary composite)",
+      "complexity": "single-hop",
+      "keywords": [
+        "hole transfer rate",
+        "charge dynamics",
+        "COi8DFIC"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Carrier recombination loss occurring at approximately 160 ps is reduced by more than 50% in the ternary PTB7-Th:COi8DFIC:PC71BM composite compared to the binary PTB7-Th:COi8DFIC composite.",
+      "evidence": "Additionally, the carrier recombination loss at ~160 ps decreased by >50% in the ternary composite.",
+      "complexity": "single-hop",
+      "keywords": [
+        "carrier recombination",
+        "charge loss",
+        "ternary composite"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The ternary PTB7-Th:COi8DFIC:PC71BM composite exhibits a smoother surface with a root-mean-square (RMS) roughness of 3.19 nm, whereas the binary PTB7-Th:COi8DFIC composite has a higher RMS roughness of 6.08 nm.",
+      "evidence": "Figure 1e,f indicates that the ternary composite exhibits a smaller root-mean-square roughness (3.19 nm) than that of the binary composite (6.08 nm)",
+      "complexity": "single-hop",
+      "keywords": [
+        "RMS roughness",
+        "AFM",
+        "morphology"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "In femtosecond transient absorption (fs-TA) spectroscopy, the singlet exciton state of PTB7-Th is identified by a short-lived photoinduced absorption (PIA) band at wavelengths greater than 1150 nm.",
+      "evidence": "The short-lived PIA band at >1150 nm is attributed to the singlet exciton state of PTB7-Th",
+      "complexity": "single-hop",
+      "keywords": [
+        "fs-TA",
+        "singlet exciton",
+        "PTB7-Th"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The singlet exciton state of the non-fullerene acceptor COi8DFIC exhibits a photoinduced absorption (PIA) band centered at 1030 nm with a lifetime of approximately 65 ps.",
+      "evidence": "COi8DFIC exhibits a PIA band centered at 1030 nm and decays within 100 ps. This shortlived PIA band likely results from the singlet exciton state of COi8DFIC... COi8DFIC exhibits single-exponential PIA decay with a time constant of 65 ps",
+      "complexity": "multi-hop",
+      "keywords": [
+        "COi8DFIC",
+        "PIA band",
+        "exciton lifetime"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Ultrafast electron transfer from PTB7-Th to the acceptors (COi8DFIC or PC71BM) occurs in less than 0.3 ps, as determined by transient absorption anisotropy (TAA) decay measurements.",
+      "evidence": "whereas the BHJ films (PTB7-Th:PC71BM, PTB7-Th:COi8DFIC and PTB7-Th:COi8DFIC:PC71BM) consistently show faster anisotropy time decays of <0.3 ps.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ultrafast electron transfer",
+        "anisotropy decay",
+        "charge separation"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The electron mobility in the ternary PTB7-Th:COi8DFIC:PC71BM blend ($4.80 \\times 10^{-4} cm^2/Vs$) is significantly higher than in the binary PTB7-Th:COi8DFIC blend ($3.89 \\times 10^{-5} cm^2/Vs$).",
+      "evidence": "The electron mobility in their ternary composite increased by a factor of ~12, that is, from 3.89 x 10^-5 cm^2/(Vs) to 4.80 x 10^-4 cm^2/(Vs)",
+      "complexity": "single-hop",
+      "keywords": [
+        "electron mobility",
+        "charge transport",
+        "PC71BM"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 14778,
+    "completion_tokens": 3250,
+    "total_tokens": 18028
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "paper_id": "ajoc_201402104_sm_miscellaneous_information",
+  "paper_title": "Function of CH2 Addends on 54π Fullerene Acceptors",
+  "qa_pairs": [
+    {
+      "question": "What is the synthesis procedure and resulting yield for the fullerene acceptor bis-OQMF?",
+      "answer": "bis-OQMF is synthesized by reacting C60CH2 with 1,4-dihydrobenzo[d][1,2]oxathiine 3-oxide in ortho-dichlorobenzene (ODCB). The reaction is carried out at 100 °C for 22 hours, resulting in a 36% yield after purification via a silica gel column.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Function of CH2 Addends on 54π Fullerene Acceptors",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Compare the LUMO energy levels of the fullerene acceptors tris-OQC, bis-OQMF, and OQBMF.",
+      "answer": "Based on cyclic voltammetry measurements, the LUMO levels are -3.29 eV for tris-OQC, -3.37 eV for bis-OQMF, and -3.41 eV for OQBMF. This indicates that tris-OQC has the highest (least negative) LUMO level among the three.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Function of CH2 Addends on 54π Fullerene Acceptors",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What is the specific device architecture and layer thickness used for testing P3HT:fullerene organic solar cells?",
+      "answer": "The conventional architecture is ITO/PEDOT:PSS (30 nm)/Active Layer (~110 nm)/Ca (10 nm)/Al (100 nm). The active layer consists of a P3HT:fullerene blend with a 1:0.6 weight ratio.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Function of CH2 Addends on 54π Fullerene Acceptors",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What processing conditions, including solvent and thermal treatment, are required for the P3HT:fullerene active layer?",
+      "answer": "The active layer is processed from an ortho-dichlorobenzene (ODCB) solution at a concentration of 24 mg/mL. After spin-coating, the films undergo thermal annealing at 140 °C for 10 minutes.",
+      "category": "Processing & Fabrication",
+      "source_title": "Function of CH2 Addends on 54π Fullerene Acceptors",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Explain how charge carrier mobility is determined using the Space Charge Limited Current (SCLC) method in these materials.",
+      "answer": "Mobility is calculated by fitting dark current density (J) data to the Mott-Gurney law: J = 9/8 * ε0 * εr * μ * (V^2 / d^3). In this equation, ε0 is the vacuum permittivity, εr is the relative permittivity, μ is the mobility, d is the thickness, and V is the effective voltage (applied voltage minus the built-in potential).",
+      "category": "Characterization Methods",
+      "source_title": "Function of CH2 Addends on 54π Fullerene Acceptors",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Contrast the device structures required to measure electron-only mobility versus hole-only mobility in P3HT:fullerene blends.",
+      "answer": "Electron-only devices utilize an Al/active layer/Ca/Al structure to facilitate electron injection and block holes. In contrast, hole-only devices use a more complex Cr/Au/PEDOT:PSS/active layer/MoO3/Au structure to ensure selective hole transport.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Function of CH2 Addends on 54π Fullerene Acceptors",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "How is the effective voltage (V) defined in the context of SCLC measurements, and what determines the built-in potential (Vbi)?",
+      "answer": "The effective voltage (V) is calculated as the applied voltage (Vappl) minus the built-in potential (Vbi), expressed as V = Vappl - Vbi. The built-in potential is determined by the difference in the workfunctions of the electrodes used in the device.",
+      "category": "Characterization Methods",
+      "source_title": "Function of CH2 Addends on 54π Fullerene Acceptors",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What are the first reduction potentials (E1/2 Red1) for the fullerene derivatives tris-OQC, bis-OQMF, and OQBMF relative to the Fc/Fc+ couple?",
+      "answer": "The first reduction potentials are -1.51 V for tris-OQC, -1.43 V for bis-OQMF, and -1.39 V for OQBMF versus the Fc/Fc+ redox couple.",
+      "category": "Performance Metrics",
+      "source_title": "Function of CH2 Addends on 54π Fullerene Acceptors",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2930,
+    "completion_tokens": 3014,
+    "total_tokens": 5944
+  }
+}

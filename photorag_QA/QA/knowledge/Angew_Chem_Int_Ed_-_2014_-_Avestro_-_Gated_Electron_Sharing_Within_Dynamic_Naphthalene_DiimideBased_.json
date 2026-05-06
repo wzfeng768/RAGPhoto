@@ -1,0 +1,132 @@
+{
+  "paper_id": "Angew_Chem_Int_Ed_-_2014_-_Avestro_-_Gated_Electron_Sharing_Within_Dynamic_Naphthalene_DiimideBased_",
+  "paper_title": "Gated Electron Sharing Within Dynamic Naphthalene Diimide-Based Oligorotaxanes",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Angew Chem Int Ed - 2014 - Avestro - Gated Electron Sharing Within Dynamic Naphthalene Diimide‐Based Oligorotaxanes/auto/Angew Chem Int Ed - 2014 - Avestro - Gated Electron Sharing Within Dynamic Naphthalene Diimide‐Based Oligorotaxanes.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "A series of oligorotaxanes ([n]NDIxR) containing one to four naphthalene diimide (NDI) units were synthesized using a template-directed clipping strategy based on dynamic covalent chemistry (DCC).",
+      "evidence": "Recently, we capitalized upon a highly efficient template-directed clipping strategy utilizing the concept of dynamic covalent chemistry (DCC) to prepare a series of rigid oligorotaxanes... featuring a precise number of [24]crown-8 rings which encircle an oligoammonium dumbbell.",
+      "complexity": "single-hop",
+      "keywords": [
+        "oligorotaxanes",
+        "dynamic covalent chemistry",
+        "template-directed synthesis",
+        "naphthalene diimide"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Naphthalene diimide (NDI) units in the oligorotaxane assemblies adopt a co-facial arrangement with an average plane-to-plane separation of 3.4 Å, which is conducive to pi-pi stacking interactions.",
+      "evidence": "Density functional calculations of [3]NDI2R afforded (Figure 2b) the two parallel-aligned NDI units with an average plane-to-plane separation of 3.4 Å... the two co-facial NDI units at a 3.4 Å plane-to-plane distance apart.",
+      "complexity": "single-hop",
+      "keywords": [
+        "NDI",
+        "pi-pi stacking",
+        "plane-to-plane distance",
+        "co-facial arrangement"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The first reduction potential of the [3]rotaxane containing two NDI units (-0.67 V) is lower (easier to reduce) than the [2]rotaxane with a single NDI unit (-0.73 V) due to favorable electronic interactions between the electron-deficient units.",
+      "evidence": "The first reduction (-0.67 V) of [3]NDI2R is easier to perform (Figure 4b) than that (-0.73 V) of [2]NDI1R owing to the favorable interactions between the two electron-deficient NDI units.",
+      "complexity": "single-hop",
+      "keywords": [
+        "reduction potential",
+        "cyclic voltammetry",
+        "NDI",
+        "electronic communication"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Electron sharing in these 1D molecular arrays is described as 'conformationally gated,' where thermally driven motions of the rotaxane components influence the alignment of pi-orbitals and the subsequent passage of electrons.",
+      "evidence": "Thermally driven motions between the neighboring NDI units in the oligorotaxanes influence the passage of electrons through the NDI stacks in a manner reminiscent of the conformationally gated charge transfer observed in DNA.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "conformational gating",
+        "charge transfer",
+        "pi-orbital overlap",
+        "molecular motion"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Electron-nuclear double resonance (ENDOR) spectroscopy of the singly reduced [3]rotaxane shows a near-perfect one-half reduction of the hyperfine coupling constants (hfccs), proving full electron sharing across two NDI units on a timescale ≥ 10^7 s^-1.",
+      "evidence": "The ENDOR spectrum (Figure 6c) of ([3]NDI2R)- shows a near-perfect one-half reduction of the hfccs established by ([2]NDI1R)-... This observation provides conclusive evidence that the unpaired electron is being fully shared across two NDI units.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "ENDOR",
+        "hyperfine coupling constants",
+        "electron delocalization",
+        "radical anion"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Cyclic voltammetry reveals that increasing the number of NDI units in the oligorotaxane stack leads to the splitting of the first reduction wave into discrete one-electron steps, indicating electronic communication between the units.",
+      "evidence": "Figure 4... reveals a separation of the first one-electron process observed (Figure 4a) in the case of [2]NDI1R into x discrete one-electron steps as a result of the electronic communication between the NDI units in the arrays.",
+      "complexity": "single-hop",
+      "keywords": [
+        "cyclic voltammetry",
+        "redox waves",
+        "electronic communication",
+        "NDI stack"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "DFT calculations (B3LYP-D3/6-31G**) of the mono-reduced radical anion ([3]NDI2R)- demonstrate a singly occupied molecular orbital (SOMO) that spans across both NDI units in the assembly.",
+      "evidence": "Populating the molecule with an additional single electron to form the mono-reduced radical anion ([3]NDI2R)- generates a SOMO (Figure 3) spanning both NDI units which suggests that the unpaired electron is shared within the [3]rotaxane.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DFT",
+        "SOMO",
+        "radical anion",
+        "molecular orbital"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "In higher-order oligorotaxanes ([4]rotaxane and [5]rotaxane), ENDOR data indicates fractional electron sharing, suggesting that dynamic motions and imperfect pi-orbital alignment create several populations of co-conformations.",
+      "evidence": "The ENDOR spectra (Figure 6d,e) of ([4]NDI3R)- and ([5]NDI4R)- appear to exhibit fractional sharing in which the broader linewidths provide evidence of several populations that we suspect arise from dynamic motions... and the partial disruption of pi-orbital overlap.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "ENDOR",
+        "fractional sharing",
+        "pi-orbital alignment",
+        "co-conformations"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Variable-temperature 1H NMR spectra show resonance broadening at lower temperatures for [3]-, [4]-, and [5]rotaxanes, indicating an interconversion between different co-conformations and an increased population of co-facial arrangements.",
+      "evidence": "variable-temperature (VT) 1H NMR spectra... show slight broadening of the resonances for the NDI protons (Ha and Hb) as the temperature is decreased... implies interconversion between various co-conformations... as well as an increase in the population of the co-facial co-conformations at lower temperatures.",
+      "complexity": "single-hop",
+      "keywords": [
+        "VT-NMR",
+        "co-conformations",
+        "NDI protons",
+        "dynamic motion"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Naphthalene diimide (NDI) is selected for these arrays due to its large pi-surface, n-type redox behavior, photochemical stability, and ease of nitrogen-atom substitution without altering electronic properties.",
+      "evidence": "NDI is an attractive functional unit because of 1) its large pi-surface, 2) its propensity to self-assemble into co-facial stacks, 3) its excellent photochemical/thermal stability, 4) its predictable n-type redox behavior and 5) its electronic tenability.",
+      "complexity": "single-hop",
+      "keywords": [
+        "naphthalene diimide",
+        "n-type semiconductor",
+        "molecular design",
+        "photochemical stability"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 15549,
+    "completion_tokens": 3083,
+    "total_tokens": 18632
+  }
+}

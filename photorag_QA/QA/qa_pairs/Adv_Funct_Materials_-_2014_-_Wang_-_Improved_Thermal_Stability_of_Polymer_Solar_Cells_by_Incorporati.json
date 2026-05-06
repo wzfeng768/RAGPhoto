@@ -1,0 +1,75 @@
+{
+  "paper_id": "Adv_Funct_Materials_-_2014_-_Wang_-_Improved_Thermal_Stability_of_Polymer_Solar_Cells_by_Incorporati",
+  "paper_title": "Improved Thermal Stability of Polymer Solar Cells by Incorporating Porphyrins",
+  "qa_pairs": [
+    {
+      "question": "What is the full chemical name and identification of the porphyrin compound referred to as BL?",
+      "answer": "The porphyrin compound BL is chemically identified as zinc-5, 15-diethynyl-10, 20-di(4-dodecyloxyphenyl) porphyrin.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Improved Thermal Stability of Polymer Solar Cells by Incorporating Porphyrins",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the formation of a face-to-face supramolecular complex between BL and PC61BM manifest in UV-vis absorption spectra?",
+      "answer": "The face-to-face complex formation between the porphyrin BL and PC61BM results in a bathochromic (red) shift of 8 nm and a broadening of the porphyrin Soret band in the UV-vis absorption spectra.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Improved Thermal Stability of Polymer Solar Cells by Incorporating Porphyrins",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What does the fluorescence quenching at 640 and 684 nm in BL solutions upon the addition of PC61BM suggest about the electronic interaction between the two molecules?",
+      "answer": "The quenching of the fluorescence bands at 640 and 684 nm indicates the occurrence of photo-induced energy transfer or electron transfer from the porphyrin (BL) to the fullerene derivative (PC61BM).",
+      "category": "Characterization Methods",
+      "source_title": "Improved Thermal Stability of Polymer Solar Cells by Incorporating Porphyrins",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Compare the thermal stability of P3HT:PC61BM devices with and without 8% BL doping after annealing at 130 °C.",
+      "answer": "Devices containing 8% BL doping show significantly superior thermal stability, with the power conversion efficiency (PCE) dropping by only 10.5% after 48 hours of annealing. In contrast, control devices without BL are highly unstable, losing 71.5% of their PCE after only 3 hours of annealing at the same temperature.",
+      "category": "Stability & Degradation",
+      "source_title": "Improved Thermal Stability of Polymer Solar Cells by Incorporating Porphyrins",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What is the relationship between BL concentration and the crystallization kinetics of PC61BM in P3HT:PC61BM:BL ternary blends?",
+      "answer": "The growth rate of PC61BM crystals follows an inverse relationship with the BL content. Specifically, the growth slope decreases from 1.69 × 10^-3 for a blend with 0% BL to 8.03 × 10^-4 for 4% BL, and further down to 3.96 × 10^-4 for a blend with 16% BL.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Improved Thermal Stability of Polymer Solar Cells by Incorporating Porphyrins",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "How does the electron mobility of a P3HT:PC61BM:BL (8%) ternary blend behave under thermal stress compared to a standard binary blend?",
+      "answer": "Under thermal stress at 130 °C, the electron mobility of the 8% BL ternary blend increases over time, reaching 1.91 × 10^-4 cm^2 V^-1 s^-1 after 3 hours. Conversely, the mobility of the binary P3HT:PC61BM blend degrades under the same conditions, dropping to 0.36 × 10^-4 cm^2 V^-1 s^-1.",
+      "category": "Performance Metrics",
+      "source_title": "Improved Thermal Stability of Polymer Solar Cells by Incorporating Porphyrins",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What are the morphological consequences of using an excessive loading ratio (1:1 or 1:2) of BL in PC61BM:BL blends during thermal annealing?",
+      "answer": "Excessive loading of BL leads to poor morphology characterized by the formation of large BL aggregates and crystals. In the case of a 1:2 PC61BM:BL ratio, these crystals can grow to be hundreds of micrometers in length during the annealing process.",
+      "category": "Processing & Fabrication",
+      "source_title": "Improved Thermal Stability of Polymer Solar Cells by Incorporating Porphyrins",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does Differential Scanning Calorimetry (DSC) demonstrate the effect of BL on the thermal behavior of PC61BM?",
+      "answer": "DSC analysis shows that increasing BL content shifts the PC61BM crystallization peak to higher temperatures (from 157.9 °C at 0% BL to 179.8 °C for 8% BL) and simultaneously shifts the melting peaks to lower temperatures (e.g., 239.6 °C for 16% BL), indicating that BL effectively hinders the crystallization process of the fullerene.",
+      "category": "Characterization Methods",
+      "source_title": "Improved Thermal Stability of Polymer Solar Cells by Incorporating Porphyrins",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 3154,
+    "completion_tokens": 2845,
+    "total_tokens": 5999
+  }
+}

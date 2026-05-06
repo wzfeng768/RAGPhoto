@@ -1,0 +1,143 @@
+{
+  "paper_id": "Angew_Chem_Int_Ed_-_2023_-_Qi_-_Dimer_Acceptor_Adopting_a_Flexible_Linker_for_Efficient_and_Durable_",
+  "paper_title": "Dimer Acceptor Adopting a Flexible Linker for Efficient and Durable Organic Solar Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Angew Chem Int Ed - 2023 - Qi - Dimer Acceptor Adopting a Flexible Linker for Efficient and Durable Organic Solar Cells/auto/Angew Chem Int Ed - 2023 - Qi - Dimer Acceptor Adopting a Flexible Linker for Efficient and Durable Organic Solar Cells.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "dT9TBO is a dimer acceptor synthesized via Stille coupling by linking the small-molecule acceptor T9TBO with a flexible 1,6-di(thiophen-2-yl) hexane linker.",
+      "evidence": "The Y6-derivative T9TBO and 1,6-di(thiophen-2-yl) hexane possessing a flexible alkyl linker were chosen as the monomer to synthesize the dimer acceptor dT9TBO via Stille coupling.",
+      "complexity": "single-hop",
+      "keywords": [
+        "dT9TBO",
+        "dimer acceptor",
+        "flexible linker",
+        "Stille coupling"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "A ternary organic solar cell based on PM6:Y6:dT9TBO achieved a champion power conversion efficiency (PCE) of 18.41%, with an open-circuit voltage (Voc) of 0.88 V, a short-circuit current density (Jsc) of 27.17 mA cm^-2, and a fill factor (FF) of 77.26%.",
+      "evidence": "the champion ternary OSC (PM6...:Y6:dT9TBO) exhibits a high PCE of 18.41% with a high open-circuit voltage (Voc, 0.88 V), short-circuit current density (Jsc, 27.17 mA cm^-2) and fill factor (FF) (77.26%).",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "ternary OSC",
+        "PM6",
+        "Y6",
+        "dT9TBO"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The LUMO and HOMO energy levels of dT9TBO are -3.72 eV and -5.55 eV, respectively, which are higher than those of the monomer T9TBO (-3.75 eV and -5.60 eV) due to the electron-rich thienyl units in the linker.",
+      "evidence": "the LUMO and the highest occupied molecular orbital (HOMO) levels of dT9TBO were calculated as -3.72/-5.55 eV, which are higher than the LUMO/HOMO (-3.75/-5.60 eV) of T9TBO. This can be attributed to the electron-rich thienyl units in the linker of dT9TBO.",
+      "complexity": "single-hop",
+      "keywords": [
+        "LUMO",
+        "HOMO",
+        "energy levels",
+        "dT9TBO",
+        "T9TBO"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The glass-transition temperature (Tg) of the Y6:dT9TBO blend (93 °C) is higher than that of pure Y6 (80 °C), indicating that the dimer acceptor helps immobilize molecular motion and suppress diffusion by forming a molecular alloy.",
+      "evidence": "the Y6:T9TBO blend displays a lower Tg of 80 °C than that (93 °C) of Y6:dT9TBO... the enhanced molecular packing can help immobilize the motion and diffusion of molecules to increase Tg.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "glass-transition temperature",
+        "molecular diffusion",
+        "alloy",
+        "stability"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "PM6:Y6:dT9TBO-based devices exhibit exceptional thermal stability, showing negligible decay in power conversion efficiency after being aged at 65 °C for 1800 hours.",
+      "evidence": "the PM6:Y6:dT9TBO-based device displays an improved power conversion efficiency (PCE) of 18.41% with excellent thermal stability and negligible decay after being aged at 65 °C for 1800 h.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "aging",
+        "PCE decay",
+        "dT9TBO"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Flexible organic solar cells using the PM6:Y6:dT9TBO active layer maintain approximately 95% of their initial efficiency after 1500 bending cycles at a curvature diameter of 14.7 mm.",
+      "evidence": "the PM6:Y6:dT9TBO-based flexible OSC also exhibits excellent mechanical durability, maintaining 95% of its initial PCE after being bended repetitively for 1500 cycles... with a curvature diameter of 14.7 mm.",
+      "complexity": "single-hop",
+      "keywords": [
+        "mechanical durability",
+        "flexible OSC",
+        "bending cycles"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Incorporating dT9TBO into the PM6:Y6 system reduces non-radiative voltage loss (ΔV3) from 0.239 V to 0.222 V, contributing to the observed increase in Voc.",
+      "evidence": "the non-radiative voltage loss (ΔV3) can be reduced from 0.239 V (in PM6:Y6) to 0.222 V (in PM6:Y6:dT9TBO) by incorporating dT9TBO as the third component, resulting in higher Voc.",
+      "complexity": "single-hop",
+      "keywords": [
+        "non-radiative voltage loss",
+        "Voc",
+        "energy loss"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS characterization shows that the crystal coherence length (CCL) for the (010) peak in fresh PM6:Y6:dT9TBO films is 28.14 Å, which is higher than that of PM6:Y6 (26.08 Å).",
+      "evidence": "the crystal coherence length (CCL) of fresh PM6:Y6:dT9TBO is 28.14 Å for the (010) peak, which is larger than the CCLs of fresh PM6:Y6 (26.08 Å).",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "crystal coherence length",
+        "CCL",
+        "molecular packing"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Transient photovoltage (TPV) and transient photocurrent (TPC) measurements indicate that PM6:Y6:dT9TBO devices have shorter charge extraction times and longer carrier recombination lifetimes compared to PM6:Y6 control devices.",
+      "evidence": "the PM6:Y6:dT9TBO-based device exhibited a shorter charge extraction time than that of PM6:Y6... Besides, the longer carrier recombination lifetime in the PM6:Y6:dT9TBO-based device leads to reduced recombination.",
+      "complexity": "single-hop",
+      "keywords": [
+        "TPC",
+        "TPV",
+        "charge extraction",
+        "carrier lifetime"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The flexible alkyl linker in dT9TBO provides mechanical stress relief during bending, preventing the severe phase separation that typically occurs between rigid polymer donors and small-molecule acceptors.",
+      "evidence": "Since the alkyl linker can provide certain flexibility in the PM6:Y6:dT9TBO-based device, the mechanical stresses applied to the device during the bending process can be alleviated to result in a stable morphology.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "mechanical stress",
+        "flexible linker",
+        "phase separation"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The strategy of using dT9TBO as a third component is generalizable, as demonstrated by a D18/BTP-eC9:dT9TTBO-based planar-mixed heterojunction (PMHJ) OSC achieving a PCE of 18.57%.",
+      "evidence": "the D18/BTP-eC9:dT9TTBO-based planar-mixed heterojunction (PMHJ) OSC, which also exhibited a higher PCE of 18.57% than that (17.64%) of the D18/BTP-eC9-based OSCs.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PMHJ",
+        "D18",
+        "BTP-eC9",
+        "PCE"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 13157,
+    "completion_tokens": 3349,
+    "total_tokens": 16506
+  }
+}

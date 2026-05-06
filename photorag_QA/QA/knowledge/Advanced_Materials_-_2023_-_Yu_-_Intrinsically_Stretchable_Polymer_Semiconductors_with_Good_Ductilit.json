@@ -1,0 +1,155 @@
+{
+  "paper_id": "Advanced_Materials_-_2023_-_Yu_-_Intrinsically_Stretchable_Polymer_Semiconductors_with_Good_Ductilit",
+  "paper_title": "Intrinsically Stretchable Polymer Semiconductors with Good Ductility and High Charge Mobility through Reducing the Central Symmetry of the Conjugated Backbone Units",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Materials - 2023 - Yu - Intrinsically Stretchable Polymer Semiconductors with Good Ductility and High Charge/auto/Advanced Materials - 2023 - Yu - Intrinsically Stretchable Polymer Semiconductors with Good Ductility and High Charge.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The molecular design strategy involves incorporating non-centrosymmetric spiro[cycloalkane-1,9'-fluorene] (spiro-fluorene) units into the backbone of diketopyrrolopyrrole (DPP)-based conjugated polymers to reduce the central symmetry of the polymer chain.",
+      "evidence": "In this paper, terpolymers are reported as intrinsically stretchable polymeric semiconductors with good ductility and high charge mobility simultaneously by incorporation of non-centrosymmetric spiro[cycloalkane-1, 9' -fluorene] (spiro-fluorene) units into the backbone of diketopyrrolopyrrole (DPP) based conjugated polymers.",
+      "complexity": "single-hop",
+      "keywords": [
+        "spiro-fluorene",
+        "DPP",
+        "non-centrosymmetric",
+        "molecular design"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The terpolymer P2, featuring a cyclopropane-linked spiro-fluorene unit, achieves a record charge mobility of 3.7 cm² V⁻¹ s⁻¹ at 150% tensile strain.",
+      "evidence": "The terpolymer P2, in which cyclopropane is linked to the spiro-fluorene unit, is among the best reported intrinsically stretchable polymer semiconductors with record mobility up to 3.7 cm² V⁻¹ s⁻¹ at even 150% strain.",
+      "complexity": "single-hop",
+      "keywords": [
+        "charge mobility",
+        "tensile strain",
+        "P2",
+        "cyclopropane"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The tensile modulus of the parent polymer P1 is 441.1 MPa, whereas the terpolymer P2 exhibits a significantly reduced modulus of 83.7 MPa.",
+      "evidence": "As shown in Figure 4b, tensile moduli of P1-P5 were calculated to be 441.1, 83.7, 132.9, 139.6, 122.2 MPa, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "tensile modulus",
+        "P1",
+        "P2",
+        "mechanical properties"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Reducing the symmetry of the conjugated backbone prevents the formation of large ordered crystalline domains, which decreases thin-film crystallinity and mechanical stiffness but maintains charge transport via small, densely packed crystalline domains.",
+      "evidence": "incorporation of spiro-fluorene units into the backbones is not favorable for the formation of large crystalline domains and thus thin film crystallinity of the conjugated polymers is reduced... The short coherence lengths imply that polymer chains of P2-P5 tend to form small crystalline domains.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "crystallinity",
+        "coherence length",
+        "charge transport",
+        "backbone symmetry"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Terpolymers P2-P5 exhibit shorter π-π stacking distances (approximately 3.76 Å to 3.78 Å) compared to the parent polymer P1 (3.85 Å) because the spiro-fluorene units lack bulky branching alkyl chains, facilitating denser interchain packing.",
+      "evidence": "the interchain π - π stacking distance of P2-P5 were estimated to be ≈ 3.76 Å and ≈ 3.78 Å... which were shortened by comparing with those of P1 [3.85 Å]... the spiro-fluorene units contain no bulky and long alkyl chains... thus the polymer chains can be densely packed.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "pi-pi stacking",
+        "steric hindrance",
+        "denser packing",
+        "DPP"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The terpolymer P2 demonstrates high operational stability under cyclic mechanical stress, maintaining a charge mobility of 1.4 cm² V⁻¹ s⁻¹ after 1000 stretching-releasing cycles at 50% strain.",
+      "evidence": "P2... charge mobility still can reach 1.4 cm² V⁻¹ s⁻¹ after repeated stretching and releasing cycles for 1000 times [under 50% strain].",
+      "complexity": "single-hop",
+      "keywords": [
+        "cyclic strain",
+        "mechanical durability",
+        "P2",
+        "operational lifetime"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Mechanical buckling metrology was employed to calculate the tensile moduli of the polymer films by measuring the periodicity of wrinkles formed on a PDMS substrate.",
+      "evidence": "the tensile moduli were estimated with mechanical buckling metrology... The measurement details and calculations of moduli are presented in Supporting Information (Figures S7-s9 and Table s2).",
+      "complexity": "single-hop",
+      "keywords": [
+        "buckling metrology",
+        "tensile modulus",
+        "PDMS",
+        "mechanical characterization"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "DFT calculations show that incorporating spiro-fluorene units disrupts the planarity of the DPP-thiophene backbone, creating a non-planar and bending conformation with an angle of approximately 156.5° to 158.6° between the connection bonds.",
+      "evidence": "the backbone segment after the incorporation of one spiro-fluorene unit becomes non-planar and bending... the two C-Br bonds (which were transformed into the two C-C bonds) form an angle of 156.5° 158.0° 158.6° 158.1°, respectively and thus are not co-linear.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DFT",
+        "backbone conformation",
+        "planarity",
+        "bond angle"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The optimal molar ratio for balancing solubility and stretchability in these terpolymers is a 5:1 ratio of DPP units to spiro-fluorene units; a 3:1 ratio (P7) leads to insolubility in chloroform and chlorobenzene.",
+      "evidence": "The molar ratio of the DPP units (flanked by two thiophenes) versus spiro-fluorene moieties for these terpolymers... P7 [3:1] was insoluble in chloroform and chlorobenzene even after heating at 60 °C... the molar ratio of DPP versus spiro-fluorene moieties is set as 5:1 for P3-P5.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "solubility",
+        "molar ratio",
+        "DPP",
+        "processing"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Charge mobility was evaluated using bottom-gate bottom-contact (BGBC) field-effect transistors (FETs) where stretched polymer films were transferred onto octadecyltrichlorosilane (OTS) modified Si/SiO2 substrates.",
+      "evidence": "The charge mobilities of thin films of P1-P5 were measured by fabrication of the respective field-effect transistors (FETs) with bottom-gate bottom-contact (BGBC) configuration... stretched thin films... were transferred back to OTS modified Si/SiO2 substrates.",
+      "complexity": "single-hop",
+      "keywords": [
+        "BGBC",
+        "FET",
+        "OTS",
+        "charge transport"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Strain-induced alignment of polymer chains at 50% to 100% strain can result in an increase in charge mobility in the direction parallel to the strain for certain terpolymers like P3 and P5.",
+      "evidence": "There is a slightly increase of charge mobility at the parallel direction for P3 and P5 under 50% strain, and for P2 and P5 under 100% strain... This is probably owing to the strain-induced alignment of polymer chains.",
+      "complexity": "single-hop",
+      "keywords": [
+        "chain alignment",
+        "anisotropic mobility",
+        "tensile strain"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Thin-film crystallinity was quantitatively compared using the relative degree of crystallinity (rDoC) derived from GIWAXS (200) peak intensities normalized by film thickness.",
+      "evidence": "We used the relative degree of crystallinity (rDoC) to compare thin film crystallinities... The calculation of rDoC was performed by using the I200 intensity after normalizing thin film thickness.",
+      "complexity": "single-hop",
+      "keywords": [
+        "rDoC",
+        "GIWAXS",
+        "crystallinity",
+        "X-ray scattering"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 14256,
+    "completion_tokens": 4660,
+    "total_tokens": 18916
+  }
+}

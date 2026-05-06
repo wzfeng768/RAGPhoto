@@ -1,0 +1,125 @@
+{
+  "paper_id": "kim-et-al-2018-comparative-study-of-the-mechanical-properties-of-all-polymer-and-fullerene-polymer-s",
+  "paper_title": "Comparative Study of the Mechanical Properties of All-Polymer and Fullerene-Polymer Solar Cells: The Importance of Polymer Acceptors for High Fracture Resistance",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/kim-et-al-2018-comparative-study-of-the-mechanical-properties-of-all-polymer-and-fullerene-polymer-solar-cells-the/auto/kim-et-al-2018-comparative-study-of-the-mechanical-properties-of-all-polymer-and-fullerene-polymer-solar-cells-the.md",
+  "knowledge_points": [
+    {
+      "category": "Performance Metrics",
+      "content": "At optimized device conditions, all-polymer solar cells (all-PSCs) using PTB7-Th:P(NDI2HD-T) exhibit a cohesive fracture energy (Gc) of 2.45 J/m², which is significantly higher than the 0.29 J/m² observed for PCBM-based solar cells.",
+      "evidence": "The all-PSCs exhibited higher fracture energy (2.45 J m−2) than PCBM-PSCs (0.29 J m−2) at optimized device conditions.",
+      "complexity": "single-hop",
+      "keywords": [
+        "cohesive fracture energy",
+        "all-PSC",
+        "PCBM",
+        "PTB7-Th"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The crack-onset strain of all-polymer solar cell active layers (15.5 ± 1.2%) is approximately 15 times higher than that of PCBM-polymer blend active layers (1.1 ± 0.2%) under optimized efficiency conditions.",
+      "evidence": "Under optimized device conditions, the crack-onset strain of the all-PSCs (15.5 ± 1.2%) was 15-fold higher compared with that of PCBM-PSCs (1.1 ± 0.2%)",
+      "complexity": "single-hop",
+      "keywords": [
+        "crack-onset strain",
+        "ductility",
+        "mechanical reliability"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The cohesive fracture energy of all-polymer solar cells remains relatively constant at approximately 2.6 J/m² regardless of the polymer acceptor content, whereas the fracture energy of PCBM-PSCs decreases sharply as the fullerene content increases.",
+      "evidence": "very similar Gc values of ≈ 2.6 J m−2 were observed for the all-PSCs regardless of the polymer acceptor content... In stark contrast, a gradual decrease was observed in the cohesive fracture energy of PCBM-PSCs with increasing PCBM content",
+      "complexity": "multi-hop",
+      "keywords": [
+        "acceptor content",
+        "fracture energy",
+        "compositional dependence"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The superior fracture resistance of all-polymer blends is attributed to the ductility of the polymer acceptor and the large degree of plastic deformation during crack growth, facilitated by chain entanglement and a 'plastic wake' at the crack tip.",
+      "evidence": "The superior fracture resistance of all-PSCs is attributed to the more ductile characteristics of the polymer acceptor and the large degree of plastic deformation during crack growth... the polymer chains in the mixed domains of the films can bridge and need to be disentangled (i.e., chain pullout) during cohesive failure",
+      "complexity": "multi-hop",
+      "keywords": [
+        "plastic deformation",
+        "chain entanglement",
+        "toughening mechanism"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Double-cantilever beam (DCB) testing is used to measure the critical strain energy release rate (Gc) of multilayer thin-film polymer solar cell devices by applying multiple loading/crack-growth/unloading cycles.",
+      "evidence": "the fracture energy was compared for all-PSCs and PCBM-PSCs using the double-cantilever beam (DCB) test... The critical fracture energy, Gc is the critical value of G at the point of the critical load, Po",
+      "complexity": "single-hop",
+      "keywords": [
+        "DCB test",
+        "strain energy release rate",
+        "fracture energy"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The active layers of all-polymer solar cells under optimized conditions exhibit an elastic modulus of 0.68 ± 0.04 GPa, while PCBM-based active layers exhibit a much higher modulus of 2.64 ± 0.12 GPa, indicating the latter is significantly stiffer.",
+      "evidence": "the elastic modulus of the all-PSCs (0.68 ± 0.04 GPa) was 4-fold lower than that of PCBM-PSCs (2.64 ± 0.12 GPa)",
+      "complexity": "single-hop",
+      "keywords": [
+        "elastic modulus",
+        "stiffness",
+        "mechanical compliance"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Analysis of debonded surfaces via Atomic Force Microscopy (AFM) reveals that all-PSCs have a high root-mean-square roughness (Rq ~33–35 nm) indicating significant plastic deformation, while PCBM-PSCs show smooth surfaces (Rq 3–4 nm) indicative of brittle fracture.",
+      "evidence": "the high root-mean-square roughness (Rq; ~ 33-35 nm) of the debonded surfaces of the all-PSCs relative to that of the PCBM-PSCs (3-4 nm) clearly indicates the occurrence of plastic deformation during fracture",
+      "complexity": "single-hop",
+      "keywords": [
+        "AFM",
+        "surface roughness",
+        "plastic deformation",
+        "brittle fracture"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "In PCBM-polymer blends with high acceptor content (over 50 wt%), the fracture path shifts closer to the Al electrode due to the formation of a polymer-rich skin layer at the surface and weak interactions between the polymer-rich phase and aggregated PCBM domains.",
+      "evidence": "the fracture path moved closer to the Al layer of the PCBM-PSCs when the acceptor content exceeded 50%... the fracture path of the PCBM-PSCs was located closer to the Al electrode side along the weakest path between the polymer-rich phase and the PCBM-rich domains.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "fracture path",
+        "vertical phase separation",
+        "skin layer",
+        "interface engineering"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The polymer acceptor P(NDI2HD-T) used in this study is a naphthalene diimide-based copolymer with a number-average molecular weight (Mn) of 38 kg/mol and a dispersity (D) of 2.3.",
+      "evidence": "The number-average molecular weight (Mn) and dispersity (D) of the PTB7-Th and P(NDI2HD-T) polymers were 23 kg mol−1 and 2.2, and 38 kg mol−1 and 2.3, respectively",
+      "complexity": "single-hop",
+      "keywords": [
+        "P(NDI2HD-T)",
+        "molecular weight",
+        "polymer acceptor"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Tensile testing of the active layers was performed on a water surface to separate the films from the substrate, using dog-bone-shaped specimens prepared by femtosecond laser patterning.",
+      "evidence": "Tensile testing of the active layers was performed on a water surface... Dog-bone-shaped specimens were prepared using a femtosecond laser pattering technique.",
+      "complexity": "single-hop",
+      "keywords": [
+        "tensile testing",
+        "femtosecond laser",
+        "specimen preparation"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 15332,
+    "completion_tokens": 2843,
+    "total_tokens": 18175
+  }
+}

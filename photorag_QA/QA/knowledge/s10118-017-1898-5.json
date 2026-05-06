@@ -1,0 +1,144 @@
+{
+  "paper_id": "s10118-017-1898-5",
+  "paper_title": "Morphology Optimization in Ternary Organic Solar Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/s10118-017-1898-5/auto/s10118-017-1898-5.md",
+  "knowledge_points": [
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Ternary organic solar cells utilize a bulk-heterojunction (BHJ) active layer composed of either two donors and one acceptor (D1:D2:A) or one donor and two acceptors (D:A1:A2) to broaden the light absorption window.",
+      "evidence": "Ternary blend BHJ solar cells (Fig. 1c) are made from the blends of two donors (D) and one acceptor (A) or two acceptors and one donor in order to enlarge the absorption window.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ternary blend",
+        "absorption window",
+        "BHJ"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The ideal morphology for organic solar cells requires an interpenetrating network with lateral phase separation dimensions of approximately 10 nm to 20 nm to accommodate the typical exciton diffusion length.",
+      "evidence": "The ideal morphology of active layer for BHJ organic solar cells consists of an interpenetrating network structure (≈ 10 nm lateral dimensions) of electron donor and acceptor materials... the phase separation size between donor and acceptor domain should be confined because the exciton diffusion length is usually only about 10 nm.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "exciton diffusion length",
+        "phase separation",
+        "interpenetrating network"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "A face-on crystal orientation of donor materials is preferred over an edge-on orientation for vertical device architectures because it enhances electronic overlapping of π-π stacking, facilitating charge transport perpendicular to the substrate.",
+      "evidence": "A face-on orientation of donor materials is better for charge transport in perpendicular direction to the substrate than edge-on orientation due to the enhanced electronic overlapping of π-π stacking.",
+      "complexity": "single-hop",
+      "keywords": [
+        "face-on orientation",
+        "π-π stacking",
+        "charge transport"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The addition of high-crystallinity components, such as poly(3-butylthiophene) nanowires (P3BT-nws), can act as nucleating agents to induce crystallization in binary blends like P3HT:PC61BM, leading to improved hole mobility and balanced charge transport.",
+      "evidence": "The addition of P3BT-nws was found to play the role of nucleating agents to induce the crystallization of P3HT molecules and increase the crystallinity of P3HT... the device with 7 wt% of P3BT-nws exhibited the highest PCE of 4.2%.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "nucleating agent",
+        "P3BT-nws",
+        "crystallinity"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "A ternary organic solar cell system based on PTB7-Th:PC71BM achieved a power conversion efficiency (PCE) of 10.5% by incorporating 15 wt% of the small molecule p-DTS(FBTTh2)2, which improved the face-on orientation and crystallization of the donor polymer.",
+      "evidence": "Eventually, the device with 15 wt% p-DTS(FBTTH2)2 achieves the highest PCE of 10.5%... the incorporation of p-DTS(FBTTH2)2 could improve the crystallization of PTB7-Th... [and] has an improved face-on orientation.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "PCE",
+        "PTB7-Th",
+        "p-DTS(FBTTh2)2"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Adding a second acceptor component like ICBA or bis-PCBM into a fullerene-based binary blend can suppress the aggregation of PC71BM or PC61BM, resulting in smaller phase separation sizes and more stable morphology.",
+      "evidence": "the incorporation of ICBA into PTB7-Th:PC71BM blends could suppress the aggregation of fullerene derivative... it further hindered the close contract of C60 cores to form large clusters... this approach exhibited a highly stable morphology in high-temperature environment.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "ICBA",
+        "bis-PCBM",
+        "fullerene aggregation"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Resonant soft X-ray scattering (R-SoXS) is a critical characterization tool for ternary systems as it provides chemical differentiation and enhanced scattering contrast between organic components by tuning incident X-ray energy to near-edge resonances.",
+      "evidence": "resonant soft X-ray scattering (R-SoXS) provides a convenient route to observe enhanced scattering contrast and chemical differentiation by tuning the incident X-ray energy to a desired near-edge resonance... it can overcome the drawbacks, such as low contrast between/among different organic components.",
+      "complexity": "single-hop",
+      "keywords": [
+        "R-SoXS",
+        "scattering contrast",
+        "chemical differentiation"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "In the parallel-like model of ternary solar cells, the two donor or acceptor components form independent network structures, allowing excitons to dissociate at their respective interfaces and charges to transport through separate channels.",
+      "evidence": "The parallel-like model (Fig. 5a) is an important mechanism... the additional third component should form its own network structures independently... ternary solar cell could be considered as two individual sub-cells.",
+      "complexity": "single-hop",
+      "keywords": [
+        "parallel-like model",
+        "charge transport",
+        "independent networks"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The alloy model describes a ternary system where two electronically similar components (donors or acceptors) possess high miscibility and form a single mixed phase with averaged energy levels and open-circuit voltage (Voc).",
+      "evidence": "the third component formed a mixed phase with the pristine donor material or acceptor material for the alloy model... it requires that the two components possess excellent miscibility and compatibility to ensure the formation of the mixed phase.",
+      "complexity": "single-hop",
+      "keywords": [
+        "alloy model",
+        "miscibility",
+        "mixed phase"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Non-fullerene ternary solar cells using the conjugated polymer PDBT-T1 and two non-fullerene acceptors (SdiPBI-Se and ITIC-Th) achieved a high efficiency of 10.3% at an ITIC-Th ratio of 50% in the acceptor blend.",
+      "evidence": "Sun and coworkers reported a non-fullerene ternary solar cell with a conjugated polymer donor (PDBT-T1) and two non-fullerene acceptors (SdiPBI-Se and ITIC-Th)... A high efficiency of 10.3% was achieved at the ITIC-Th ratio of 50% in acceptor.",
+      "complexity": "single-hop",
+      "keywords": [
+        "non-fullerene",
+        "PDBT-T1",
+        "ITIC-Th"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Grazing incidence wide-angle X-ray scattering (GIWAXS) is used to determine the crystallinity and crystal orientation (in-plane and out-of-plane) of thin films in ternary organic solar cells with higher accuracy than traditional X-ray diffraction.",
+      "evidence": "grazing incidence wide-angle X-ray scattering (GIWAXS) is a refined 2D X-ray diffraction (XRD), which can give the in-plane information and out-of-plane information to provide more detailed and more accurate information of the crystallinity and crystal orientation.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "crystal orientation",
+        "2D X-ray diffraction"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Domain purity in BHJ active layers is critical for performance; high domain purity reduces bimolecular recombination and provides more efficient transmission channels for charge carriers.",
+      "evidence": "The high domain purity possesses excellent connectivity between donor/acceptor domain and anode/cathode... on the contrary, low domain purity resulting in poor connectivity not only hinders the charge transmission but also decreases the transfer efficiency due to the increased recombination rate.",
+      "complexity": "single-hop",
+      "keywords": [
+        "domain purity",
+        "charge recombination",
+        "connectivity"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 13628,
+    "completion_tokens": 3480,
+    "total_tokens": 17108
+  }
+}

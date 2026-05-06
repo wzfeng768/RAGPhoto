@@ -1,0 +1,140 @@
+{
+  "paper_id": "d1tc01729b",
+  "paper_title": "Pyrene-1,5,6,10-tetracarboxyl diimide: a new building block for high-performance electrontransporting polymers",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/d1tc01729b/auto/d1tc01729b.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The synthesis of 1,5,6,10-pyrene-tetracarboxyl diimide (PyDI) with six-membered rings was achieved by directing the ring-closure from the K-region (4,9-positions) to the non-K-region to avoid the formation of five-membered rings.",
+      "evidence": "Hence, a synthetic route featuring a ring-closure direction from the K- to non-K regions was subsequently investigated. This pathway necessarily entailed 4,9-bisfunctionalized pyrene derivatives as the precursor.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "1,5,6,10-PyDI",
+        "K-region",
+        "regioselectivity",
+        "ring-closure"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The 1,5,6,10-PyDI derivatives exhibit LUMO levels around -3.7 eV, which are 0.2 to 0.4 eV lower than previously reported pyrene diimide isomers featuring five-membered rings.",
+      "evidence": "The corresponding LUMO levels are determined to be around -3.7 eV for both PyDIs, which are lowered by 0.2 to 0.4 eV compared to those previously reported for other 1,5,6,10-PyDI isomers.",
+      "complexity": "single-hop",
+      "keywords": [
+        "LUMO",
+        "energy level engineering",
+        "pyrene diimide",
+        "electron deficiency"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Single-crystal X-ray diffraction of PyDI-C6 reveals a rigid and planar polycyclic scaffold with a short $\\pi-\\pi$ stacking distance of 3.20 Å and a slipped face-to-face packing motif.",
+      "evidence": "The single-crystal X-ray diffraction analysis clearly depicted the molecular structure of PyDI-C6 to possess a completely rigid and planar polycyclic scaffold... A short stacking distance of 3.20 Å evidences very strong π-π interactions among the molecules.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Single-crystal XRD",
+        "pi-pi stacking",
+        "molecular packing",
+        "planarity"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Regioselective dihalogenation of 1,5,6,10-PyDI occurs at the 3 and 8 positions in the non-K regions, allowing for the synthesis of regioregular conjugated polymers via cross-coupling.",
+      "evidence": "Moreover, this molecule undergoes regioselective dihalogenation to afford a 3,8-dibromosubstituted derivative, which may conveniently be incorporated into conjugated polymers via crosscoupling with suitable comonomers.",
+      "complexity": "single-hop",
+      "keywords": [
+        "regioselective bromination",
+        "3,8-dibromo-1,5,6,10-PyDI",
+        "monomer synthesis"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The conjugated polymer PyDI-TT, composed of alternating PyDI and bithiophene units, achieved an optimal electron mobility of 0.335 cm² V⁻¹ s⁻¹ in organic field-effect transistors.",
+      "evidence": "An optimal electron mobility of 0.335 cm² V⁻¹ s⁻¹ is achieved by PyDI-TT, which clearly demonstrates the potential of 1,5,6,10-PyDI as a potent building block.",
+      "complexity": "single-hop",
+      "keywords": [
+        "electron mobility",
+        "PyDI-TT",
+        "OFET",
+        "n-type semiconductor"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "1,5,6,10-PyDI-based polymers exhibit C–H···O hydrogen bonding between aromatic protons on the pyrene skeleton and imide carbonyl oxygen atoms, with measured distances of 2.5–2.6 Å.",
+      "evidence": "C-H-O type hydrogen bonding (H-bonding) interactions are observed between molecules from neighboring stacks... Short distances of 2.5-2.6 Å are measured between the aromatic protons on the pyrene skeleton and the imide carbonyl oxygen atoms.",
+      "complexity": "single-hop",
+      "keywords": [
+        "hydrogen bonding",
+        "intermolecular interactions",
+        "imide carbonyl"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The OFETs were fabricated in a top-gate/bottom-contact (TG/BC) configuration using a CYTOP fluoropolymer (ca. 500 nm thick) as the dielectric layer to protect the active layer from moisture and oxygen.",
+      "evidence": "Using an amorphous fluoropolymer (CYTOP, ca. 500 nm thick) as the dielectric layer and phenylethanethioltreated Au electrodes, a top-gate/bottom-contact (TG/BC) device configuration was used.",
+      "complexity": "single-hop",
+      "keywords": [
+        "TG/BC configuration",
+        "CYTOP",
+        "dielectric layer",
+        "device stability"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis of PyDI-TT thin films shows a $\\pi-\\pi$ stacking distance of 3.7 Å and a bimodal texture consisting of both edge-on and face-on crystallite orientations.",
+      "evidence": "For PyDI-TT... the π-π stacking distance calculated from the (010) peak is about 3.7 Å... long-range diffraction (h00) and π-π stacking (010) peaks are both observed in the out-of-plane direction, suggesting the mixed edge-on and face-on orientations.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "GIWAXS",
+        "bimodal orientation",
+        "crystallinity",
+        "pi-pi distance"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "PyDI-T and PyDI-TT polymers demonstrate high thermal stability with decomposition temperatures exceeding 400 °C as determined by thermogravimetric analysis (TGA).",
+      "evidence": "Thermogravimetric analyses (TGA) reveal the excellent thermal stability of the two polymers, with decomposition temperatures of over 400 °C.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "TGA",
+        "decomposition temperature"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "DFT calculations indicate that the PyDI-based polymers have improved backbone planarity compared to NDI and PDI analogues due to smaller calculated dihedral angles between the PyDI and thiophene units.",
+      "evidence": "Additionally, the dihedral angles between the PyDI and thiophene units in PyDI-T and PyDI-TT are calculated to be smaller compared to those exhibited by the NDI- and PDI-based polymer analogues, suggesting improved backbone planarity.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DFT",
+        "dihedral angle",
+        "backbone planarity",
+        "molecular simulation"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The electron mobility of PyDI-TT was optimized by annealing the thin films at 180 °C, which enhanced the current modulation to 10⁴–10⁵.",
+      "evidence": "Remarkably, upon annealing at 180 °C the thin film of PyDI-TT exhibits an electron mobility of up to 0.335 cm² V⁻¹ s⁻¹ with good current modulation (10⁴–10⁵).",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal annealing",
+        "optimization",
+        "current modulation"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 11477,
+    "completion_tokens": 3127,
+    "total_tokens": 14604
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "paper_id": "cao-et-al-2023-a-broad-spectrum-solid-additive-to-further-boost-high-efficiency-organic-solar-cells-",
+  "paper_title": "A Broad-Spectrum Solid Additive to Further Boost High-Efficiency Organic Solar Cells via Morphology Regulation",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/cao-et-al-2023-a-broad-spectrum-solid-additive-to-further-boost-high-efficiency-organic-solar-cells-via-morphology/auto/cao-et-al-2023-a-broad-spectrum-solid-additive-to-further-boost-high-efficiency-organic-solar-cells-via-morphology.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The design criteria for effective volatile solid additives in OSCs include a planar conjugated skeleton, suitable molecular size, symmetrical geometry, and proper halogenation to facilitate strong interactions and easy removal.",
+      "evidence": "newly explored volatile solid additive 2,5-dichlorothieno[3,2-b]thiophene (TT-Cl) is delicately explored, fully satisfying the design criteria of a planar conjugated skeleton with suitable molecular size, symmetrical geometry, and proper halogenation.",
+      "complexity": "single-hop",
+      "keywords": [
+        "solid additive",
+        "TT-Cl",
+        "molecular design",
+        "halogenation"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "TT-Cl is characterized as a volatile solid additive that can be rapidly removed from the active layer thin film during thermal annealing at 90 °C, which is a common processing temperature for OSCs.",
+      "evidence": "TT-Cl can be easily removed at a widely employed thermal annealing temperature of 90 °C during fabrication of OSCs (Figure 1b... A small amount of spin-coated TT-Cl thin film on silicon wafer can be rapidly removed after thermal annealing.",
+      "complexity": "single-hop",
+      "keywords": [
+        "volatile additive",
+        "thermal annealing",
+        "processing",
+        "TT-Cl"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Binary organic solar cells based on the PM6:Y6 system achieved a power conversion efficiency (PCE) of 18.20% when treated with the TT-Cl solid additive.",
+      "evidence": "Consequently, PM6:Y6-based binary and ternary OSCs achieved PCEs of 18.20% and 18.95% ,respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "PM6:Y6",
+        "binary OSC",
+        "efficiency"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Ternary organic solar cells using PM6:D18:Y6 treated with TT-Cl reached a power conversion efficiency of 18.95% with a fill factor (FF) of 79.01%.",
+      "evidence": "a much better PCE of 18.95% along with an exciting FF of 79.01% (Figure 2b and Table 1) was further realized by a ternary OSC employing an absorption complementary donor (D18...)",
+      "complexity": "single-hop",
+      "keywords": [
+        "ternary OSC",
+        "PCE",
+        "FF",
+        "PM6:D18:Y6"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The application of TT-Cl in PM6:CH23-based binary organic solar cells resulted in a record-breaking PCE of 18.72% for the CH series of acceptors.",
+      "evidence": "Moreover, PM6:CH23-based binary OSCs presented an outstanding PCE of 18.72%... which should be the record value for CHseries acceptors.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PM6:CH23",
+        "PCE",
+        "CH series",
+        "record efficiency"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "TT-Cl treatment enhances the molecular crystalline ordering of the Y6 acceptor, as evidenced by an increase in the UV-vis absorption intensity ratio (I0-0/I0-1) from 1.50 in neat films to 1.62 in treated films.",
+      "evidence": "The similar tendency can be even amplified for Y6 films, indicated by the significantly enlarged I0-0/I0-1 value of 1.62 after TT-Cl treatment (1.50 for Y6 films without TTCl), suggesting the greater ability of TT-Cl to tune molecular packing or micromorphology of Y6",
+      "complexity": "multi-hop",
+      "keywords": [
+        "molecular packing",
+        "UV-vis",
+        "Y6",
+        "crystalline ordering"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis shows that TT-Cl treatment increases the crystal coherence length (CCL) of Y6 in the (010) out-of-plane direction from 26.55 Å to 29.76 Å, confirming more ordered molecular packing.",
+      "evidence": "Note that an enlarged crystal coherence length (CCL) of 29.76 Å has been afforded by Y6 with TT-Cl compared to that of 26.55 Å for Y6 without TT-Cl (Table S17), which confirms the more ordered molecular packing",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "crystal coherence length",
+        "CCL",
+        "Y6"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The use of TT-Cl as a solid additive leads to more balanced charge transport in PM6:Y6 devices, with an electron-to-hole mobility ratio (μe/μh) of 1.03 compared to 1.36 for control devices.",
+      "evidence": "OSCs with TT-Cl afford both larger electron/hole mobilities... thus rendering a more balanced μe/μh ratio of 1.03 for OSCs with TT-Cl treatment compared to that of 1.36 for OSCs without TT-Cl.",
+      "complexity": "single-hop",
+      "keywords": [
+        "charge transport",
+        "carrier mobility",
+        "SCLC",
+        "mobility balance"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "AFM imaging reveals that TT-Cl treatment increases the average fibril diameter in PM6:Y6 blends from 10.1 nm to 16.1 nm, creating a superior interpenetrating fibrillar network.",
+      "evidence": "PM6:Y6 blend with TT-Cl possesses a relatively larger average fibril diameter of 16.1 nm than both 10.1 nm without additives... the suitable diameter (10-20 nm) of nanofibers has been verified to not only facilitate exciton dissociation and charge transport/collection dynamics but also suppress recombination",
+      "complexity": "multi-hop",
+      "keywords": [
+        "AFM",
+        "morphology",
+        "fibrillar network",
+        "nanofibers"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Time-of-flight secondary ion mass spectrometry (TOF-SIMS) indicates that TT-Cl treatment promotes the accumulation of the PM6 donor near the anode (PEDOT:PSS interface), which facilitates charge transport and suppresses recombination.",
+      "evidence": "a CN-/F- ratio of 1.03 was estimated in the region near hole-transport materials (PEDOT:PSs) for blended film with TT-Cl, slightly smaller than that of 1.12 for films without TTCl. This indicates the accumulation of PM6 near anodes after TT-Cl treating",
+      "complexity": "single-hop",
+      "keywords": [
+        "TOF-SIMS",
+        "vertical phase distribution",
+        "PM6",
+        "interface"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "OSCs treated with TT-Cl show improved thermal stability, maintaining over 93% of their initial PCE after 480 hours at 65 °C, whereas control devices without the additive dropped to 79%.",
+      "evidence": "the PCE of OSCs with TT-Cl could be maintained above 93% compared to their initial PCE after 480 h at 65 °C (Figure S27), which is much better than that of 79% for OSCs without TT-Cl.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "PCE maintenance",
+        "long-term stability"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "TT-Cl treatment reduces energy disorder in PM6:Y6 devices, as indicated by a decrease in Urbach energy (Eu) from 24.8 meV to 23.9 meV.",
+      "evidence": "A slightly smaller Urbach energy (Eu) of 23.9 meV for device with TT-Cl has also been afforded comparing to that of 24.8 meV for device without TT-Cl, revealing smaller energy disorders caused by more ordered molecular packing.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Urbach energy",
+        "energy disorder",
+        "FTPS-EQE"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 16400,
+    "completion_tokens": 3387,
+    "total_tokens": 19787
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "paper_id": "Advanced_Materials_-_2022_-_Andreev_-_Looking_Beyond_0_and_1_Principles_and_Technology_of_MultiValue",
+  "paper_title": "Looking Beyond 0 and 1: Principles and Technology of Multi-Valued Logic Devices",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Materials - 2022 - Andreev - Looking Beyond 0 and 1  Principles and Technology of Multi‐Valued Logic Devices/auto/Advanced Materials - 2022 - Andreev - Looking Beyond 0 and 1  Principles and Technology of Multi‐Valued Logic Devices.md",
+  "knowledge_points": [
+    {
+      "category": "Performance Metrics",
+      "content": "The optimal radix (R) for multi-valued logic computation is mathematically estimated as e (approximately 2.718), which is rounded to 3 for ternary systems to balance complexity reduction and device sophistication.",
+      "evidence": "Hurst analyzed the correlation between the system complexity (cost) and R and estimated the optimal R as e = 2.718, which becomes 3 when rounded to the nearest integer.",
+      "complexity": "single-hop",
+      "keywords": [
+        "radix",
+        "ternary logic",
+        "system complexity"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Transitioning from binary logic to higher-radix logics reduces system complexity to 63.1% for ternary, 50% for quaternary, and 43.1% for quinary systems.",
+      "evidence": "For example, transitions from binary logic to ternary, quaternary, and quinary logic are estimated to decrease the system complexity to 63.1%, 50%, and 43.1% of its original level, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ternary logic",
+        "quaternary logic",
+        "quinary logic",
+        "complexity reduction"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Organic heterojunction NDT devices can be fabricated using p-type dinaphtho[2,3-b;2',3'-f]thieno[3,2-b]thiophene (DNTT) and n-type N,N'-ditridecylperylenediimide (PTCDI-C13) through thermal evaporation.",
+      "evidence": "The authors demonstrated a heterojunction NDT device consisting of organic p-type dinaphtho [ 2 , 3 -b; 2' , 3' -f]thieno[3,2-b]thiophene (DNTT) and n-type N , N' -ditridecylperylenediimide (PTCDI-C13) fabricated by thermal evaporation.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DNTT",
+        "PTCDI-C13",
+        "organic heterojunction",
+        "thermal evaporation"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The Negative Differential Transconductance (NDT) phenomenon in DNTT/PTCDI-C13 organic stacks is attributed to a lateral band-to-band tunneling (BTBT) current that drops when the gate-to-source voltage approaches the drain-to-source voltage.",
+      "evidence": "At certain gate-to-source voltage values approaching the drain-to-source voltage, this additional BTBT current no longer contributed to ID resulting in the ID drop (NDT region, Figure 3i).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "BTBT",
+        "NDT",
+        "organic semiconductor",
+        "tunneling current"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Ternary CMOS (T-CMOS) devices utilize single-threshold voltage (VTH) transistors with a gate-voltage independent off-current region created by band-to-band tunneling at highly doped body-to-drain junctions.",
+      "evidence": "The VG independent off-current region was implemented as the BTBT current by introducing highly doped body-to-drain tunnel junctions into both p- and n-type T-CMOS devices.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "T-CMOS",
+        "BTBT",
+        "off-current",
+        "ternary logic"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "A hybrid organic-inorganic superlattice for ternary transistors consists of alternating ZnO composite nanolayers as channels and Al4MP (4-mercaptophenol with Al linkers) organic layers as separators.",
+      "evidence": "The proposed MVL devices were based on a hybrid organic-inorganic superlattice composed of alternating ZnO composite nanolayers (channels) and organic layers of Al4MP (4-mercaptophenol molecular layers with Al linkers) separating the ZnO channels",
+      "complexity": "single-hop",
+      "keywords": [
+        "ZnO",
+        "Al4MP",
+        "superlattice",
+        "hybrid materials"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "In ZnO-based ternary transistors, current saturation (Zero Differential Transconductance) occurs due to resonant energy matching between localized states in amorphous ZnO and quantized discrete states in ZnO quantum dots.",
+      "evidence": "They found a resonant energy matching between the localized states of a-ZnO and the quantized discrete states of ZnO QDs which lead to generation of conducting states with a low density of states (DOS) below the mobility edge of a-ZnO... The low-DOS conducting states naturally limit the current and result in the current saturation effect.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "quantum dots",
+        "ZDT",
+        "density of states",
+        "current saturation"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "T-CMOS technology has been demonstrated at a wafer-scale using commercial 130 and 90 nm CMOS foundries on 8-inch wafers, showing high processing compatibility.",
+      "evidence": "The wafer-scale T-CMOS was processed with commercial 130 and 90 nm CMOs foundries on 8 in. wafers (Figure 5b).",
+      "complexity": "single-hop",
+      "keywords": [
+        "T-CMOS",
+        "wafer-scale",
+        "CMOS foundry",
+        "fabrication"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Flexible organic standard ternary inverters (STIs) based on PhC2-BQQDI and C8-BTBT can tolerate tensile strains up to 1.25% and maintain stability over multiple bending cycles.",
+      "evidence": "The fabricated STIs tolerated tensile strains up to 1.25% and remained stable after multiple bending cycles (Figure 4i).",
+      "complexity": "single-hop",
+      "keywords": [
+        "flexible electronics",
+        "tensile strain",
+        "organic logic",
+        "stability"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The Quantum Dot Gate FET (QDGFET) achieves a stable middle logic state by embedding Si quantum dots into the gate dielectric, which traps carriers via resonant tunneling and continuously shifts the threshold voltage (VTH) during operation.",
+      "evidence": "During the VG sweep, the charge carriers could move from the inversion channel into the QDs in the gate dielectric region by resonant tunneling. It caused a continuous increase of VTH making the drain current ID... effectively constant within a range of VG.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "QDGFET",
+        "resonant tunneling",
+        "VTH shift",
+        "gate dielectric"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The MOssFET (multistate heterojunction transistor) uses a combination of two n-type semiconductors, PTCDI-C8 and solution-processed IGZO, to achieve multi-VTH operation through sequential activation of the layers.",
+      "evidence": "Lim et al. demonstrated a multistate heterojunction transistor (MOSSFET) with the channel composed of two n-type semiconductors, N,N' dioctyl-3,4,9,10-perylenedicarboximide(PTCDI-C8) and solution-processed indium-gallium-zinc oxide (IGZO).",
+      "complexity": "single-hop",
+      "keywords": [
+        "MOssFET",
+        "PTCDI-C8",
+        "IGZO",
+        "sequential activation"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Standard ternary inverters (STI) can be realized using NDT devices by matching the differential transconductance (gm matching) of the NDT device and the load in the region where the output voltage equals half of the supply voltage (VDD/2).",
+      "evidence": "In the NDT region, the differential transconductances Ω (gm = dID/dVG) of the NDT device and load are matched... therefore, VDD is equally divided between two devices (VOUT = VDD/2) within the NDT range forming an additional logic state (Logic 1).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "STI",
+        "gm matching",
+        "NDT",
+        "logic states"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 13778,
+    "completion_tokens": 3481,
+    "total_tokens": 17259
+  }
+}

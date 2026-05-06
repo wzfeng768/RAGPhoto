@@ -1,0 +1,75 @@
+{
+  "paper_id": "zhou-et-al-2019-hierarchical-morphology-stability-under-multiple-stresses-in-organic-solar-cells",
+  "paper_title": "Hierarchical Morphology Stability under Multiple Stresses in Organic Solar Cells",
+  "qa_pairs": [
+    {
+      "question": "What is the 'burn-in' loss phenomenon observed in organic solar cells, and what is its typical magnitude?",
+      "answer": "Burn-in loss refers to a rapid efficiency degradation that occurs during the initial hours of an organic solar cell's operation before it reaches a steady state of slower degradation. This initial loss typically ranges from 20% to 60% of the device's efficiency, depending on the active layer materials used.",
+      "category": "Stability & Degradation",
+      "source_title": "Hierarchical Morphology Stability under Multiple Stresses in Organic Solar Cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does increasing molecular order in organic blend films contribute to both thermal and photostability?",
+      "answer": "Increased molecular order enhances stability through two primary mechanisms: first, it 'freezes' the optimal morphology by inhibiting the diffusion of adjacent molecules, which improves thermal stability. Second, it helps exclude oxygen from the domains, which significantly decreases the photooxidation rate, thereby improving photostability.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Hierarchical Morphology Stability under Multiple Stresses in Organic Solar Cells",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Based on reported performance metrics, how do the lifetimes of nonfullerene-based and fullerene-based organic solar cells compare under different stress conditions?",
+      "answer": "Nonfullerene-based organic solar cells have demonstrated an excellent potential lifetime of up to 10 years under continuous illumination. In contrast, fullerene-based blends have shown good thermal stability for over 160 hours when subjected to high temperatures.",
+      "category": "Performance Metrics",
+      "source_title": "Hierarchical Morphology Stability under Multiple Stresses in Organic Solar Cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Explain the mechanical-optoelectronic trade-off regarding the domain structure of organic semiconductors.",
+      "answer": "There is a trade-off between charge transport efficiency and mechanical ductility. Crystalline domains are necessary to create interconnected paths for efficient electron and hole collection, but these regions are less flexible. Conversely, amorphous domains are required to dissipate mechanical stress and provide ductility, even though they can hinder charge transport.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Hierarchical Morphology Stability under Multiple Stresses in Organic Solar Cells",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What specific change in molecular orientation is associated with the inferior photostability of PBDB-T/ITIC devices under illumination?",
+      "answer": "The inferior photostability in PBDB-T/ITIC devices is attributed to a light-induced transformation of the ITIC molecular orientation. Specifically, the molecules shift from a more favorable 'face-on' orientation to an 'edge-on' orientation after illumination.",
+      "category": "Stability & Degradation",
+      "source_title": "Hierarchical Morphology Stability under Multiple Stresses in Organic Solar Cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the 'molecular lock' strategy improve the thermal stability of active layers containing fluorinated polymer donors?",
+      "answer": "The 'molecular lock' strategy involves using additives that form hydrogen bonds with the fluorine atoms on the polymer donors. This interaction effectively 'freezes' the morphology of the active layer, preventing structural changes and dramatically improving the device's thermal stability.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Hierarchical Morphology Stability under Multiple Stresses in Organic Solar Cells",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What is the function of the interfacial stabilizer PCB-C8oc in organic solar cell active layers?",
+      "answer": "PCB-C8oc acts as an interfacial stabilizer that distributes itself between the donor and acceptor molecules. Its role is to construct a robust donor/acceptor interface and prevent severe phase separation during the thermal annealing process.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Hierarchical Morphology Stability under Multiple Stresses in Organic Solar Cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Why do all-polymer solar cells generally exhibit better mechanical robustness than polymer:fullerene blends like PTB7-Th:PCBM?",
+      "answer": "All-polymer solar cells are more ductile because flexible polymer bridging chains create a large plastic zone at the crack tip, which effectively resists fracture. In contrast, polymer:fullerene blends like PTB7-Th:PCBM have weak interactions between the polymer-rich and PCBM-rich domains, resulting in a small plastic zone and a more brittle film.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Hierarchical Morphology Stability under Multiple Stresses in Organic Solar Cells",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2635,
+    "completion_tokens": 2472,
+    "total_tokens": 5107
+  }
+}

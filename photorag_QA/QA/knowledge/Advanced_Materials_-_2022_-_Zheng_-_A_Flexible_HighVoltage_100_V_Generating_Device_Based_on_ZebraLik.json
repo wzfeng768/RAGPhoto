@@ -1,0 +1,155 @@
+{
+  "paper_id": "Advanced_Materials_-_2022_-_Zheng_-_A_Flexible_HighVoltage_100_V_Generating_Device_Based_on_ZebraLik",
+  "paper_title": "A Flexible, High-Voltage (>100 V) Generating Device Based on Zebra-Like Asymmetrical Photovoltaic Cascade",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Materials - 2022 - Zheng - A Flexible  High‐Voltage   100 V  Generating Device Based on Zebra‐Like Asymmetrical/auto/Advanced Materials - 2022 - Zheng - A Flexible  High‐Voltage   100 V  Generating Device Based on Zebra‐Like Asymmetrical.md",
+  "knowledge_points": [
+    {
+      "category": "Processing & Fabrication",
+      "content": "A double self-alignment fabrication strategy uses the first layer of metal stripes (Gold) as a shading mask for backside UV exposure of photoresist, followed by oblique evaporation of a second metal (Aluminum) to create asymmetric bimetallic arrays.",
+      "evidence": "In essence, we used the first layer of metal stripes as shading mask for photoresist (1st self-alignment), then the pristine metal and isomorphic photoresist stripes were exploited to pattern the second type of metal through oblique evaporation (2nd self-alignment).",
+      "complexity": "single-hop",
+      "keywords": [
+        "double self-alignment",
+        "oblique evaporation",
+        "photolithography",
+        "asymmetric electrodes"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The diffraction effect during backside UV lithography causes the photoresist to recede 200-300 nm from the gold stripe edge, which is essential for allowing the second metal (Aluminum) to overlap with one side of the gold stripe while maintaining a channel on the other.",
+      "evidence": "Thanks to the diffraction effect, i.e., light could propagate around corners, the photoresist has receded 200-300 nm from the exact edge of gold... This phenomenon is critical for the successful realization of our design because the second metal of Al should directly connect to gold stripe at one of its two sides.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "diffraction effect",
+        "backside lithography",
+        "interelectrodic distance",
+        "self-alignment"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "A flexible photovoltaic module comprising 500 repeat units on a PET substrate generated an open-circuit voltage (Voc) of 140 V over a surface area of 5 x 4 mm².",
+      "evidence": "Such nanostructured composite, which covers a surface area of 5 × 4 mm2 and contains 500 periodic repeating units, is capable of photo generating voltages as high as 140 V on a flexible substrate.",
+      "complexity": "single-hop",
+      "keywords": [
+        "open-circuit voltage",
+        "flexible substrate",
+        "PET",
+        "high voltage"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The zebra-like photovoltaic device achieves a high electric potential generation per unit length of 350 V cm⁻¹.",
+      "evidence": "The electric potential generation per unit length reached values as high as 350 V cm−1.",
+      "complexity": "single-hop",
+      "keywords": [
+        "potential generation",
+        "voltage density",
+        "performance metric"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The use of PTCDI-C8 nanofibers instead of spin-coated P3HT/PCBM films reduces reverse leakage current because the carrier mobility in the nanofiber film decreases significantly as the channel length increases.",
+      "evidence": "For the PTCDI-C8 nanofibers film, the mobility in saturation region of the OFETs with ultralong channel lengths (1,000 μm) would decrease to 1/67 of the peak mobility in short channel transistor... In order to minimize the reverse current in between two electrodes under high voltage, we need a semiconductor layer, in which the electrical conductivity markedly decreases with the distance.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "nanofibers",
+        "reverse leakage current",
+        "carrier mobility",
+        "PTCDI-C8"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "In P3HT/PTCDI-C8 planar heterojunction devices, the open-circuit voltage is positively correlated with the area fraction of the gold electrode; increasing the Au/P3HT area ratio from 20% to 80% raised the Voc from 5 V to 23 V for 100 repeat units.",
+      "evidence": "Specifically, when the composition ratio of gold to aluminum is 20-80% or vice versa, the resulting Voc amounts to 5 and 23 V, respectively (Figure 4c). Such an outcome demonstrates that the heterogeneous interface for excitons separation plays a vital role.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "electrode area ratio",
+        "open-circuit voltage",
+        "planar heterojunction",
+        "P3HT"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The output voltage of the P3HT-based flexible devices increases upon exposure to air due to the oxidative doping of the P3HT active layer.",
+      "evidence": "Not surprisingly, the output voltage continued to increase under illumination in air and finally reached ≈140 V, thanks to the achieved greater level of doping (Figure 3b). Further experiments showed that the phenomenon of photovoltaic voltage enhancement upon aging should originate from the oxidative doping of P3HT.",
+      "complexity": "single-hop",
+      "keywords": [
+        "oxidative doping",
+        "P3HT",
+        "air stability",
+        "voltage enhancement"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The flexible photovoltaic generators demonstrate mechanical robustness, maintaining over 90% of their output voltage after 500 bending cycles over a 32 mm diameter cylinder.",
+      "evidence": "After 500 bending cycles over a 32 mm diameter cylinder, the output voltage dropped by <10% (Figure 3c). ... It reveals three different bending modes... the output voltage could remain above 90% when the device is bent.",
+      "complexity": "single-hop",
+      "keywords": [
+        "bending durability",
+        "mechanical robustness",
+        "flexible electronics",
+        "fatigue test"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The device utilizes a work function difference between Gold (5.10 eV) and Aluminum (4.28 eV) to create the asymmetric driving force for charge carrier separation in the lateral cascade.",
+      "evidence": "In this work, we selected gold and aluminum to construct periodic and asymmetrical Janus structures (Figure 1b) in view of their large work function difference (e.g., Au 5.10 eV and Al 4.28 eV).",
+      "complexity": "single-hop",
+      "keywords": [
+        "work function",
+        "Gold",
+        "Aluminum",
+        "Janus structure"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Photoresponsivity (R) spectrum analysis confirms that both the p-type (P3HT) and n-type (PTCDI-C8) components contribute to the total photovoltaic effect, with peaks corresponding to the absorption spectra of both materials.",
+      "evidence": "It can be deduced that both the p-type and n-type components in the PHJs have contributed to the total photovoltaic effect as evidenced by the wavelength dependence, with best response observed at the absorption peaks of PTCDI-C8 and P3HT.",
+      "complexity": "single-hop",
+      "keywords": [
+        "photoresponsivity",
+        "UV-vis absorbance",
+        "spectral response",
+        "P3HT"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Aluminum acts as a recombination center in bulk heterojunction (BHJ) devices like P3HT/PCBM because it neutralizes both electrons and holes, leading to a performance degradation as the Aluminum area ratio increases.",
+      "evidence": "Since aluminum can neutralize both electrons and holes in organic semiconductors, it would serve as recombination center if contacting simultaneously p-type and n-type semiconductors. Therefore, in bulk heterojunction-based cascade device made of P3HT/PCBM, the increase of aluminum content is detrimental to the device performance.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "recombination center",
+        "Aluminum",
+        "bulk heterojunction",
+        "P3HT/PCBM"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "A hierarchical self-assembly process involving dropping PTCDI-C8 nanowires onto a water surface and compressing them with ethyl acetate/PVP solution allows for the formation of uniform nanofiber films with nearly 100% coverage.",
+      "evidence": "Finally, the PTCDI-C8 NWs being dispersed in hexane/ethanol was dropped onto water surface to form floating fibrous film, which was compressed by the droplets of the ethyl acetate (EAc) solution... Highly uniform nanofibers films with almost 100% coverage could be achieved.",
+      "complexity": "single-hop",
+      "keywords": [
+        "hierarchical self-assembly",
+        "nanofiber film",
+        "PTCDI-C8",
+        "surface compression"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 13396,
+    "completion_tokens": 3092,
+    "total_tokens": 16488
+  }
+}

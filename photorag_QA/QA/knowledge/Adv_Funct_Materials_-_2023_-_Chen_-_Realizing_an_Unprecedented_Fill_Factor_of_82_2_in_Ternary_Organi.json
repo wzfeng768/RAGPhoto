@@ -1,0 +1,137 @@
+{
+  "paper_id": "Adv_Funct_Materials_-_2023_-_Chen_-_Realizing_an_Unprecedented_Fill_Factor_of_82_2_in_Ternary_Organi",
+  "paper_title": "Realizing an Unprecedented Fill Factor of 82.2% in Ternary Organic Solar Cells via Co-Crystallization of Non-Fullerene Acceptors",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Adv Funct Materials - 2023 - Chen - Realizing an Unprecedented Fill Factor of 82 2  in Ternary Organic Solar Cells via/auto/Adv Funct Materials - 2023 - Chen - Realizing an Unprecedented Fill Factor of 82 2  in Ternary Organic Solar Cells via.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Three thiophene-terminated non-fullerene acceptors (NFAs) named BTP-ThMe, BTP-ThCl, and BTP-ThMeCl were synthesized by varying methyl and chlorine substitutions on the 2-(6-oxo-5,6-dihydro-4H-cyclopenta[c]thiophen-4-ylidene)malononitrile (CPTCN) end-groups.",
+      "evidence": "In this study, three thiophene terminated non-fullerene acceptors (NFAs) with methyl or chlorine substitutions on their end-groups are designed and synthesized... namely BTP-ThMe, BTP-ThCl, and BTP-ThMeCl.",
+      "complexity": "single-hop",
+      "keywords": [
+        "BTP-ThMeCl",
+        "thiophene-terminated NFAs",
+        "end-group substitution"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The ternary organic solar cell based on PM6:L8-BO:BTP-ThMeCl achieved a record fill factor (FF) of 82.2% and a maximum power conversion efficiency (PCE) of 19.1%.",
+      "evidence": "...consequently realizing a maximum power conversion efficiency of 19.1% with a superior FF of 82.2%, which is the highest FF reported so far for OSCs.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "fill factor",
+        "19.1%",
+        "82.2%"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Chlorine substitution in the CPTCN group plays a dominant role in narrowing the optical bandgap to approximately 1.39 eV and lowering the HOMO/LUMO levels to around -5.70/-3.80 eV, compared to methyl substitution.",
+      "evidence": "When chlorine was introduced into the CPTcN group either with or without the presence of methyl, all films show a narrowed bandgap of ≈ 1.39 eV with almost the same LUMO/HOMO values of around -3.80/-5.70 eV, suggesting that the chlorine substitution plays a determining role in their bandgap and energy levels.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "chlorine substitution",
+        "bandgap",
+        "energy levels",
+        "HOMO/LUMO"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "BTP-ThMeCl exhibits a compact 3D honeycomb charge transport network due to the coexistence of 'Z' shaped D-D, 'S' shaped A-A, and 'F' shaped A-D molecular dimers, which is analogous to the packing of the host acceptor L8-BO.",
+      "evidence": "While BTP-ThMe and BTP-ThCl have limited forms of dimer, versatile molecular dimers, including 'Z' shaped D-D, 'S' shaped A-A, and 'F' shaped A-D packings exist in BTP-ThMeCl, which lead to the formation of compact 3D honey-comb network and this is analogous to the host acceptor L8-BO.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "molecular packing",
+        "honeycomb network",
+        "dimers",
+        "L8-BO"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The ternary solar cells utilize a cascade energetic structure where the third component NFAs (BTP-ThMe, BTP-ThCl, or BTP-ThMeCl) are positioned between the energy levels of the PM6 donor and L8-BO host acceptor, facilitating charge transport.",
+      "evidence": "It is clear that all NFAs show a cascade energetic structure within the host blend, which might be beneficial for facilitating charge transport in the ternary blends.",
+      "complexity": "single-hop",
+      "keywords": [
+        "cascade energy levels",
+        "charge transport",
+        "ternary blend"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Grazing-incidence wide-angle X-ray scattering (GIWAXS) analysis shows that BTP-ThMeCl enhances the (021) and (11-1) diffraction peaks of L8-BO in ternary films, indicating synergetic co-crystallization.",
+      "evidence": "BTP-ThMeCl greatly elevates the diffraction intensity of the (021) and (11-1) peaks... the synergetic molecular packing of BTP-ThMeCl may trigger the co-crystallization of BTP-ThMeCl and L8-BO at the molecular level.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "co-crystallization",
+        "diffraction peaks"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Differential scanning calorimetry (DSC) measurements confirm that BTP-ThMeCl and L8-BO form co-crystals at the molecular level because the measured melting temperatures (Tm) match the calculated values across all blending ratios.",
+      "evidence": "the measured and calculated values in the BTP-ThMeCl:L8-BO blends agree well in all ratios without any deviation. This suggests that... BTP-ThMeCl and L8-BO can form co-crystals at the molecular level.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "DSC",
+        "melting temperature",
+        "molecular co-crystals"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The optimized ternary organic solar cell was fabricated by incorporating 20 wt% of the third component NFA into the PM6:L8-BO host binary blend.",
+      "evidence": "When 20 wt.% of BTP-ThMe, BTP-ThCl, and BTP-ThMeCl were added into the PM6:L8-BO blends respectively to fabricate ternary OSCs...",
+      "complexity": "single-hop",
+      "keywords": [
+        "ternary ratio",
+        "20 wt%",
+        "fabrication"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GISAXS fitting using Debye-Anderson-Brumberger and Flexible Cylinder models reveals that adding BTP-ThMeCl to the PM6:L8-BO blend increases the fibril length to 60.4 nm and reduces the diameter to 3.3 nm.",
+      "evidence": "the addition of those three thiophene terminated NFAs all stimulated prolonged fibril length, to... 60.4 nm in... BTP-ThMeCl based ternary films. The diameters... reduced to 3.3 nm in PM6:L8-BO:BTP-ThMeCl film.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GISAXS",
+        "fibril length",
+        "fibril diameter",
+        "morphology"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "DFT calculations indicate that BTP-ThMeCl possesses a larger dihedral angle (5.2°/9.2°) compared to BTP-ThMe and BTP-ThCl due to increased steric hindrance from dual substitution, which may assist in 3D molecular packing.",
+      "evidence": "these values increased to 5.2°/9.2° in the dual-substituted BTP-ThMeCl due to the increased steric hindrance between the substituents and cyano-group... the larger dihedral angles of BTP-ThMeCl might also be helpful for molecular packings in three dimensions.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DFT",
+        "dihedral angle",
+        "steric hindrance"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Thiophene-terminated NFAs contribute to low non-radiative voltage loss (approximately 0.2 V) in binary and ternary organic solar cells, which benefits overall device performance.",
+      "evidence": "These binary OSCs all obtained promising Voc with extremally low non-radiative voltage loss (Vloss non-rad) of ≈ 0.2 V... confirming the superiority of the thiophene terminated NFAs for suppressing the non-radiative voltage loss.",
+      "complexity": "single-hop",
+      "keywords": [
+        "non-radiative voltage loss",
+        "Vloss",
+        "thiophene termination"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 12590,
+    "completion_tokens": 3105,
+    "total_tokens": 15695
+  }
+}

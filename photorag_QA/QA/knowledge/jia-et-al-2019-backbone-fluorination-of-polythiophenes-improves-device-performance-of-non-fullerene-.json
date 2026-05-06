@@ -1,0 +1,155 @@
+{
+  "paper_id": "jia-et-al-2019-backbone-fluorination-of-polythiophenes-improves-device-performance-of-non-fullerene-",
+  "paper_title": "Backbone Fluorination of Polythiophenes Improves Device Performance of Non-Fullerene Polymer Solar Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/jia-et-al-2019-backbone-fluorination-of-polythiophenes-improves-device-performance-of-non-fullerene-polymer-solar-cells/auto/jia-et-al-2019-backbone-fluorination-of-polythiophenes-improves-device-performance-of-non-fullerene-polymer-solar-cells.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "A series of polythiophenes (P6T-Fx) was synthesized with varying fluorination degrees (0%, 50%, 75%, and 100%) by adjusting the feed ratios of 3,3'-difluoro-2,2'-bithiophene (2F-TT) and 2,2'-bithiophene (TT) units during Stille cross-coupling polymerization.",
+      "evidence": "The target polymers were synthesized via Stille cross-coupling polymerization... The fluorination degree of the polymers was controlled by adjusting the feed ratios of compounds 3 and 4. The molar percentages of the 2F-TT unit were 0, 50%, 75% and 100% for P6T-F00, P6T-F50, P6T-F75, and P6T-F100, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Stille cross-coupling",
+        "polythiophenes",
+        "fluorination degree",
+        "backbone engineering"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The power conversion efficiency (PCE) of P6T-Fx:EH-IDTBR solar cells increases from 4.3% for the non-fluorinated P6T-F00 to a champion value of 7.3% for the fully fluorinated P6T-F100.",
+      "evidence": "These positive factors collectively result in dramatically improved power conversion efficiency from 4.3% for P6T-F00:EH-IDTBR to 7.3% for P6T-F100:EH-IDTBR.",
+      "complexity": "single-hop",
+      "keywords": [
+        "power conversion efficiency",
+        "PCE",
+        "P6T-F100",
+        "EH-IDTBR"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Backbone fluorination in polythiophenes significantly enhances the relative dielectric constant (εr), which increases for both neat films and P6T-Fx:EH-IDTBR blend films as the fluorine content rises.",
+      "evidence": "Moreover, the relative dielectric constant εr has been increased for both pure P6T-Fx films and P6T-Fx:EH-IDTBR blend films along with increasing fluorination degree.",
+      "complexity": "single-hop",
+      "keywords": [
+        "dielectric constant",
+        "fluorination",
+        "εr",
+        "charge separation"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The exciton binding energy of the charge-transfer state in P6T-Fx:EH-IDTBR blends decreases from 0.40 eV (P6T-F00) to 0.24 eV (P6T-F100) due to the increased dielectric constant associated with higher fluorination.",
+      "evidence": "The exciton binding energy reduces significantly with the increase of fluorine content, which is 0.40, 0.28, 0.26, and 0.24 eV for the blend based on P6T-F00, P6T-F50, P6T-F75, and P6T-F100, respectively.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "exciton binding energy",
+        "dielectric constant",
+        "fluorination",
+        "charge transfer state"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Increasing the fluorination degree in P6T-Fx polymers leads to a significant extension of the charge carrier lifetime, from 8.79 μs for P6T-F00 to 49.10 μs for P6T-F100 in blend films.",
+      "evidence": "the TPV results (Figure 6d) show that the charge carrier lifetime increases along with the fluorination degree, which is 8.79, 12.68, 21.50, and 49.10 μs for the blends based on P6T-F00, P6T-F50, P6T-F75, and P6T-F100, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "carrier lifetime",
+        "transient photovoltage",
+        "TPV",
+        "fluorination"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Backbone fluorination deepens the HOMO energy levels of the P6T-Fx series by over 0.3 eV compared to P3HT (~ -4.93 eV), resulting in higher open-circuit voltages (Voc ~ 1.0 V) in non-fullerene PSCs.",
+      "evidence": "the HOMO energy levels of P6T-Fx deepen over 0.3 eV compared to that of P3HT, which will allow for a higher Voc in resulting PSCs... The devices offer similar Voc at around 1.0 V.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "HOMO level",
+        "open-circuit voltage",
+        "P3HT",
+        "Voc"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis reveals that the edge-on (010) π-stacking crystallite coherence length (CCL010) of neat P6T-Fx films increases from 33.31 Å (F00) to 46.08 Å (F100) with higher fluorination degrees.",
+      "evidence": "The edge-on (010) π-stacking crystallite coherence length (CCL010) values... increased gradually in the following order: P6T-F00 (33.31 Å), P6T-F50 (35.01 Å), P6T-F75 (40.27 Å), and P6T-F100 (46.08 Å).",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "crystallite coherence length",
+        "CCL",
+        "molecular packing"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "As the fluorination degree increases in P6T-Fx polymers, their solubility in chlorinated solvents at room temperature decreases, requiring hot chlorinated aromatics for processing the highly fluorinated P6T-F75 and P6T-F100.",
+      "evidence": "P6T-F00 is soluble in chloroform and chlorinated aromatics at room temperature... the two more fluorinated polymers P6T-F75 and P6T-F100 are only soluble in hot chlorinated aromatics.",
+      "complexity": "single-hop",
+      "keywords": [
+        "solubility",
+        "processing",
+        "chlorinated solvents",
+        "aggregation"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "DFT calculations at the B3LYP/6-31G(d) level indicate that fluorination improves backbone coplanarity, reducing the dihedral angle from 11.5° in the bithiophene (TT) unit to 0° in the 3,3'-difluoro-2,2'-bithiophene (2F-TT) unit.",
+      "evidence": "the dihedral angle at the minimum-energy state reduces from 11.5° for 2,2' bithiophene (TT) unit to 0° for 3,3'-difluoro-2,2' bithiophene (2F-TT), indicating the enhancement of coplanarity in the fluorinated polymers.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DFT",
+        "dihedral angle",
+        "coplanarity",
+        "bithiophene"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The hole mobility (μh) of neat P6T-Fx films increases by nearly two orders of magnitude upon fluorination, rising from 8.66 × 10⁻⁵ cm² V⁻¹ s⁻¹ for P6T-F00 to 2.82 × 10⁻³ cm² V⁻¹ s⁻¹ for P6T-F100.",
+      "evidence": "In neat films, the hole mobility (μh) is enhanced from 8.66 × 10⁻⁵ cm² V⁻¹ s⁻¹ for P6T-F00 to 2.82 × 10⁻³ cm² V⁻¹ s⁻¹ for P6T-F100.",
+      "complexity": "single-hop",
+      "keywords": [
+        "hole mobility",
+        "SCLC",
+        "charge transport",
+        "fluorination"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The P6T-F100:EH-IDTBR blend film forms a well-dispersed fibrillar structure with bicontinuous interpenetrating networks, which contrasts with the homogeneous, poorly phase-separated morphology of the P6T-F00:EH-IDTBR blend.",
+      "evidence": "the P6T-F00:EH-IDTBR blend film is quite homogeneous without distinct phase separation... In contrast, well-dispersed fibrillar structure with bicontinuous interpenetrating networks is obtained in P6T-F100:EHIDTBR blend.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "morphology",
+        "TEM",
+        "fibrillar structure",
+        "phase separation"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The P6T-F100:EH-IDTBR device exhibits suppressed bimolecular recombination (α = 1.00) and reduced trap-assisted recombination (slope = 1.34 kBT/q) compared to the non-fluorinated P6T-F00 counterpart (α = 0.95, slope = 1.93 kBT/q).",
+      "evidence": "The α values are 0.95, 0.97, 0.99, and 1.00 for the devices of P6T-F00, P6T-F50, P6T-F75, and P6T-F100... The slope for the devices... is calculated to be 1.93, 1.68, 1.52, and 1.34 kBT/q.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "bimolecular recombination",
+        "trap-assisted recombination",
+        "light intensity dependence"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 16386,
+    "completion_tokens": 3866,
+    "total_tokens": 20252
+  }
+}

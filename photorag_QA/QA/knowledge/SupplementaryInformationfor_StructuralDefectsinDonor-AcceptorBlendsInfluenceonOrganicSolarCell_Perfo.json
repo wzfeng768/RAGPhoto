@@ -1,0 +1,108 @@
+{
+  "paper_id": "SupplementaryInformationfor_StructuralDefectsinDonor-AcceptorBlendsInfluenceonOrganicSolarCell_Perfo",
+  "paper_title": "Supplementary Information for “Structural Defects in Donor-Acceptor Blends: Influence on Organic Solar Cell Performance”",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/SupplementaryInformationfor StructuralDefectsinDonor-AcceptorBlendsInfluenceonOrganicSolarCell Performance/auto/SupplementaryInformationfor StructuralDefectsinDonor-AcceptorBlendsInfluenceonOrganicSolarCell Performance.md",
+  "knowledge_points": [
+    {
+      "category": "Device Architecture & Physics",
+      "content": "In ITO/DCV5T-Me:C60/Al devices, the parallel shift of capacitance-frequency (C-f) spectra with varying blend thickness indicates that the devices are completely depleted and that the observed step-like capacitance originates from trap states.",
+      "evidence": "C-f spectra shift parallel to each other, indicating that the devices are completely depleted and the step-like capacitance is due to trap states. The dashed line marks the geometrical capacitance.",
+      "complexity": "single-hop",
+      "keywords": [
+        "completely depleted",
+        "capacitance-frequency",
+        "trap states",
+        "DCV5T-Me:C60"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Simulated organic solar cell performance degrades significantly as trap density (Nt) increases; for instance, increasing Nt from 0 to 1.0 x 10^17 cm^-3 causes the open-circuit voltage (Voc) to drop from 0.95 V to 0.82 V and the fill factor (FF) to drop from 80.6% to 50.0%.",
+      "evidence": "TABLE I. Fingerprints of the simulated IV curves... Nt (cm-3) 0, Voc (V) 0.95, FF (%) 80.6... Nt (cm-3) 1.0 10^17, Voc (V) 0.82, FF (%) 50.0.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "trap density",
+        "open-circuit voltage",
+        "fill factor",
+        "performance degradation"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The trap density of states (DOS) for a 1:1 DCV5T-Me:C60 blend (100 nm) can be modeled with a Gaussian fit centered at an energy (Et) of 484 meV, with a total trap density (Nt) of 5 x 10^14 cm^-3 and a disorder width (sigma_t) of 41 meV.",
+      "evidence": "The black dashed line is a Gaussian fit for the peak using Et = 484 meV, Nt = 5e14 cm-3, sigma_t = 41 meV.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Trap DOS",
+        "DCV5T-Me:C60",
+        "trap energy",
+        "Gaussian fit"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Spiro-TTB is utilized as a buffer layer in organic solar cell stacks to prevent electrical shunts without introducing additional trap states, as confirmed by Thermally Stimulated Current (TSC) measurements.",
+      "evidence": "Spiro-TTB was used to prevent shunts. TSC measurements showed no trap states in Spiro-TTB.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Spiro-TTB",
+        "shunts",
+        "Thermally Stimulated Current",
+        "buffer layer"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Pure C60 films (50 nm) exhibit a trap density of states peak at an energy (Et) of 105 meV with a trap density (Nt) of 1.8 x 10^15 cm^-3 and a Gaussian width (sigma_t) of 36 meV.",
+      "evidence": "The black dashed line is a Gaussian fit for the peak using Et = 105 meV, Nt = 1.8 e15 cm-3... and sigma_t = 36 meV.",
+      "complexity": "single-hop",
+      "keywords": [
+        "C60",
+        "trap energy",
+        "trap density",
+        "Gaussian width"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Lowering the temperature during capacitance-frequency measurements facilitates the identification of trap states by shifting the trap response to lower frequencies, making the transition from geometrical capacitance to trap capacitance more distinct.",
+      "evidence": "At lower temperatures, the transition from geometrical to trap capacitance becomes clear due to the shift of the trap response to lower frequencies.",
+      "complexity": "single-hop",
+      "keywords": [
+        "C-f spectra",
+        "temperature dependence",
+        "geometrical capacitance",
+        "trap response"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The built-in voltage (Vbi) for ITO/C60/BPhen/Al devices is approximately 0.5 V, determined by the difference between the work function of ITO and the onset of the C60 LUMO, facilitated by the BPhen layer improving the electron contact.",
+      "evidence": "we use Vbi of 0.5 V as defined by the difference between work functions of ITO and the onset of the C60 LUMO, as the electron contact was improved by the BPhen",
+      "complexity": "single-hop",
+      "keywords": [
+        "built-in voltage",
+        "BPhen",
+        "C60 LUMO",
+        "ITO work function"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Exposure of DCV5T-Me:C60 devices to 1 mbar of air for 4 days results in observable changes in the capacitance-frequency (C-f) curves, indicating an alteration in the trap environment even when kept in the dark.",
+      "evidence": "FIG. 4. C-f curves for ITO/DCV5T-Me:C60 130 nm/Al device degraded in two steps: first, for 4 days in 1 mbar air pressure... Samples were kept in the dark during degradation and measurement.",
+      "complexity": "single-hop",
+      "keywords": [
+        "degradation",
+        "air exposure",
+        "C-f curves",
+        "photostability"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2197,
+    "completion_tokens": 2541,
+    "total_tokens": 4738
+  }
+}

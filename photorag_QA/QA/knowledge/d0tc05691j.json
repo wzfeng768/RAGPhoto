@@ -1,0 +1,133 @@
+{
+  "paper_id": "d0tc05691j",
+  "paper_title": "Ternary organic solar cells with 16.88% efficiency enabled by a twisted perylene diimide derivative to enhance the open-circuit voltage",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/d0tc05691j/auto/d0tc05691j.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Cor-T-PDI is a newly designed PDI-tetramer featuring a large, planar coronene core and four peripheral PDI units linked via thiophene rings, resulting in a 3D-star 'core-arm' configuration.",
+      "evidence": "In this study, we designed and synthesized a new slightly twisted perylene diimide (PDI)-tetramer with a large, planar coronene unit as the core, Cor-T-PDI... The thiophene rings that act as a bridge between the coronene core and peripheral PDI units are almost perpendicular to both the coronene and PDI planes.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Cor-T-PDI",
+        "coronene core",
+        "PDI-tetramer",
+        "molecular design"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The synthesis of Cor-T-PDI utilizes an Ir-catalyzed C–H activation for the direct borylation of unbrominated coronene to produce tetrakis(Bpin)coronene, followed by Suzuki coupling with brominated PDI-thiophene intermediates.",
+      "evidence": "Therefore, herein we synthesized compound 2 via the direct borylation of unbrominated coronene via an Ir-catalyzed C–H activation... A further Suzuki coupling reaction between compounds 1 and 3 in a molar ratio of 1 : 6 afforded the desired four-armed molecule Cor-T-PDI.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "C-H activation",
+        "borylation",
+        "Suzuki coupling",
+        "synthesis"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The optimized ternary OSC based on PM6:Y6:Cor-T-PDI (1:1.0:0.1 ratio) achieved a power conversion efficiency (PCE) of 16.88%, a short-circuit current density (Jsc) of 26.16 mA cm⁻², an open-circuit voltage (Voc) of 0.854 V, and a fill factor (FF) of 75.53%.",
+      "evidence": "After tuning the PM6 : Y6 : Cor-T-PDI ratio to 1 : 1.0 : 0.1, the Voc value was significantly increased to 0.854 V without sacrificing the short-circuit current density (Jsc) and fill factor (FF), resulting in a high PCE of 16.88%",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "16.88%",
+        "Voc",
+        "Jsc",
+        "ternary OSC"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Cor-T-PDI exhibits four quasi-degenerate LUMOs due to the limited electronic communication between the coronene core and the peripheral PDI units, a feature that contributes to increasing the Voc in ternary devices.",
+      "evidence": "the four quasi-degenerate LUMOs show little energy difference between them. Based on a recent study by Huang et al., Cor-T-PDI was expected to significantly improve the efficiency of the PM6:Y6 binary system through enhancing the Voc value as a guest acceptor.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "quasi-degenerate LUMOs",
+        "Voc enhancement",
+        "electronic communication"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The LUMO energy level of Cor-T-PDI is -3.78 eV, which sits between the LUMO of the donor PM6 (-3.61 eV) and the acceptor Y6 (-4.11 eV), facilitating a cascade energy level alignment.",
+      "evidence": "The LUMO energy (-3.78 eV) of Cor-T-PDI lies between the LUMO energies of the donor PM6 (-3.61 eV) and the acceptor Y6 (-4.11 eV). Clearly, adding Cor-T-PDI as a third component brings about a cascade-like LUMO energy level alignment",
+      "complexity": "single-hop",
+      "keywords": [
+        "LUMO",
+        "energy level alignment",
+        "cascade",
+        "PM6",
+        "Y6"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The energy loss in the PM6:Y6:Cor-T-PDI ternary system was reduced to 0.47 eV, compared to 0.49 eV in the PM6:Y6 binary system, primarily due to the increased Voc.",
+      "evidence": "resulting in a high PCE of 16.88% with a low energy loss (0.47 eV)... The optimal PM6:Y6 reference binary devices exhibit... a maximum PCE of 15.93% with an energy loss of 0.49 eV.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "energy loss",
+        "0.47 eV",
+        "Voc",
+        "recombination"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "SCLC measurements revealed that pure Cor-T-PDI has a low electron mobility of 3.65 × 10⁻⁶ cm² V⁻¹ s⁻¹, while the optimized ternary blend showed slightly enhanced and balanced mobilities (electron mobility of 8.34 × 10⁻⁴ and hole mobility of 5.31 × 10⁻⁴ cm² V⁻¹ s⁻¹).",
+      "evidence": "pure Cor-T-PDI shows a very low electron mobility (3.65 × 10⁻⁶ cm² V⁻¹ s⁻¹)... As for the optimal ternary blend with the addition of 0.1Cor-T-PDI by weight, the electron mobility increased to 8.34 × 10⁻⁴ cm² V⁻¹ s⁻¹ and the hole mobility increased to 5.31 × 10⁻⁴ cm² V⁻¹ s⁻¹.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "SCLC",
+        "electron mobility",
+        "hole mobility",
+        "charge transport"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis indicated that the PM6:Y6:Cor-T-PDI ternary blend maintains a dominant face-on orientation, similar to the binary PM6:Y6 blend, but with stronger intensity at the lamellar peaks.",
+      "evidence": "the ternary PM6:Y6:Cor-T-PDI (1.00 : 1.10 : 0.10) blend film exhibits almost the same molecular orientation, but stronger intensity at the lamellar peaks, which is probably responsible for a slight enhancement in charge transport",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "face-on orientation",
+        "crystallinity",
+        "lamellar peaks"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The OSC devices were fabricated using a conventional structure of ITO/PEDOT:PSS/active layer/PFN-Br/Ag, with the active layer spin-coated from a chloroform (CHCl₃) solution.",
+      "evidence": "PM6, a high-performance polymer donor, was used to fabricate binary OSCs using a conventional ITO/PEDOT/active layer/PFN-Br/Ag device configuration... the photoactive layer was a blend of PM6 and Cor-T-PDI in a ratio of 1 : 1.20, which was spin-coated from CHCl3 solution.",
+      "complexity": "single-hop",
+      "keywords": [
+        "device structure",
+        "chloroform",
+        "spin-coating",
+        "PFN-Br"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Cor-T-PDI shows heavy solvent polarity dependence in its emission spectra, with significant quenching in polar solvents, suggesting a charge separation (CS) process between the coronene core and PDI units.",
+      "evidence": "the emissions of Cor-T-PDI showed heavy solvent polarity dependence. The emission was significantly quenched as the polarity increased, suggesting effective nonradioactive decay channel in polar solvents, and, most probably, a charge separation process.",
+      "complexity": "single-hop",
+      "keywords": [
+        "fluorescence quenching",
+        "solvent polarity",
+        "charge separation",
+        "coronene"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 13781,
+    "completion_tokens": 3111,
+    "total_tokens": 16892
+  }
+}

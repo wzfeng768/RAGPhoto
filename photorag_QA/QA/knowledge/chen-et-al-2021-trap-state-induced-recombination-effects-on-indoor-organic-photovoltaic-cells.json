@@ -1,0 +1,134 @@
+{
+  "paper_id": "chen-et-al-2021-trap-state-induced-recombination-effects-on-indoor-organic-photovoltaic-cells",
+  "paper_title": "Trap State Induced Recombination Effects on Indoor Organic Photovoltaic Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/chen-et-al-2021-trap-state-induced-recombination-effects-on-indoor-organic-photovoltaic-cells/auto/chen-et-al-2021-trap-state-induced-recombination-effects-on-indoor-organic-photovoltaic-cells.md",
+  "knowledge_points": [
+    {
+      "category": "Performance Metrics",
+      "content": "The PBDB-T:BTA3-based indoor OPV device achieved a power conversion efficiency (PCE) of 23.3%, a short-circuit current density (JSC) of 98.5 µA cm⁻², and a fill factor (FF) of 73.6% under 1000 lux LED illumination (2700 K).",
+      "evidence": "At 1000 lux, the best photovoltaic performance was achieved by PBDB-T:BTA3 with a VOC of 0.990 V, a JSC of 98.5 µA cm⁻², a FF of 73.6% and a PCE of 23.3%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "indoor OPV",
+        "PBDB-T",
+        "BTA3",
+        "1000 lux"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "In indoor OPV applications, trap-induced (monomolecular) recombination prevails over bimolecular recombination because the charge carrier density under weak indoor light is 2–3 orders of magnitude lower than under 1-sun solar radiation.",
+      "evidence": "Instead of the domination of bimolecular recombination under solar radiation, trap-induced recombination prevails under indoor scenarios because of the low level of carrier densities under indoor weak illuminations... At zero bias, the charge carrier densities were integrated with 5.07 × 10¹⁵, 2.79 × 10¹⁵ and 1.71 × 10¹⁵ cm⁻³... In comparison with the reported results measured under solar irradiation, the densities are 2–3 orders lower.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "trap-induced recombination",
+        "carrier density",
+        "indoor illumination",
+        "bimolecular recombination"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Halogenation of the PBDB-T polymer donor (fluorination and chlorination) reduces the highest occupied molecular orbital (HOMO) energy level from -5.36 eV (PBDB-T) to -5.41 eV (PBDB-TF) and -5.47 eV (PBDB-TCl).",
+      "evidence": "PBDB-TF and PBDB-TCl are derived from PBDB-T by halogenation, which reduces the highest occupied molecular orbital (HOMO) energy level from -5.36 eV to -5.41 eV and -5.47 eV, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "halogenation",
+        "HOMO",
+        "PBDB-TF",
+        "PBDB-TCl",
+        "energy level engineering"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Increased energy disorder (σ) in PBDB-TF and PBDB-TCl blends, compared to PBDB-T, leads to deeper trap states and higher nonradiative energy loss (ΔEnonrad), which severely degrades indoor JSC and FF.",
+      "evidence": "The results indicate the broadened tails of charge-transfer states in PBDB-TF and PBDB-TCl based blends... The relatively low ΔEnonrad of PBDB-T:BTA3 indicates that the trap-induced recombination is weak... PBDB-TF and PBDB-TCl based blends have the values of 43.5 and 47.0 meV, indicating the deeper traps in the tail states of HOMOs.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "energy disorder",
+        "nonradiative loss",
+        "trap states",
+        "fill factor"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Transient absorption (TA) spectroscopy fitting shows that the trap-induced recombination rates (k1) for PBDB-T:BTA3, PBDB-TF:BTA3, and PBDB-TCl:BTA3 are 4.63 × 10⁻⁴, 5.43 × 10⁻⁴, and 19.4 × 10⁻⁴ ps⁻¹, respectively.",
+      "evidence": "The decay dynamics pumped with low fluence were fitted by single exponential function with k1 values of 4.63 × 10⁻⁴, 5.43 × 10⁻⁴, and 19.4 × 10⁻⁴ ps⁻¹ for PBDB-T:BTA3, PBDB-TF:BTA3, and PBDB-TCl:BTA3 blends, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "transient absorption spectroscopy",
+        "recombination rate",
+        "k1",
+        "dynamics"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The VOC dependence on light intensity (slope) significantly increases from ~1.1–1.3 kT/e under solar radiation to ~2.7–4.2 kT/e under indoor LED light, indicating that trap-assisted recombination is the dominant loss channel at low light intensities.",
+      "evidence": "The calculated slopes under AM 1.5 G are 1.13, 1.24, and 1.33 kT/e... When it comes to the LED light, the corresponding slopes increase to 2.75, 4.16, and 3.89 kT/e. The significantly enlarged values imply that trap-induced recombination is prominent under weak incident light intensity.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "VOC",
+        "light intensity dependence",
+        "ideality factor",
+        "trap-assisted recombination"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Gaussian Disorder Model (GDM) analysis of temperature-dependent zero-field mobility reveals electron disorder (σe) values of 73 meV for PBDB-T, 83 meV for PBDB-TF, and 89 meV for PBDB-TCl when blended with BTA3.",
+      "evidence": "The σe values for PBDB-T:BTA3, PBDB-TF:BTA3, and PBDB-TCl:BTA3 display an increased trend from 73 to 83, to 89 meV, respectively, and the σh values manifest the same trend from 58 to 65, to 73 meV.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Gaussian Disorder Model",
+        "mobility",
+        "energy disorder",
+        "SCLC"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "For optimal indoor photon harvesting, the absorption spectra of OPV materials should match the emission of indoor light sources (typically 400–750 nm), and the energy loss (Eloss) should be minimized to maintain high VOC.",
+      "evidence": "First, the indoor OPV devices should have high external quantum efficiency (EQE), and the absorption spectra should match the emission spectra of the indoor light sources covering 400 to 750 nm... Second, energy loss (Eloss) of the OPV cells should be suppressed as much as possible to acquire a maximum open-circuit voltage (VOC).",
+      "complexity": "single-hop",
+      "keywords": [
+        "spectrum matching",
+        "indoor light",
+        "energy loss",
+        "VOC"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Indoor OPV cells in this study were fabricated using a conventional structure of ITO/PEDOT:PSS/active layer/PFN-Br/Al.",
+      "evidence": "The OPV cells were fabricated with the conventional structure of ITO/PEDOT:PSS/active layer/PFN-Br/Al (Figure 2a) to investigate the photovoltaic performance.",
+      "complexity": "single-hop",
+      "keywords": [
+        "device structure",
+        "conventional architecture",
+        "PEDOT:PSS",
+        "PFN-Br"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Molecular rigidity, planarity, and electrostatic potential distributions are identified as critical factors in material design to suppress energy disorder and nonradiative recombination for indoor OPV applications.",
+      "evidence": "The origins of trap state in concern of molecular structure can be ascribed to the following: 1) Rigidity and planarity of donor and acceptor molecules... 2) Electrostatic potential distribution of the molecules... The torsional flexibility and electrostatic potential distributions should be taken into consideration in the further design of OPV molecules for indoor applications.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "molecular structure",
+        "planarity",
+        "electrostatic potential",
+        "design rules"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 15093,
+    "completion_tokens": 3134,
+    "total_tokens": 18227
+  }
+}

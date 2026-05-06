@@ -1,0 +1,143 @@
+{
+  "paper_id": "Angew_Chem_Int_Ed_-_2017_-_Xin_-_Incorporation_of_2_6Connected_Azulene_Units_into_the_Backbone_of_Co",
+  "paper_title": "Incorporation of 2,6-Connected Azulene Units into the Backbone of Conjugated Polymers: Towards High-Performance Organic Optoelectronic Materials",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Angew Chem Int Ed - 2017 - Xin - Incorporation of 2 6‐Connected Azulene Units into the Backbone of Conjugated Polymers /auto/Angew Chem Int Ed - 2017 - Xin - Incorporation of 2 6‐Connected Azulene Units into the Backbone of Conjugated Polymers .md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The paper introduces a molecular design strategy using 2,6-connected azulene units to construct conjugated polymers, specifically creating the building block TBAzDI (N,N'-bis(2-decyltetradecyl)-6,6'-di(thiophen-2-yl)-[2,2'-biazulene]-1,1',3,3'-tetracarboxdiimide).",
+      "evidence": "Those incorporating 2,6-connected azulene units have not been reported. Herein, we report first two azulene-containing conjugated copolymers, P(TBAzDI-TPD) and P(TBAzDI-TFB)... BAzDIs were selected as new electron acceptor building blocks for constructing conjugated polymers incorprating 2,6-connected azulene units.",
+      "complexity": "single-hop",
+      "keywords": [
+        "azulene",
+        "2,6-connected",
+        "TBAzDI",
+        "molecular design"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "P(TBAzDI-TPD) exhibits a high electron mobility of 0.42 cm² V⁻¹ s⁻¹ in bottom-gate top-contact (BGTC) organic field-effect transistors, which is among the highest reported for unipolar n-type polymers in this configuration.",
+      "evidence": "OFET devices based on P(TBAzDI-TPD) exhibit electron mobilities of up to 0.42 cm² V⁻¹ s⁻¹ which is among the highest mobility values for bottom-gate top-contact (BGTC) n-channel OFETs based on polymers.",
+      "complexity": "single-hop",
+      "keywords": [
+        "electron mobility",
+        "OFET",
+        "P(TBAzDI-TPD)",
+        "n-type polymer"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "An all-polymer solar cell utilizing P(TBAzDI-TPD) as the electron acceptor and PTB7-Th as the electron donor achieved a power conversion efficiency (PCE) of 1.82%.",
+      "evidence": "An all-PSC device with polymer P(TBAzDI-TPD) as the electron acceptor and PTB7-Th as the electron donor exhibits a preliminary power conversion efficiency (PCE) value of 1.82%",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "all-polymer solar cell",
+        "PTB7-Th",
+        "electron acceptor"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Azulene is a nonbenzenoid, nonalternant hydrocarbon with a large dipole moment of 1.08 D, consisting of a fused electron-deficient seven-membered ring and an electron-rich five-membered ring.",
+      "evidence": "Azulene, a nonbenzenoid aromatic hydrocarbon with beautiful blue color and a large dipole moment of 1.08 D... The nonalternant hydrocarbon character of azulene results from the fusion of an electron-deficient seven-membered ring and an electronrich five-membered ring",
+      "complexity": "single-hop",
+      "keywords": [
+        "azulene",
+        "dipole moment",
+        "nonalternant hydrocarbon",
+        "electronic structure"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Density functional theory (DFT) calculations show that the LUMO in BAzDI-based copolymers is delocalized over both the acceptor and co-monomer units, allowing for efficient tuning of energy levels by changing the co-monomer.",
+      "evidence": "the electron density distribution of HOMO and LUMO is well delocalized over the TBAzDI and TPD (or TFB) moieties... Therefore, the LUMO levels of BAzDI-based copolymers are determined by both the BAzDI unit and the co-monomer unit and could be efficiently tuned by changing the co-monomer units.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "DFT",
+        "LUMO delocalization",
+        "energy level tuning",
+        "BAzDI"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Grazing incidence wide-angle X-ray scattering (GIWAXS) reveals that both P(TBAzDI-TPD) and P(TBAzDI-TFB) adopt a predominantly 'edge-on' orientation with a short π-π stacking distance of approximately 3.55 Å.",
+      "evidence": "Both polymers show multiple orders of alkyl (lamellar) stacking along qz indexed as (h00), indicating... a predominantly 'edge-on' orientation... corresponding to π-π stacking distance of about 3.55 Å which is among the shortest value for the polymers with high mobilities.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "GIWAXS",
+        "edge-on orientation",
+        "π-π stacking",
+        "crystallinity"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The electron mobility of P(TBAzDI-TFB) increases significantly from 0.022 cm² V⁻¹ s⁻¹ (as-spun) to 0.24 cm² V⁻¹ s⁻¹ when annealed at 200 °C, correlating with improved crystallinity observed in GIWAXS.",
+      "evidence": "Thin films of P(TBAzDI-TFB) also displayed nice device performance with electron mobilities of up to 0.24 cm² V⁻¹ s⁻¹ when annealed at 200 °C... thin films of P(TBAzDI-TFB) were found to exhibit stronger and sharper scattering peaks with the increased thermal annealing temperature",
+      "complexity": "multi-hop",
+      "keywords": [
+        "thermal annealing",
+        "crystallinity",
+        "P(TBAzDI-TFB)",
+        "mobility improvement"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The optical band gaps for P(TBAzDI-TPD) and P(TBAzDI-TFB) are estimated to be 1.57 eV and 1.60 eV, respectively, based on the onset of thin-film absorption.",
+      "evidence": "Optical band gaps (Egopt) of P(TBAzDI-TPD) and P(TBAzDI-TFB) estimated from the onset absorption of the thin films are 1.57 and 1.60 eV, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "optical band gap",
+        "absorption",
+        "P(TBAzDI-TPD)",
+        "P(TBAzDI-TFB)"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The synthesis of the azulene polymers utilized palladium-catalyzed direct C-H arylation polymerization (DArP) as the final step to couple the brominated TBAzDI monomer with TPD or TFB.",
+      "evidence": "The copolymers P(TBAzDI-TPD) and P(TBAzDI-TFB) were synthesized via palladium catalyzed direct C-H arylation polymerization (DArP) using 8 to react with TPD and TFB, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DArP",
+        "C-H arylation",
+        "polymer synthesis",
+        "palladium catalyst"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Both 2,6-connected azulene-based polymers exhibit high thermal stability, with decomposition temperatures exceeding 400 °C according to thermogravimetric analysis (TGA).",
+      "evidence": "Thermogravimetric analysis (TGA) measurements revealed that both polymers have excellent thermal stability with decomposition temperatures of over 400 °C",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "TGA",
+        "decomposition temperature"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The LUMO/HOMO energy levels for P(TBAzDI-TPD) are -3.76/-5.82 eV and for P(TBAzDI-TFB) are -3.60/-5.76 eV, providing sufficient offsets (>0.3 eV) relative to PTB7-Th for efficient exciton dissociation.",
+      "evidence": "The HOMO/LUMO levels of P(TBAzDI-TPD) and P(TBAzDITFB) estimated from CV are -5.82/-3.76 eV and -5.76/ -3.60 eV... the ΔLUMO and ΔHOMO between these two polymers and PTB7-Th are larger than 0.3 eV, suggesting that exciton dissociation... might be efficient",
+      "complexity": "multi-hop",
+      "keywords": [
+        "energy levels",
+        "HOMO",
+        "LUMO",
+        "exciton dissociation"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 10947,
+    "completion_tokens": 4416,
+    "total_tokens": 15363
+  }
+}

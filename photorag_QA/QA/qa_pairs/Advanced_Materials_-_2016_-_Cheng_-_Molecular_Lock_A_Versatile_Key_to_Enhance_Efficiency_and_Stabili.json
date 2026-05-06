@@ -1,0 +1,75 @@
+{
+  "paper_id": "Advanced_Materials_-_2016_-_Cheng_-_Molecular_Lock_A_Versatile_Key_to_Enhance_Efficiency_and_Stabili",
+  "paper_title": "Molecular Lock: A Versatile Key to Enhance Efficiency and Stability of Organic Solar Cells",
+  "qa_pairs": [
+    {
+      "question": "What specific chemical compound is utilized as a 'molecular lock' in organic solar cells, and what type of interaction does it form with polymer donors?",
+      "answer": "4,4'-Biphenol (BPO) is used as a 'molecular lock'. It functions by forming hydrogen bonds specifically with fluorine-containing polymer or small molecule donors within the organic solar cell blends.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Molecular Lock: A Versatile Key to Enhance Efficiency and Stability of Organic Solar Cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the addition of 3% BPO affect the power conversion efficiency (PCE) of organic solar cells based on PTB7-th:PC71BM?",
+      "answer": "The addition of 3% BPO to PTB7-th:PC71BM-based devices increases the average power conversion efficiency (PCE) from 8.33% to 8.88%.",
+      "category": "Performance Metrics",
+      "source_title": "Molecular Lock: A Versatile Key to Enhance Efficiency and Stability of Organic Solar Cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What experimental evidence from FTIR spectroscopy confirms the interaction between the PTB7 donor and the BPO molecular lock?",
+      "answer": "The formation of an O-H...F hydrogen bond between PTB7 and BPO is evidenced by the appearance of a specific FTIR vibration peak at 3268 cm⁻¹.",
+      "category": "Characterization Methods",
+      "source_title": "Molecular Lock: A Versatile Key to Enhance Efficiency and Stability of Organic Solar Cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Compare the thermal stability of PTB7:PC71BM devices with and without the BPO additive after being heated at 130 °C for 120 minutes.",
+      "answer": "Devices containing the BPO molecular lock exhibit significantly higher thermal stability, retaining 80% of their original PCE (decaying from 7.87% to 6.26%). In contrast, devices without BPO retain only 40% of their original PCE (decaying from 7.35% to 2.96%) under the same conditions.",
+      "category": "Stability & Degradation",
+      "source_title": "Molecular Lock: A Versatile Key to Enhance Efficiency and Stability of Organic Solar Cells",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "How does the BPO molecular lock influence the molecular orientation and light absorption of the polymer domains?",
+      "answer": "BPO enhances the π-π ordering within 'face-on' oriented polymer domains, as indicated by a π-π stacking peak at q ≈ 1.7 Å⁻¹. This structural optimization leads to enhanced light absorption, particularly in the 500-700 nm wavelength range.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Molecular Lock: A Versatile Key to Enhance Efficiency and Stability of Organic Solar Cells",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Why is the effectiveness of the BPO additive dependent on the presence of fluorine atoms in the donor material?",
+      "answer": "The 'molecular lock' mechanism relies on the formation of O-H...F hydrogen bonds between the BPO hydroxyl groups and the fluorine atoms on the donor. Consequently, donors lacking fluorine, such as P3HT and PBDTTT-C-T, show no significant changes in performance or stability when BPO is added.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Molecular Lock: A Versatile Key to Enhance Efficiency and Stability of Organic Solar Cells",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What effect does the BPO-induced hydrogen bonding network have on the vertical phase separation of the PTB7:PC71BM active layer?",
+      "answer": "The hydrogen bonds form a dense polymer network that suppresses the migration of polymer donors to the top surface. This optimizes vertical phase separation, reducing the molar content of PTB7 at the surface from 41.3% to 30.1%.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Molecular Lock: A Versatile Key to Enhance Efficiency and Stability of Organic Solar Cells",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Quantify the change in hole mobility for PTB7:PC71BM blends upon the incorporation of the BPO molecular lock.",
+      "answer": "The hole mobility increases significantly from 3.48 × 10⁻³ cm² V⁻¹ s⁻¹ in the control blend to 9.05 × 10⁻³ cm² V⁻¹ s⁻¹ after the addition of BPO.",
+      "category": "Performance Metrics",
+      "source_title": "Molecular Lock: A Versatile Key to Enhance Efficiency and Stability of Organic Solar Cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2572,
+    "completion_tokens": 2008,
+    "total_tokens": 4580
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "paper_id": "Alkoxy-Substituted_AnthrabisthiadiazoleBenzodithiophene-Based_Wide-Band-Gap_Semiconducting_Polymers_",
+  "paper_title": "Alkoxy-Substituted Anthrabisthiadiazole-Benzodithiophene-Based Wide-Band-Gap Semiconducting Polymers for High-Performance Non-Fullerene Solar Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Alkoxy-Substituted Anthrabisthiadiazole–Benzodithiophene-Based Wide-Band-Gap Semiconducting Polymers for High-Performance Non-Fullerene Solar Cells/auto/Alkoxy-Substituted Anthrabisthiadiazole–Benzodithiophene-Based Wide-Band-Gap Semiconducting Polymers for High-Performance Non-Fullerene Solar Cells.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The PBA-TX polymer series utilizes a weak electron-accepting alkoxy-substituted anthrabisthiadiazole (ATz) unit paired with an alkylthienyl-substituted benzodithiophene (BDT) donor unit to achieve a wide band gap and high solubility.",
+      "evidence": "Three wide-band-gap donor-acceptor (D-A) type polymers, PBA-TX... based on alkoxy-substituted anthrabisthiadiazole (ATz) and benzodithiophene (BDT) structures, were synthesized... bulky alkylthienyl side chains on the BDT core provide sufficient solubility.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ATz",
+        "BDT",
+        "D-A polymer",
+        "wide-band-gap"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Organic solar cells based on the PBA-T2/Y6 and PBA-T3/Y6 blend systems both achieved a power conversion efficiency (PCE) of 8.89%, while the PBA-T4/Y6 system reached 8.40%.",
+      "evidence": "the PCE of the PBA-T2/Y6-based solar cell is 8.89%... The PBA-T3/Y6-based cell exhibited... PCE of 8.89%... the PBA-T4/Y6-based cell showed the lowest PCE of 8.40%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "Y6",
+        "PBA-T2",
+        "PBA-T3"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The introduction of bulky alkylthienyl side chains on the BDT core in PBA-TX polymers prevents the formation of interdigitated lamellar structures, promoting a favorable face-on orientation compared to the edge-on orientation of the previous PATz4T-o6OD polymer.",
+      "evidence": "The incorporation of bulky alkylthienyl side chains onto the BDT core serves to hinder the formation of interdigitated structures... facilitating the construction of a favorable face-on orientation... PATz4To6OD adopts an unfavorable edge-on orientation.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "side chain engineering",
+        "molecular orientation",
+        "face-on",
+        "edge-on"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Halogenation of the alkylthienyl side chains on the BDT core (chlorine in PBA-T3 and fluorine in PBA-T4) deepens the HOMO energy levels to -5.52 eV and -5.49 eV, respectively, compared to -5.35 eV for the non-halogenated PBA-T2.",
+      "evidence": "PBA-T2 (-5.35 eV)... polymers PBA-T3 (-5.52 eV) and PBA-T4 (-5.49 eV) exhibit lower HOMO energy levels compared to PBA-T2... attributed to the substitution of electron-withdrawing fluorine or chlorine atoms.",
+      "complexity": "single-hop",
+      "keywords": [
+        "halogenation",
+        "HOMO energy level",
+        "electron-withdrawing groups"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The solubility of PBA-TX polymers in chloroform at room temperature ranges from 4.2 to 12.4 g L⁻¹, which is a significant improvement over the reference polymer PATz4T-o6OD, which is completely insoluble in chloroform at room temperature.",
+      "evidence": "The solubility of PBA-T2, PBA-T3, and PBA-T4 in chloroform at room temperature is 4.2, 12.4, and 12.0 g L-1... in the case of PATz4To6OD, it is completely insoluble in both chloroform and chlorobenzene at room temperature.",
+      "complexity": "single-hop",
+      "keywords": [
+        "solubility",
+        "chloroform",
+        "processing"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The photon energy loss (Eloss) for the PBA-T3/Y6 system is 0.46 eV, which is lower than the 0.52 eV calculated for the PBA-T2/Y6 system, contributing to a higher open-circuit voltage (Voc) of 0.89 V.",
+      "evidence": "Eloss values for the PBAT3/Y6-based cell (0.46 eV)... were found to be smaller than that of the cell based on the PBA-T2/Y6 system (0.52 eV)... resulting in higher Voc.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "energy loss",
+        "Voc",
+        "PBA-T3"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis shows that neat PBA-TX films exhibit a pi-stacking (010) diffraction at approximately 1.6 Å⁻¹ along the qz axis, indicating a preferential face-on orientation with pi-stacking distances between 3.86 and 3.94 Å.",
+      "evidence": "All neat polymer films displayed... broad pi-stacking (010) diffraction at approximately 1.6 Å-1 along the qz axis... pi-stacking distances (d-pi) of 3.86-3.94 Å.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "pi-stacking distance",
+        "molecular orientation"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Despite fluorine being more electronegative, the chlorine-substituted PBA-T3 has a deeper HOMO level than the fluorine-substituted PBA-T4 because the smaller atomic radius of fluorine leads to a stronger p-pi conjugation effect.",
+      "evidence": "PBA-T4, with fluorine atoms, has a higher HOMO energy level than the chlorine-substituted PBA-T3... atomic radius of fluorine is smaller than that of chlorine, enhancing the contribution of p-pi conjugation.",
+      "complexity": "single-hop",
+      "keywords": [
+        "fluorine vs chlorine",
+        "p-pi conjugation",
+        "HOMO level"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The optical band gaps of the PBA-TX polymers are approximately 1.8 eV (ranging from 1.79 to 1.82 eV), which allows for complementary absorption with the low-band-gap acceptor Y6 (band gap of 1.33 eV).",
+      "evidence": "relatively wide band gap of 1.8 eV... optical band gaps of PBA-T2, PBA-T3, and PBA-T4 are estimated to be 1.79, 1.82, and 1.80 eV... complementary absorption with the low-band-gap electron acceptor Y6.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "optical band gap",
+        "complementary absorption",
+        "Y6"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "DFT calculations indicate that the ATz-based polymers maintain a conformational lock between the ATz core and neighboring thiophene rings with a dihedral angle of 10-12° due to N...H hydrogen bonding.",
+      "evidence": "The dihedral angle (phi-1) between the ATz core and neighboring thiophene rings ranges from 10 to 12° owing to the conformational lock provided by N...H hydrogen bonding.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DFT",
+        "dihedral angle",
+        "conformational lock",
+        "hydrogen bonding"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Surface energy measurements reveal that PBA-T4 has a higher surface energy (26.92 mN m⁻¹) compared to PBA-T2 (25.02 mN m⁻¹) and PBA-T3 (25.15 mN m⁻¹), resulting in poorer miscibility with the Y6 acceptor (25.17 mN m⁻¹).",
+      "evidence": "The estimated surface energy (gamma-s) of PBA-T3 and PBA-T4 is 25.15 and 26.92 mN m-1... higher than that of PBA-T2 (25.02 mN m-1)... PBA-T4 exhibits a slightly larger surface energy difference, indicating a slightly poor miscibility.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "surface energy",
+        "miscibility",
+        "contact angle",
+        "Y6"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 15392,
+    "completion_tokens": 3427,
+    "total_tokens": 18819
+  }
+}

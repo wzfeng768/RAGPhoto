@@ -1,0 +1,131 @@
+{
+  "paper_id": "Angew_Chem_Int_Ed_-_2021_-_Wen_-_syn_antiOligothienoacene_Diimides_with_up_to_10_Fused_Rings",
+  "paper_title": "syn/anti-Oligothienoacene Diimides with up to 10 Fused Rings",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Angew Chem Int Ed - 2021 - Wen - syn anti‐Oligothienoacene Diimides with up to 10 Fused Rings/auto/Angew Chem Int Ed - 2021 - Wen - syn anti‐Oligothienoacene Diimides with up to 10 Fused Rings.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "A synthetic strategy utilizing palladium-catalyzed C-H activation combined with an unexpected 1,2-sulfur migration allows for the preparation of both anti- and syn-isomers of oligothienoacene diimides in a approximately 1:1 molar ratio.",
+      "evidence": "The subsequent palladium-catalyzed C-H activation coupling of 2a-d... gave two purple compounds in a molar ratio of 1:1... revealing the formation of the unexpected syn-isomers (TIPS-syn-3a-d), in which the two inner thiophene sulfur atoms exhibit a syn-conformation with respect to the NDI units.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "C-H activation",
+        "1,2-sulfur migration",
+        "syn-isomers",
+        "oligothienoacene diimides"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Single-crystal microfibers of syn-3c exhibit a maximum electron mobility of 4.2 cm² V⁻¹ s⁻¹, while the anti-3c isomer microfibers show a maximum mobility of 3.7 cm² V⁻¹ s⁻¹.",
+      "evidence": "The anti-3c microfibers show exclusive electron charge transport with... a maximum mobility up to 3.7 cm2 V-1 s-1... For syn-3c, the microfibers exhibit... a maximum mobility of 4.2 cm2 V-1 s-1.",
+      "complexity": "single-hop",
+      "keywords": [
+        "electron mobility",
+        "single-crystal microfibers",
+        "syn-3c",
+        "anti-3c"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The optical band gap of oligothienoacene diimides decreases as the number of fused thieno rings increases, dropping from 2.06 eV for TIPS-NDTI to 1.65 eV for TIPS-anti-7b.",
+      "evidence": "There is a red-shift in the maximum absorption going from TIPS-NDTI to TIPS-anti-3b to TIPS-anti-5b to TIPS-anti-7b, with the optical gap decreasing from 2.06 to 1.94 to 1.74 to 1.65 eV.",
+      "complexity": "single-hop",
+      "keywords": [
+        "optical band gap",
+        "conjugation length",
+        "thienoacene",
+        "red-shift"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "DFT calculations indicate that the LUMOs of oligothienoacene diimides are primarily localized on the NDI (naphthalene diimide) core, regardless of the number of thieno rings or the sulfur atom orientation.",
+      "evidence": "DFT calculations... indicate that, regardless of the thieno ring numbers and the thiophene conformations, the LUMOs for all the compounds are similar in shape and mainly localized on the NDI core.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DFT",
+        "LUMO",
+        "NDI core",
+        "electronic structure"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The syn-isomers of oligothienoacene diimides possess a permanent dipole moment (ranging from 1.45 D to 1.64 D), which leads to broad, featureless absorption spectra attributed to weak intramolecular charge transfer.",
+      "evidence": "All three syn-isomers exhibit broad and featureless spectra, which are likely ascribed to the weak intramolecular charge transfer induced by the dipole moments in the molecules... the asymmetric HOMOs and LUMOs in syn-isomers lead to a dipole moment of 1.45 D for TIPS-syn-3b, 1.46 D for TIPS-syn-5b, and 1.64 D for TIPS-syn-7b.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "dipole moment",
+        "syn-isomers",
+        "intramolecular charge transfer",
+        "absorption spectra"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Oligothienoacene diimides transition from exclusive n-type (electron) transport in smaller systems (3b) to ambipolar transport in larger systems (5b and 7b) as the number of fused rings increases.",
+      "evidence": "For syn-5b... mobility reaching 10^-2 cm2 V-1 s-1... anti-5b, which shows ambipolar characteristics... For syn/anti-7b, both compounds also exhibit ambipolar characteristics.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "n-type",
+        "ambipolar",
+        "charge transport",
+        "fused rings"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis of syn-3b and anti-3b thin films reveals an edge-on orientation on the substrate, characterized by out-of-plane diffraction d-spacings of approximately 29 Å.",
+      "evidence": "The d spacings of the out-of-plane diffractions are 29 Å for syn/anti-3b, respectively, which suggest they adapt the edge-on orientation on the substrates.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "edge-on orientation",
+        "d-spacing",
+        "thin film morphology"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "X-ray crystallography shows that syn-isomers (TIPS-syn-5a and TIPS-syn-7a) tend to align in antiparallel π-stacked dimers in the solid state, driven by stabilizing dipole-dipole interactions.",
+      "evidence": "TIPS-syn-5a and TIPS-syn-7a, on the other hand, align in an antiparallel π stacked dimers. The packing difference among the syn- and anti-isomers is partially due to stabilizing dipole-dipole interactions in the syn-isomers.",
+      "complexity": "single-hop",
+      "keywords": [
+        "crystal packing",
+        "antiparallel stacking",
+        "dipole-dipole interaction",
+        "syn-isomers"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The electron affinities (EA) for the synthesized oligothienoacene diimides range from -3.96 to -4.02 eV, making them suitable for electron-transporting organic semiconductor applications.",
+      "evidence": "According to their onset potentials, the EAs of these oligothienoacene diimides are ranging from -3.96 to -4.02 eV, implying that these compounds may serve as electron transporting organic semiconductor materials.",
+      "complexity": "single-hop",
+      "keywords": [
+        "electron affinity",
+        "n-type semiconductor",
+        "redox properties"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Protodesilylated oligothienoacene diimides (NDTI, syn/anti-3b, 5b, 7b) were processed into organic thin-film transistors (OTFTs) using a bottom-gate bottom-contact geometry on octadecyltrichlorosilane (OTS)-treated SiO2/Si substrates.",
+      "evidence": "the protodesilylated oligothienoacene diimides... are soluble enough for use in solution-processed organic thin film transistors (OTFTs), which were fabricated in the 'bottom-gate bottom-contact' geometry with octadecyltrichlorosilane (OTS)-treated SiO2/Si as substrate.",
+      "complexity": "single-hop",
+      "keywords": [
+        "OTFT",
+        "solution-processed",
+        "OTS treatment",
+        "bottom-gate bottom-contact"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 11576,
+    "completion_tokens": 2876,
+    "total_tokens": 14452
+  }
+}

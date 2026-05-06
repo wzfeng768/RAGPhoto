@@ -1,0 +1,144 @@
+{
+  "paper_id": "d3ee04169g",
+  "paper_title": "A high-efficiency and stable organic solar cell with balanced crystallization kinetics",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/d3ee04169g/auto/d3ee04169g.md",
+  "knowledge_points": [
+    {
+      "category": "Performance Metrics",
+      "content": "The quaternary organic solar cell based on the PM6:BTP-eC9:Y6-1O:PC71BM blend achieved a champion power conversion efficiency (PCE) of 19.35%, with a Voc of 0.858 V, Jsc of 28.27 mA cm-2, and a fill factor (FF) of 79.65%.",
+      "evidence": "Of note, upon adding the two guest acceptors simultaneously, the PCE (19.35%) increased considerably (Voc = 0.858 V, Jsc = 28.27 mA cm-2, and a FF of 79.65%)",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "quaternary blend",
+        "PM6",
+        "BTP-eC9",
+        "Y6-1O",
+        "PC71BM"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The multi-acceptor quaternary device exhibits high photostability, retaining over 80% of its initial PCE after 708 hours (approximately 30 days) of continuous AM 1.5G irradiation under maximum power point (MPP) tracking.",
+      "evidence": "the multi-acceptor-based device retains 80% of the initial PCE after more than 708 hours of aging, indicating enhanced photostability.",
+      "complexity": "single-hop",
+      "keywords": [
+        "photostability",
+        "MPP tracking",
+        "T80",
+        "operational stability"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "In situ optical spectroscopy reveals that the Y6-1O guest tends to accelerate the crystallization of the donor and acceptor hosts, while the PC71BM guest tends to decelerate the crystallization of the donor.",
+      "evidence": "Y6-1O has a greater impact on expediting the crystallization of blends while PC71BM tends to decelerate the crystallization, at least for the donor.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "crystallization kinetics",
+        "in situ spectroscopy",
+        "nucleation",
+        "crystal growth"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The Flory-Huggins interaction parameter (χ) values indicate that PM6 has higher molecular compatibility with the non-fullerene acceptors BTP-eC9 (χ = 0.21) and Y6-1O (χ = 0.19) than with the fullerene PC71BM (χ = 0.77).",
+      "evidence": "The χD-A values between PM6 and BTP-eC9, Y6-1O and PC71BM are 0.21, 0.19 and 0.77, respectively",
+      "complexity": "single-hop",
+      "keywords": [
+        "Flory-Huggins parameter",
+        "miscibility",
+        "surface tension",
+        "molecular compatibility"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The quaternary device shows reduced non-radiative voltage loss compared to the binary PM6:BTP-eC9 device, as evidenced by external quantum efficiency of electroluminescence (EQE_EL) measurements.",
+      "evidence": "The results of EQEEL confirm that non-radiative voltage losses are reduced in the four-component device, contributing to the higher Voc.",
+      "complexity": "single-hop",
+      "keywords": [
+        "non-radiative loss",
+        "Voc",
+        "EQE_EL",
+        "voltage gain"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Film-depth-dependent light absorption spectroscopy (FLAS) demonstrates that the quaternary blend achieves a more homogeneous vertical distribution of donor and acceptor components in the 20-80 nm depth region compared to binary or ternary blends.",
+      "evidence": "We observe a unique feature in the quaternary system that the donor and acceptor components are distributed more homogeneously along the film growth direction, e.g., in the 20-80 nm depth region.",
+      "complexity": "single-hop",
+      "keywords": [
+        "FLAS",
+        "vertical phase separation",
+        "composition profile"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "GIWAXS analysis shows that the quaternary blend possesses a higher crystal coherence length (CCL) of 14.60 nm in the out-of-plane (010) direction compared to the binary host (13.18 nm), facilitating improved charge transport.",
+      "evidence": "Regarding the quaternary blends, we note an increase in the crystal coherence length (CCL = 14.60 nm versus CCLs of 13.18, 12.07, and 14.33 Å for PM6:BTP-eC9, PM6:BTPeC9:Y6-1O, and PM6:BTP-eC9:PC71BM, respectively) along the out-of-plane direction.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "crystal coherence length",
+        "CCL",
+        "molecular packing"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Solid-state 19F magic angle spinning nuclear magnetic resonance (19F MAS-NMR) spectroscopy confirms that the short-range structural order of the PM6 donor is preserved in the quaternary blend, with the 19F signal bandwidth remaining narrow (5.8 ppm) despite the complexity of the system.",
+      "evidence": "The reduction of the bandwidth again suggests the preservation of the short-range structural order of PM6 when PC71BM and Y6-1O guests are simultaneously present.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "19F MAS-NMR",
+        "short-range order",
+        "PM6",
+        "molecular environment"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The quaternary device exhibits balanced charge transport with an electron mobility (μe) and hole mobility (μh) ratio of 1.03, alongside a reduced charge extraction time of 24.48 ns as measured by transient photocurrent (TPC).",
+      "evidence": "the transport balance between the two carriers increases, as revealed by the mobility ratio that approaches unity (μe/μh = 1.03)... The shortest charge extraction time was found in the quaternary device (24.48 ns)",
+      "complexity": "multi-hop",
+      "keywords": [
+        "carrier mobility",
+        "SCLC",
+        "TPC",
+        "charge extraction"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Transient absorption (TA) spectroscopy identifies that the quaternary blend avoids over-phase separation or over-intermixing, showing an intermediate exciton diffusion-limited dissociation time constant (τ2) of 250 ps.",
+      "evidence": "In comparison to the ternary blends, we observe an intermediate τ2 value (250 ps) in the quaternary blends... the co-introduction of Y6-1O and PC71BM guest components synergistically modifies the phase sizes",
+      "complexity": "multi-hop",
+      "keywords": [
+        "transient absorption",
+        "exciton dissociation",
+        "phase separation",
+        "time constant"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Thermal stability tests at 60 °C show that the quaternary device retains 85% of its initial PCE after 240 hours, outperforming the binary control which drops to approximately 75%.",
+      "evidence": "the quaternary device retained 85% of the initial PCE after 240 hours of thermal annealing, while the efficiency of the binary control cell dropped to ~75%",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "PCE decay",
+        "aging"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 14861,
+    "completion_tokens": 3128,
+    "total_tokens": 17989
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "paper_id": "c3py00131h",
+  "paper_title": "Ordering of conjugated polymer molecules: recent advances and perspectives",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/c3py00131h/auto/c3py00131h.md",
+  "knowledge_points": [
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Charge transport in conjugated polymers occurs in three primary directions: intrachain (along the backbone), interchain (via pi-pi stacking), and across the alkyl stacking direction, with the intrachain direction being the fastest due to delocalized pi-orbitals.",
+      "evidence": "(1) The first way is along the conjugated polymer chain direction, which has the quickest transport properties... (2) Another transport way is along the pi-pi stacking direction... (3) The third charge transport direction is along the chain-to-chain direction (Fig. 1a, alkyl stacking direction), which is also the most difficult way, because the long alkyl chains actually act as an insulator layer.",
+      "complexity": "single-hop",
+      "keywords": [
+        "charge transport",
+        "intrachain",
+        "pi-pi stacking"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "For field-effect transistors, the edge-on molecular orientation is generally preferred over the face-on orientation because it facilitates efficient two-dimensional charge transport along both the conjugation and pi-pi stacking directions.",
+      "evidence": "In field-effect transistors, the molecules are better organized with the edge-on orientation model for high device performance due to the efficient two-dimensional charge transport along the conjugation direction and pi-pi stacking direction.",
+      "complexity": "single-hop",
+      "keywords": [
+        "edge-on orientation",
+        "face-on orientation",
+        "OFET"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Incorporating siloxane-terminated solubilizing side chains, specifically 1,1,1,3,5,5,5-heptamethyltrisiloxane, into isoindigo-based polymers can increase hole mobility to 2.00 cm2 V-1 s-1 by reducing the pi-pi stacking distance compared to traditional branched alkyl chains.",
+      "evidence": "By incorporating this siloxane-terminated solubilizing side chain in isoindigo-based conjugated polymer, hole mobility was boosted to 2.00 cm2 V-1 s-1 compared with a traditional branched alkyl side chain where only 0.57 cm2 V-1 s-1 was achieved, because of the closer pi-pi stacking distance.",
+      "complexity": "single-hop",
+      "keywords": [
+        "siloxane side chains",
+        "isoindigo",
+        "hole mobility"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Conjugated polymers with centrosymmetric building blocks and alkyl side chains branched at the fourth carbon position exhibit enhanced crystallinity and higher field-effect mobilities, reaching up to 3.62 cm2 V-1 s-1.",
+      "evidence": "It was found that polymers with centrosymmetric units and the branching position at the fourth carbon in the alkyl chain exhibited better crystallinity... An exceptionally high mobility of 3.62 cm2 V-1 s-1 was achieved for isoindigo-based conjugated polymers.",
+      "complexity": "single-hop",
+      "keywords": [
+        "centrosymmetric units",
+        "side chain branching",
+        "crystallinity"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "In P3HT, high molecular weight polymers (e.g., Mn = 31 kDa) exhibit significantly higher field-effect mobilities than low molecular weight versions (Mn = 3.2 kDa) because higher molecular weight leads to better-connected networks between crystalline domains despite forming nodular structures.",
+      "evidence": "Low molecular weight of regioregular P3HT is prone to form more ordered crystalline fibers... While for high molecular weight regioregular P3HT, nodular structures were demonstrated but with three orders of magnitude greater mobility... due to a well-connected network in films.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "P3HT",
+        "molecular weight",
+        "network connectivity"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The use of high-boiling-point solvents like 1,2,4-trichlorobenzene in spin-coating processes allows more time for polymer self-assembly, leading to improved molecular ordering and field-effect mobilities compared to low-boiling-point solvents like chloroform.",
+      "evidence": "low boiling point chloroform had rapid evaporation with limited time for P3HT crystallization... while a solvent with a high boiling point like 1,2,4-trichlorobenzene could dramatically improve the field-effect mobilities by an order of magnitude by better molecular ordering.",
+      "complexity": "single-hop",
+      "keywords": [
+        "solvent selection",
+        "boiling point",
+        "self-assembly"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The solution-shearing technique can induce crystal strains and preferential molecular alignment, as demonstrated by the improvement of TIPS-pentacene thin-film mobility from 0.8 cm2 V-1 s-1 to 4.6 cm2 V-1 s-1.",
+      "evidence": "Bao et al. first proposed this technique for organic semiconductors and successfully improved the mobility of TIPS–pentacene thin film transistors from 0.8 cm2 V-1 s-1 to an extremely high value of 4.6 cm2 V-1 s-1 by incorporating crystal strains.",
+      "complexity": "single-hop",
+      "keywords": [
+        "solution-shearing",
+        "TIPS-pentacene",
+        "crystal strain"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Effective solvent-vapor annealing (SVA) requires matching the solubility parameter and polarity of the solvent to the polymer semiconductor to achieve ordered molecular packing and enhanced charge transport.",
+      "evidence": "It was found that only when the solubility parameter and polarity of the solvent matched that of the polymer semiconductors, good film morphologies and ordered molecular packing could be obtained for excellent charge transport properties.",
+      "complexity": "single-hop",
+      "keywords": [
+        "solvent-vapor annealing",
+        "solubility parameter",
+        "polarity"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Uniaxial alignment of polymer chains can be achieved through directional solidification on molecular aromatic crystals like 1,3,5-trichlorobenzene (TCB), producing highly ordered thin films with large domains via epitaxial crystallization.",
+      "evidence": "By using TCB and a second carrier solvent chlorobenzene, P3HT first epitaxially crystallized on TCB crystals. Subsequently through sublimation of the TCB solvent, highly ordered thin films with square-centimeter-sized domains were obtained.",
+      "complexity": "single-hop",
+      "keywords": [
+        "uniaxial alignment",
+        "epitaxial growth",
+        "1,3,5-trichlorobenzene"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Single crystalline nanowires of the rigid rod polymer TA-PPE exhibit a field-effect mobility of approximately 0.1 cm2 V-1 s-1, which is three to four orders of magnitude higher than that of its thin-film counterparts.",
+      "evidence": "A very high field-effect mobility approaching 0.1 cm2 V-1 s-1 was demonstrated for such polymer crystalline nanowires, which was about 3–4 orders higher than that of its corresponding thin film transistors.",
+      "complexity": "single-hop",
+      "keywords": [
+        "TA-PPE",
+        "crystalline nanowires",
+        "mobility enhancement"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Single fibers of the donor-acceptor copolymer CDT-BTZ (cyclopentadithiophene-benzothiadiazole) achieve a high hole mobility of 3.3 ± 0.3 cm2 V-1 s-1 due to the alignment of polymer backbones along the fiber axis.",
+      "evidence": "The single fiber of CDT–BTZ also exhibited an excellent hole mobility of 3.3 ± 0.3 cm2 V-1 s-1 owing to the high molecular order in the crystals and the alignment of CDT–BTZ backbones along the fiber axis.",
+      "complexity": "single-hop",
+      "keywords": [
+        "CDT-BTZ",
+        "single fiber",
+        "hole mobility"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 15401,
+    "completion_tokens": 3548,
+    "total_tokens": 18949
+  }
+}

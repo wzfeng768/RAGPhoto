@@ -1,0 +1,143 @@
+{
+  "paper_id": "Adv_Funct_Materials_-_2018_-_Xu_-_Donor_Conjugated_Polymers_with_Polar_Side_Chain_Groups_The_Role_of",
+  "paper_title": "Donor Conjugated Polymers with Polar Side Chain Groups: The Role of Dielectric Constant and Energetic Disorder on Photovoltaic Performance",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Adv Funct Materials - 2018 - Xu - Donor Conjugated Polymers with Polar Side Chain Groups  The Role of Dielectric Constant/auto/Adv Funct Materials - 2018 - Xu - Donor Conjugated Polymers with Polar Side Chain Groups  The Role of Dielectric Constant.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "A molecular design strategy was employed to increase the polymer dielectric constant by adding polar cyano (CN) groups to the ends of butyl (C4) or octyl (C8) side chains in the poly(dithienosilole-thienopyrrolodione) (DTS-TPD) system with minimal structural perturbation.",
+      "evidence": "the concept of introducing minimal structural change is employed to increase the polymer dielectric constant via polar cyano groups added to the end of butyl or octyl side chains in the poly(dithienosilole-thienopyrrolodione) system.",
+      "complexity": "single-hop",
+      "keywords": [
+        "cyano groups",
+        "side chain engineering",
+        "DTS-TPD",
+        "molecular design"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The dielectric constant of the DTS-TPD polymers increased from 2.7 to 4.3 for the cyano-octyl side chain version and from 2.7 to 3.2 for the cyano-butyl version.",
+      "evidence": "Despite the increased dielectric constant (from 2.7 to 4.3 for cyano-octyl side chains and from 2.7 to 3.2 for the cyano-butyl analogues), the device characteristics employing the cyano-containing polymers are inferior to those of the devices made with unfunctionalized alkyl chains.",
+      "complexity": "single-hop",
+      "keywords": [
+        "dielectric constant",
+        "DTS-TPD-C8-CN",
+        "DTS-TPD-C4-CN",
+        "permittivity"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Density functional theory (DFT) calculations using the SRSH-oPBEh functional show that the addition of cyano groups does not significantly alter the polymer's electronic structure (HOMO/LUMO) but increases the ground-state dipole moment of the pentamer by approximately 20 Debye.",
+      "evidence": "Density functional theory calculations confirm that the polar groups do not affect the polymer electronic structure but can lead to an increase in overall dipole moment... In the cyano-containing pentamer, the dipole moment jumps by some 20 D, which corresponds to the addition of the five cyano groups.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "DFT",
+        "dipole moment",
+        "electronic structure",
+        "SRSH-oPBEh"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The hole mobilities for cyano-functionalized DTS-TPD polymers dropped by two orders of magnitude, specifically from 5.6 x 10⁻⁴ cm² V⁻¹ s⁻¹ (DTS-TPD-C8) to 8.4 x 10⁻⁷ cm² V⁻¹ s⁻¹ (DTS-TPD-C8-CN).",
+      "evidence": "It is found that the hole mobilities for the cyano-containing polymers are two orders of magnitude lower compared to those for the parent polymers... pristine polymers, the values drop from (5.6 ± 0.2) × 10⁻⁴ cm² V⁻¹ s⁻¹ to (8.4 ± 0.5) × 10⁻⁷ cm² V⁻¹ s⁻¹ for the polymers with eight-carbon side chains.",
+      "complexity": "single-hop",
+      "keywords": [
+        "hole mobility",
+        "SCLC",
+        "charge transport",
+        "DTS-TPD-C8-CN"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The introduction of polar cyano groups increases the energetic disorder (σh) in the polymer:fullerene blends from approximately 75 meV in alkyl-chain polymers to 110.6 meV for DTS-TPD-C8-CN and 94.0 meV for DTS-TPD-C4-CN.",
+      "evidence": "While both of the two parent polymers with alkyl side chains exhibit energetic disorders of ≈75 meV, the corresponding values for the cyano polymers are much higher with DTS-TPD-C8-CN having a value of 110.6 ± 3.4 meV and DTS-TPD-C4-CN having a value of 94.0 ± 1.8 meV.",
+      "complexity": "single-hop",
+      "keywords": [
+        "energetic disorder",
+        "Gaussian disorder model",
+        "charge hopping",
+        "side chain polarity"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Organic solar cell devices using DTS-TPD-C8-CN:PC71BM exhibited a significantly reduced Power Conversion Efficiency (PCE) of 2.8% compared to 8.4% for the non-functionalized DTS-TPD-C8:PC71BM.",
+      "evidence": "The parent donor polymers DTS-TPD-C8 and DTS-TPD-C4 lead to similar PCEs of ≈8%... DTS-TPD-C8-CN and DTS-TPD-C4-CN exhibit a drastic decrease in device performance... 2.8 ± 0.2 [%] for DTS-TPD-C8-CN:PCBM.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "organic solar cells",
+        "PC71BM",
+        "device efficiency"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The open-circuit voltage (Voc) of the devices decreased from 0.89 V in alkyl-chain DTS-TPD polymers to 0.78 V for DTS-TPD-C4-CN and 0.66 V for DTS-TPD-C8-CN due to broader density of states (DOS) and reduced Fermi-level splitting caused by increased energetic disorder.",
+      "evidence": "The Voc value also decreased with the introduction of the cyano group, from 0.89 V for DTS-TPD-C4 to 0.78 V for DTS-TPD-C4-CN... even more dramatic when comparing the polymers with eight-carbon side chains... 0.89 V for DTS-TPD-C8 to 0.66 V for DTS-TPD-C8-CN.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Voc",
+        "energetic disorder",
+        "Fermi-level splitting",
+        "density of states"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis indicated that all four DTS-TPD polymers predominantly adopt a face-on orientation relative to the substrate, but the cyano-containing polymers show a more isotropic distribution and slightly larger lamellar d-spacing (e.g., 20.2 Å for C8-CN vs. 19.4 Å for C8).",
+      "evidence": "the polymers predominantly adopt a face-on orientation relative to the substrate... there is an increase from 19.4 Å for DTS-TPD-C8 to 20.2 Å for DTS-TPD-C8-CN... cyano-containing polymers show more isotropic distribution than the alkyl side chain parent polymers.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "face-on orientation",
+        "d-spacing",
+        "lamellar stacking"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "UV-vis absorption spectra reveal that the optical gap for all polymers remains constant at approximately 1.73 eV, though cyano-containing polymers show a lower 0-0/0-1 vibronic peak ratio in solution, indicating reduced aggregation.",
+      "evidence": "Optical gaps calculated from the onset wavelength remain similar at around 1.73 eV for all polymers... intensity ratio between the absorption peak around 675 nm and that around 620 nm is lower for the cyano-containing polymers... aggregation... is less pronounced.",
+      "complexity": "single-hop",
+      "keywords": [
+        "UV-vis",
+        "optical gap",
+        "aggregation",
+        "vibronic progression"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The quantitative relationship between energetic disorder (σct) and open-circuit voltage (Voc) is described by the equation qVoc = Ect - (σct² / 2kT) - kT log(qfN₀L / τctJsc), where higher disorder leads to a squared increase in voltage loss.",
+      "evidence": "The quantitative relationship between energetic disorder (σct) and Voc can be analyzed using Equation (3) [qVoc = Ect - σct^2 / 2kT - kT log(qfN₀L / τctJsc)]",
+      "complexity": "single-hop",
+      "keywords": [
+        "Voc loss",
+        "charge-transfer state",
+        "energetic disorder equation"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The dielectric constant of polymer:PC71BM blends is significantly higher than that of pristine polymers (reaching 4.8 ± 0.2 for DTS-TPD-C8-CN) due to polymer-fullerene interactions that alter the dielectric environment.",
+      "evidence": "when the polymers are blended with PC71BM, the dielectric constants further increase compared to those of the pristine polymers... blend dielectric constant is determined by polymer-fullerene interaction resulting in a change in the dielectric environment of the blend.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "blend dielectric constant",
+        "PC71BM",
+        "dielectric environment",
+        "polymer-fullerene interaction"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 14465,
+    "completion_tokens": 5003,
+    "total_tokens": 19468
+  }
+}

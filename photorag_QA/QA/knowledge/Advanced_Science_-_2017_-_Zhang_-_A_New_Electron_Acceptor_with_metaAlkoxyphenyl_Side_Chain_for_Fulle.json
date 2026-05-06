@@ -1,0 +1,108 @@
+{
+  "paper_id": "Advanced_Science_-_2017_-_Zhang_-_A_New_Electron_Acceptor_with_metaAlkoxyphenyl_Side_Chain_for_Fulle",
+  "paper_title": "A New Electron Acceptor with meta-Alkoxyphenyl Side Chain for Fullerene-Free Polymer Solar Cells with 9.3% Efficiency",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Science - 2017 - Zhang - A New Electron Acceptor with meta‐Alkoxyphenyl Side Chain for Fullerene‐Free Polymer/auto/Advanced Science - 2017 - Zhang - A New Electron Acceptor with meta‐Alkoxyphenyl Side Chain for Fullerene‐Free Polymer.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The small molecule acceptor m-ITIC-OR is synthesized using an indacenodithieno[3,2-b]thiophene (IDTT) core, four meta-alkoxyphenyl side chains, and 2-(3-oxo-2,3-dihydroinden-1-ylidene)malononitrile (IC) end groups.",
+      "evidence": "Based on the above considerations, we first synthesized a new acceptor, namely, m-ITIC-OR, based on IDTT as a core with four meta-alkoxyphenyl as side chains as well as IC as an end group.",
+      "complexity": "single-hop",
+      "keywords": [
+        "m-ITIC-OR",
+        "IDTT core",
+        "meta-alkoxyphenyl",
+        "molecular design"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Additive-free polymer solar cells based on the HFQx-T:m-ITIC-OR blend achieved a peak power conversion efficiency (PCE) of 9.3% after thermal annealing at 150 °C for 5 minutes.",
+      "evidence": "Through a simple TA treatment at 150 °C for 5 min, an impressive PCE of 9.3% is obtained. This efficiency is among one of the highest PCEs for additive free PSCs.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "9.3%",
+        "thermal annealing",
+        "HFQx-T"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Compared to alkylphenyl side chains, alkoxyphenyl groups in nonfullerene acceptors are easier to synthesize via etherification, lower in cost, and exhibit higher coplanarity.",
+      "evidence": "alkoxyphenyl group seemed more easily synthesized via simple etherification, much lower cost, and more coplanar compared to its alkyl counterpart.",
+      "complexity": "single-hop",
+      "keywords": [
+        "side chain engineering",
+        "alkoxyphenyl",
+        "coplanarity",
+        "synthesis cost"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The m-ITIC-OR acceptor possesses a HOMO energy level of -5.65 eV and a LUMO energy level of -3.97 eV, providing a LUMO offset of 0.47 eV and a HOMO offset of 0.20 eV when paired with the HFQx-T donor.",
+      "evidence": "the HOMO energy levels (EHOMO) and LUMO energy levels (ELUMO) of m-ITIC-OR were estimated to be -5.65 and -3.97 eV... The EHOMO and ELUMO of HFQx-T donor were also measured to be -5.45 and -3.50 eV... Notably, the LUMO energy offset (ΔELUMO) between HFQx-T and m-ITIC-OR is 0.47 eV... HOMO energy offset (ΔEHOMO) is only 0.20 eV.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "HOMO",
+        "LUMO",
+        "energy level offset",
+        "HFQx-T"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Thermal annealing treatment at 150 °C significantly improves the short-circuit current (Jsc) from 13.48 to 16.15 mA cm⁻² and the fill factor (FF) from 0.50 to 0.64 in HFQx-T:m-ITIC-OR devices.",
+      "evidence": "The PSCs based on HFQx-T:m-ITIC-OR blend films showed a PCE of 6.36% with a Voc of 0.95 V, a Jsc of 13.48 mA cm−2, and a FF of 0.50. With 1:1 D/A weight ratio, the PCE was further improved to 9.3% with a Voc of 0.90 V, a higher Jsc of 16.15 mA cm−2, and a FF of 0.64 by TA treatment at 150 °C for 5 min.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "thermal annealing",
+        "Jsc",
+        "fill factor",
+        "device optimization"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The m-ITIC-OR thin film exhibits a maximum absorption coefficient of 7.8 × 10⁴ cm⁻¹ at an absorption maximum (λmax) of 690 nm and an optical bandgap of 1.65 eV.",
+      "evidence": "The absorption maximum (λmax) of m-ITIC-OR film was at 690 nm with a maximum absorption coefficient of 7.8 × 104 cm−1. m-ITIC-OR had absorption edge (λedge) of 750 nm and the corresponding optical bandgap (Egopt = 1240/λedge) was 1.65 eV.",
+      "complexity": "single-hop",
+      "keywords": [
+        "absorption coefficient",
+        "optical bandgap",
+        "UV-vis",
+        "λmax"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The optimized device architecture for the HFQx-T:m-ITIC-OR solar cell is a conventional structure consisting of ITO/PEDOT:PSS/active layer/PDINO/Al.",
+      "evidence": "we fabricated PSCs with conventional structure of indium tin oxide (ITO)/poly(3,4-ethylenedioxythiophene):poly(styrenesulfonate)(PEDOT:PSS)/active layer/PDI functionalized with amino N-oxide (PDINO)/Al.",
+      "complexity": "single-hop",
+      "keywords": [
+        "device architecture",
+        "conventional structure",
+        "PDINO",
+        "PEDOT:PSS"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Transmission electron microscopy (TEM) images reveal that thermal annealing transforms the HFQx-T:m-ITIC-OR blend from an amorphous state into a nanoscale interpenetrating network with small crystalline grains.",
+      "evidence": "without TA, little large phase separation and amorphous regions in the HFQx-T:m-ITIC-OR blend films could be observed. In contrast, very homogeneous and interpenetrating networks with small crystalline grains uniformly covering the entire scan area can be seen only after TA.",
+      "complexity": "single-hop",
+      "keywords": [
+        "TEM",
+        "morphology",
+        "interpenetrating network",
+        "crystallinity"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 11420,
+    "completion_tokens": 3497,
+    "total_tokens": 14917
+  }
+}

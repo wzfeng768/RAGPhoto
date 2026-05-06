@@ -1,0 +1,155 @@
+{
+  "paper_id": "d2tc00646d",
+  "paper_title": "Recent progress in polymer-based infrared photodetectors",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/d2tc00646d/auto/d2tc00646d.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The conjugated polymer polythieno[3,4-b]thiophene (PTT) utilizes an electron-withdrawing ester group to stabilize the electron-rich thiophene unit and lower the HOMO level to 1.3 eV, facilitating energy level matching with PCBM for near-infrared detection.",
+      "evidence": "the Yang and co-workers research group designed and synthesized a new type of ester-modified low-bandgap (1.3 eV) polymer polythieno[3,4-b]thiophene (PTT)... The presence of the electronwithdrawing ester group in the polymer could stabilize the electron-rich thiophene and reduce its highest occupied molecular orbital (HOMO) energy level to match the (6,6)-phenyl C61-butyric acid methyl ester (PCBM)",
+      "complexity": "single-hop",
+      "keywords": [
+        "PTT",
+        "HOMO",
+        "ester group",
+        "near-infrared"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Functionalizing the main chain of semiconducting polymers with modified 3,4-ethylenedioxythiophene (EDOT) as a conjugated side chain can reduce dark current density by two orders of magnitude in polymer photodetectors.",
+      "evidence": "Using modified 3,4-ethylenedioxythiophene (EDOT) as a conjugated side chain, they functionalized the main chain of the semiconducting polymer... achieving a two-level reduction in dark current density",
+      "complexity": "single-hop",
+      "keywords": [
+        "EDOT",
+        "side chain engineering",
+        "dark current density"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Employing transfer-printed conducting polymer (tp-CP) as upper electrodes in organic photodiodes, rather than vacuum-deposited metal, reduces dark current by more than two orders of magnitude by avoiding doping of the organic active layer during deposition.",
+      "evidence": "Zhou and co-workers used transferprinted conducting polymer (tp-CP) as the upper electrodes... the photodetector produced a dark current that was more than two orders of magnitude lower than that of a device using a vacuum deposition electrode.",
+      "complexity": "single-hop",
+      "keywords": [
+        "transfer-printed",
+        "tp-CP",
+        "dark current",
+        "electrode"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Conjugated polymers PBTT and PBTB exhibit ultra-low bandgaps of approximately 0.8 eV, enabling wide-range light response extending into the infrared region.",
+      "evidence": "Huang and co-workers designed and synthesized two kinds of conjugated polymers poly(benzobisthiadiazolebithiophene-tellurophene) (PBTT) and poly(benzobisthiadiazolebithiophene- 4,4' -dioctyloxy[2,2' bithiophene]) (PBTB) with an ultra-low band gap (0.8 eV)",
+      "complexity": "single-hop",
+      "keywords": [
+        "PBTT",
+        "PBTB",
+        "ultra-low bandgap",
+        "0.8 eV"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The integration of Er3+-doped upconversion nanoparticles (UCNPs) into an organic bulk heterojunction (BHJ) allows for the detection of 1.5 μm infrared light by upconverting sub-bandgap photons into visible photons that the organic host can absorb.",
+      "evidence": "The photodetector design strategy utilized a solution-processable conjugated polymer/small molecule bulk heterojunction as the host and Er3+ -doped upconversion nanoparticles as the guest... UCNPs could efficiently upconvert λ = 1.5 μm photons to visible photons, and then transfer the energy to the organic BHJ host",
+      "complexity": "multi-hop",
+      "keywords": [
+        "upconversion",
+        "UCNPs",
+        "1.5 μm",
+        "BHJ"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "A dual-trap mode organic phototransistor using Ag nanoparticles for hole trapping and PC61BM for electron trapping achieved a specific detectivity (D*) of 8.21 x 10^16 Jones and a photoresponsivity of 5.26 x 10^3 A/W.",
+      "evidence": "They used metallic Ag nanoparticles and PC61BM as trapping sites for holes/electrons... resulting in low-noise currents and high photoresponsivity (5.26 × 10^3 AW^−1), exhibiting ultra-high detection rates... D*shot = 8.21 × 10^16 Jones.",
+      "complexity": "single-hop",
+      "keywords": [
+        "detectivity",
+        "responsivity",
+        "dual trap",
+        "Ag nanoparticles"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "A bilayer heterostructure (BHS) for phototransistors, utilizing cross-linked PDPP-DTT as a carrier transport layer and a blend of PDPP-DTT:PC61BM as a photosensitive layer, enables efficient exciton separation and fast carrier transport.",
+      "evidence": "Liu and co-workers designed a polymer phototransistor with a bilayer heterostructure (BHS), which could ensure efficient exciton separation and fast carrier transport. BHS selected cross-linked poly(N-alkyl diketo-pyrrolo-pyrrole dithienylthieno [3,2-b]thiophene) (PDPP-DTT) as the carrier transport layer... and PC61BM as the photosensitive layer.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "BHS",
+        "bilayer heterostructure",
+        "PDPP-DTT",
+        "cross-linked"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The 'Gate Sensing Layer' (GSL) architecture in organic phototransistors involves placing a non-field-effect conjugated polymer (e.g., PEHTTPD-BT) between the gate and the dielectric layer to sense infrared light without interfering with the channel's charge transport.",
+      "evidence": "a conjugated polymer without field-effect properties was placed between the gate and the dielectric layer as the NIR sensing layer, called the NIR Gate Sensing Layer (GSL). They used the conjugated polymer... (PEHTTPD-BT) as the gate sensing layer",
+      "complexity": "single-hop",
+      "keywords": [
+        "GSL",
+        "Gate Sensing Layer",
+        "PEHTTPD-BT",
+        "architecture"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Hybrid phototransistors based on In2O3 and the n-type polymerizing small-molecular acceptor PTPBT-ET have demonstrated long-term operational stability exceeding 160 days with a specific detectivity of 1.2 x 10^13 Jones at 810 nm.",
+      "evidence": "successfully prepared air-stable high-performance infrared phototransistors... successfully achieved a high specific detection rate of 1.2 × 10^13 Jones at 810 nm NIR light and a long-term stable performance of more than 160 days",
+      "complexity": "single-hop",
+      "keywords": [
+        "In2O3",
+        "PTPBT-ET",
+        "stability",
+        "detectivity"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Doping the polymer PolyTPD with the Lewis acid tris(pentafluorophenyl)borane (BCF) extends the short-wave infrared (SWIR) absorption range of the material up to approximately 3200 nm.",
+      "evidence": "Lee and co-workers realized the doping of polytriarylamine... (PolyTPD) with tris(pentafluorophenyl)borane (BCF), and well-controlled SWIR absorption (up to λ = ~3200 nm) was obtained.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PolyTPD",
+        "BCF",
+        "doping",
+        "SWIR",
+        "3200 nm"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "A PTT-based polymer photodiode demonstrates high-speed temporal response with both rise and fall times measured at approximately 100 ns.",
+      "evidence": "the prepared photodiode could realize the effective detection of near-infrared light as shown in Fig. 1b with the rise and fall times both around 100 ns",
+      "complexity": "single-hop",
+      "keywords": [
+        "PTT",
+        "rise time",
+        "fall time",
+        "100 ns"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The use of crosslinked PolyTPD as an electron blocking layer in organic photodiodes helps achieve ultra-low dark current densities as low as 0.2 nA/cm².",
+      "evidence": "Their innovative use of crosslinked poly (N, N' - bis-4-butylphenyl- · N N' -bisphenyl)benzidine (PolyTPD) as an electron blocking layer provided effective blocking of electron injection... achieving an ultra-low dark current density of 0.2 nA cm^−2",
+      "complexity": "single-hop",
+      "keywords": [
+        "PolyTPD",
+        "electron blocking layer",
+        "dark current density"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 14927,
+    "completion_tokens": 3725,
+    "total_tokens": 18652
+  }
+}

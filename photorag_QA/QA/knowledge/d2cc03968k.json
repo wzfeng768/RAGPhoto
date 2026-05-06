@@ -1,0 +1,155 @@
+{
+  "paper_id": "d2cc03968k",
+  "paper_title": "Unconventional conjugation in macromonomers and polymers",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/d2cc03968k/auto/d2cc03968k.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Silsesquioxanes (SQs) are nanostructured building blocks with well-defined 3-D symmetries, including cubic (T8), pentagonal prismatic (T10), and hexagonal prismatic (T12) cages, typically with diameters of 1-3 nm.",
+      "evidence": "SQs offer multiple unique properties including well defined 3-D nanostructures with regular symmetry; cubic for T8 [(RSiO1.5)8], D5h for T10 [(RSiO1.5)10] and C2v for T12 [(RSiO1.5)12] cages.",
+      "complexity": "single-hop",
+      "keywords": [
+        "silsesquioxanes",
+        "T8 cage",
+        "nanostructures",
+        "symmetry"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "In silsesquioxanes, conjugation can occur via saturated siloxane bonds through a cage-centered LUMO, a phenomenon referred to as unconventional conjugation that is ground-state inactive but excited-state active.",
+      "evidence": "conjugation in these polymers appears to occur via saturated siloxane bonds within monomeric units... The only other explanation is conjugation into the cage LUMO in the excited state. Such conjugation is not accessible in the ground state; hence, the lack of coincident ground state redshifts.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "unconventional conjugation",
+        "LUMO",
+        "siloxane bonds",
+        "excited state"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The bromination of octaphenyl silsesquioxane (OPS) without an iron catalyst unexpectedly yields almost exclusive ortho-substitution, whereas the use of an iron catalyst results in a mix of isomers.",
+      "evidence": "By accident, a bromination reaction was run without adding iron with the extremely surprising finding that bromination proceeds almost exclusively at the ortho position. ... Initial bromination studies used an iron catalyst resulting in product distributions recorded in Table 1.",
+      "complexity": "single-hop",
+      "keywords": [
+        "bromination",
+        "octaphenyl silsesquioxane",
+        "ortho-substitution",
+        "catalysis"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Silsesquioxane-appended 4-Rstilbenes exhibit emission maximum (λmax) red-shifts of approximately 50–70 nm compared to simple stilbenes, indicating extended conjugation in the excited state.",
+      "evidence": "However, all emission λmax are redshifted ≈ 50–70 nm vs. stilbene and 30-40 nm from the model compound p-stilbeneS(OEt)3.",
+      "complexity": "single-hop",
+      "keywords": [
+        "red-shift",
+        "emission",
+        "stilbene",
+        "photophysics"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Two-photon absorption (TPA) cross-sections are significantly higher for full silsesquioxane cages (e.g., 26 GM/moiety for Me2NStil8OS) compared to corner or half-cages, serving as evidence for enhanced charge transfer and unconventional conjugation.",
+      "evidence": "values for the full cage are 26/moiety, 8/moiety for the half cage and 12/moiety for the corner. The fact that the full cage offers 2–3 times the TPA of the fragments suggests that this system offers much higher charge transfer than the fragments.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "TPA cross-section",
+        "two-photon absorption",
+        "charge transfer",
+        "Goppert-Mayer"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Amine-terminated silsesquioxane vinylstilbenes (NSOVS) show a solvatochromic red-shift in polar solvents like acetonitrile compared to dichloromethane, suggesting the emitting state involves charge transfer to the cage-centered LUMO.",
+      "evidence": "NSOVS exhibits a further red-shift in more polar acetonitrile vs. CH2Cl2. This observation suggests the emitting state results from charge transfer from the NH2 to the cage centered LUMO, again supporting conjugation.",
+      "complexity": "single-hop",
+      "keywords": [
+        "solvatochromism",
+        "charge transfer",
+        "LUMO",
+        "acetonitrile"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Silsesquioxane-based stilbene compounds can achieve significantly higher fluorescence quantum yields (ΦF) than simple stilbenes, such as 0.73 for a corner-missing cage versus 0.07 for p-methylstilbene, due to the protection of the excited state within the cage core.",
+      "evidence": "Even the doubly substituted corner missing cage which emits in the same place as simple 4-methylstilbene offers a ΦF = 0.73 vs. 0.07. The most reasonable explanation is that the excited state resides primarily in the cage center and is thus protected from solvent promoted radiationless decay.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "fluorescence quantum yield",
+        "radiationless decay",
+        "excited state",
+        "stilbene"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Conjugated silsesquioxane polymers can undergo electron transfer with F4TCNQ to form radical anions, evidenced by a dramatic color change to dark green/black and shifts in the nitrile (C≡N) stretching frequency in FTIR.",
+      "evidence": "the conjugated polymer can donate an electron to F4TCNQ generating a radical anion... One can also observe electron transfer via shifts in ν C≡N associated with charge transfer (CT) promoted color-changes, Fig. 34.",
+      "complexity": "single-hop",
+      "keywords": [
+        "F4TCNQ",
+        "electron transfer",
+        "radical anion",
+        "FTIR"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Ladder silsesquioxanes (LL), which lack a closed cage structure but possess vinyldisiloxane caps, exhibit even greater red-shifts in emission (e.g., 415 nm for LL-co-phenyl) compared to Double Decker (DD) cage systems (390 nm).",
+      "evidence": "Fig. 38 compares the photophysical properties of the DDphenyl model, DD-co-phenyl (DP 12) with the LL-co-phenyl (DP 4) unexpectedly revealing further red-shifts in λmax to 415 nm from 390 nm.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ladder silsesquioxane",
+        "Double Decker silsesquioxane",
+        "emission red-shift"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Copolymers featuring silsesquioxane 'beads on a chain' (BoC) linked by divinylbenzene tethers demonstrate conjugation through the T10 and T12 cages, resulting in red-shifted emissions (λmax ≈ 385 nm) compared to model divinylbenzene compounds (λmax ≈ 325 nm).",
+      "evidence": "The oligomers... present red-shifted emissions λmax ≈ 385 nm. ... we can suggest that these 'beads on a chain' or BoCs exhibit conjugation both via the divinylbenzene tethers and via the T10 and T12 cages.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "beads on a chain",
+        "T10 cage",
+        "T12 cage",
+        "divinylbenzene"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Carboranes, polyhedral clusters of boron and carbon, can exhibit aromaticity and promote conjugation in polymers through delocalization of electrons involving empty p-orbitals on boron or radical anion electron transfer between cages.",
+      "evidence": "Cook et al. have synthesized carborane oligomers finding a form of conjugation they suggest arises from radical anion electron transfer... In the latter systems, conjugation is suggested to occur via π-empty p orbitals on the boron.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "carboranes",
+        "aromaticity",
+        "boron polymers",
+        "radical anion"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Non-linear magnetoelectric scattering is an unconventional spectroscopic characterization method used to identify the formation of spherical excited state LUMOs in silsesquioxane systems.",
+      "evidence": "The method relies on non-linear magnetoelectric scattering characterization from excitation with intense laser light. ... find further evidence for formation of spherical excited state LUMOs adding further corroboration for unconventional conjugation.",
+      "complexity": "single-hop",
+      "keywords": [
+        "magnetoelectric scattering",
+        "LUMO",
+        "spectroscopy",
+        "excited state"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 14343,
+    "completion_tokens": 3338,
+    "total_tokens": 17681
+  }
+}

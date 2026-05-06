@@ -1,0 +1,75 @@
+{
+  "paper_id": "d1tc04518k",
+  "paper_title": "Thionated PDI supramolecular polymers: controlling aggregation mechanisms, morphology and function",
+  "qa_pairs": [
+    {
+      "question": "What specific reagent and solvent are used to synthesize thionated perylene diimide (PDI) derivatives from the PDI1 monomer?",
+      "answer": "Thionation of the PDI1 monomer is achieved by reacting it with Lawesson's reagent (LR) in anhydrous toluene. This process produces a range of products with one to six oxygen-to-sulfur substitutions, specifically isolated as PDI1-S1 to PDI1-S4.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Thionated PDI supramolecular polymers: controlling aggregation mechanisms, morphology and function",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the location of sulfur substitution—core versus side-chain—influence the absorbance spectra of PDI derivatives?",
+      "answer": "Core thionation of the PDI core results in a significant bathochromic shift of approximately 50 nm in the absorbance maximum for each successive sulfur substitution. In contrast, thionation of the side-chain amides (as seen in PDI1-S1 and PDI1-S2) has a minimal impact, with spectra remaining almost identical to the parent PDI1.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Thionated PDI supramolecular polymers: controlling aggregation mechanisms, morphology and function",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What is the physical mechanism responsible for the complete quenching of fluorescence in core-thionated PDI derivatives?",
+      "answer": "The quenching of fluorescence in core-thionated PDI derivatives is attributed to a reordering of electronic states. This reordering facilitates inter-system crossing (ISC) to a longer-lived triplet excited state, effectively bypassing the radiative emission pathway.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Thionated PDI supramolecular polymers: controlling aggregation mechanisms, morphology and function",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the self-assembly mechanism of PDI supramolecular polymers change as the degree of thionation increases?",
+      "answer": "There is a clear transition in the self-assembly mechanism from a highly cooperative polymerization model to an isodesmic model. Specifically, PDI1 and its lightly thionated derivatives (S1 and S2) follow a cooperative model, while the more heavily thionated derivatives (S3 and S4) proceed via an isodesmic mechanism.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Thionated PDI supramolecular polymers: controlling aggregation mechanisms, morphology and function",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Compare the enthalpy change during elongation (ΔHe) for the assembly of PDI1, PDI1-S1, and PDI1-S2.",
+      "answer": "The enthalpy change during elongation (ΔHe) for the parent PDI1 is -137.8 kJ/mol. This value decreases in magnitude to -45.1 kJ/mol for PDI1-S1 and further to -22.6 kJ/mol for PDI1-S2, which is attributed to the weakening of hydrogen bonding as oxygen is replaced by sulfur.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Thionated PDI supramolecular polymers: controlling aggregation mechanisms, morphology and function",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How do the morphologies of the cisPDI1-S4 and transPDI1-S4 isomers differ when characterized by Transmission Electron Microscopy (TEM)?",
+      "answer": "Under TEM, cisPDI1-S4 assembles into individual, well-dispersed nanofibers with a mean width of 8.5 nm. In contrast, transPDI1-S4 forms much wider ribbon-like structures with widths ranging from 30 to 200 nm and a mean width of 70.4 nm.",
+      "category": "Characterization Methods",
+      "source_title": "Thionated PDI supramolecular polymers: controlling aggregation mechanisms, morphology and function",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Why does the transPDI1-S4 isomer form wider ribbon-like structures compared to the cis isomer?",
+      "answer": "The formation of wider structures in transPDI1-S4 is driven by lateral aggregation promoted by S-S and S-π interactions. In the trans isomer, sulfur atoms are positioned on opposite edges of the PDI core, making them more available for these interactions, which encourages the fibers to aggregate side-by-side into ribbons.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Thionated PDI supramolecular polymers: controlling aggregation mechanisms, morphology and function",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What effect does the shift to an isodesmic assembly mechanism have on the degree of polymerization for thionated PDI derivatives at 293 K?",
+      "answer": "The shift to an isodesmic mechanism causes a drastic reduction in the degree of polymerization. While the parent PDI1 (cooperative) has a degree of polymerization exceeding 10,000, the thionated derivatives PDI1-S3, cisPDI1-S4, and transPDI1-S4 exhibit significantly lower values of 3.5, 3.2, and 7.0, respectively.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Thionated PDI supramolecular polymers: controlling aggregation mechanisms, morphology and function",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2557,
+    "completion_tokens": 2396,
+    "total_tokens": 4953
+  }
+}

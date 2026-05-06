@@ -1,0 +1,131 @@
+{
+  "paper_id": "Advanced_Materials_-_2015_-_Seifter_-_Measurement_of_the_Charge_Carrier_Mobility_Distribution_in_Bul",
+  "paper_title": "Measurement of the Charge Carrier Mobility Distribution in Bulk Heterojunction Solar Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Materials - 2015 - Seifter - Measurement of the Charge Carrier Mobility Distribution in Bulk Heterojunction Solar/auto/Advanced Materials - 2015 - Seifter - Measurement of the Charge Carrier Mobility Distribution in Bulk Heterojunction Solar.md",
+  "knowledge_points": [
+    {
+      "category": "Characterization Methods",
+      "content": "A combination of Transient Photocurrent (TPC) and Short Circuit Variable Time-Delayed Collection Field (SCVTDCF) measurements allows for the numerical determination of the complete vertical mobility distribution of photogenerated carriers in functional BHJ solar cells.",
+      "evidence": "In this paper, we show that with a novel combination of transient photocurrent (TPC) and short circuit variable time-delayed collection field (SCVTDCF) measurements, we can determine the complete vertical mobility distribution for the photogenerated carriers in fully functional BHJ solar cells",
+      "complexity": "multi-hop",
+      "keywords": [
+        "TPC",
+        "SCVTDCF",
+        "mobility distribution",
+        "vertical transport"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Charge transport in bulk heterojunction solar cells is highly dispersive due to the disordered structure, meaning mobility is time-dependent as carriers undergo multiple trapping and release in localized states.",
+      "evidence": "In such disordered materials, the resulting spread of average carrier velocities and transit times results in dispersive transport with a physical and measurable manifestation being a time-dependent mobility.",
+      "complexity": "single-hop",
+      "keywords": [
+        "dispersive transport",
+        "time-dependent mobility",
+        "multiple trapping",
+        "disorder"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "PPDT2FBT:PC71BM solar cells can achieve a power conversion efficiency (PCE) of 8.1% with an unusually thick active layer of 350-380 nm, facilitated by a high vertical mobility.",
+      "evidence": "The PCE of our optimized PPDT2FBT solar cell was 8.1% with a noteworthy 350 nm photoactive layer... μmax of the PPDT2FBT material is roughly an order of magnitude higher than that of the other systems",
+      "complexity": "single-hop",
+      "keywords": [
+        "PPDT2FBT",
+        "PCE",
+        "thick active layer",
+        "vertical mobility"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The polymer PPDT2FBT exhibits a maximum vertical carrier mobility (μmax) of approximately 0.018 cm^2 V^-1 s^-1, which is significantly higher than typical high-performance polymers like PTB7-Th.",
+      "evidence": "Table 1: PPDT2FBT μmax [cm2 v-1 s-1] = 0.018; PTB7-Th μmax = 0.0016.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PPDT2FBT",
+        "PTB7-Th",
+        "carrier mobility",
+        "μmax"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "In optimized solar cells, electron and hole mobilities must be balanced and self-consistently comparable to prevent the formation of internal space charge that would inhibit transport.",
+      "evidence": "asymmetric carrier extraction is incompatible with efficient solar cells, as transport would be largely inhibited by the rapid generation of an internal space charge. As such, we expect the individual carrier mobilities to be balanced and self-consistently comparable",
+      "complexity": "single-hop",
+      "keywords": [
+        "balanced mobility",
+        "space charge",
+        "carrier extraction"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The built-in voltage (VBI) of a solar cell can be experimentally determined by identifying the external bias point where the transient photocurrent changes sign.",
+      "evidence": "For each device, VBI was established by finding the external bias point where the photocurrent changes sign.",
+      "complexity": "single-hop",
+      "keywords": [
+        "built-in voltage",
+        "VBI",
+        "photocurrent",
+        "bias"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "For PPDT2FBT:PC71BM devices, the active layer is processed from chlorobenzene using 2% diphenyl ether (v/v) as a solvent additive.",
+      "evidence": "PPDT2FBT:PC71BM (1:1.5 w/w, 2% diphenyl ether v/v) in chlorobenzene (total concentration of 70 mg mL-1) was spin-cast",
+      "complexity": "single-hop",
+      "keywords": [
+        "PPDT2FBT",
+        "diphenyl ether",
+        "solvent additive",
+        "chlorobenzene"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The small molecule donor p-DTS(FBTTh2)2, when blended with PC71BM, demonstrates a PCE of 7.2% with a high fill factor of 70% and a short-circuit current (Jsc) of 13.5 mA cm^-2.",
+      "evidence": "Table 1: p-DTS(FBTTh2)2 Jsc = 13.5, FF = 70%, PCE = 7.2%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "p-DTS(FBTTh2)2",
+        "small molecule donor",
+        "PCE",
+        "fill factor"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "In SCVTDCF measurements, applying a high reverse bias clearing pulse allows for the direct measurement of the internal carrier density n(t) at a specific delay time by assuming minimal recombination during rapid sweep-out.",
+      "evidence": "the number of carriers extracted from the solar cell after the clearing pulse is applied is an accurate estimate of the number of carriers that were present inside the device when the voltage was switched. Consequently, this is a direct measurement of the internal carrier density at that time t.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "SCVTDCF",
+        "clearing pulse",
+        "internal carrier density",
+        "recombination"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Field-effect transistor (FET) measurements often probe lateral transport, which can differ from vertical transport (orthogonal to the substrate) by several orders of magnitude in BHJ films.",
+      "evidence": "FET measurements... probe lateral instead of vertical transport; the two can differ by orders of magnitude.",
+      "complexity": "single-hop",
+      "keywords": [
+        "FET",
+        "lateral transport",
+        "vertical transport",
+        "anisotropy"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 13415,
+    "completion_tokens": 3291,
+    "total_tokens": 16706
+  }
+}

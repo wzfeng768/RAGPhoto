@@ -1,0 +1,142 @@
+{
+  "paper_id": "d0tc01408g",
+  "paper_title": "\"Heavy-atom effects\" in the parent [1]benzochalcogenopheno[3,2- b][1]benzochalcogenophene system?",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/d0tc01408g/auto/d0tc01408g.md",
+  "knowledge_points": [
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Replacing sulfur with selenium and tellurium in the BXBX core leads to a progressive increase in the HOMO energy levels: BTBT (-5.73 eV), BSBS (-5.60 eV), and BTeBTe (-5.24 eV).",
+      "evidence": "The onsets of the oxidation peaks (Eonset) of BTBT and BSBS are 0.93 and 0.80 V versus Fc+/Fc, respectively, which correspond to the HOMO energy levels of -5.73 and -5.60 eV... the onset of the first oxidation peak is 0.44 V, corresponding to a HOMO level of -5.24 eV.",
+      "complexity": "single-hop",
+      "keywords": [
+        "HOMO energy level",
+        "chalcogen substitution",
+        "BXBX",
+        "redox potential"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "BSBS-based single-crystal OFETs exhibit a maximum hole mobility of 0.90 cm² V⁻¹ s⁻¹, which is significantly higher than the 0.36 cm² V⁻¹ s⁻¹ achieved by BTBT-based devices.",
+      "evidence": "The former [BTBT] showed mobilities of up to 0.36 cm2 v-1 s-1 (average: 0.24 cm2 v-1 s-1). The mobilities extracted from the BSBS based devices were up to 0.90 cm2 v-1 s-1 (average: 0.70 cm2 v-1 s-1).",
+      "complexity": "single-hop",
+      "keywords": [
+        "hole mobility",
+        "SC-OFET",
+        "BSBS",
+        "BTBT"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "BTBT and BSBS are isostructural, forming a typical herringbone packing, whereas BTeBTe adopts a strikingly different dimeric herringbone structure due to the large atomic radius of tellurium.",
+      "evidence": "BTBT and BSBS are of isostructure with a typical herringbone packing with a monoclinic P21/c space group... In sharp contrast... BTeBTe shows a dimeric herringbone packing with a monoclinic P21/c space group.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "crystal packing",
+        "herringbone structure",
+        "dimeric herringbone",
+        "BTeBTe"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The enhanced carrier mobility in BSBS compared to BTBT is attributed to a 1.5-fold increase in intermolecular electronic coupling (transfer integral) along the edge-to-edge (b-axis) and edge-to-face (c-axis) directions.",
+      "evidence": "The t values along the edge-to-edge (crystallographic b-axis, tb: 89 meV) and edge-to-face (tc: 32 meV) directions are about 1.5 times larger than the corresponding ones in BTBT.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "electronic coupling",
+        "transfer integral",
+        "heavy-atom effect",
+        "carrier transport"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "The calculated reorganization energy (λ) for BSBS (198 meV) is lower than that for BTBT (225 meV), contributing to more efficient charge hopping in the selenium analog.",
+      "evidence": "The λ values of BTBT and BSBS are calculated to be 225 and 198 meV, respectively. The lower λ of BSBS than BTBT can be explained by the more diffused molecular orbitals of BSBS.",
+      "complexity": "single-hop",
+      "keywords": [
+        "reorganization energy",
+        "charge hopping",
+        "density functional theory",
+        "BSBS"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "BTeBTe-based SC-OFETs do not exhibit transistor response, which is potentially linked to the high localization of spin density (approximately 60%) on the tellurium atoms in the radical cation state.",
+      "evidence": "the spin density calculated for the BTeBTe radical cation shows significant localization of spin on the tellurium atoms (Fig. 9c), approximately 60% spin density on the tellurium atoms... The localized spin on the tellurium atoms in BTeBTe tends to be less mobile in the solid state.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "spin density",
+        "radical cation",
+        "BTeBTe",
+        "charge localization"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Single crystals of BXBX materials are grown via the physical vapor transport (PVT) method using argon as the carrier gas, producing thin platelet crystals suitable for lamination into SC-OFETs.",
+      "evidence": "The single crystals of the BXBXs were grown by a physical vapour transport (PVT) method with argon as the carrier gas.",
+      "complexity": "single-hop",
+      "keywords": [
+        "physical vapor transport",
+        "single crystal growth",
+        "device fabrication"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Hirshfeld surface analysis demonstrates that the larger tellurium atoms in BTeBTe protrude from the molecular edge, hindering the C-H...π contacts that typically stabilize the herringbone packing in BTBT and BSBS.",
+      "evidence": "because of the large atomic radius and elongated C-Te bonds, the tellurium atoms in the BTeBTe core protrude at the molecular edges, resulting in the whole molecular edges unavailable for the edge-to-face CH-π contacts.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Hirshfeld surface",
+        "intermolecular contacts",
+        "steric effects",
+        "tellurium"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Band structure calculations reveal that BSBS has the largest HOMO bandwidth (481 meV) and the smallest effective hole mass (0.44 m₀) in the Γ-Y direction compared to BTBT and BTeBTe.",
+      "evidence": "For BSBS, the bandwidth in the Γ-Y direction is as large as 481 meV, which is approximately 1.6 times larger than that of BTBT (292 meV)... extracted m*s values were 0.73, 0.44, and 0.52 for BTBT, BSBS, and BTeBTe, respectively.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "bandwidth",
+        "effective mass",
+        "band structure",
+        "charge transport"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The optical bandgap (Eg) of the BXBX series decreases with increasing atomic weight of the chalcogen: BTBT (3.63 eV), BSBS (3.48 eV), and BTeBTe (3.13 eV).",
+      "evidence": "the on-set of absorption for BSBS is 356 nm, which corresponds to an optical bandgap (Eg) of 3.48 eV, whereas those for BTBT are 342 nm and 3.63 eV... BTeBTe are remarkably different... (Eg = 3.13 eV).",
+      "complexity": "single-hop",
+      "keywords": [
+        "optical bandgap",
+        "UV-Vis absorption",
+        "chalcogen effect"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Bottom-gate top-contact (BGTC) SC-OFET configurations consistently provide higher mobilities (e.g., 0.70 cm²/Vs for BSBS) compared to top-gate top-contact (TGTC) configurations (e.g., 0.097 cm²/Vs for BSBS).",
+      "evidence": "the BGTC devices always afforded better device performances than the TGTC ones... BSBS devices were up to 0.13 cm2 v-1 s-1 (average: 0.097 cm2 v-1 s-1), which is about 8 times lower than those of the corresponding BGTC devices.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "device configuration",
+        "BGTC",
+        "TGTC",
+        "mobility comparison"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 13126,
+    "completion_tokens": 3953,
+    "total_tokens": 17079
+  }
+}

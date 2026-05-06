@@ -1,0 +1,132 @@
+{
+  "paper_id": "Angew_Chem_Int_Ed_-_2013_-_Tao_-_Dynamically_Adaptive_Characteristics_of_Resonance_Variation_for_Sel",
+  "paper_title": "Dynamically Adaptive Characteristics of Resonance Variation for Selectively Enhancing Electrical Performance of Organic Semiconductors",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Angew Chem Int Ed - 2013 - Tao - Dynamically Adaptive Characteristics of Resonance Variation for Selectively Enhancing/auto/Angew Chem Int Ed - 2013 - Tao - Dynamically Adaptive Characteristics of Resonance Variation for Selectively Enhancing.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The molecular design utilizes a direct linkage between arylamine (carbazole or diphenylamine) and phenylphosphine oxide (PPO) moieties to form an N-P=O structure that facilitates resonance variation.",
+      "evidence": "N-P=O was formed through the direct linkage of arylamine and PPO moieties... the use of resonance variations for the dynamic adaptability of electronic characteristics was systematically investigated on the basis of a series of D-A molecules, namely NCzPO, DNCzPO, NDPhPO, and DNDPhPO.",
+      "complexity": "single-hop",
+      "keywords": [
+        "arylamine",
+        "phenylphosphine oxide",
+        "N-P=O linkage",
+        "D-A structure"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The blue PHOLED using DNCzPO as a host material achieves a maximum external quantum efficiency (EQE) of 16.5% and a maximum power efficiency (PE) exceeding 37 Lm/W.",
+      "evidence": "DNCzPO endowed its blue PhOLED with... a maximum external quantum efficiency (EQE) of up to 16.5% and power efficiency (PE) > 37 Lm W-1.",
+      "complexity": "single-hop",
+      "keywords": [
+        "external quantum efficiency",
+        "power efficiency",
+        "DNCzPO",
+        "PHOLED"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "DNCzPO-based blue PHOLEDs demonstrate low driving voltages of 2.6 V for onset, 3.4 V at 100 cd/m², and 4.8 V at 1000 cd/m².",
+      "evidence": "DNCzPO endowed its blue PhOLED with impressively low driving voltages: 2.6 V for onset, under 3.4 V for 100 cd m-2 and under 4.8 V for 1000 cd m-2.",
+      "complexity": "single-hop",
+      "keywords": [
+        "driving voltage",
+        "turn-on voltage",
+        "luminance",
+        "DNCzPO"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The N-P bond in NCzPO and DNCzPO exhibits partial double-bond character due to N+ = P - O- resonance, evidenced by bond lengths shorter than the standard 1.76 nm (likely Angstroms in source) reported in single-crystal structures.",
+      "evidence": "The shortened N-P bonds in NCzPO and DNCzPO compared with the normal length of 1.76 nm, as indicated by their single-crystal structures, verify the partial double-bond character of N-P through the contribution of N+=P-O- resonance structures.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "N-P bond",
+        "resonance structure",
+        "bond length",
+        "double-bond character"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The insulating P=O group effectively suppresses electronic communication between conjugated groups, allowing the triplet energy (T1) of the D-A molecules to remain above 2.9 eV, equivalent to their constituent chromophores.",
+      "evidence": "Owing to the insulating characteristic of P=O, the electronic communication between conjugated groups is effectively suppressed... The lowest triplet state energy levels (T1) of these molecules were more than 2.9 eV... which are almost equivalent to those of their chromophores carbazole and diphenylamine.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "triplet energy",
+        "insulating linkage",
+        "P=O group",
+        "chromophore"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Enantiotropic resonance variations in bisubstituted molecules like DNCzPO allow for enhanced electron transportation from a polarized carbazolyl group while preserving hole transportation via a neutral carbazolyl group.",
+      "evidence": "The greater contribution of enantiotropic N+=P-O- resonances to DNCzPO results in a much enhanced electron transportation from the polarized carbazolyl, accompanied by the preserved hole transportation by the other neutral carbazolyl group.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "enantiotropic resonance",
+        "electron transportation",
+        "hole transportation",
+        "charge transfer"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The high-performance blue PHOLED device architecture includes a MoOx/m-MTDATA hole injection layer and a BPhen electron transport layer, with FIrpic as the phosphorescent guest.",
+      "evidence": "blue-emitting PhOLED devices... were fabricated with the configuration of ITO/MoOx (2 nm)/m-MTDATA:MoOx 15wt% (30 nm)/m-MTDATA (10 nm)/[Ir(ppz)3] (10 nm)/Host: FIrpic (10 nm 10%)/BPhen (20 nm)/LiF (1 nm)/Al (100 nm).",
+      "complexity": "single-hop",
+      "keywords": [
+        "device architecture",
+        "FIrpic",
+        "BPhen",
+        "m-MTDATA"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Natural Bond Orbital (NBO) calculations show that in bisubstituted N-P=O molecules, up to 33% of the negative charge from an injected electron is distributed on the arylamines, compared to 20% in monosubstituted versions.",
+      "evidence": "With an injected electron, the negative charge is majorly localized on electron-withdrawing PPO unit... approximately 20%, distributes on the arylamines. This proportion further increases to up to 33% when two arylamines are involved in the N+=P-O- resonance.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "NBO calculations",
+        "charge distribution",
+        "arylamine",
+        "resonance stability"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The stability of the resonance structures in the host materials correlates directly with the efficiency roll-off observed in the PHOLED devices; DNCzPO shows the most stable efficiency due to its rigid carbazole structure and stable resonance.",
+      "evidence": "It is shown that the efficiency stability of these devices is in accord with the resonance stability of their hosts... NCzPO which has a more stable resonance structure endowed A with a much reduced efficiency roll-off of 8.1% for EQE at 100 cd m-2.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "efficiency roll-off",
+        "resonance stability",
+        "carbazole",
+        "DNCzPO"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Bisubstitution in DNDPhPO reverses the dominant carrier transport from hole-dominant (in monosubstituted NDPhPO) to electron-dominant due to the increased stability of enantiotropic resonance structures.",
+      "evidence": "The hole-only current density (J) of NDPhPO is much greater than its electron-only J... The much improved stability of the enantiotropic resonance structures of bisubstituted DNDPhPO induced the reversed electrical properties so that the electron transportation became dominant.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "carrier transportation",
+        "bisubstitution",
+        "DNDPhPO",
+        "electron-dominant"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 7754,
+    "completion_tokens": 3680,
+    "total_tokens": 11434
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "paper_id": "ChemSusChem_-_2021_-_Lee_-_Performance_and_Stability_of_Polymer_Nonfullerene_Solar_Cells_with_100_CA",
+  "paper_title": "Performance and Stability of Polymer: Nonfullerene Solar Cells with 100 °C-Annealed Electron-Collecting Combination Layers",
+  "qa_pairs": [
+    {
+      "question": "What is the composition of the hybrid electron-collecting buffer layer (ECBL) system used in the PBDB-T:IT-M solar cells described in this study?",
+      "answer": "The hybrid electron-collecting buffer layer (ECBL) system consists of a zinc oxide (ZnO) and poly(2-ethyl-2-oxazoline) (PEOz) blend (ZnO:PEOz) which is further modified with an additional PEOz interlayer.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Performance and Stability of Polymer: Nonfullerene Solar Cells with 100 °C-Annealed Electron-Collecting Combination Layers",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What annealing temperature was applied to the ZnO:PEOz/PEOz combination layers, and what is the practical advantage of this specific temperature?",
+      "answer": "The combination layers were processed at a low thermal annealing temperature of 100 °C. This low-temperature processing is advantageous because it is compatible with roll-to-roll fabrication on flexible substrates.",
+      "category": "Processing & Fabrication",
+      "source_title": "Performance and Stability of Polymer: Nonfullerene Solar Cells with 100 °C-Annealed Electron-Collecting Combination Layers",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What were the average and maximum power conversion efficiencies (PCE) for inverted PBDB-T:IT-M solar cells utilizing a 6 wt% PEOz hybrid combination layer?",
+      "answer": "The inverted PBDB-T:IT-M solar cells using the ZnO:PEOz (6 wt% PEOz) / PEOz combination layer achieved an average PCE of 10.11% and a maximum PCE of 10.59%.",
+      "category": "Performance Metrics",
+      "source_title": "Performance and Stability of Polymer: Nonfullerene Solar Cells with 100 °C-Annealed Electron-Collecting Combination Layers",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the concentration of PEOz in the ZnO:PEOz hybrid layer influence the electrical resistance and current density of the PBDB-T:IT-M devices?",
+      "answer": "The inclusion of 6 wt% PEOz in the ZnO precursor minimizes the series resistance (Rs) to 0.13 kΩ. This reduction in resistance correlates with the highest observed short-circuit current density (Jsc) of 16.19 mA/cm², as Jsc was found to increase gradually with PEOz content up to the 6 wt% threshold.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Performance and Stability of Polymer: Nonfullerene Solar Cells with 100 °C-Annealed Electron-Collecting Combination Layers",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "According to Atomic Force Microscopy (AFM) results, how does the surface morphology of the ZnO:PEOz (6 wt%) layer facilitate electron transfer?",
+      "answer": "AFM revealed that the ZnO:PEOz (6 wt%) layer features a textured surface with nanocrater structures. These structures increase the interfacial contact area between the buffer layer and the bulk heterojunction (BHJ) layer, which enhances electron transfer from the active layer.",
+      "category": "Characterization Methods",
+      "source_title": "Performance and Stability of Polymer: Nonfullerene Solar Cells with 100 °C-Annealed Electron-Collecting Combination Layers",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Compare the degradation of short-circuit current density (Jsc) between devices using pristine ZnO and those using the ZnO:PEOz (6 wt%) hybrid layer after 12 hours of light exposure.",
+      "answer": "Under continuous one-sun illumination for 12 hours, the device with the pristine ZnO/PEOz layer (0 wt% PEOz) showed a significant Jsc reduction of 68.72%. In contrast, the device utilizing the ZnO:PEOz (6 wt%) / PEOz hybrid layer showed a much lower reduction of 35.27%, indicating significantly improved photostability.",
+      "category": "Stability & Degradation",
+      "source_title": "Performance and Stability of Polymer: Nonfullerene Solar Cells with 100 °C-Annealed Electron-Collecting Combination Layers",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "How does the 6 wt% PEOz hybrid combination layer affect the timeline for the appearance of sigmoidal (S-shape) J-V curves during continuous light exposure?",
+      "answer": "The use of the 6 wt% PEOz hybrid layer delays the appearance of the sigmoidal J-V curve, which indicates severe device degradation. While the pristine ZnO layer showed this S-shape after 2 hours of light exposure, the 6 wt% PEOz hybrid layer extended this time to 4 hours.",
+      "category": "Stability & Degradation",
+      "source_title": "Performance and Stability of Polymer: Nonfullerene Solar Cells with 100 °C-Annealed Electron-Collecting Combination Layers",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What physical mechanism allows polymeric interlayers such as PEOz to increase the built-in potential of organic solar cells?",
+      "answer": "Polymeric interlayers like PEOz function by creating dipoles on the metal oxide (ECBL) surface. This dipole formation modifies the work function of the layer, which subsequently increases the built-in potential of the device.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Performance and Stability of Polymer: Nonfullerene Solar Cells with 100 °C-Annealed Electron-Collecting Combination Layers",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2787,
+    "completion_tokens": 2454,
+    "total_tokens": 5241
+  }
+}

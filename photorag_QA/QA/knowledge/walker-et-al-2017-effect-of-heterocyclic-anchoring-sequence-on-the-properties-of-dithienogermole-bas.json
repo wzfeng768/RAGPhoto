@@ -1,0 +1,129 @@
+{
+  "paper_id": "walker-et-al-2017-effect-of-heterocyclic-anchoring-sequence-on-the-properties-of-dithienogermole-bas",
+  "paper_title": "Effect of Heterocyclic Anchoring Sequence on the Properties of Dithienogermole-Based Solar Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/walker-et-al-2017-effect-of-heterocyclic-anchoring-sequence-on-the-properties-of-dithienogermole-based-solar-cells/auto/walker-et-al-2017-effect-of-heterocyclic-anchoring-sequence-on-the-properties-of-dithienogermole-based-solar-cells.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The small molecules DTGe(ThFBTTh2)2 and DTGe(FBTTh3)2 were synthesized via microwave-assisted Stille coupling between a bis-stannylated dithienogermole (DTGe) core and monobrominated heterocyclic intermediates (ThFBTTh2 or FBTTh3).",
+      "evidence": "The desired DTGe(FBTTh3)2 and DTGe(ThFBTTh2)2 were built up via a microwave-assisted Stille coupling between a bis-stannylated DTGe building block and the corresponding monobrominated counterparts (FBTTh3 and ThFBTTh2).",
+      "complexity": "single-hop",
+      "keywords": [
+        "dithienogermole",
+        "Stille coupling",
+        "microwave-assisted synthesis",
+        "small molecules"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Incorporating additional thiophene units near the molecular terminus (DTGe(FBTTh3)2) results in lower energy HOMO and LUMO levels compared to incorporating them near the central core (DTGe(ThFBTTh2)2).",
+      "evidence": "both highest occupied molecular orbitals and lowest unoccupied molecular orbital energy bands were at lower energies when the thiophenes were incorporated near the terminus of the molecule.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "HOMO",
+        "LUMO",
+        "thiophene sequence",
+        "energy level engineering"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "DTGe(ThFBTTh2)2 achieved a peak power conversion efficiency (PCE) of 3.60% with a short-circuit current (JSC) of 11.84 mA cm-2 and a fill factor (FF) of 56.2% after solvent vapor annealing.",
+      "evidence": "Optimal SVA processing time for DTGe(ThFBTTh2)2 devices was 80 s, yielding devices with a JSC, VOC, and FF of 11.8 mA cm-2, 0.540 V, and 56.2% respectively, corresponding to a dramatically improved PCE of 3.60%",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "JSC",
+        "fill factor",
+        "solvent vapor annealing"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "DTGe(FBTTh3)2 reached a peak PCE of 3.24% with an open-circuit voltage (VOC) of 0.753 V, which is higher than that of DTGe(ThFBTTh2)2 due to its deeper HOMO level.",
+      "evidence": "Optimal performance with DTGe(FBTTh3)2 after thermal annealing... led to devices with a JSC, VOC, and FF of 10.1 mA cm-2, 0.752 V and 41.6%, respectively, corresponding to a dramatically improved PCE of 3.16% [Table 2 lists 3.24% for the champion device].",
+      "complexity": "multi-hop",
+      "keywords": [
+        "VOC",
+        "PCE",
+        "HOMO level",
+        "DTGe(FBTTh3)2"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Density Functional Theory (DFT) calculations using B3LYP/6-31G(d,p) show that the LUMO of these DTGe-based molecules is localized on the 2,1,3-benzothiadiazole (FBT) moieties and the quinoid-arranged double bonds.",
+      "evidence": "The lowest unoccupied molecular orbitals (LUMOs) of the new molecules also resemble the parent molecule DTGe(FBTTh2)2, being localized on the 2,1,3-benzothiadiazole moieties and double bonds arranged as a quinoid tautomer.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DFT",
+        "LUMO localization",
+        "benzothiadiazole",
+        "quinoid"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Solvent vapor annealing (SVA) with dichloromethane (CH2Cl2) for 80 seconds significantly improves the morphology and performance of DTGe(ThFBTTh2)2 and DTGe(FBTTh3)2 solar cells.",
+      "evidence": "SVA with CH2Cl2, however, was found to significantly improve the performance of both materials relative to pristine films... Optimal SVA processing time for DTGe(ThFBTTh2)2 devices was 80 s... Optimal SVA processing time for DTGe(FBTTh3)2 devices was also 80 s",
+      "complexity": "single-hop",
+      "keywords": [
+        "dichloromethane",
+        "SVA",
+        "processing optimization"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Grazing incidence wide-angle X-ray scattering (GIWAXS) revealed that DTGe(FBTTh3)2 exhibits polymorphism, adopting different crystal structures depending on whether the film is processed by thermal annealing or solvent vapor annealing.",
+      "evidence": "These observations lead to the interesting conclusion that different crystal structures are obtained with DTGe(FBTTh3)2 SMBHJs if the film is processed by thermal or SVA.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "GIWAXS",
+        "polymorphism",
+        "crystallinity",
+        "thermal annealing"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The thin-film absorption coefficients for DTGe(ThFBTTh2)2 and DTGe(FBTTh3)2 reach maximum values of 63,000 cm-1 (at 616 nm) and 54,600 cm-1 (at 686 nm), respectively.",
+      "evidence": "The absorption coefficient (α) also increased noticeably... reaching a maximum of 63000 cm-1 at 616 nm and 54600 cm-1 at 686 nm for DTGe(ThFBTTh2)2 and DTGe(FBTTh3)2, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "absorption coefficient",
+        "thin film",
+        "optical properties"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The optimized morphology of DTGe(ThFBTTh2)2 films consists of a cross-hatched network of rod-like domains (10-50 nm wide), which facilitates more efficient charge extraction compared to the discrete almond-shaped domains in DTGe(FBTTh3)2.",
+      "evidence": "the relatively large and discontinuous almond-shaped donor-rich domains apparent in TEM images of DTGe(FBTTh3)2 films apparently led to inefficient hole extraction... compared to the cross-hatched network of material that is observed in DTGe(ThFBTTh2)2.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "TEM",
+        "charge extraction",
+        "domain size",
+        "morphology"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Cyclic voltammetry (CV) measurements determined the HOMO levels of DTGe(ThFBTTh2)2 and DTGe(FBTTh3)2 to be -4.81 eV and -4.88 eV, respectively.",
+      "evidence": "The HOMO energy levels were measured to be -5.11, -4.81, and -4.88 eV for DTGe(FBTTh2)2, DTGe(ThFBTTh2)2, and DTGe(FBTTh3)2, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "cyclic voltammetry",
+        "HOMO",
+        "electrochemical characterization"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 16674,
+    "completion_tokens": 2966,
+    "total_tokens": 19640
+  }
+}

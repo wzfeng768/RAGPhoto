@@ -1,0 +1,132 @@
+{
+  "paper_id": "d1tc04518k",
+  "paper_title": "Thionated PDI supramolecular polymers: controlling aggregation mechanisms, morphology and function",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/d1tc04518k/auto/d1tc04518k.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Thionation of the PDI1 monomer is achieved using Lawesson's reagent in anhydrous toluene, producing a mixture of products with one to six oxygen-to-sulfur substitutions (PDI1-S1 to PDI1-S5).",
+      "evidence": "Thionation of PDI1 was achieved by reaction of the parent PDI with Lawesson's reagent (LR) in anhydrous toluene... products containing between one and four sulphur atoms were isolated... termed PDI1-S1 to PDI1-S4.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Lawesson's reagent",
+        "Perylene diimide",
+        "Thionation",
+        "Synthesis"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Thionation of the PDI core results in a bathochromic shift of approximately 50 nm in the absorbance maximum for each successive substitution, while side-chain amide thionation has minimal impact on the absorbance spectrum.",
+      "evidence": "PDI1-S1 and PDI1-S2 exhibit spectra almost identical to the parent PDI... PDI1-S3 displayed a maximum absorbance at 580 nm, whereas both S4-substituted PDIs exhibited identical maxima at 622 nm.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Bathochromic shift",
+        "Absorbance",
+        "Core substitution",
+        "Side-chain engineering"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Core thionation of PDI derivatives leads to the complete quenching of fluorescence due to facilitated inter-system crossing to a longer-lived triplet excited state.",
+      "evidence": "The typically strong fluorescence of PDI materials is completely quenched in all derivatives exhibiting any degree of core thionation... attributed to a reordering of electronic states upon thionation, such that inter-system crossing to a triplet excited state is facilitated.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Fluorescence quenching",
+        "Triplet state",
+        "Inter-system crossing",
+        "Core thionation"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Thionation induces a transition in the self-assembly mechanism of PDI supramolecular polymers from a highly cooperative model (for PDI1, S1, and S2) to an isodesmic model (for S3 and S4).",
+      "evidence": "Overall, a clear transition from a highly cooperative polymerisation process to one that proceeds isodesmically is evident upon successive oxygen-to-sulphur substitutions.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Self-assembly mechanism",
+        "Cooperative assembly",
+        "Isodesmic assembly",
+        "Supramolecular polymers"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The thionated derivative cisPDI1-S4 exhibits higher conductivity and a greater electrostatic field compared to the parent PDI1, as measured by PeakForce tunnelling AFM (PF-TUNA) and electrostatic force microscopy (EFM).",
+      "evidence": "cisPDI1-S4 exhibits a greater degree of conductivity than that of parent PDI1... greater electrostatic field, for thionated cisPDI1-S4 compared with the parent PDI1.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Conductivity",
+        "PF-TUNA",
+        "EFM",
+        "cisPDI1-S4"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The enthalpy change during elongation (ΔHe) for PDI1 assembly is -137.8 kJ/mol, which decreases in magnitude to -45.1 kJ/mol for PDI1-S1 and -22.6 kJ/mol for PDI1-S2 due to weakened hydrogen bonding.",
+      "evidence": "enthalpic change during elongation, from -137.8 kJ mol-1 for PDI1 to -45.1 and -22.6 kJ mol-1 for PDI1-S1 and PDI1-S2, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Enthalpy",
+        "Thermodynamics",
+        "Hydrogen bonding",
+        "Aggregation"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Transmission Electron Microscopy (TEM) reveals that cisPDI1-S4 assembles into well-dispersed nanofibers with a mean width of 8.5 nm, whereas transPDI1-S4 forms wider ribbon-like structures with a mean width of 70.4 nm.",
+      "evidence": "cisPDI1-S4 assembles into individual, well-dispersed supramolecular fibers... mean of 8.5 nm... transPDI1-S4... Typical widths of these ribbon-like structures were between 30 and 200 nm... mean value of 70.4 nm.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "TEM",
+        "Nanofibers",
+        "Morphology",
+        "Regioisomers"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Lateral aggregation in thionated PDI nanofibers is promoted by additional S-S and S-π interactions, which are particularly effective in the transPDI1-S4 isomer where sulfur atoms are exposed on opposite edges of the PDI core.",
+      "evidence": "Additional S-S and S-π interactions should encourage this type of lateral aggregation on the sulphur-substituted edges... In transPDI1-S4, sulphur atoms are positioned on opposite edges... leading to the formation of wider structures.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Lateral aggregation",
+        "S-S interactions",
+        "Chalcogen bonding",
+        "Trans isomer"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Methylcyclohexane (MCH) is used as a selective solvent to induce self-assembly in PDI1 and its thionated analogues, allowing for the observation of distinct morphological transitions as the degree of thionation increases.",
+      "evidence": "the solution self-assembly of all obtained derivatives was investigated in methylcyclohexane (MCH). This solvent has previously been demonstrated to strongly induce aggregation in PDI1.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Solvent selection",
+        "Methylcyclohexane",
+        "Self-assembly",
+        "Aggregation"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The degree of polymerization at 293 K drops from >10,000 for the parent PDI1 to significantly lower values (between 3 and 7) for core-thionated derivatives PDI1-S3 and PDI1-S4 due to the shift to an isodesmic mechanism.",
+      "evidence": "At 293 K, a degree of polymerisation > 10 000 was determined for PDI1... PDI1-S3 displayed a degree of polymerisation of 3.5, cisPDI1-S4 a value of 3.2, and transPDI1-S4 a value of 7.0.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Degree of polymerization",
+        "Isodesmic mechanism",
+        "Core thionation",
+        "PDI1-S4"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 13423,
+    "completion_tokens": 2959,
+    "total_tokens": 16382
+  }
+}

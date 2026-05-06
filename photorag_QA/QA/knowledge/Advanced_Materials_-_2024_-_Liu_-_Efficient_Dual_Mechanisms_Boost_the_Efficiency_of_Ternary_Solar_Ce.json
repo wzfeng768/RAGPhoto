@@ -1,0 +1,151 @@
+{
+  "paper_id": "Advanced_Materials_-_2024_-_Liu_-_Efficient_Dual_Mechanisms_Boost_the_Efficiency_of_Ternary_Solar_Ce",
+  "paper_title": "Efficient Dual Mechanisms Boost the Efficiency of Ternary Solar Cells with Two Compatible Polymer Donors to Exceed 19%",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Materials - 2024 - Liu - Efficient Dual Mechanisms Boost the Efficiency of Ternary Solar Cells with Two Compatible/auto/Advanced Materials - 2024 - Liu - Efficient Dual Mechanisms Boost the Efficiency of Ternary Solar Cells with Two Compatible.md",
+  "knowledge_points": [
+    {
+      "category": "Performance Metrics",
+      "content": "The optimized ternary organic solar cell based on PM6:PBB-Cl:BTP-eC9 achieves a power conversion efficiency (PCE) of 19.04%, with a short-circuit current density (JSC) of 28.53 mA cm⁻², an open-circuit voltage (VOC) of 0.853 V, and a fill factor (FF) of 78.23%.",
+      "evidence": "After adding 15 wt% PBB-Cl (compared to host donor), the optimized TOSC shows an outstanding PCE of 19.04% with JSC of 28.53 mA cm⁻², VOC of 0.853 V, and FF of 78.23%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "TOSC",
+        "PBB-Cl",
+        "PM6",
+        "BTP-eC9"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The efficiency enhancement in the PM6:PBB-Cl:BTP-eC9 ternary system is attributed to dual mechanisms: Förster resonance energy transfer (FRET) from the guest donor (PBB-Cl) to the host donor (PM6) and efficient charge transfer at the donor/acceptor (D/A) interfaces.",
+      "evidence": "A more profound mechanism for enhancing efficiency through dual mechanisms, that are the guest energy transfer to PM6 and charge transport at the donor/acceptor interface, has been proposed.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "energy transfer",
+        "charge transfer",
+        "dual mechanisms",
+        "FRET"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The guest polymer donors PBB-F and PBB-Cl possess deeper HOMO energy levels compared to the host donor PM6, which leads to a quasi-linear increase in the open-circuit voltage (VOC) of the ternary solar cells as the guest donor ratio increases.",
+      "evidence": "It is observed that PBB-F and PBB-Cl possess deeper HOMO energy levels compared to that of PM6... the VOCs in TOSCs show a gradual improvement, exhibiting a quasi-linear dependence on PBB-F/Cl ratios, which suggests the presence of the alloy-like mode.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "HOMO",
+        "VOC",
+        "energy level engineering",
+        "alloy-like phase"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "PBB-F and PBB-Cl are wide bandgap polymer donors designed using benzo(1,2-d:4,5-d')dithiazole (BBT) as the acceptor unit, specifically chosen to provide absorption complementary to the solar spectrum in the 500-600 nm range.",
+      "evidence": "two PDs PBB-F and PBB-Cl based on benzo(1,2- d:4,5-d')dithiazole (BBT) as acceptor unit were selected, which exhibit excellent absorption within strong solar radiation.",
+      "complexity": "single-hop",
+      "keywords": [
+        "BBT",
+        "wide bandgap",
+        "polymer donor",
+        "molecular design"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The PM6:PBB-Cl:BTP-eC9 ternary solar cells exhibit superior thermal stability compared to binary PM6:BTP-eC9 cells, retaining over 90% of their initial PCE after 720 hours of annealing at 60°C in a nitrogen atmosphere.",
+      "evidence": "The TOSCs with PBB-Cl exhibited remarkable retention of over 90% PCE even after undergoing 720 h at 60 °C surpassing the binary OSC (500 h).",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "PCE retention",
+        "long-term stability"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis indicates that the addition of PBB-Cl as a third component reduces the π-π stacking distance from 3.81 Å in the binary PM6:BTP-eC9 blend to 3.76 Å in the ternary blend, while increasing the crystal coherence length (CCL).",
+      "evidence": "The π-π stacking distances of binary, PBB-F, and PBB-Cl ternary blend films are 3.81, 3.78, and 3.76 Å, respectively... Besides, the CCLs of π-π stacking along OOP direction in binary, PBB-F, and PBB-Cl ternary blend films are 21.89, 22.31, and 22.56 Å, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "π-π stacking",
+        "crystallinity",
+        "CCL"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The compatibility between PM6 and PBB-Cl is exceptionally high, as evidenced by a low Flory-Huggins interaction parameter (χ) of 0.037 K and a low interfacial energy (γ) of 0.82 mN m⁻¹, facilitating the formation of an alloy-like phase.",
+      "evidence": "It can be seen that the χ of 0.037 K for PM6:PBB-Cl is the smallest one... the γ value is the smallest of only 0.82 mN m⁻¹... which further proves the excellent compatibility between two donors.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "miscibility",
+        "Flory-Huggins",
+        "interfacial energy",
+        "compatibility"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "PBB-Cl-based ternary solar cells demonstrate balanced charge carrier mobilities, with a hole mobility (μh) of 5.95 × 10⁻⁴ cm² V⁻¹ s⁻¹ and an electron mobility (μe) of 5.77 × 10⁻⁴ cm² V⁻¹ s⁻¹, resulting in a μe/μh ratio of 1.03.",
+      "evidence": "Notably, the PBB-Cl-based TOSC exhibits a μh of 5.95 × 10⁻⁴ cm² V⁻¹ s⁻¹ and μe of 5.77 × 10⁻⁴ cm² V⁻¹ s⁻¹... TOSCs display a μe/μh ratio of 1.06 and 1.03, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "carrier mobility",
+        "SCLC",
+        "balanced transport"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "DFT calculations at the B3LYPD3/def2-SVP level show that the π-π stacking distance between PM6 and PBB-Cl is 3.51 Å, which is significantly shorter than the self-stacking distance of PM6 (3.71 Å), supporting the formation of a stable alloy-like structure.",
+      "evidence": "The π-π stacking distance between PM6 and PBB-F/PBB-Cl is approximately 3.54 Å / 3.51 Å which is significantly smaller than the stacking distances observed self-PM6 (3.71 A).",
+      "complexity": "single-hop",
+      "keywords": [
+        "DFT",
+        "molecular simulation",
+        "π-π stacking distance"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Transient photocurrent (TPC) measurements reveal that the charge extraction time (τext) decreases from 3.79 µs in the binary device to 0.89 µs in the PBB-Cl-based ternary device, indicating faster charge sweep-out.",
+      "evidence": "The charge extraction time (τext) values estimated from fittings TPC decays... for the binary, TOSCs with PBB-F and PBB-Cl are fitted to be 3.79, 1.63, and 0.89 µs, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "TPC",
+        "charge extraction time",
+        "transient photocurrent"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The optimized device architecture for these high-efficiency ternary solar cells is a conventional structure consisting of ITO/PEDOT:PSS/active layer/PDINN/Ag.",
+      "evidence": "a conventional configuration of ITO/PEDOT:PSS/active layer/PDINN/Ag were prepared, as shown in Figure 2a.",
+      "complexity": "single-hop",
+      "keywords": [
+        "device structure",
+        "PDINN",
+        "conventional architecture"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The improved thermal stability in the ternary system is attributed to the reduction in spatial site resistance and the formation of a more tightly entangled long-chain structure between the two polymer donors.",
+      "evidence": "Furthermore, the TOSCs exhibit better thermal stability than that of binary OSCs due to the reduction in spatial site resistance resulting from a more tightly entangled long-chain structure.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "chain entanglement",
+        "spatial resistance"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 14137,
+    "completion_tokens": 4621,
+    "total_tokens": 18758
+  }
+}

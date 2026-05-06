@@ -1,0 +1,132 @@
+{
+  "paper_id": "guo-et-al-2018-exceeding-14-efficiency-for-solution-processed-tandem-organic-solar-cells-combining-f",
+  "paper_title": "Exceeding 14% Efficiency for Solution-Processed Tandem Organic Solar Cells Combining Fullerene- and Nonfullerene-Based Subcells with Complementary Absorption",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/guo-et-al-2018-exceeding-14-efficiency-for-solution-processed-tandem-organic-solar-cells-combining-fullerene-and/auto/guo-et-al-2018-exceeding-14-efficiency-for-solution-processed-tandem-organic-solar-cells-combining-fullerene-and.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "PBD1 is a wide-bandgap (WBG) conjugated polymer with an optical bandgap of 1.88 eV and a low-lying HOMO energy level of -5.39 eV, designed for use in the front subcell of tandem organic solar cells.",
+      "evidence": "This WBG polymer, referred to as PBD1 (Figure 1a), exhibited a wide optical bandgap (Eg opt) of 1.88 eV, a low-lying highest occupied molecular orbital (HOMO) energy level of −5.39 eV.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PBD1",
+        "wide-bandgap polymer",
+        "HOMO level",
+        "optical bandgap"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "A single-junction organic solar cell based on PBD1:PC71BM with a thickness of 230 nm achieves a PCE of 9.8%, a Jsc of 14.6 mA cm⁻², and a fill factor (FF) of 74%.",
+      "evidence": "The optimized device that was based on PBD1:PC71BM with a thickness of 230 nm exhibited a high PCE of 9.8% with a high Jsc of 14.6 mA cm−2, a Voc of 0.91 V, and a FF of 74%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "PBD1",
+        "PC71BM",
+        "Jsc",
+        "fill factor"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The solution-processed tandem organic solar cell reaches a PCE of 14.2% with a Voc of 1.61 V, a Jsc of 12.3 mA cm⁻², and a fill factor of 72%.",
+      "evidence": "The best performance of the tandem cell gave Jsc of 12.3 mA cm−2, a Voc of 1.61 V, and a high FF of 72%, resulting in an overall PCE of 14.2%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "tandem solar cell",
+        "PCE",
+        "Voc",
+        "Jsc",
+        "high efficiency"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "PBD1 exhibits a high hole mobility of 1.4 × 10⁻³ cm² V⁻¹ s⁻¹ and a preferential face-on orientation with a π-π stacking distance of 3.73 Å.",
+      "evidence": "a high hole mobility of 1.4 × 10−3 cm2 V−1 s−1... suggesting that the polymer had a preferential face-on orientation relative to the substrate with a π-π stacking distance of 3.73 Å.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "hole mobility",
+        "face-on orientation",
+        "pi-pi stacking",
+        "GIXD"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The tandem device employs an interconnecting layer (ICL) consisting of a 30 nm ZnO-NP layer and a 30 nm pH-neutral PEDOT:PSS (N-PEDOT:PSS) layer.",
+      "evidence": "The ICL consisted of a 30 nm layer ZnO-NPs processed from n-butanol and a 30 nm layer of pH-neutral poly(3,4-ethylenedioxythiophene):polystyrene sulfonate (N-PEDOT:PSS) spin coated by water/isopropanol.",
+      "complexity": "single-hop",
+      "keywords": [
+        "interconnecting layer",
+        "ICL",
+        "ZnO-NPs",
+        "N-PEDOT:PSS"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The tandem configuration utilizes complementary absorption where the PBD1:PC71BM front cell absorbs photons from 300 to 650 nm and the PTB7-Th:IEICO-4F rear cell absorbs from 650 to 1000 nm.",
+      "evidence": "The simulation showed that the energy distribution in the front cell was primarily located at a wavelength of 300−650 nm, while the rear cell... was primarily located in the region of 650−1000 nm.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "complementary absorption",
+        "front cell",
+        "rear cell",
+        "spectral coverage"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Optimal thickness for the tandem subcells, determined by transfer-matrix modeling and experimental verification, is 230 nm for the front active layer and 110 nm for the rear active layer.",
+      "evidence": "The optical simulation showed that an optimum value of over 12 mA cm−2 was obtained when the optimal thicknesses of the active layers in the front and rear cells were 230 and 110 nm respectively.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "thickness optimization",
+        "transfer-matrix modeling",
+        "active layer thickness"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Morphology of the PBD1:PC71BM blend is optimized using 1,8-diiodooctane (DIO) additive and thermal annealing, which creates a continuous interpenetrating network with fibrous features.",
+      "evidence": "Compared to the as-cast blend film, the film with DIO and thermal annealing treatment showed a continuous interpenetrating network with fibrous features, which is beneficial for exciton dissociation and charge transport.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DIO",
+        "thermal annealing",
+        "morphology",
+        "interpenetrating network"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The spectrally averaged internal quantum efficiency (IQE) for the PBD1:PC71BM active layer is 95%, while for PTB7-Th:IEICO-4F it is 85%.",
+      "evidence": "The spectrally averaged internal quantum efficiency (IQE) values for each active layer were 95% for PBD1:PC71BM and 85% for PTB7-Th:IEICO-4F.",
+      "complexity": "single-hop",
+      "keywords": [
+        "IQE",
+        "internal quantum efficiency",
+        "PBD1",
+        "PTB7-Th"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Large-area tandem organic solar cells with an active area of 1.12 cm² (shadow mask aperture of 0.64 cm²) maintain high performance with a PCE of 13.0%.",
+      "evidence": "tandem devices with a large active area were fabricated, and a PCE of 13.0% was obtained for devices with a 1.12 cm2 area.",
+      "complexity": "single-hop",
+      "keywords": [
+        "large-area device",
+        "scalability",
+        "PCE"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 12832,
+    "completion_tokens": 3912,
+    "total_tokens": 16744
+  }
+}

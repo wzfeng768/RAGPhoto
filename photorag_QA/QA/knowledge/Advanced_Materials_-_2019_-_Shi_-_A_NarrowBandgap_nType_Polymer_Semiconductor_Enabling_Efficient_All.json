@@ -1,0 +1,149 @@
+{
+  "paper_id": "Advanced_Materials_-_2019_-_Shi_-_A_NarrowBandgap_nType_Polymer_Semiconductor_Enabling_Efficient_All",
+  "paper_title": "A Narrow-Bandgap n-Type Polymer Semiconductor Enabling Efficient All-Polymer Solar Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Materials - 2019 - Shi - A Narrow‐Bandgap n‐Type Polymer Semiconductor Enabling Efficient All‐Polymer Solar Cells/auto/Advanced Materials - 2019 - Shi - A Narrow‐Bandgap n‐Type Polymer Semiconductor Enabling Efficient All‐Polymer Solar Cells.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "DCNBT-IDT is synthesized by copolymerizing the electron-deficient building block 5,6-dicyano-2,1,3-benzothiadiazole (DCNBT) with indacenodithiophene (IDT) via a Stille coupling-based polycondensation reaction.",
+      "evidence": "The dibrominated monomers DCNBT and NDI were copolymerized with the distannylated indacenodithiophene comonomer IDT via a Stille couplingbased polycondensation reaction under microwave irradiation to afford two new polymers DCNBT-IDT and NDI-IDT, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DCNBT-IDT",
+        "Stille coupling",
+        "indacenodithiophene",
+        "dicyanobenzothiadiazole"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "All-polymer solar cells based on the PBDB-T:DCNBT-IDT blend achieved a power conversion efficiency (PCE) of 8.32%, a short-circuit current density (Jsc) of 14.20 mA/cm², and an open-circuit voltage (Voc) of 0.90 V.",
+      "evidence": "the DCNBT-IDTbased all-PsCs yielded an excellent photovoltaic performance with an optimal PCE of up to 8.32% along with a high opencircuit voltage (Voc) of 0.90 eV... Jsc of 14.20 mA cm−2.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "Jsc",
+        "Voc",
+        "PBDB-T:DCNBT-IDT"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "DCNBT-IDT exhibits a narrow optical bandgap of 1.43 eV and a high absorption coefficient of 6.15 x 10^4 cm⁻¹, which is significantly higher than that of the benchmark N2200 (3.48 x 10^4 cm⁻¹).",
+      "evidence": "Compared to the benchmark poly(naphthalene diimide-alt-bithiophene) (N2200), DCNBT-IDT shows a narrower bandgap (1.43 eV) with a much higher absorption coefficient (6.75 × 10^4 cm−1).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "optical bandgap",
+        "absorption coefficient",
+        "N2200",
+        "DCNBT-IDT"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The DCNBT unit reduces steric hindrance compared to naphthalene diimide (NDI) units, resulting in a more planar polymer backbone with a calculated dihedral angle of 23.2° between DCNBT and IDT, compared to 35.5° in NDI-IDT.",
+      "evidence": "Figure 2d,e reveals that there is a dihedral angle of 23.2° between DCNBT and IDT in polymer DCNBT-IDT. However, a much higher degree of backbone torsion with a calculated dihedral angle of about 35.5° was found between NDI and IDT in polymer NDI-IDT",
+      "complexity": "multi-hop",
+      "keywords": [
+        "dihedral angle",
+        "steric hindrance",
+        "backbone planarity",
+        "NDI"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The energy loss (Eloss) in PBDB-T:DCNBT-IDT solar cells is approximately 0.53 eV, which is among the lowest values reported for all-PSCs with efficiencies exceeding 8%.",
+      "evidence": "More importantly, the energy loss (Eloss) in the DCNBT-IDT cell is only 0.53 eV, which is among the smallest values reported to date for all-PSCs with efficiency > 8%",
+      "complexity": "single-hop",
+      "keywords": [
+        "energy loss",
+        "Eloss",
+        "all-polymer solar cells"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Optimal device performance for PBDB-T:DCNBT-IDT blends was achieved using chlorobenzene (CB) as the processing solvent with 1% volume ratio of 1,8-diiodooctane (DIO) as an additive and subsequent thermal annealing.",
+      "evidence": "Through systematic device optimizations... it was found that a polymer donor:polymer acceptor ratio of 1:1 (wt:wt) and using CB as the processing solvent... By employing 1% volume ratio of 1,8-diiodooctane (DIO) as the processing additive and thermal annealing treatment could further boost the device performance.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "chlorobenzene",
+        "1,8-diiodooctane",
+        "thermal annealing",
+        "optimization"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis shows that DCNBT-IDT and its blend with PBDB-T exhibit a preferential face-on orientation, with a π-π stacking peak located at qz ≈ 1.48 Å⁻¹ in the out-of-plane direction.",
+      "evidence": "Based on the 2D GIwAXs images of the pure DCNBT-IDT and NDIIDT polymers (Figure 5a,b), both polymers exhibit preferential face-on orientation... evidenced from the more obvious π-π stacking peak (located at around qz ≈ 1.48 Å−1 in the OOP directions.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "GIWAXS",
+        "face-on orientation",
+        "π-π stacking"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The electron mobility (µe) of the PBDB-T:DCNBT-IDT blend film, measured by the SCLC method, is 5.02 x 10⁻⁵ cm² V⁻¹ s⁻¹, which is more than three times higher than that of the NDI-IDT-based blend.",
+      "evidence": "However, the electron mobility (μe,SCLC) of the PBDB-T:DCNBTIDT blend film is 5.02 × 10−5 cm2 V−1 s−1 which is over three times higher than that of the PBDB-T:NDI-IDT film (1.64 × 10−5 cm2 V−1 s−1).",
+      "complexity": "single-hop",
+      "keywords": [
+        "electron mobility",
+        "SCLC",
+        "charge transport"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "DCNBT-IDT and NDI-IDT polymers exhibit high thermal stability with 5% weight loss temperatures (Td) of 426 °C and 442 °C, respectively, as determined by thermogravimetric analysis (TGA).",
+      "evidence": "both DCNBT-IDT and NDI-IDT exhibited good thermal stability as evidenced by the high decomposition temperatures (the temperature with a 5% weight loss) of 426 and 442 °C, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "TGA",
+        "decomposition temperature"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Photoluminescence (PL) quenching measurements indicate an 85% quenching efficiency for the PBDB-T:DCNBT-IDT blend film, suggesting efficient exciton dissociation at the donor-acceptor interface.",
+      "evidence": "The greater PL quenching efficiency of 85% for the PBDBT:DCNBT-IDT film (vs the 75% quenching efficiency for the PBDB-T:NDI-IDT film) is in good agreement with its high Jsc in solar cell devices",
+      "complexity": "single-hop",
+      "keywords": [
+        "photoluminescence quenching",
+        "exciton dissociation",
+        "PBDB-T:DCNBT-IDT"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Light intensity-dependent Voc measurements yielded a slope of 1.16 kT/q for DCNBT-IDT devices, indicating that bimolecular recombination is the dominant recombination mechanism.",
+      "evidence": "The slope factors for the DCNBTIDT- and NDI-IDT-based solar cells are determined to be 1.16 and 1.24 kB T/q (Figure 3e), respectively. The smaller slope factor of the DCNBT-IDT-based all-PSCs indicates that bimolecular recombination is the dominant recombination pathway",
+      "complexity": "single-hop",
+      "keywords": [
+        "bimolecular recombination",
+        "light intensity dependence",
+        "recombination mechanism"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Density functional theory (DFT) calculations indicate that DCNBT-IDT possesses more delocalized HOMO and LUMO distributions along the polymer backbone compared to NDI-IDT, facilitating better intrachain electron transport.",
+      "evidence": "Additionally, on the basis of the calculated orbital spatial distributions (Figure S7, Supporting Information), DCNBT-IDT shows a more delocalized HOMO and LUmO along polymer backbone, which should be beneficial to intrachain electron transport.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DFT",
+        "delocalization",
+        "intrachain transport"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 17082,
+    "completion_tokens": 3572,
+    "total_tokens": 20654
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "paper_id": "Adv_Funct_Materials_-_2023_-_Jin_-_Recent_Developments_of_Polymer_Solar_Cells_with_Photovoltaic_Perf",
+  "paper_title": "Recent Developments of Polymer Solar Cells with Photovoltaic Performance over 17%",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Adv Funct Materials - 2023 - Jin - Recent Developments of Polymer Solar Cells with Photovoltaic Performance over 17/auto/Adv Funct Materials - 2023 - Jin - Recent Developments of Polymer Solar Cells with Photovoltaic Performance over 17.md",
+  "knowledge_points": [
+    {
+      "category": "Performance Metrics",
+      "content": "As of the review's publication, single-junction organic photovoltaic devices have reached a power conversion efficiency (PCE) of 19.60%, while tandem organic devices have achieved 20.20%.",
+      "evidence": "At present, the power convention efficiency (PCE) of single junction devices is 19.60% , and tandem device is 20.20%",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "single junction",
+        "tandem device",
+        "efficiency record"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The Y6 non-fullerene acceptor (NFA) is characterized by an ADA'DA-type structure that utilizes benzothiadiazole (BT) as the electron-deficient central core and incorporates alkyl chains at the beta position of the dithiophene units to balance solubility and crystallinity.",
+      "evidence": "Zou et al. synthesized non-fullerene acceptor Y6 by applying BT substituted BTz as the central core, and introducing alkyl chain to the β position of dithiophene to balance solubility and crystallinity.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Y6",
+        "ADA'DA-type",
+        "benzothiadiazole",
+        "NFA"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Substituting sulfur with selenium in the fused-ring core of acceptors (e.g., Y6Se) results in a more stable quinone form, lower Urbach energy, narrower bandgap, and enhanced electron mobility and photostability.",
+      "evidence": "Lin et al. synthesized a selenium-substituted acceptor named Y6Se with lower Urbach energy, narrower bandgap, higher electron mobility and better photostability than that of Y6.",
+      "complexity": "single-hop",
+      "keywords": [
+        "selenium substitution",
+        "Y6Se",
+        "Urbach energy",
+        "electron mobility"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "End-group engineering using halogenation (F, Cl, Br) regulates the intermolecular packing of acceptors; the ordering effect of these halogens increases in the order of Br < Cl < F.",
+      "evidence": "The effects of substituted end groups of halogen elements from bromine to fluorine (Br < Cl < F) on the order of acceptor molecules increase in turn.",
+      "complexity": "single-hop",
+      "keywords": [
+        "end-group engineering",
+        "halogenation",
+        "molecular packing"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "High electrostatic potential (ESP) differences between donor and acceptor materials can optimize the charge transfer ratio in hybridization with local exciton states, which is a key mechanism for reducing energy loss in devices.",
+      "evidence": "Hou et al. indicated that increasing ESP difference between donor and acceptor can fine-tune the charge transfer ratio in its hybridization with the local exciton state and become the key to reduce energy loss.",
+      "complexity": "single-hop",
+      "keywords": [
+        "electrostatic potential",
+        "ESP",
+        "energy loss",
+        "charge transfer"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The polymer donor D18, which uses a benzodithiophene (BDT) donor unit and a planar symmetrical dithieno-benzothiadiazole (DTBT) acceptor unit, achieved a high PCE of 18.22% when paired with the Y6 acceptor.",
+      "evidence": "Ding et al. synthesized a wide band gap polymer donor D18 using the D unit BDT and the planar symmetrical A unit DTBT. A noticeably high PCE of 18.22% was recorded for D18:Y6-based binary polymer solar cells.",
+      "complexity": "single-hop",
+      "keywords": [
+        "D18",
+        "BDT",
+        "DTBT",
+        "polymer donor"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "A record high PCE of 18.00% for all-polymer solar cells was achieved using a binary system consisting of the polymer donor PQM-Cl and the polymer acceptor PY-IT.",
+      "evidence": "blending with PQM-Cl, PYIT-based binary devices delivered a record high PCE of 18.00%",
+      "complexity": "single-hop",
+      "keywords": [
+        "all-polymer solar cells",
+        "PQM-Cl",
+        "PY-IT",
+        "PCE"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "In polymer acceptor link engineering, the use of vinylene (V) as a linking unit results in less intramolecular torsion and tighter interchain packing compared to thiophene links, enhancing carrier dynamics in all-polymer solar cells.",
+      "evidence": "polymer acceptor PY-V-ywith vinylene possesses less twisting degree between end group and link unit, and exhibits tighter interchain packing, which in turn endows higher carrier dynamics and increased the efficiency of binary all-polymer PSCs to over 17% for the first time.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "link engineering",
+        "vinylene",
+        "all-polymer PSC",
+        "PY-V-y"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Zirconium (Zr) doping of ZnO electron transporting layers at a molar ratio of 3 mol% Zr/Zn suppresses lattice defects, improves electron transport, and enhances the film's transmittance.",
+      "evidence": "Zr doping can suppress the lattice defects of ZnO, and improve the electron transport properties and transmittance of ZnO film, which affords the best performance when molar ratio of Zr/Zn was fixed at 3 mol%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ZnO",
+        "Zr-doping",
+        "electron transporting layer",
+        "lattice defects"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The introduction of flexible units, such as 10% alkyl chains (PM6-C10), into the backbone of polymer donors is a strategy to improve the bending resistance and mechanical strength of organic photovoltaic devices.",
+      "evidence": "Kim group introduced flexible units (alkyl chains) into the backbone of polymer donors to improve the bending resistance of materials. Ultimately, the polymer donor PM6 with 10% flexible unit (PM6-C10) delivered the best performance.",
+      "complexity": "single-hop",
+      "keywords": [
+        "mechanical strength",
+        "bending resistance",
+        "PM6-C10",
+        "flexible units"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Environmentally friendly, non-halogenated solvent processing can be achieved by designing polymer donors (e.g., B2TCl-o) with improved solubility in solvents like o-dimethylbenzene (o-DMB).",
+      "evidence": "The related materials have improved solubility and reduced crystallinity, which can obtain the ability to dissolve in non-halogenated solvents (o-DMB) with good photovoltaic performance.",
+      "complexity": "single-hop",
+      "keywords": [
+        "non-halogenated solvents",
+        "o-DMB",
+        "green processing",
+        "solubility"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Ternary random copolymerization is used to reduce the sensitivity of polymer donors to molecular weight variations (typical range 50-70 kDa for PM6), helping to ensure batch-to-batch reproducibility in high-performance devices.",
+      "evidence": "The ternary random copolymerization strategy can effectively solve the adverse factors caused by the sensitivity of molecular weight (50-70 kDa of PM6 or PM7) and structural limitations.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "ternary copolymerization",
+        "molecular weight",
+        "reproducibility",
+        "PM6"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 14280,
+    "completion_tokens": 4448,
+    "total_tokens": 18728
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "paper_id": "Solar_RRL_-_2024_-_BernalTexca_-_FourTerminal_Tandem_Based_on_a_PM6_L8BO_Transparent_Solar_Cell_and_",
+  "paper_title": "Four-Terminal Tandem Based on a PM6:L8-BO Transparent Solar Cell and a 7 nm Ag Layer Intermediate Electrode",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Solar RRL - 2024 - Bernal‐Texca - Four‐Terminal Tandem Based on a PM6 L8‐BO Transparent Solar Cell and a 7 nm Ag Layer/auto/Solar RRL - 2024 - Bernal‐Texca - Four‐Terminal Tandem Based on a PM6 L8‐BO Transparent Solar Cell and a 7 nm Ag Layer.md",
+  "knowledge_points": [
+    {
+      "category": "Performance Metrics",
+      "content": "The champion four-terminal tandem organic solar cell achieved a power conversion efficiency (PCE) of 16.94% using a PM6:L8-BO front cell and a PTB7-Th:O6T-4F back cell.",
+      "evidence": "The PCE of the champion four-terminal device was 16.94% exceeding the one from the best single-junction cell, for the PM6:L8-BO and PTB7-Th:O6T-4F as transparent front and filtered back cells, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "four-terminal tandem",
+        "PM6:L8-BO",
+        "PTB7-Th:O6T-4F"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "In a four-terminal (4T) tandem configuration, the subcells are electrically disconnected, which eliminates the current matching constraint required in two-terminal (2T) monolithic tandems.",
+      "evidence": "To overcome the shortcomings associated with the two-terminal tandems, an alternative is the four-terminal approach that consists of piling up a transparent cell with an opaque cell, being both cells electrically disconnected. In that configuration, current matching is no longer a constraint parameter.",
+      "complexity": "single-hop",
+      "keywords": [
+        "four-terminal tandem",
+        "current matching",
+        "subcells"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "An ultrathin 7 nm Ag top electrode for the transparent front cell was fabricated using an ultrathin Au seed layer to promote a percolated surface and prevent island-like cluster formation on the MoO3 layer.",
+      "evidence": "In this work, we were able to fabricate a transparent electrode, as the last layer of the front cell, with a thickness of only 7 nm... To avoid this [island-like clusters], we deposited an ultrathin Au seed layer prior to the evaporation of the Ag contact.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Ag electrode",
+        "Au seed layer",
+        "transparent electrode",
+        "percolation"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The 7 nm ultrathin Ag electrode exhibits a sheet resistance of approximately 18 Ω sq⁻¹, which is comparable to conventional ITO electrodes (15 Ω sq⁻¹).",
+      "evidence": "Figure 3b shows the sheet resistance as a function of the Ag thickness, which for the case of 7 nm, the value is ≈18 Ω sq⁻¹ A only slightly above of the sheet resistance from conventional ITO electrodes (15 Ω sq⁻¹).",
+      "complexity": "single-hop",
+      "keywords": [
+        "sheet resistance",
+        "Ag thickness",
+        "ITO comparison"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The PM6:L8-BO blend, with a bandgap of 1.425 eV, was selected as the optimal front cell material due to its reduced voltage loss (approximately 210 mV lower than PM6:ITIC-4F) and high fill factor (FF > 75%).",
+      "evidence": "In fact, as shown in Figure S3 of the SI, the voltage loss for the PM6:L8- BO blend is ≈210 mV smaller than the one for the PM6:ITIC-4F... This makes the PM6:L8-BO the optimal choice for the front cell.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "PM6:L8-BO",
+        "voltage loss",
+        "bandgap",
+        "front cell"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "A dielectric multilayer structure consisting of WO3 (45 nm) / LiF (141 nm) / WO3 (52 nm) was integrated between the subcells to provide high transmission in the 750–1000 nm range and high reflectivity in the 500–700 nm range.",
+      "evidence": "Such a numerical approach... resulted in a configuration consisting of the thin Ag layer followed by a photonic multilayer composed of three dielectric layers alternating WO3 and LiF. ...the Ag-based electrode plus the WO3/LiF/WO3 structure exhibits a high transmission in the 750-1000 nm range and a high reflectivity in the 500-700 nm range.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "dielectric multilayer",
+        "WO3",
+        "LiF",
+        "optical optimization"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Atomic force microscopy (AFM) analysis of the 6–8 nm Ag layers showed a root mean square roughness (Sq) of less than 1 nm, indicating high homogeneity and suppressed dewetting.",
+      "evidence": "Atomic force microscopy (AFM) images of the top electrode from Figure 3c-e show very good homogeneity with a root mean square roughness (Sq) of less than 1 nm, indicating a suppressed dewetting of the surface when growing Ag layer with thicknesses ranging from 6 to 8 nm.",
+      "complexity": "single-hop",
+      "keywords": [
+        "AFM",
+        "surface roughness",
+        "Ag layer",
+        "homogeneity"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The transparent PM6:L8-BO front cell alone achieved a PCE of 12.02% (average) and 12.33% (champion), while the filtered PTB7-Th:O6T-4F back cell contributed a PCE of 4.61% (average) and 4.90% (champion).",
+      "evidence": "Table 2: PM6:L8-BO Transparent front cell PCE 12.02 ± 0.21 (12.33); Filtered back cell PCE 4.61 ± 0.23 (4.90).",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "transparent cell",
+        "filtered cell",
+        "PM6:L8-BO"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "The transfer matrix formalism was employed to solve the inverse problem of finding the optimal optical performance for the front cell back electrode and the photonic multilayer.",
+      "evidence": "To find the optimal optical performance for the front cell, back electrode, and photonic multilayer, we used a standard inverse problem-solving approach combined with the transfer matrix formalism.",
+      "complexity": "single-hop",
+      "keywords": [
+        "transfer matrix formalism",
+        "optical simulation",
+        "inverse problem"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The bandgaps of the materials used in this study are 1.746 eV for PM6:F-M, 1.600 eV for PM6:ITIC-4F, 1.425 eV for PM6:L8-BO, and 1.259 eV for PTB7-Th:O6T-4F.",
+      "evidence": "Table 1. Bandgapa) [eV]: PM6:F-M 1.746, PM6:ITIC-4F 1.600, PM6:L8-BO 1.425, PTB7-Th:O6T-4F 1.259.",
+      "complexity": "single-hop",
+      "keywords": [
+        "bandgap",
+        "organic solar cells",
+        "active layer"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Both the transparent front cell and the opaque back cell utilized an inverted device structure: Glass/ITO/ZnO/Active Layer/MoO3/Ag.",
+      "evidence": "The four-terminal tandem construction started with the fabrication of the transparent front cells with the following inverted structure: Glass/ITO/ZnO/Active layer / MoO3 / Ag / WO3 / LiF / WO3. ...the back cell with the standard inverted structure Glass / ITO / ZnO / PTB7-Th:O6T-4F / MoO3 / Ag.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "inverted structure",
+        "device architecture",
+        "ITO",
+        "ZnO"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 8557,
+    "completion_tokens": 3038,
+    "total_tokens": 11595
+  }
+}

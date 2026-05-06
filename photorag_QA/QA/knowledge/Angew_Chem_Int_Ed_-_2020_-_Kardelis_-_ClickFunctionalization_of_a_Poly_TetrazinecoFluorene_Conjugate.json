@@ -1,0 +1,144 @@
+{
+  "paper_id": "Angew_Chem_Int_Ed_-_2020_-_Kardelis_-_ClickFunctionalization_of_a_Poly_TetrazinecoFluorene_Conjugate",
+  "paper_title": "Click-Functionalization of a Poly(Tetrazine-co-Fluorene)-Conjugated Polymer with a Series of trans-Cyclooctene Derivatives",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Angew Chem Int Ed - 2020 - Kardelis - Click‐Functionalization of a Poly Tetrazine‐co‐Fluorene ‐Conjugated Polymer with a/auto/Angew Chem Int Ed - 2020 - Kardelis - Click‐Functionalization of a Poly Tetrazine‐co‐Fluorene ‐Conjugated Polymer with a.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The progenitor poly(tetrazine) P1 is synthesized via Suzuki polycondensation of 3,6-bis(5-bromofuran-2-yl)-1,2,4,5-tetrazine and a fluorene bis(pinacolato)boronate ester.",
+      "evidence": "Monomer 2 was readily copolymerized with a previously synthesized fluorene bis(pinacolato)boronate ester comonomer 3 via Suzuki polycondensation under mild conditions (50 °C for 15 minutes) to yield the progenitor s-tetrazine-containing polymer P1.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Suzuki polycondensation",
+        "s-tetrazine",
+        "fluorene",
+        "conjugated polymer"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The number average molecular weight (Mn) of the progenitor polymer P1 was determined to be 38.8 kDa by GPC and 36.3 kDa by NMR end-group analysis, with a dispersity (D) of 1.64.",
+      "evidence": "The Suzuki reaction produced a polymer with a number average molecular weight of 38.8 kDa and a dispersity (D) of 1.6... Based on the integration of this signal, the degree of polymerization (DP) for P1 was found to be 44, which corresponds to an Mn (NMR) of 36.3 kDa.",
+      "complexity": "single-hop",
+      "keywords": [
+        "molecular weight",
+        "GPC",
+        "NMR",
+        "dispersity"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The IEDDA reaction between the poly(tetrazine) P1 and TCO derivatives results in a significant hypsochromic shift in absorption (e.g., from 457 nm to ~400 nm) due to steric hindrance from side chains causing backbone twisting and reduced conjugation.",
+      "evidence": "The absorption spectra of the product polymers, both before and after oxidation, showed hypsochromic shifts that correlated with steric hindrance of the appended side chains. ...the strong absorption of P1, centered around 460 nm, undergoes a significant hypsochromic shift to 400 nm in P2.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "hypsochromic shift",
+        "conjugation length",
+        "steric hindrance",
+        "IEDDA"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Functionalization of the non-fluorescent poly(tetrazine) P1 with TCO derivatives significantly enhances fluorescence intensity, producing an emission band centered around 510 nm.",
+      "evidence": "While the unreacted poly(tetrazine) P1 exhibited only very weak fluorescence, the cycloadduct dihydropyridazine polymers (P2, P2a–e) exhibited much stronger fluorescence, with a broad emission band centered around 510 nm.",
+      "complexity": "single-hop",
+      "keywords": [
+        "fluorescence",
+        "emission",
+        "poly(tetrazine)",
+        "dihydropyridazine"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The second-order rate constant for the IEDDA reaction between poly(tetrazine) P1 and trans-cyclooct-4-enol (TCO-OH) is 1.25 ± 0.07 M⁻¹s⁻¹.",
+      "evidence": "The kinetics study was performed in triplicate, and resulted in an average second order rate constant of 1.25 ± 0.07 M⁻¹s⁻¹.",
+      "complexity": "single-hop",
+      "keywords": [
+        "reaction kinetics",
+        "rate constant",
+        "IEDDA",
+        "TCO"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Post-polymerization oxidation of 1,4-dihydropyridazine polymers (P2 series) to pyridazine polymers (P3 series) is achieved using 2,3-dichloro-5,6-dicyano-1,4-benzoquinone (DDQ) in THF at room temperature.",
+      "evidence": "This was accomplished by treating each of the polymers with 2,3-dichloro-5,6-dicyano-1,4-benzoquinone (DDQ) in THF at room temperature for 1 h, resulting in polymers P3, P3a–e.",
+      "complexity": "single-hop",
+      "keywords": [
+        "oxidation",
+        "DDQ",
+        "pyridazine",
+        "dihydropyridazine"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Oxidation of the dihydropyridazine backbone to a pyridazine backbone results in a bathochromic shift in the absorption spectrum ranging from 16 to 38 nm, indicating increased conjugation.",
+      "evidence": "Upon oxidation... the absorption spectrum of each polymer underwent a bathochromic shift, ranging from 16 to 38 nm (Table 2 and Figures S47–S52). This indicates that the formation of pyridazine rings results in increased conjugation along the polymer backbone.",
+      "complexity": "single-hop",
+      "keywords": [
+        "bathochromic shift",
+        "conjugation",
+        "pyridazine",
+        "absorption"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Thermogravimetric analysis (TGA) of poly(tetrazine) P1 reveals two major mass loss events: nitrogen (N2) loss at approximately 280 °C and side-chain decomposition at approximately 400 °C.",
+      "evidence": "The TGA thermogram of this polymer showed two distinct decompositions, including a 7% mass loss at ≈ 280 °C corresponding to the loss of N2, and a 78% mass loss at ≈ 400 °C corresponding to the loss of the hexadecyl sidechains.",
+      "complexity": "single-hop",
+      "keywords": [
+        "TGA",
+        "thermal stability",
+        "nitrogen evolution",
+        "decomposition"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Grafting 5 kDa PEG-TCO onto the P1 backbone yields a water-soluble graft copolymer (P2f) that undergoes a solubility transition from organic phases to aqueous phases.",
+      "evidence": "While P1 is soluble in organic solvents... P2f exhibits solubility in more polar organics (tetrahydrofuran, alcohols) and was even soluble in water. Figure 4b illustrates this difference, showing that P1 remains in the organic phase of a biphasic mixture of toluene and water, while P2f prefers the aqueous phase.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "PEG grafting",
+        "water solubility",
+        "graft copolymer",
+        "phase transfer"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "A crosslinked fluorescent foam can be produced by reacting P1 with a bis-TCO crosslinker, where evolved nitrogen gas acts as a blowing agent.",
+      "evidence": "The N2 gas evolved from this reaction acts as a blowing agent, resulting in an intractable red foam as the product. The foam was treated with DDQ to oxidize any dihydropyridazines and isolate the crosslinked P4.",
+      "complexity": "single-hop",
+      "keywords": [
+        "crosslinking",
+        "foam",
+        "blowing agent",
+        "bis-TCO"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Semi-empirical PM3 calculations indicate that the P1 backbone is planar, while the functionalized dihydropyridazine (P2) and pyridazine (P3) backbones exhibit slight puckering due to steric interactions with cyclooctyl rings.",
+      "evidence": "The geometry of starting polymer P1 is planar... After oxidation, the calculations indicate that the P3 polymer backbone adopts a slightly puckered structure relative to the planarity of P1... puckering in P2 and P3 is likely caused by steric interactions between the cyclooctyl ring and the neighbouring furans.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "PM3 calculations",
+        "molecular geometry",
+        "planarity",
+        "steric interaction"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 9808,
+    "completion_tokens": 3909,
+    "total_tokens": 13717
+  }
+}

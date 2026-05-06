@@ -1,0 +1,117 @@
+{
+  "paper_id": "gautam-et-al-2015-charge-generation-dynamics-in-efficient-all-polymer-solar-cells-influence-of-polym",
+  "paper_title": "Charge Generation Dynamics in Efficient All-Polymer Solar Cells: Influence of Polymer Packing and Morphology",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/gautam-et-al-2015-charge-generation-dynamics-in-efficient-all-polymer-solar-cells-influence-of-polymer-packing-and/auto/gautam-et-al-2015-charge-generation-dynamics-in-efficient-all-polymer-solar-cells-influence-of-polymer-packing-and.md",
+  "knowledge_points": [
+    {
+      "category": "Performance Metrics",
+      "content": "The all-polymer solar cell blend PTB7-Th:PNDIT-HD achieves a power conversion efficiency (PCE) of 5.96% (Voc = 0.79 V, Jsc = 13.46 mA/cm², FF = 0.56), while the PTB7-Th:PNDIT-DT blend yields a lower PCE of 3.25% (Voc = 0.81 V, Jsc = 7.81 mA/cm², FF = 0.52).",
+      "evidence": "Accordingly, a remarkable increase in the power conversion efficiency (PCE) from 3.25% (PTB7- Th:PNDIT-DT: Voc = 0.81 V; Jsc = 7.81 mA cm−2; FF = 0.52) to 5.96% (PTB7-Th:PNDIT-HD: Voc = 0.79 V; Jsc = 13.46 mA cm−2; FF = 0.56) was observed",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "PTB7-Th",
+        "PNDIT-HD",
+        "PNDIT-DT",
+        "short-circuit current"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Shortening the alkyl side chains in the PNDIT acceptor (from 2-decyltetradecyl in DT to 2-hexyldecyl in HD) increases the melting temperature (Tm) from 236.6 °C to 277.9 °C and the crystallization temperature (Tc) from 229.6 °C to 260.0 °C.",
+      "evidence": "the melting temperature (Tm) , crystallization temperature (Tc) and crystallization enthalpy (ΔHc) are much higher for the shorter side chain, i.e., PNDIT-HD (Table 1).",
+      "complexity": "single-hop",
+      "keywords": [
+        "side chain engineering",
+        "thermal properties",
+        "PNDIT-HD",
+        "crystallization"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "In ultrafast transient absorption spectroscopy (TAS) of PTB7-Th based blends, the spectral features are identified as: a negative band at 0.85 eV for singlet exciton absorption, a weaker band at 1.1 eV for polaron absorption, and a positive peak at 1.45 eV for stimulated emission.",
+      "evidence": "The strong negative band centered at 0.85 eV is due to excited state absorption of excitons. The weaker absorption band at 1.1 eV is due to polarons and the positive peak at 1.45 eV is due to stimulated emission (SE) of excitons.",
+      "complexity": "single-hop",
+      "keywords": [
+        "transient absorption spectroscopy",
+        "exciton",
+        "polaron",
+        "stimulated emission"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The charge generation efficiency in PTB7-Th:PNDIT-HD is approximately 64%, which is more than double the 30% efficiency observed in the PTB7-Th:PNDIT-DT blend, correlating directly with their respective external quantum efficiency (EQE) values.",
+      "evidence": "we found that 64% of the excitons generate charges in the blend with the PNDIT-HD acceptor, as opposed to 30% in the PNDIT-DT blend... External quantum efficiency (EQE) values at the excitation energy 1.75 eV (~65% for PTB7-Th:PNDIT-HD and ~35% for PTB7-Th:PNDIT-DT) match very closely",
+      "complexity": "multi-hop",
+      "keywords": [
+        "charge generation efficiency",
+        "EQE",
+        "geminate recombination",
+        "exciton quenching"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "PTB7-Th:PNDIT-HD blends exhibit faster photoinduced electron transfer with a half-life of 2.5 ps, compared to 8 ps for PTB7-Th:PNDIT-DT blends and 17 ps for neat PTB7-Th singlet exciton decay.",
+      "evidence": "The half-life time of photoinduced electron transfer from PTB7-Th exciton to acceptor is 2.5 and 8 ps in PTB7-Th:PNDIT-HD and PTB7- Th:PNDIT-DT, respectively. In contrast, the half lifetime of singlet exciton in the neat PTB7-Th is 17 ps.",
+      "complexity": "single-hop",
+      "keywords": [
+        "electron transfer",
+        "exciton half-life",
+        "ultrafast dynamics"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Geminate recombination is the dominant depopulation process in PTB7-Th:PNDIT-DT blends, whereas it is significantly suppressed in PTB7-Th:PNDIT-HD blends, where non-geminate recombination becomes observable at later time delays.",
+      "evidence": "This indicates that geminate recombination is the dominant depopulation process in PTB7-Th:PNDIT-DT, hindering the separation of free charges... In contrast, because in PTB7- Th:PNDIT-HD geminate recombination is significantly suppressed, the effect of non-geminate recombination is clearly observable at later delays.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "geminate recombination",
+        "non-geminate recombination",
+        "charge separation"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIXS measurements reveal that PTB7-Th:PNDIT-HD has a slightly more face-on geometry and shorter π-π stacking distances of 3.97 Å, compared to 3.99 Å for the PTB7-Th:PNDIT-DT blend.",
+      "evidence": "GIXS results that PTB7-Th:PNDIT-HD has a slightly more face-on geometry and shorter π-π stacking distances (3.99 A for PTB7-Th:PNDIT-DT blend and 3.97 A for PTB7- Th:PNDIT-HD blend).",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIXS",
+        "pi-pi stacking",
+        "face-on orientation"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "All-polymer blend films were prepared using a 1.3:1 (w/w) acceptor to donor weight ratio in chloroform with 1.0 vol % diiodooctane (DIO) additive, spin-cast to a thickness of 90-100 nm.",
+      "evidence": "Blend of polymer acceptor (PNDIT-R) and polymer donor (PTB7- Th) was prepared at a weight ratio of 1.3:1 (w/w) in chloroform solution... including 1.0 vol % of diiodoctane... Blend films with resulting thickness of 90−100 nm were prepared by spin-casting",
+      "complexity": "single-hop",
+      "keywords": [
+        "processing conditions",
+        "diiodooctane",
+        "chloroform",
+        "spin-casting"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The correlated face-on orientation of both PTB7-Th donor and PNDIT-HD acceptor domains helps suppress geminate recombination by providing an interfacial alignment that favors charge separation.",
+      "evidence": "Both neat PTB7-Th and PNDIT HD have preferential face-on orientation with respect to the substrate. Hence, BHJ of these two polymers may form correlated domains... geminate recombination would be suppressed because of interfacial alignment favoring charge separation.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "correlated orientation",
+        "face-on packing",
+        "interfacial alignment"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 10306,
+    "completion_tokens": 3302,
+    "total_tokens": 13608
+  }
+}

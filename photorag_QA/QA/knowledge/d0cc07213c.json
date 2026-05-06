@@ -1,0 +1,118 @@
+{
+  "paper_id": "d0cc07213c",
+  "paper_title": "Constructing a new polymer acceptor enabled non-halogenated solvent-processed all-polymer solar cell with an efficiency of 13.8%†",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/d0cc07213c/auto/d0cc07213c.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The polymer acceptor PS1 is designed by connecting a dithienothiophen[3,2-b]pyrrolobenzotriazole core, end-capped with 3-(dicyanomethylidene)-indan-1-one (IC), via a thiophene π-conjugated spacer.",
+      "evidence": "A new polymer acceptor, PS1, was developed by connecting the nonfullerene acceptor building block of dithienothiophen[3,2-b]pyrrolobenzotriazole capped with 3-(dicyanomethylidene)-indan-1-one through a thiophene spacer.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PS1",
+        "polymer acceptor",
+        "dithienothiophen[3,2-b]pyrrolobenzotriazole",
+        "thiophene spacer"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The solubility of PS1 in non-chlorinated solvents like 2-methyltetrahydrofuran (2-MeTHF) is facilitated by the incorporation of long solubilizing alkyl side-chains on the central benzotriazole moiety.",
+      "evidence": "The long solubilizing side-chain in the central benzotriazole moiety imparts solubility in the non-chlorinated solvent of 2-MeTHF.",
+      "complexity": "single-hop",
+      "keywords": [
+        "solubility",
+        "2-methyltetrahydrofuran",
+        "alkyl side-chain",
+        "benzotriazole"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "All-polymer solar cells using the PTzBI-oF:PS1 blend processed with 2-MeTHF achieved a power conversion efficiency (PCE) of 13.8%, with an open-circuit voltage (Voc) of 0.92 V, a short-circuit current (Jsc) of 22.47 mA cm^-2, and a fill factor (FF) of 66.70%.",
+      "evidence": "The device processed with 2-MeTHF delivered a higher PCE of 13.8%... concurrently increased short-circuit current density (JSC) of 22.47 mA cm−2 and a fill factor of 66.70%... identical open-circuit voltage (VOC) of 0.92 V.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "13.8%",
+        "PTzBI-oF",
+        "PS1",
+        "2-MeTHF"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The optical bandgap of PS1 is 1.39 eV, while its electrochemical energy levels are -5.56 eV (HOMO) and -3.70 eV (LUMO), resulting in an electrochemical bandgap of 1.86 eV.",
+      "evidence": "The optical bandgap value of PS1 as estimated based on the onset of film absorption was 1.39 eV... the highest occupied molecular orbital energy level (EHOMO) and the lowest unoccupied molecular orbital (ELUMO) energy level of PS1 were −5.56 eV and −3.70 eV, respectively.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "HOMO",
+        "LUMO",
+        "optical bandgap",
+        "electrochemical bandgap"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Processing the PTzBI-oF:PS1 blend with the non-halogenated solvent 2-MeTHF yields higher absorption coefficients (7.0 x 10^4 cm^-1) and better photovoltaic performance compared to processing with chloroform (5.1 x 10^4 cm^-1).",
+      "evidence": "The PS1 thin film processed with 2-MeTHF had a high absorption coefficient of 7.0 × 10^4 cm−1, which was slightly higher than that of the film processed with chloroform (5.1 × 10^4 cm−1).",
+      "complexity": "single-hop",
+      "keywords": [
+        "2-MeTHF",
+        "chloroform",
+        "absorption coefficient",
+        "non-halogenated solvent"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis reveals that PS1 neat films and PTzBI-oF:PS1 blend films exhibit a preferential face-on packing arrangement, characterized by an out-of-plane π-π stacking peak at approximately q = 1.68 Å^-1 and 1.76 Å^-1, respectively.",
+      "evidence": "The neat PS1 processed with chloroform and 2-MeTHF showed an intense π–π stacking peak at q of 1.68 Å−1 in the out-of-plane (OOP) direction... The PTzBI-oF:PS1 blends... displayed comparable scattering signals with a strong π–π stacking peak (q = 1.76 Å−1) in the OOP direction.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "GIWAXS",
+        "face-on orientation",
+        "π-π stacking",
+        "crystallinity"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The PTzBI-oF:PS1 all-PSC exhibits high thermal stability, retaining approximately 95% of its initial PCE after being annealed at 80 °C for 60 hours.",
+      "evidence": "The obtained device presented good thermal stability, with the PCE remaining at about 95% with respect to the initial value after thermal annealing at 80 °C for 60 h.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "degradation",
+        "operational lifetime"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The PS1-based all-PSC demonstrates scalability potential, with a large-area device (1 cm^2) achieving a power conversion efficiency of 12.4%.",
+      "evidence": "the large-area (1 cm^2) device based on PTzBI-oF:PS1 presented an impressively high PCE of 12.4%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "large-area device",
+        "scalability",
+        "1 cm^2"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Devices processed with 2-MeTHF show higher carrier mobilities, with hole and electron mobilities of 2.45 x 10^-3 and 3.57 x 10^-4 cm^2 V^-1 s^-1, respectively, compared to chloroform-processed devices.",
+      "evidence": "the device processed with 2-MeTHF presented hole and electron mobilities of 2.45 × 10^−3 and 3.57 × 10^−4 cm^2 V^−1 s^−1, respectively, both of which were slightly higher than those of the device processed with chloroform.",
+      "complexity": "single-hop",
+      "keywords": [
+        "hole mobility",
+        "electron mobility",
+        "charge transport"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 8251,
+    "completion_tokens": 3050,
+    "total_tokens": 11301
+  }
+}

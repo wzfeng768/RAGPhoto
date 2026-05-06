@@ -1,0 +1,132 @@
+{
+  "paper_id": "Angew_Chem_Int_Ed_-_2019_-_Kong_-_Electrochemical_Access_to_AzaPolycyclic_Aromatic_Hydrocarbons_Rhod",
+  "paper_title": "Electrochemical Access to Aza-Polycyclic Aromatic Hydrocarbons: Rhoda-Electrocatalyzed Domino Alkyne Annulations",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Angew Chem Int Ed - 2019 - Kong - Electrochemical Access to Aza‐Polycyclic Aromatic Hydrocarbons  Rhoda‐Electrocatalyzed/auto/Angew Chem Int Ed - 2019 - Kong - Electrochemical Access to Aza‐Polycyclic Aromatic Hydrocarbons  Rhoda‐Electrocatalyzed.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Aza-polycyclic aromatic hydrocarbons (aza-PAHs) are synthesized via a rhoda-electrocatalyzed domino alkyne annulation using a multifunctional o-methylamidoxime directing group.",
+      "evidence": "Herein, a modular electrochemical synthesis of azaPAHs was developed via a rhodium-catalyzed cascade C-H activation and alkyne annulation. A multifunctional o-methylamidoxime enabled the high chemo- and regioselectivity.",
+      "complexity": "single-hop",
+      "keywords": [
+        "aza-PAHs",
+        "o-methylamidoxime",
+        "C-H activation",
+        "alkyne annulation"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The optimal electrochemical conditions for the synthesis of aza-PAH 3aa include using [Cp*Rh(CH3CN)3](SbF6)2 as the catalyst, KOAc as the base, 1-adamantanecarboxylic acid (AdOH) as an additive, and methanol as the solvent in an undivided cell with a 2.0 mA constant current.",
+      "evidence": "Cationic rhodium catalyst [Cp*Rh(CH3CN)3](SbF6)2 further improved the efficacy, affording product 3aa in 90% yield at 35 °C... with MeOH as the solvent and a constant current of 4.0 mA... AdOH giving the best results... lowering the applied current to 2.0 mA increased the yield to 75%.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "electrosynthesis",
+        "rhodium catalyst",
+        "optimization",
+        "methanol"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The rhoda-electrocatalyzed cascade C-H activation process tolerates highly reactive functional groups, specifically iodo and azido groups, which are typically sensitive to electrochemical conditions.",
+      "evidence": "Notably, the highly sensitive iodo substituent was well tolerated under the electrochemical conditions... Surprisingly, the highly functional azide group was well tolerated in this metalla-electrocatalysis (3ai).",
+      "complexity": "single-hop",
+      "keywords": [
+        "functional group tolerance",
+        "iodo group",
+        "azido group",
+        "electrocatalysis"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The electrochemical synthesis is performed in an undivided cell utilizing a graphite felt (GF) anode and a platinum (Pt) plate cathode.",
+      "evidence": "Undivided cell, graphite felt anode (GF) (70 x 75 x 6 mm^3), platinum plate cathode (Pt) (10 x 15 x 0.25 mm^3).",
+      "complexity": "single-hop",
+      "keywords": [
+        "undivided cell",
+        "graphite felt anode",
+        "platinum cathode",
+        "electrochemical setup"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Cyclic voltammetry of a key rhodacycle intermediate (complex 5) in the presence of alkyne 2b revealed a low oxidation peak at 0.23 V vs. ferrocene, suggesting an anodic oxidation-induced reductive elimination pathway.",
+      "evidence": "In addition, when cyclic voltammetry studies of 5 in the presence of alkyne 2b were conducted, a low oxidation peak at 0.23 V vs. ferrocene implied that an oxidatively induced reductive elimination pathway was involved.",
+      "complexity": "single-hop",
+      "keywords": [
+        "cyclic voltammetry",
+        "reductive elimination",
+        "rhodacycle",
+        "oxidation peak"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Cationic nitrogen-doped nanographene 6 exhibits reversible redox behavior with its radical form at a low potential of E1/2 = -1.72 V vs. ferrocene.",
+      "evidence": "Treating aza-PAH 3aa with iodomethane afforded a cationic nitrogen-doped nanographene 6 in 93% yield... which showed reversible redox behavior with its radical form at a low potential of E1/2 = -1.72 V vs. ferrocene.",
+      "complexity": "single-hop",
+      "keywords": [
+        "redox potential",
+        "nanographene",
+        "ferrocene",
+        "reversible redox"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Prolonged electrolysis or high applied potential in the rhoda-electrocatalyzed annulation can lead to product decomposition or undesired side reactions, as evidenced by lower yields at 4.0 mA compared to 2.0 mA.",
+      "evidence": "The reaction gave a higher yield at a shorter reaction time, indicating that a high potential and prolonged electrolysis may lead to undesired side reactions or product decomposition... lowering the applied current to 2.0 mA increased the yield to 75% with a prolonged reaction time.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "decomposition",
+        "electrolysis",
+        "potential",
+        "yield optimization"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Aza-PAH 3aj, which contains six pendant azide groups, can be converted into a dendrimer with a hydrophobic core and hydrophilic periphery (8) via an azide-alkyne Huisgen cycloaddition with a yield of 88%.",
+      "evidence": "Intrigued by the six pendant azide groups on 3aj, we performed an azide-alkyne Huisgen cycloaddition reaction... Thus, a dendrimer with hydrophobic core and hydrophilic periphery 8 was assembled in high yield (88%).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "dendrimer",
+        "azide-alkyne addition",
+        "Huisgen cycloaddition",
+        "aza-PAH"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The rhoda-electrocatalyzed cascade C-H activation is scalable to a gram-scale synthesis, producing 1.11 g of aza-PAH 3aa (76% yield) using a 12.0 mA constant current.",
+      "evidence": "Hence, the gram-scale synthesis of product 3aa was realized with a reduced amount of the rhodium catalyst under a constant current of 12.0 mA... 1a (2.0 mmol), 2a (7.0 mmol) -> 3aa, 1.11 g, 76%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "scale-up",
+        "gram-scale",
+        "constant current",
+        "synthesis"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The synthesis of aza-PAHs involves a threefold C-H activation and the formation of six new bonds (four C-C and two C-N bonds) in a single step.",
+      "evidence": "Salient features of this electrocatalytic transformation include... three C-H bonds activated and six new bonds formed.",
+      "complexity": "single-hop",
+      "keywords": [
+        "C-H activation",
+        "bond formation",
+        "aza-PAH structure",
+        "cascade reaction"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 10397,
+    "completion_tokens": 2792,
+    "total_tokens": 13189
+  }
+}

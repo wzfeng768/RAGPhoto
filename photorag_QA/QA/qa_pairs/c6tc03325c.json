@@ -1,0 +1,75 @@
+{
+  "paper_id": "c6tc03325c",
+  "paper_title": "Highly ordered bimolecular crystalline blends for low-noise and high-detectivity polymeric photodiodes",
+  "qa_pairs": [
+    {
+      "question": "What are the specific donor and acceptor materials used to form the bimolecular crystalline bulk heterojunction in these photodiodes?",
+      "answer": "The bulk heterojunction (BHJ) system is composed of the polymer poly(2,5-bis(3-tetradecyllthiophene-2-yl)thieno[3,2-b]thiophene), known as pBTTT, as the donor and phenyl-C61-butyric acid methyl ester, known as PCBM, as the acceptor.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Highly ordered bimolecular crystalline blends for low-noise and high-detectivity polymeric photodiodes",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What is the maximum specific detectivity (D*) achieved by the optimized pBTTT:PCBM photodiode and under what operating conditions?",
+      "answer": "The optimized photodiode, containing 80% PCBM content, achieved a maximum specific detectivity (D*) of 1.95 x 10^12 Jones. This performance was measured at a reverse bias of -5 V and an illumination wavelength of 430 nm.",
+      "category": "Performance Metrics",
+      "source_title": "Highly ordered bimolecular crystalline blends for low-noise and high-detectivity polymeric photodiodes",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the intercalation of PCBM molecules affect the lamellar d-spacing of the pBTTT polymer crystalline lattice?",
+      "answer": "The intercalation of PCBM between the side chains of the pBTTT donor increases the lamellar d-spacing from 21.15 Å in pristine pBTTT films to 30.2 Å in the pBTTT:PCBM blend films, as determined by Grazing-Incidence X-ray Diffraction (GIXD).",
+      "category": "Structure-Property Relationships",
+      "source_title": "Highly ordered bimolecular crystalline blends for low-noise and high-detectivity polymeric photodiodes",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What role does structural perfection play in minimizing the dark current of pBTTT:PCBM photodiodes?",
+      "answer": "Structural perfection in the bimolecular crystalline layer, characterized by low paracrystalline disorder (g ≈ 3-4%), reduces energetic disorder. This suppresses the injection of charges into localized energy states during reverse saturation operation, resulting in a very low dark current density of less than 4 nA/cm² at -5 V.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Highly ordered bimolecular crystalline blends for low-noise and high-detectivity polymeric photodiodes",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What are the reported linear dynamic range (LDR) and 3 dB bandwidth for the optimized pBTTT:PCBM photodiode?",
+      "answer": "The optimized pBTTT:PCBM photodiodes exhibit a high linear dynamic range (LDR) of 94 dB and a 3 dB bandwidth of 1 kHz.",
+      "category": "Performance Metrics",
+      "source_title": "Highly ordered bimolecular crystalline blends for low-noise and high-detectivity polymeric photodiodes",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Explain why the bandwidth of the pBTTT:PCBM photodiode is considered 'transit-time limited'.",
+      "answer": "The bandwidth is considered transit-time limited because the 3 dB bandwidth increases as the reverse bias is increased to more negative values. Furthermore, the experimentally measured bandwidth of 1 kHz is in close agreement with the theoretically calculated transit-time limited bandwidth of 1.393 kHz.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Highly ordered bimolecular crystalline blends for low-noise and high-detectivity polymeric photodiodes",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Based on pole figure analysis, what is the dominant crystalline orientation of pBTTT in the pBTTT:PCBM blend films?",
+      "answer": "The pBTTT:PCBM blend films exhibit a preferential edge-on crystalline orientation. Pole figure analysis shows edge-on to face-on area ratios (Aedge-on/Aface-on) ranging from 0.8 to 0.9, indicating that this orientation is maintained even with high PCBM concentrations.",
+      "category": "Characterization Methods",
+      "source_title": "Highly ordered bimolecular crystalline blends for low-noise and high-detectivity polymeric photodiodes",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What processing conditions, including solvent and thermal treatment, are used to fabricate the pBTTT:PCBM active layers?",
+      "answer": "The active layers are processed by spin-coating a solution of pBTTT:PCBM in chlorobenzene at a concentration of 40 mg/mL. The resulting films are then thermally annealed at 190 °C for 5 minutes to enhance the intermolecular crystalline order.",
+      "category": "Processing & Fabrication",
+      "source_title": "Highly ordered bimolecular crystalline blends for low-noise and high-detectivity polymeric photodiodes",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2483,
+    "completion_tokens": 2974,
+    "total_tokens": 5457
+  }
+}

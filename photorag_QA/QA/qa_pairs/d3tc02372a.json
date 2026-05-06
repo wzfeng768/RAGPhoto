@@ -1,0 +1,75 @@
+{
+  "paper_id": "d3tc02372a",
+  "paper_title": "Insights into the photovoltaic mechanism of organic photovoltaics under solar and artificial light",
+  "qa_pairs": [
+    {
+      "question": "What are the peak power conversion efficiencies (PCE) and corresponding optimal active layer thicknesses for PBDB-T:ITIC and PBDB-T:PC71BM under indoor light?",
+      "answer": "Under 200 lux TL84 indoor light, the non-fullerene PBDB-T:ITIC system achieves a peak PCE of 19.74% at an optimal thickness of 140 nm. In contrast, the fullerene-based PBDB-T:PC71BM system reaches its highest PCE of 16.22% at an optimal thickness of 100 nm.",
+      "category": "Performance Metrics",
+      "source_title": "Insights into the photovoltaic mechanism of organic photovoltaics under solar and artificial light",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What specific electrical resistance values are required to ensure high power conversion efficiency in indoor organic photovoltaics?",
+      "answer": "To achieve high indoor PCE, the series resistance (Rs) of the organic photovoltaic device should be kept below 5 kΩ·cm², while the shunt resistance (Rsh) should be maintained at a value greater than 450 kΩ·cm².",
+      "category": "Device Architecture & Physics",
+      "source_title": "Insights into the photovoltaic mechanism of organic photovoltaics under solar and artificial light",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Why is monomolecular recombination the primary loss mechanism in organic solar cells under indoor lighting conditions?",
+      "answer": "Monomolecular (trap-assisted) recombination dominates under indoor light because the low light intensity results in a significantly lower photogenerated carrier density compared to 1-sun conditions. This low carrier density makes well-controlled recombination behavior critical for improving indoor PCE.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Insights into the photovoltaic mechanism of organic photovoltaics under solar and artificial light",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the performance of PBDB-T:ITIC and PBDB-T:PC71BM devices differ as the active layer thickness increases under indoor light?",
+      "answer": "The indoor PCE of PBDB-T:ITIC-based devices remains almost unchanged as film thickness increases, indicating high tolerance to thickness variations. Conversely, PBDB-T:PC71BM-based devices show a significant decrease in PCE with increasing thickness due to lower shunt resistance and higher recombination rates.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Insights into the photovoltaic mechanism of organic photovoltaics under solar and artificial light",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What is the relationship between trap depth and carrier recombination in PBDB-T:PC71BM compared to PBDB-T:ITIC?",
+      "answer": "PBDB-T:PC71BM-based cells exhibit deeper trap depths than PBDB-T:ITIC-based cells under both solar and indoor light. These deeper trap depths act as more effective recombination centers in the active layer, which increases the carrier recombination rate and limits the overall device efficiency.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Insights into the photovoltaic mechanism of organic photovoltaics under solar and artificial light",
+      "difficulty": "hard",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does increasing the active layer thickness from 65 nm to 160 nm affect the surface morphology of PBDB-T:ITIC films?",
+      "answer": "Increasing the thickness from 65 nm to 160 nm leads to a significant increase in the root-mean-square (RMS) surface roughness, which rises from 1.91 nm to 6.49 nm. This change in morphology can potentially impact the interfacial contact between the active layer and the hole transport layer.",
+      "category": "Processing & Fabrication",
+      "source_title": "Insights into the photovoltaic mechanism of organic photovoltaics under solar and artificial light",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Explain the impact of active layer thickness on the carrier lifetime of fullerene vs. non-fullerene systems as measured by transient photovoltage (TPV).",
+      "answer": "In the fullerene-based PBDB-T:PC71BM system, increasing the thickness from 100 nm to 160 nm causes the carrier lifetime to decrease significantly from 13.74 ms to 6.46 ms. However, the non-fullerene PBDB-T:ITIC system maintains a stable carrier lifetime of approximately 14 ms (changing only from 14.43 ms to 14.06 ms) despite the increased thickness.",
+      "category": "Characterization Methods",
+      "source_title": "Insights into the photovoltaic mechanism of organic photovoltaics under solar and artificial light",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Why do non-fullerene acceptor (NFA) based devices typically exhibit higher open-circuit voltage (Voc) than fullerene-based devices?",
+      "answer": "NFA-based devices, such as those using PBDB-T:ITIC, achieve higher open-circuit voltage (Voc) values under both solar and indoor illumination because they possess a larger effective energy level dispersion compared to fullerene-based systems like PBDB-T:PC71BM.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Insights into the photovoltaic mechanism of organic photovoltaics under solar and artificial light",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2839,
+    "completion_tokens": 2698,
+    "total_tokens": 5537
+  }
+}

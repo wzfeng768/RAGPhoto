@@ -1,0 +1,75 @@
+{
+  "paper_id": "Angew_Chem_Int_Ed_-_2018_-_Purkait_-_Regiospecific_NArylation_of_Aliphatic_Amines_under_Mild_and_Met",
+  "paper_title": "Regiospecific N-Arylation of Aliphatic Amines under Mild and Metal-Free Reaction Conditions",
+  "qa_pairs": [
+    {
+      "question": "What are the optimal reaction conditions identified for the metal-free N-arylation of aliphatic amines using diaryliodonium salts?",
+      "answer": "The optimized conditions for this N-arylation process involve using toluene as the solvent and sodium carbonate (Na2CO3) as the inorganic base. The reaction mixture is stirred at a temperature of 110 °C to facilitate the transformation.",
+      "category": "Processing & Fabrication",
+      "source_title": "Regiospecific N-Arylation of Aliphatic Amines under Mild and Metal-Free Reaction Conditions",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the choice of counterion in the diaryliodonium salt influence the efficiency of the N-arylation reaction?",
+      "answer": "The counterion significantly impacts reactivity; triflate (OTf) and tosylate (OTs) are highly effective, providing yields of 81% and 77% respectively. In contrast, using a bromide (Br) counterion results in poor conversion, with yields as low as 4%.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Regiospecific N-Arylation of Aliphatic Amines under Mild and Metal-Free Reaction Conditions",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What is the function of the trimethoxyphenyl (TMP) group when utilized in unsymmetric diaryliodonium salts for N-arylation?",
+      "answer": "The trimethoxyphenyl (TMP) group acts as a 'dummy group' in unsymmetric diaryliodonium salts. It is used to facilitate chemoselective aryl transfer of the desired aromatic group to the amine, thereby improving the atom efficiency of the reaction.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Regiospecific N-Arylation of Aliphatic Amines under Mild and Metal-Free Reaction Conditions",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Compare the reactivity and typical yields of primary amines versus secondary cyclic amines in this metal-free N-arylation methodology.",
+      "answer": "Secondary cyclic amines generally exhibit higher reactivity than primary amines in this process. While primary amines like aniline can achieve high yields (e.g., 91% for product 3o), cyclic amines such as piperidines and pyrrolidine reach exceptional yields ranging from 98% to 99%.",
+      "category": "Performance Metrics",
+      "source_title": "Regiospecific N-Arylation of Aliphatic Amines under Mild and Metal-Free Reaction Conditions",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What evidence supports the proposed ligand coupling mechanism over radical or aryne pathways for this N-arylation reaction?",
+      "answer": "The mechanism was investigated using control reactions with the radical scavenger 1,1-diphenylethylene (DPE) and the aryne trap furan. Neither additive altered the reaction outcome, leading to the conclusion that the process proceeds via regiospecific ligand coupling at the iodine(III) center rather than through radical or aryne intermediates.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Regiospecific N-Arylation of Aliphatic Amines under Mild and Metal-Free Reaction Conditions",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Which specific functional groups are tolerated on the amine substrate during the N-arylation process with diaryliodonium salts?",
+      "answer": "The methodology is highly robust, tolerating a wide range of functional groups including methoxy, bromide, pyridyl, and silicate groups. It also accommodates sterically hindered substrates like adamantyl groups and chiral amines such as (R)-1-phenylethylamine without loss of enantiomeric excess.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Regiospecific N-Arylation of Aliphatic Amines under Mild and Metal-Free Reaction Conditions",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What electronic variety of aryl groups can be transferred from diaryliodonium salts to amines using this method?",
+      "answer": "This method enables the transfer of aryl groups containing both electron-withdrawing groups (EWGs) and electron-donating groups (EDGs). Specific examples include electron-poor groups like nitro (NO2), trifluoromethyl (CF3), and cyano (CN) groups, as well as electron-rich groups like methyl and methoxy substituents.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Regiospecific N-Arylation of Aliphatic Amines under Mild and Metal-Free Reaction Conditions",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Why are diaryliodonium salts considered advantageous reagents for practical synthetic applications in material science?",
+      "answer": "Diaryliodonium salts are advantageous because they are bench-stable iodine(III) reagents that can be easily synthesized from iodoarenes or arenes in one-pot reactions. Their stability and ease of handling make them suitable for metal-free, regiospecific arylations.",
+      "category": "Stability & Degradation",
+      "source_title": "Regiospecific N-Arylation of Aliphatic Amines under Mild and Metal-Free Reaction Conditions",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2399,
+    "completion_tokens": 2380,
+    "total_tokens": 4779
+  }
+}

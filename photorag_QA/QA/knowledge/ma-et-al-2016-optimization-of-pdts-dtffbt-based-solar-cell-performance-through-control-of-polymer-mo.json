@@ -1,0 +1,126 @@
+{
+  "paper_id": "ma-et-al-2016-optimization-of-pdts-dtffbt-based-solar-cell-performance-through-control-of-polymer-mo",
+  "paper_title": "Optimization of PDTS-DTffBT-Based Solar Cell Performance through Control of Polymer Molecular Weight",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/ma-et-al-2016-optimization-of-pdts-dtffbt-based-solar-cell-performance-through-control-of-polymer-molecular-weight/auto/ma-et-al-2016-optimization-of-pdts-dtffbt-based-solar-cell-performance-through-control-of-polymer-molecular-weight.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "PDTS-DTffBT is a donor-acceptor (D-A) copolymer synthesized using dithieno[3,2-b:2',3'-d]silole (DTS) as the donor unit and fluorinated benzothiadiazole (DTffBT) as the acceptor unit.",
+      "evidence": "Recently, we reported a new D-A copolymer of poly{4,4'-bis(2-ethylhexyl)dithieno[3,2-b:2',3'-d]silole-alt-5,6-difluoro-4,7-bis(4-hexylthiophen-2-yl)-2,1,3-benzothiadiazole} (PDTS-DTffBT) containing dithieno[3,2-b:2',3'-d]silole (DTS) and fluorinated benzothiadiazole (DTffBT) units.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PDTS-DTffBT",
+        "dithienosilole",
+        "fluorinated benzothiadiazole",
+        "D-A copolymer"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The molecular weight of PDTS-DTffBT was controlled by varying polymerization temperatures (95 °C to 110 °C) and reaction times (24 h to 32 h) during the Stille coupling reaction.",
+      "evidence": "PDTS-DTffBT with three different MWs (Mn) = 9, 16, 36 kDa, were synthesized... the 36 kDa fraction... stirred at 110 °C for 32 h... the 16 kDa fraction was stirred at 110 °C for 28 h... while the 9 kDa fraction was stirred at 95 °C for 24 h.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "polymerization conditions",
+        "molecular weight control",
+        "Stille coupling"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Increasing the number-average molecular weight (Mn) of PDTS-DTffBT from 9 kDa to 36 kDa causes the maximum absorption peak to red-shift from 560 nm to 579 nm in solution and the optical bandgap to decrease from 1.61 eV to 1.57 eV in films.",
+      "evidence": "As the MW increased from 9 to 36 kDa, the maximum absorption peak red-shifted from 560 to 579 nm... The optical bandgaps of polymers were 1.61, 1.58, and 1.57 eV for a Mn of 9, 16, and 36 kDa respectively.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "molecular weight",
+        "red-shift",
+        "optical bandgap",
+        "conjugation length"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The highest occupied molecular orbital (HOMO) energy level of PDTS-DTffBT up-shifts from -5.37 eV to -5.25 eV as the molecular weight increases from 9 kDa to 36 kDa.",
+      "evidence": "We find that the HOMO energy level exhibits a positive dependence on molecular weight, rising from -5.37 to -5.25 eV as Mn increased from 9 to 36 kDa.",
+      "complexity": "single-hop",
+      "keywords": [
+        "HOMO energy level",
+        "molecular weight",
+        "cyclic voltammetry"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The power conversion efficiency (PCE) of PDTS-DTffBT:PC71BM solar cells significantly improves from 2.49% to 6.40% as the polymer molecular weight increases from 9 kDa to 36 kDa.",
+      "evidence": "The best PCE of 6.40% was achieved by the devices based on the PDTS-DTffBT with a Mn value of 36 kDa... the final PCE of PSCs based on 9 kDa PDTS-DTffBT was much lower (2.49%).",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "molecular weight",
+        "efficiency optimization"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The open-circuit voltage (Voc) of PDTS-DTffBT based devices decreases from 0.83 V to 0.67 V as the molecular weight increases, which is attributed to the up-shifted HOMO level of the higher molecular weight polymer.",
+      "evidence": "The Voc suffered an apparent decline as the MW increased from 9 to 16 kDa, which corresponds with the up-shifted HOMO energy levels... the 9 kDa PDTS-DTffBT based device exhibited the highest Voc of 0.83 V.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Voc",
+        "HOMO level",
+        "molecular weight dependence"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Hole mobility in PDTS-DTffBT:PC71BM blend films, measured by the space-charge limited current (SCLC) method, increases from 4.76 x 10^-5 cm^2 V^-1 s^-1 for 9 kDa to 2.21 x 10^-4 cm^2 V^-1 s^-1 for 36 kDa.",
+      "evidence": "The calculated mobility data showed that... when the MW increased from 9 to 16 kDa, the hole mobility increased by a factor of 3. Further increasing MW to 36 kDa the mobility increased from 1.47 x 10^-4 to 2.21 x 10^-4 cm^2 V^-1 s^-1.",
+      "complexity": "single-hop",
+      "keywords": [
+        "SCLC",
+        "hole mobility",
+        "charge transport"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "High molecular weight PDTS-DTffBT (36 kDa) results in a homogeneous blend morphology with significantly reduced domain sizes compared to the 9 kDa version, which exhibits ridged-like morphology and larger aggregates.",
+      "evidence": "For the PDTS-DTffBT(9 kDa):PC71BM film, a ridged-like nanoscale morphology can be observed with a relatively big aggregation size... blend film processed by the highest MW PDTS-DTffBT was homogeneous with significantly reduced domain size.",
+      "complexity": "single-hop",
+      "keywords": [
+        "AFM",
+        "morphology",
+        "domain size",
+        "phase separation"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The optimized active layer for PDTS-DTffBT:PC71BM solar cells uses a 1:2 weight ratio and is processed from a mixed solvent of 1,2-dichlorobenzene (DCB) with 3% 1,8-diiodooctane (DIO) as an additive.",
+      "evidence": "We dissolved 10 mg of polymers... and 20 mg of PC71BM in a mixed solvent containing 970 uL of DCB and 30 uL of 1,8-diiodooctane (DIO)... (1:2 weight ratio).",
+      "complexity": "single-hop",
+      "keywords": [
+        "processing solvent",
+        "DIO additive",
+        "DCB",
+        "active layer"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The external quantum efficiency (EQE) peak value increases from less than 30% for the 9 kDa PDTS-DTffBT device to 63.6% for the 36 kDa device, indicating more efficient charge collection and exciton dissociation in the high MW polymer.",
+      "evidence": "Clearly, the low MW polymer based device offered the lowest EQE value (less than 30%)... the peak EQE value up to 54.3 and 63.6% for 16 and 36 kDa, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "EQE",
+        "exciton dissociation",
+        "charge collection"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 16376,
+    "completion_tokens": 3577,
+    "total_tokens": 19953
+  }
+}

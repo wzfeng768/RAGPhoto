@@ -1,0 +1,126 @@
+{
+  "paper_id": "Advanced_Materials_-_2023_-_Zou_-_Narrowband_Organic_Afterglow_via_Phosphorescence_F_rster_Resonance",
+  "paper_title": "Narrowband Organic Afterglow via Phosphorescence Forster Resonance Energy Transfer for Multifunctional Applications",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Materials - 2023 - Zou - Narrowband Organic Afterglow via Phosphorescence F rster Resonance Energy Transfer for/auto/Advanced Materials - 2023 - Zou - Narrowband Organic Afterglow via Phosphorescence F rster Resonance Energy Transfer for.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The study utilizes a host-guest doping strategy where long-lived phosphorescent donors like 4,4'-Biphenol (BP), 1,1'-Bi-2-naphthol (BNP), and 1,8-Naphthalimide (NPI) are paired with narrowband fluorescent acceptors such as Bodipy (BCA, BPH) and rhodamine derivatives (R123, RdB, R101).",
+      "evidence": "As a proof of concept, we chose a series of long-lived phosphorescent chromophores such as 4,4'-Biphenol (BP), 1,1'-Bi-2-naphthol (BNP), and 1,8-Naphthalimide (NPI) as energy donors. Bodipy and rhodamine derivatives BCA, BPH, R123, RdB, and R101 were employed as energy acceptors.",
+      "complexity": "single-hop",
+      "keywords": [
+        "host-guest",
+        "phosphorescent donors",
+        "fluorescent acceptors",
+        "molecular design"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The developed organic afterglow materials achieve a remarkably narrow full width at half maximum (FWHM) as small as 23 nm, which is significantly lower than the typical >60 nm for organic afterglow.",
+      "evidence": "The resulting materials exhibit narrowband emission with a full width at half maximum (FWHM) as small as 23 nm and the longest lifetime of 721.22 ms.",
+      "complexity": "single-hop",
+      "keywords": [
+        "FWHM",
+        "color purity",
+        "narrowband emission"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The hybrid PVA films demonstrate multicolor afterglow ranging from green to red, with a maximum photoluminescence quantum yield (PLQY) of 67.1% and lifetimes reaching up to 721.22 ms.",
+      "evidence": "multicolor and high color purity afterglow ranging from green to red with the maximum photoluminescence quantum yield of 67.1% are achieved... the longest lifetime of 721.22 ms.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PLQY",
+        "lifetime",
+        "multicolor afterglow"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The narrowband emission of the BCA acceptor is attributed to its low Huang-Rhys (HR) factor (~0.13) and low reorganization energy (~320 cm⁻¹), which indicate minimal structural relaxation and geometrical distortion between the ground (S0) and excited (S1) states compared to the donor BP.",
+      "evidence": "BCA showed one dominant mode at low frequency (< 150 cm-1) with an HR factor of about 0.13, much less than that of BP (≈ 16)... reorganization energies of BCA in the ground and excited states were 328.60 and 320.56 cm-1... significantly lower than the BP of 6857.44 and 15599.09 cm-1.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Huang-Rhys factor",
+        "reorganization energy",
+        "structural relaxation",
+        "vibronic coupling"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The mechanism for narrowband afterglow involves ultraviolet (UV) excitation of the donor, followed by intersystem crossing (ISC) to the triplet state (T1), and subsequent non-radiative energy transfer (FRET) to the singlet state (S1) of the narrowband fluorescent acceptor.",
+      "evidence": "the triplet excitons of the donor were populated from the singlet excitons through the ISC process... efficient phosphorescence FRET from the long-lived phosphorescence donor to the narrowband fluorescence acceptor.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "FRET",
+        "intersystem crossing",
+        "triplet excitons",
+        "energy transfer"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Polyvinyl alcohol (PVA) is used as a rigid matrix to suppress non-radiative transitions and protect triplet excitons via the formation of multiple hydrogen bonds between the guest molecules and PVA chains.",
+      "evidence": "PVA was selected as the polymer matrix to construct a rigid polymer microenvironment, which can restrain the non-radiative transitions... triplet excitons of the donor were well stabilized by forming multiple hydrogen bonds with PVA chains.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PVA matrix",
+        "hydrogen bonding",
+        "non-radiative transition",
+        "rigid environment"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The calculated FRET efficiency between the BP donor and BCA acceptor increases with acceptor concentration, reaching 35.88% in the S6 film (0.1 wt.% BP and 0.1 wt.% BCA).",
+      "evidence": "the concentration increases of BCA resulted in the enhanced phosphorescent FRET efficiency (ΦFRET) from 1.34% to 35.88% between BP and BCA.",
+      "complexity": "single-hop",
+      "keywords": [
+        "FRET efficiency",
+        "doping concentration",
+        "donor-acceptor"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The validity of the dipole-dipole coupling mechanism for FRET is supported by calculated energy transfer distances (R) ranging from 26.6 to 49.4 Å and an oscillator strength (f) for the triplet state of the BP donor of 0.01.",
+      "evidence": "energy transfer distances (R) between BP and BCA in S1-S6 were also calculated ranging from 49.4 to 26.6 Å... The oscillator strength (f) for the triplet state of BP was also calculated to be 0.01.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "energy transfer distance",
+        "oscillator strength",
+        "dipole-dipole coupling"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The materials exhibit excellent processability, allowing for the fabrication of large-area (≈ 400 cm²), flexible, and transparent films, as well as aqueous solutions suitable for screen printing.",
+      "evidence": "the large-area, flexible and transparent film with an area of ≈ 400 cm2 was prepared... based on screen printing, a quick response (QR) code... was painted on a piece of paper using BP/BCA-PVA aqueous solution as inks.",
+      "complexity": "single-hop",
+      "keywords": [
+        "flexible electronics",
+        "screen printing",
+        "large-area fabrication"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The BP/BCA-PVA system demonstrates a green afterglow with CIE coordinates (0.233, 0.666), which is much closer to the high-purity green standard (ITU-R BT. 2020) than traditional organic afterglow materials.",
+      "evidence": "the film of S6 showed the narrowest FWHM of 23 nm, along with high color purity afterglow with the CIE coordinate (0.233, 0.666).",
+      "complexity": "single-hop",
+      "keywords": [
+        "CIE coordinates",
+        "ITU-R BT. 2020",
+        "green emission"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 10452,
+    "completion_tokens": 2796,
+    "total_tokens": 13248
+  }
+}

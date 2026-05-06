@@ -1,0 +1,75 @@
+{
+  "paper_id": "Advanced_Materials_-_2019_-_Murawski_-_Narrowband_Organic_LightEmitting_Diodes_for_Fluorescence_Micr",
+  "paper_title": "Narrowband Organic Light-Emitting Diodes for Fluorescence Microscopy and Calcium Imaging",
+  "qa_pairs": [
+    {
+      "question": "What are the chemical components and doping concentrations used in the emission layer of the blue-emitting OLED designed for fluorescence microscopy?",
+      "answer": "The emission layer of the blue-emitting OLED consists of 2,5,8,11-tetra-tert-butylperylene (TBPe) as the fluorescent emitter molecule, which is doped at a concentration of 1.5 wt% into a 2-methyl-9,10-bis(naphthalen-2-yl) anthracene (MADN) host.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Narrowband Organic Light-Emitting Diodes for Fluorescence Microscopy and Calcium Imaging",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How is the Distributed Bragg Reflector (DBR) constructed to achieve spectral narrowing in the OLED system, and what is its specific purpose?",
+      "answer": "The DBR is integrated to block the long-wavelength emission tail of the OLED to ensure high-contrast fluorescence imaging. It is constructed from 19.5 pairs of alternating layers of Ta2O5 (64.4 nm thick) and SiO2 (93.1 nm thick).",
+      "category": "Device Architecture & Physics",
+      "source_title": "Narrowband Organic Light-Emitting Diodes for Fluorescence Microscopy and Calcium Imaging",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Why are fluorescent emitters preferred over phosphorescent or thermally activated delayed fluorescence (TADF) emitters for high-power imaging applications?",
+      "answer": "Fluorescent emitters are preferred because they exhibit significantly lower efficiency roll-off at high current densities compared to phosphorescent or TADF emitters. Additionally, they offer superior stability and require lower drive voltages, which are critical for high-brightness imaging applications.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Narrowband Organic Light-Emitting Diodes for Fluorescence Microscopy and Calcium Imaging",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What is the limitation on the numerical aperture (NA) of the imaging system when using the OLED-DBR setup, and why does this limitation exist?",
+      "answer": "The numerical aperture (NA) must be lower than 0.64 (corresponding to a collection angle of less than 40°). This limitation exists because of the angular dependence of the DBR's transmission; exceeding this NA would result in green light leakage from the OLED's long-wavelength tail, reducing imaging contrast.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Narrowband Organic Light-Emitting Diodes for Fluorescence Microscopy and Calcium Imaging",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "To prevent overlap with eGFP emission, what specific spectral suppression level does the OLED-DBR system achieve in the forward direction?",
+      "answer": "The OLED-DBR system achieves a suppression of forward emission in the 495 to 592 nm band to levels below the detection limit of the spectrometer. This high level of suppression is necessary to avoid spectral overlap with the emission of the eGFP fluorophore.",
+      "category": "Performance Metrics",
+      "source_title": "Narrowband Organic Light-Emitting Diodes for Fluorescence Microscopy and Calcium Imaging",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Identify the specific materials and dopants used for the charge transport layers to minimize drive voltage in the narrowband OLED.",
+      "answer": "The device uses Spiro-TTB p-doped with 4 wt% F6-TCNNQ as the hole-transport layer and BPhen n-doped with cesium as the electron-transport layer to minimize drive voltage and Ohmic losses.",
+      "category": "Processing & Fabrication",
+      "source_title": "Narrowband Organic Light-Emitting Diodes for Fluorescence Microscopy and Calcium Imaging",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the performance of the OLED-based fluorescence imaging system compare to a conventional mercury lamp when imaging mouse kidney sections?",
+      "answer": "The OLED-based system yielded a signal-to-noise ratio (SNR) of 84 ± 9, which is lower than the 480 ± 16 achieved by a conventional mercury lamp. However, the OLED system maintained a high correlation in intensity distribution (r^2 = 0.91) compared to the mercury lamp, indicating comparable image detail and contrast.",
+      "category": "Characterization Methods",
+      "source_title": "Narrowband Organic Light-Emitting Diodes for Fluorescence Microscopy and Calcium Imaging",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What specific spectral rejection ratio is required between the fluorophore's absorption and emission peaks to achieve high-contrast fluorescence imaging with an OLED?",
+      "answer": "To achieve high contrast, the OLED emission at the fluorophore's absorption peak (such as 487 nm for eGFP) must be approximately 10,000 times higher than the residual OLED emission at the fluorophore's emission peak (such as 510 nm for eGFP).",
+      "category": "Device Architecture & Physics",
+      "source_title": "Narrowband Organic Light-Emitting Diodes for Fluorescence Microscopy and Calcium Imaging",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2754,
+    "completion_tokens": 2448,
+    "total_tokens": 5202
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "paper_id": "Advanced_Materials_-_2015_-_Gao_-_High_Mobility_Ambipolar_DiketopyrrolopyrroleBased_Conjugated_Polym",
+  "paper_title": "High Mobility Ambipolar Diketopyrrolopyrrole-Based Conjugated Polymer Synthesized Via Direct Arylation Polycondensation",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Materials - 2015 - Gao - High Mobility Ambipolar Diketopyrrolopyrrole‐Based Conjugated Polymer Synthesized Via/auto/Advanced Materials - 2015 - Gao - High Mobility Ambipolar Diketopyrrolopyrrole‐Based Conjugated Polymer Synthesized Via.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The conjugated polymer PDPP-4FTVT was synthesized via direct arylation polycondensation (DArP) using (E)-1,2-bis(3,4-difluorothien-2-yl)ethene (4FTVT) as the hydrogenated monomer and a thiophene-flanked DPP aryl bromide.",
+      "evidence": "In the current paper, we reported that the reactivity of (E)-1,2-bis(3,4-difluorothien-2-yl)ethene (4FTVT) for direct arylation is remarkably high in toluene, and consequently the first DPP-based high mobility conjugated polymer... (PDPP-4FTVT), was successfully synthesized via direct arylation polycondensation.",
+      "complexity": "single-hop",
+      "keywords": [
+        "direct arylation polycondensation",
+        "PDPP-4FTVT",
+        "4FTVT",
+        "diketopyrrolopyrrole"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Fluorination at the $\beta$-positions of the thiophene rings in the 4FTVT monomer serves to prevent unwanted C-H activation that leads to branching or cross-linking during direct arylation polycondensation.",
+      "evidence": "the introduction of fluorine (F)-atoms in $\\beta$ positions of thiophene rings not only evades the unwanted possible CH activation, but also can remarkably enhance the reactivity of the thiophene moieties toward direct arylation due to electron-withdrawing nature of F-atom",
+      "complexity": "single-hop",
+      "keywords": [
+        "fluorination",
+        "C-H activation",
+        "branching defects",
+        "monomer reactivity"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "PDPP-4FTVT exhibited ambipolar transport properties in organic thin-film transistors (OTFTs) with maximum hole and electron mobilities of 3.40 cm² V⁻¹ s⁻¹ and 5.86 cm² V⁻¹ s⁻¹, respectively.",
+      "evidence": "PDPP-4FTVT exhibited ambipolar transport properties in air with hole and electron mobilities of 3.40 and 5.86 cm² V⁻¹ s⁻¹, respectively, as measured with bottom gate and top contact OTFTs.",
+      "complexity": "single-hop",
+      "keywords": [
+        "hole mobility",
+        "electron mobility",
+        "ambipolar",
+        "OTFT"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The introduction of fluorine atoms into the PDPP-4FTVT backbone lowers both the HOMO and LUMO energy levels to -5.36 eV and -3.50 eV, respectively, compared to the non-fluorinated reference polymer PDPP-TVT.",
+      "evidence": "As expected, both HOMO and LUMO levels were noticeably lowered after the introduction of F-atoms, which are -5.36 and -3.50 eV for PDPP-4FTVT and -5.17 and -3.35 eV for PDPP-TVT.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "HOMO",
+        "LUMO",
+        "fluorination",
+        "energy level engineering"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Noncovalent intramolecular F-S interactions in PDPP-4FTVT act as conformational locks that enhance the planarity of the polymer backbone and promote intermolecular $\\pi-\\pi$ stacking.",
+      "evidence": "the incorporation of F-atoms may bring intramolecular noncovalent interactions so-called conformational locks, resulting in further improved planarity of the conjugated backbone... this weak interaction should be beneficial to the planarization of the polymer backbone and therefore promote intermolecular $\\pi-\\pi$ stacking.",
+      "complexity": "single-hop",
+      "keywords": [
+        "F-S interaction",
+        "conformational locks",
+        "planarity",
+        "pi-pi stacking"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Thermal annealing of PDPP-4FTVT films at 200 °C transforms the morphology from a granular structure to highly uniform intertwined fibers, which provides efficient channels for charge transport.",
+      "evidence": "The pristine film of PDPP-4FTVT was featured with 'granular' morphology (Figure 4c). After thermal annealing at 200 °C fiber-like microstructures were observed (Figure 4d)... The highly uniform intertwined fibers can form interconnected polymer chain networks, therefore providing a more efficient channel for charge carrier transport.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal annealing",
+        "morphology",
+        "fiber-like microstructure",
+        "charge transport"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "2D grazing incidence wide angle X-ray scattering (GIWAXS) analysis shows that PDPP-4FTVT backbones adopt an edge-on orientation in thin films with a lamellar d-spacing of 21.7 Å and a $\\pi-\\pi$ stacking distance of 3.53 Å.",
+      "evidence": "The (100) peak was at $q_z = 2.89 nm^{-1}$ corresponding to a lamellar d-spacing of 21.7 Å... Meanwhile, a weak (010) diffraction peak at $q_{xy} = 17.8 nm^{-1}$ corresponding to a $\\pi-\\pi$ stacking distance of 3.53 Å was also observed... polymer backbones adopted an edge-on packing structures in thin film.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "GIWAXS",
+        "edge-on packing",
+        "d-spacing",
+        "pi-pi stacking distance"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Density functional theory (DFT) calculations on a PDPP-4FTVT trimer revealed an intramolecular F-S distance of 2.96 Å, which is significantly shorter than the sum of the van der Waals radii of fluorine and sulfur (3.27 Å).",
+      "evidence": "The calculated F-S distance (2.96 Å) is obviously shorter than the sum of van der Waals radii of F and S atoms (3.27 Å). This implies the presence of weak intramolecular F-S interaction.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DFT",
+        "van der Waals radii",
+        "F-S interaction",
+        "molecular simulation"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Herrmann’s catalyst was identified as the most effective catalyst system for the direct arylation polycondensation of PDPP-4FTVT, likely due to its high thermal stability.",
+      "evidence": "the Herrmann's catalyst gave the best results probably due to its high thermal stability. With this catalyst, the polymer PDPP-4FTVT was obtained in high yield (93%) in 12 h.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Herrmann’s catalyst",
+        "catalyst stability",
+        "polymer yield",
+        "DArP"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The optical bandgap of fluorinated PDPP-4FTVT is 1.41 eV, which is 0.11 eV broader than that of the non-fluorinated reference polymer PDPP-TVT (1.30 eV).",
+      "evidence": "The film bandgap of PDPP-4FTVT estimated from the absorption onset is 1.41 eV, 0.11 eV broader than that of PDPP-TVT.",
+      "complexity": "single-hop",
+      "keywords": [
+        "optical bandgap",
+        "fluorination",
+        "UV-vis-NIR absorption"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 10783,
+    "completion_tokens": 2994,
+    "total_tokens": 13777
+  }
+}

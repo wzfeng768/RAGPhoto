@@ -1,0 +1,145 @@
+{
+  "paper_id": "Angew_Chem_Int_Ed_-_2021_-_Zhou_-_Fabrication_of_Gradient_and_Patterned_Organic_Thin_Films_by_Bipola",
+  "paper_title": "Fabrication of Gradient and Patterned Organic Thin Films by Bipolar Electrolytic Micelle Disruption Using Redox-Active Surfactants",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Angew Chem Int Ed - 2021 - Zhou - Fabrication of Gradient and Patterned Organic Thin Films by Bipolar Electrolytic Micelle/auto/Angew Chem Int Ed - 2021 - Zhou - Fabrication of Gradient and Patterned Organic Thin Films by Bipolar Electrolytic Micelle.md",
+  "knowledge_points": [
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The Bipolar Electrolytic Micelle Disruption (BEMD) process relies on the electrochemical oxidation of ferrocene-modified surfactants at the anodic part of a bipolar electrode (BPE), which disrupts micelles and releases solubilized organic compounds for local deposition.",
+      "evidence": "This method is based on the breaking up of micelles formed by surfactants with a ferrocenyl group when the surfactants are electrochemically oxidized on an electrode surface. Solubilizate is released from the micelles and then deposited onto the electrode surface to form a film.",
+      "complexity": "single-hop",
+      "keywords": [
+        "BEMD",
+        "bipolar electrochemistry",
+        "micelle disruption",
+        "ferrocene surfactant"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Two specific redox-active surfactants are used in BEMD: (11-ferrocenylundecyl)trimethylammonium bromide (FTMA), a cationic surfactant, and α-(11-ferrocenylundecyl)-ω-hydroxypoly(oxyethylene) (FPEG), a nonionic surfactant.",
+      "evidence": "N-vinylcarbazole (NVC) was solubilized in micelles composed of a cationic surfactant of (11-ferrocenylundecyl) trimethylammonium bromide (FTMA), while copper phthalocyanine (CuPc) and aggregation-induced emission (AIE) compounds were dispersed in micelles constructed from a nonionic surfactant of α-(11-ferrocenylundecyl)-ω-hydroxypoly(oxyethylene) (FPEG).",
+      "complexity": "single-hop",
+      "keywords": [
+        "FTMA",
+        "FPEG",
+        "redox-active surfactant",
+        "ferrocene"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "A U-shaped electrolytic cell with a shielding wall generates a sigmoidal potential distribution on the bipolar electrode, which facilitates the production of organic films with a continuous thickness gradient.",
+      "evidence": "A U-shaped bipolar electrolytic system with a sigmoidal potential gradient on the BPE gave gradient-thin films... The U-shaped cell had a shielding wall between the driving electrodes, which controlled the intensity of the potential gradient on the BPE and induced a sigmoidal potential distribution.",
+      "complexity": "single-hop",
+      "keywords": [
+        "U-shaped cell",
+        "sigmoidal potential",
+        "gradient film",
+        "thickness gradient"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "A cylindrical bipolar electrolytic setup creates a mountain-like potential distribution, allowing for the site-selective deposition of circular organic patterns with diameters that can be tuned by adjusting the applied driving voltage.",
+      "evidence": "The cylindrical setup was successfully used to perform bipolar site-selective patterning on a BPE... generated a mountain-like potential distribution... With an increase of E (8 V and 10 V), the diameter of the circular NVC film formed on the BPE became larger.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "cylindrical setup",
+        "patterning",
+        "circular film",
+        "voltage control"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Gradient N-vinylcarbazole (NVC) films prepared by BEMD can undergo post-functionalization via solid-state photopolymerization under UV irradiation for 50 hours, yielding poly-NVC with a number-average molecular weight (Mn) of approximately 4500.",
+      "evidence": "the gradient NVC film was photopolymerized under UV irradiation... Gel permeation chromatography (GPC) molecular weight analysis gave a number-average molecular weight (Mn) of... 4500 for the poly-NVC film.",
+      "complexity": "single-hop",
+      "keywords": [
+        "N-vinylcarbazole",
+        "photopolymerization",
+        "post-functionalization",
+        "molecular weight"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Copper phthalocyanine (CuPc) gradient films produced via BEMD exhibit characteristic Q-band absorption peaks at 623 nm and 700 nm, with film thickness reaching up to 27 μm at an applied voltage of 6 V.",
+      "evidence": "CuPc films... showed consistent absorption peaks at ca. 623 nm and 700 nm... A higher E (6 V) generated a thicker CuPc film... of which the thickest position (27 μm) was almost five times that of the film (5 μm) prepared with E at 4 V.",
+      "complexity": "single-hop",
+      "keywords": [
+        "CuPc",
+        "absorption spectra",
+        "film thickness",
+        "Q-band"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Aggregation-induced emission (AIE) films of tetraphenylethene (TPE), tris(4-nitrophenyl)phenylethene (TPE3N), and hexaphenylsilole (HPS) fabricated by BEMD show blue, yellow, and sky-blue luminescence respectively under 365 nm UV irradiation.",
+      "evidence": "Under UV irradiation (λ = 365 nm), these circular TPE, TPE3N and HPS films had blue, yellow and sky-blue emissions, respectively, corresponding to their starting materials.",
+      "complexity": "single-hop",
+      "keywords": [
+        "AIE",
+        "TPE",
+        "TPE3N",
+        "HPS",
+        "luminescence"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Atomic force microscopy (AFM) analysis of NVC films reveals that the accumulation process starts with the formation of debris with rectangular edges, which then becomes smoother as smaller NVC molecules fill the gaps as electrolysis continues.",
+      "evidence": "The RMS value showed a significant increase from 20 mm to 15 mm due to the formation of more debris with apparent rectangular edges... When constant NVC molecules inserted into these debris, the whole surface was smoother.",
+      "complexity": "single-hop",
+      "keywords": [
+        "AFM",
+        "surface morphology",
+        "NVC accumulation",
+        "RMS roughness"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Increasing the concentration of the electrolyte salt (Li2SO4) in the micellar solution from 50 mM to 100 mM results in a narrower micelle size distribution and a larger mean diameter, which enhances the thickness of the deposited organic film.",
+      "evidence": "When an E of 6 V was applied, the thickness of the film increased with improved C [concentration of electrolyte salt]... Increased C gave a narrow size distribution, but a bigger mean diameter of micelles.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Li2SO4",
+        "micelle size",
+        "electrolyte concentration",
+        "film thickness"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "COMSOL Multiphysics simulations are utilized to theoretically estimate the interfacial potential distribution on the bipolar electrode, which validates experimental measurements obtained from reference electrode arrays.",
+      "evidence": "COMSOL simulation was employed to gain a theoretical value for the interfacial potential distribution... The experimental and simulation results showed good agreement with each other.",
+      "complexity": "single-hop",
+      "keywords": [
+        "COMSOL",
+        "potential distribution",
+        "simulation",
+        "BPE validation"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The minimum potential difference (ΔVmin) required to initiate the BEMD process is approximately 0.15 V for FTMA-based systems and ranges from 0.12 V to 0.14 V for FPEG-based systems containing CuPc or AIE luminogens.",
+      "evidence": "the required minimum potential difference (ΔVmin1) is ca. 0.15 V... A value of ΔVmin2 (0.12 V) was obtained [CuPc]... The estimated ΔVmin4 was 0.14 V [TPE3N].",
+      "complexity": "multi-hop",
+      "keywords": [
+        "minimum potential difference",
+        "ΔVmin",
+        "redox potential",
+        "thermodynamics"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 10938,
+    "completion_tokens": 4240,
+    "total_tokens": 15178
+  }
+}

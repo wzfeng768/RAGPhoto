@@ -1,0 +1,142 @@
+{
+  "paper_id": "Advanced_Materials_-_2023_-_Gao_-_Asymmetric_Bridge_Engineering_Enables_HighPermittivity_Benzo_1_2B_",
+  "paper_title": "Asymmetric π-Bridge Engineering Enables High-Permittivity Benzo[1,2-b:4,5-b']Difuran-Conjugated Polymer for Efficient Organic Solar Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Materials - 2023 - Gao - Asymmetric  ‐Bridge Engineering Enables High‐Permittivity Benzo 1 2‐B 4 5‐b /auto/Advanced Materials - 2023 - Gao - Asymmetric  ‐Bridge Engineering Enables High‐Permittivity Benzo 1 2‐B 4 5‐b .md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The study utilizes an asymmetric π-bridge strategy involving furan and thiophene units in BDF-based copolymers to enhance the dielectric constant without the use of polar side chains.",
+      "evidence": "Different from the traditional strategy discussed above (i.e., inserting polar side chains into polymer structure), we propose to modify the polymer backbone via engineering the π-bridge to enhance their εr.",
+      "complexity": "single-hop",
+      "keywords": [
+        "asymmetric engineering",
+        "π-bridge",
+        "benzo[1,2-b:4,5-b']difuran",
+        "dielectric constant"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "PBDF-TF-BTz, featuring an asymmetric furan/thiophene π-bridge, exhibits a higher dielectric constant (εr = 4.22) compared to its symmetric counterparts PBDF-dT-BTz (3.15) and PBDF-dF-BTz (3.90).",
+      "evidence": "The PBDF-TF-BTz with asymmetric furan and thiophene π-bridge demonstrates a larger εr of 4.22 than PBDF-dT-BTz with symmetric thiophene π-bridge (3.15) and PBDF-dF-BTz with symmetric furan π-bridge (3.90).",
+      "complexity": "single-hop",
+      "keywords": [
+        "dielectric constant",
+        "PBDF-TF-BTz",
+        "permittivity",
+        "asymmetric π-bridge"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "DFT calculations reveal that PBDF-TF-BTz possesses a larger dipole moment (6.68 debye) than PBDF-dT-BTz (6.02 debye) and PBDF-dF-BTz (6.20 debye), which correlates with its higher dielectric constant.",
+      "evidence": "PBDF-TF-BTz presents a larger dipole moment (6.68 debye) than PBDF-dT-BTz (6.02 debye) and PBDF-dF-BTz (6.20 debye). The larger dipole moment of PBDF-TF-BTz can lead to higher εr.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DFT",
+        "dipole moment",
+        "dielectric constant",
+        "molecular simulation"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Binary organic solar cells based on PBDF-TF-BTz:Y6 achieved a power conversion efficiency (PCE) of 17.01%, with a Voc of 0.857 V, Jsc of 25.52 mA cm⁻², and FF of 77.78%.",
+      "evidence": "The Voc, Jsc, and FF of PBDF-TF-BTz-based devices increased to 0.857 V, 25.52 mA cm⁻², and 77.78% respectively, leading to a higher PCE of 17.01%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "PBDF-TF-BTz",
+        "Y6",
+        "binary OSC"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Ternary organic solar cells using PBDF-TF-BTz:Y6:PCBO-12 reached a champion PCE of 18.10% and a high fill factor (FF) of 80.11%.",
+      "evidence": "When the weight ratio of PBDF-TF-BTz:Y6:PCBO-12 is 1:1.2:0.2, the devices produced a champion PCE of 18.10% with a Voc of 0.881 V, a Jsc of 25.64 mA cm⁻², and a remarkable FF of 80.11%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ternary OSC",
+        "PCBO-12",
+        "PCE",
+        "fill factor"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The exciton binding energy (EB) is reduced to 0.34 eV for PBDF-TF-BTz, which is lower than that of PBDF-dT-BTz (0.46 eV) and PBDF-dF-BTz (0.37 eV), facilitating easier exciton dissociation.",
+      "evidence": "the εr of PBDF-dT-BTz, PBDF-TF-BTz, and PBDF-dF-BTz is 3.15, 4.22, and 3.90, which correspond to the exciton binding (EB) of 0.46, 0.34, and 0.37 eV, respectively.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "exciton binding energy",
+        "dielectric constant",
+        "exciton dissociation"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "PBDF-TF-BTz:Y6 devices exhibit more balanced charge transport, with a hole mobility (μh) of 2.26 × 10⁻⁴ cm² V⁻¹ s⁻¹ and an electron mobility (μe) of 2.48 × 10⁻⁴ cm² V⁻¹ s⁻¹, resulting in a low μe/μh ratio of 1.09.",
+      "evidence": "The derived μh and electron mobility (μe) of PBDF-TF-BTz:Y6 devices are 2.26 × 10⁻⁴ and 2.48 × 10⁻⁴ cm² V⁻¹ s⁻¹, respectively, featuring a small μe/μh ratio of 1.09.",
+      "complexity": "single-hop",
+      "keywords": [
+        "carrier mobility",
+        "charge transport",
+        "mobility balance"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis shows that PBDF-TF-BTz:Y6 films have a face-on orientation with a π-π stacking distance of 3.50 Å and a crystal coherence length (CCL) of 27.20 Å, higher than the symmetric bridge counterparts.",
+      "evidence": "PBDF-TF-BTz:Y6 film... display strong (010) peak... with π-π stacking distance of 3.50 Å... The (010) CCL of PBDF-TF-BTz:Y6 film... is 27.20 Å.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "GIWAXS",
+        "crystal coherence length",
+        "stacking distance",
+        "molecular orientation"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The substitution of thiophene with furan π-bridges leads to a deepening of the HOMO energy levels (from -5.50 eV for dT to -5.57 eV for dF) due to the higher electronegativity of oxygen compared to sulfur.",
+      "evidence": "The HOMO/LUMO energy level of copolymers is gradually deepened along with the thiophene π-bridge being replaced by furan π-bridge... attributed to the stronger electronegativity of oxygen atom in furan unit than that of the sulfur atom in thiophene unit.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "HOMO",
+        "LUMO",
+        "electronegativity",
+        "furan",
+        "thiophene"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Transient absorption (TA) spectroscopy indicates that PBDF-TF-BTz:Y6 films have a suppressed charge carrier recombination lifetime of 1276.96 ps compared to PBDF-dT-BTz:Y6 (465.18 ps).",
+      "evidence": "the buildup of the signals probed at ≈ 600 nm... is extended to 1276.96 ps for PBDF-TF-BTz:Y6 film, demonstrating its greatly suppressed charge carrier recombination.",
+      "complexity": "single-hop",
+      "keywords": [
+        "transient absorption",
+        "charge recombination",
+        "carrier lifetime"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "PBDF-TF-BTz shows an intermediate Flory-Huggins interaction parameter (χ) of 0.0169 with Y6, providing better phase separation than PBDF-dT-BTz (χ = 0.0064) but avoiding the excessive aggregation seen in PBDF-dF-BTz (χ = 0.04).",
+      "evidence": "PBDF-TF-BTz:Y6 film exhibits increased phase separation... resulting from the slightly reduced miscibility between PBDF-TF-BTz and Y6 for their relatively enhanced Flory-Huggins interaction parameter χ of 0.0169.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "miscibility",
+        "Flory-Huggins parameter",
+        "phase separation",
+        "morphology"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 16550,
+    "completion_tokens": 3505,
+    "total_tokens": 20055
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "paper_id": "Journal_of_Polymer_Science_-_2021_-_Garrison_-_Controlling_the_molecular_weight_of_poly_2_5bis_Nmeth",
+  "paper_title": "Controlling the molecular weight of poly(2,5-bis[N-methyl-N-hexylamino]phenylene vinylene) using nitrobenzene as an inhibitor",
+  "qa_pairs": [
+    {
+      "question": "What is the typical molecular weight (Mw) and polydispersity index (PDI) of BAM-PPV produced via uninhibited Gilch polymerization?",
+      "answer": "Uninhibited Gilch polymerization of BAM-PPV typically yields high-molecular weight polymers with Mw values ranging between 130 and 205 kDa and PDI values between 2.4 and 7.9.",
+      "category": "Performance Metrics",
+      "source_title": "Controlling the molecular weight of poly(2,5-bis[N-methyl-N-hexylamino]phenylene vinylene) using nitrobenzene as an inhibitor",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Why is the processability of BAM-PPV limited when its molecular weight exceeds 100 kDa?",
+      "answer": "When the molecular weight of BAM-PPV exceeds 100 kDa, it exhibits poor solubility in common organic solvents, typically falling below 1 wt%. This low solubility hinders its use in large-scale applications and processing.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Controlling the molecular weight of poly(2,5-bis[N-methyl-N-hexylamino]phenylene vinylene) using nitrobenzene as an inhibitor",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What effect does a nitrobenzene loading of 0.9 mol% have on the synthesis of BAM-PPV?",
+      "answer": "At a nitrobenzene loading as low as 0.9 mol%, the Gilch polymerization of BAM-PPV is inhibited, producing low-molecular weight polymers ranging from 5 to 46 kDa.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Controlling the molecular weight of poly(2,5-bis[N-methyl-N-hexylamino]phenylene vinylene) using nitrobenzene as an inhibitor",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does increasing the nitrobenzene loading to over 12 mol% affect the molecular weight distribution of BAM-PPV?",
+      "answer": "Increasing the nitrobenzene loading above 12 mol% leads to a more uniform molecular weight distribution for BAM-PPV, resulting in PDI values between 1.3 and 2.6.",
+      "category": "Performance Metrics",
+      "source_title": "Controlling the molecular weight of poly(2,5-bis[N-methyl-N-hexylamino]phenylene vinylene) using nitrobenzene as an inhibitor",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What are the three primary applications of BAM-PPV mentioned in the research?",
+      "answer": "BAM-PPV is used as a superior corrosion protection coating for aluminum alloys, an active material in organic light-emitting diodes (OLEDs), and a polymer scaffold for methyl ammonium lead halide (MAPbI3) perovskite crystals.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Controlling the molecular weight of poly(2,5-bis[N-methyl-N-hexylamino]phenylene vinylene) using nitrobenzene as an inhibitor",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What spectroscopic evidence suggests that nitrobenzene does not chemically modify the BAM-PPV chain or act as a permanent endcap?",
+      "answer": "FTIR analysis shows an absence of nitro functional group peaks in low-molecular weight BAM-PPV samples. Additionally, 1H NMR spectra for both high and low molecular weight samples are identical, confirming that nitrobenzene does not chemically modify the polymer during chain propagation.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Controlling the molecular weight of poly(2,5-bis[N-methyl-N-hexylamino]phenylene vinylene) using nitrobenzene as an inhibitor",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Describe the initial steps of the Gilch polymerization mechanism used to synthesize BAM-PPV.",
+      "answer": "The mechanism begins with the addition of potassium tert-butoxide (KOtBu) to a 1,4-bis(halomethyl)-benzene to form a p-quinodimethane intermediate (the active monomer) via E2 elimination. The polymerization is then initiated by a diradical formed from the dimerization of this active monomer.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Controlling the molecular weight of poly(2,5-bis[N-methyl-N-hexylamino]phenylene vinylene) using nitrobenzene as an inhibitor",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does high nitrobenzene loading (e.g., 92 mol%) influence the kinetics of the BAM-PPV polymerization reaction?",
+      "answer": "At high loadings such as 92 mol%, nitrobenzene acts as a reaction diluent. This slows down the formation of the p-quinodimethane active monomer from the premonomer, as evidenced by high premonomer concentrations throughout the reaction.",
+      "category": "Processing & Fabrication",
+      "source_title": "Controlling the molecular weight of poly(2,5-bis[N-methyl-N-hexylamino]phenylene vinylene) using nitrobenzene as an inhibitor",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2506,
+    "completion_tokens": 2394,
+    "total_tokens": 4900
+  }
+}

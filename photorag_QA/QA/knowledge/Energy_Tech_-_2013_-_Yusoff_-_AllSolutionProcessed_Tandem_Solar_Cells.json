@@ -1,0 +1,150 @@
+{
+  "paper_id": "Energy_Tech_-_2013_-_Yusoff_-_AllSolutionProcessed_Tandem_Solar_Cells",
+  "paper_title": "All-Solution-Processed Tandem Solar Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Energy Tech - 2013 - Yusoff - All‐Solution‐Processed Tandem Solar Cells/auto/Energy Tech - 2013 - Yusoff - All‐Solution‐Processed Tandem Solar Cells.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The tandem solar cell utilizes P3HT:PC70BM as the photoactive layer for the top cell and PSBTBT:PC70BM for the bottom cell.",
+      "evidence": "P3HT:PC70BM and PSBTBT:PC70BM were the photoactive layers for the top and bottom cells, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "P3HT",
+        "PSBTBT",
+        "PC70BM",
+        "photoactive layer"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The interconnecting layer (ICL) in the tandem device consists of a stacked transparent n-type metal semiconductor (ZnO) and a conductive hole transport layer (PEDOT:PSS) neutralized with NaOH.",
+      "evidence": "The two photoactive layers were connected by a stacked transparent n-type metal semiconductor (ZnO) and a conductive hole transport layer (PEDOT:PSS)... The PEDOT:PSS was neutralized by using NaOH solution to prevent the acidity of the PEDOT from penetrating into the underlying ZnO thin film.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "interconnecting layer",
+        "ZnO",
+        "PEDOT:PSS",
+        "NaOH neutralization"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The optimized organic tandem solar cell achieved a power conversion efficiency (PCE) of 6.38%, an open-circuit voltage (Voc) of 1.45 V, a short-circuit current density (Jsc) of 6.93 mA/cm², and a fill factor (FF) of 63.71%.",
+      "evidence": "Our constructed tandem organic solar cell exhibited a Jsc of 6.93 mA cm-2, Voc of 1.45 V, FF of 63.36%, and PCE of 6.38%. (Table 1 lists FF as 63.71%)",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "Voc",
+        "Jsc",
+        "FF",
+        "efficiency"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The open-circuit voltage (Voc) of the series-connected tandem cell (1.45 V) is approximately 95.40% of the sum of the individual top (0.88 V) and bottom (0.64 V) cell voltages.",
+      "evidence": "As a result, the Voc of the prepared tandem solar cell was 1.45 V; reaching approximately 95.40% of the summation of the top and bottom Voc values (1.52 V).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Voc",
+        "series-connected",
+        "summation"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "In series-connected tandem organic solar cells, the interconnecting layer facilitates the recombination of electrons from the top cell with holes from the bottom cell.",
+      "evidence": "The electrons from the top cell combined with the holes from the bottom cell at the ZnO/PEDOT:PSS interconnecting layer.",
+      "complexity": "single-hop",
+      "keywords": [
+        "recombination",
+        "interconnecting layer",
+        "charge transport"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The ZnO interconnecting layer is processed from a precursor solution containing zinc acetate dehydrate and monoethanolamine in 2-methoxyethanol, followed by annealing at 150 °C for 5 minutes.",
+      "evidence": "The interconnecting layer was fabricated through the deposition of an amorphous layer of ZnO, which consisted of zinc acetate dehydrate (0.5 M) in monoethanolamine (0.5 M) and 2-methoxyethanol. The ZnO solution was spun at 4000 rpm for 25 s and annealed at 150 °C for 5 min under ambient air.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ZnO precursor",
+        "solution-processed",
+        "annealing"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Atomic Force Microscopy (AFM) analysis revealed that the RMS roughness of the top cell (P3HT:PC70BM) was 9.77 nm, while the bottom cell (PSBTBT:PC70BM) showed a much lower RMS roughness of 1.20 nm.",
+      "evidence": "However, the root mean square (RMS) value for the top cell was high at approximately 9.77 nm whereas the bottom cell had a RMS value of only 1.20 nm.",
+      "complexity": "single-hop",
+      "keywords": [
+        "AFM",
+        "RMS roughness",
+        "surface morphology"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "X-ray diffraction (XRD) patterns indicate that the P3HT:PC70BM layer possesses a well-ordered structure with (100) and (200) peaks, whereas the PEDOT:PSS layer is amorphous.",
+      "evidence": "From these patterns, it was determined that PEDOT:PSS was amorphous, whereas P3HT:PC70BM exhibited well-ordered P3HT with (100) and (200) peaks, which correspond to the P3HT chain.",
+      "complexity": "single-hop",
+      "keywords": [
+        "XRD",
+        "crystallinity",
+        "P3HT"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The External Quantum Efficiency (EQE) of the P3HT:PC70BM top cell reaches a maximum of 48% at 456 nm, while the PSBTBT:PC70BM bottom cell reaches a maximum of 33% at 610 nm.",
+      "evidence": "The P3HT:PC70BM based top cell exhibited... the highest EQE value at 456 nm, which corresponded to 48% EQE. The bottom cell... highest EQE value was 33% at 610 nm.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "EQE",
+        "photoresponse",
+        "wavelength"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The tandem solar cell demonstrated high stability with only a 2.19% decrease in power conversion efficiency (from 6.38% to 6.24%) after 720 hours of exposure to AM1.5G conditions.",
+      "evidence": "Overall, even after 720 h exposure, our fabricated tandem solar cell exhibited high stability and the efficiency only decreased by approximately 2.19%, to 6.24%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "stability",
+        "degradation",
+        "lifetime",
+        "PCE"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The use of a solution-processed ZnO layer with a deep HOMO level contributes to the environmental stability of the tandem device by preventing the generation of defects.",
+      "evidence": "We attributed this excellent stability to the presence of the environmentally stable solution-processed ZnO layer with a deep HOMO level, which avoided generating any defects in the device.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ZnO",
+        "stability",
+        "HOMO level",
+        "defects"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "To achieve balanced photogenerated currents in series-connected tandem cells, a thin absorption layer with a large band-gap material is typically used for the top cell and a thick layer with a narrow band-gap material for the bottom cell.",
+      "evidence": "It is generally accepted that for series-connected tandem organic solar cells, precise optimization of the absorption window and the photogenerated currents... can be realized by initially using a thin absorption layer with a large band-gap material and then a thick absorption layer with a narrow band-gap material.",
+      "complexity": "single-hop",
+      "keywords": [
+        "current balancing",
+        "band-gap",
+        "layer thickness"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 7950,
+    "completion_tokens": 2888,
+    "total_tokens": 10838
+  }
+}

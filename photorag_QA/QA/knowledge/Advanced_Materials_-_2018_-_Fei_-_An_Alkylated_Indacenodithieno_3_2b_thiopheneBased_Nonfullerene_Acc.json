@@ -1,0 +1,132 @@
+{
+  "paper_id": "Advanced_Materials_-_2018_-_Fei_-_An_Alkylated_Indacenodithieno_3_2b_thiopheneBased_Nonfullerene_Acc",
+  "paper_title": "An Alkylated Indacenodithieno[3,2-b]thiophene-Based Nonfullerene Acceptor with High Crystallinity Exhibiting Single Junction Solar Cell Efficiencies Greater than 13% with Low Voltage Losses",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Materials - 2018 - Fei - An Alkylated Indacenodithieno 3 2‐b thiophene‐Based Nonfullerene Acceptor with High/auto/Advanced Materials - 2018 - Fei - An Alkylated Indacenodithieno 3 2‐b thiophene‐Based Nonfullerene Acceptor with High.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "C8-ITIC is synthesized using a novel route involving the base-catalyzed rearrangement of an indacenodithiophene (IDT) monomer to IDT-dicarbaldehyde, followed by treatment with ethyl mercaptoacetate to form an IDTT-dicarboxylate core.",
+      "evidence": "IDT-dicarbaldehyde 2 was prepared by the base-catalyzed rearrangement of the commercially available IDT monomer 1... Subsequent treatment with ethyl mercaptoacetate under basic conditions afforded IDTT-dicarboxylate 3.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "C8-ITIC",
+        "synthesis",
+        "IDTT core",
+        "rearrangement"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Replacing phenylalkyl side chains with linear octyl side chains in the ITIC structure (resulting in C8-ITIC) leads to a red-shifted absorption maximum (738 nm in film) and a higher molar extinction coefficient of 2.05 x 10^5 M^-1 cm^-1.",
+      "evidence": "By substitution of the phenylalkyl for linear alkyl side chains, C8-ITIC exhibited a red-shifted absorption maximum at 680 and 738 nm in solution and film, respectively... C8-ITIC exhibited a higher absorption coefficient (ε) of 2.05 × 10^5 M^−1 cm^−1 compared to that of ITIC (1.72 × 10^5 M^−1 cm^−1).",
+      "complexity": "single-hop",
+      "keywords": [
+        "side chain engineering",
+        "extinction coefficient",
+        "absorption spectrum",
+        "C8-ITIC"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Fluorination of the PBDB-T polymer backbone to create PFBDB-T results in a deeper HOMO level (-5.47 eV) and a deeper LUMO level (-3.46 eV) compared to the non-fluorinated version.",
+      "evidence": "However, fluorination of the polymer was found to result in both deeper HOMO and lowest unoccupied molecular orbital (LUMO) levels (-5.47 and -3.46 eV, respectively).",
+      "complexity": "single-hop",
+      "keywords": [
+        "fluorination",
+        "HOMO",
+        "LUMO",
+        "PFBDB-T"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Organic solar cells based on the PFBDB-T/C8-ITIC blend achieved a maximum power conversion efficiency (PCE) of 13.2%, with an open-circuit voltage (Voc) of 0.94 V, a short-circuit current (Jsc) of 19.6 mA cm^-2, and a fill factor (FF) of 0.72.",
+      "evidence": "PFBDB-T/C8-ITIC blend-based OSCs exhibited the best performance with a Jsc of 19.6 mA cm−2, a Voc of 0.94 V, an FF of 0.72, and an upper PCE of 13.2%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "PFBDB-T",
+        "C8-ITIC",
+        "efficiency"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The total energy loss (Eg/q - Voc) in PFBDB-T/C8-ITIC devices is approximately 0.60 eV, which is significantly lower than the 0.68 eV observed in PBDB-T/ITIC devices.",
+      "evidence": "It is also worth noting that the total energy losses in PFBDB-T/C8-ITIC, Eg/q - VOC, are only around 0.60 V (compared to 0.68 for PBDB-T/ITIC).",
+      "complexity": "single-hop",
+      "keywords": [
+        "energy loss",
+        "voltage loss",
+        "PFBDB-T",
+        "C8-ITIC"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Fluorination of the donor polymer backbone reduces the absorption broadening loss (ΔVoc,abs) by lowering the energetic offset between the donor and acceptor, leading to a steeper absorption edge.",
+      "evidence": "fluorination of the donor leads to a strong reduction in this voltage loss, with a steepening of the absorption edge compared to PBDB-T which is due to the effect of fluorination in lowering the HOMO and LUMO of the donor, thereby reducing the energetic offset with the acceptor.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "fluorination",
+        "voltage loss",
+        "absorption broadening",
+        "energetic offset"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The introduction of an In2O3 layer between the ITO and ZnO layers reduces the ZnO surface roughness from 1.44 nm to 0.84 nm, improving device fill factor and reproducibility.",
+      "evidence": "The addition of the In2O3 layer between the ITO and ZnO layers leads to a smoothing of the ZnO layer and was found to increase the fill factor (FF) and device reproducibility... root mean square roughness of the ZnO surface reduced from 1.44 to 0.84 nm upon In2O3 treatment.",
+      "complexity": "single-hop",
+      "keywords": [
+        "In2O3",
+        "interface engineering",
+        "surface roughness",
+        "fill factor"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis reveals that C8-ITIC has a higher propensity to crystallize in ordered 3D structures compared to ITIC, which only crystallizes along the three principle crystallographic axes in the as-cast state.",
+      "evidence": "the as-spun C8-ITIC film exhibits sharp and well-defined diffraction spots along the horizontal, vertical and off-axis directions, while as-spun ITIC only exhibits discernible diffraction features along the horizontal and vertical directions.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "crystallinity",
+        "C8-ITIC",
+        "molecular packing"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "In donor/acceptor blends, the crystallization of the nonfullerene acceptor is typically suppressed by the polymer; however, C8-ITIC retains some molecular order (evidenced by a peak at q ≈ 0.36 Å^-1) due to its high intrinsic crystallinity.",
+      "evidence": "the crystallization of both ITIC and C8-ITIC is suppressed by the donor polymers in the blends; however, the increased propensity of C8-ITIC to crystallize enables it to retain some molecular order in blends... a well-defined peak around q ≈ 0.36 Å−1 assigned to C8-ITIC can be recognized in the scattering patterns.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "molecular order",
+        "crystallinity",
+        "blend morphology",
+        "GIWAXS"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Nonradiative recombination loss (ΔVoc,nr) is reduced when replacing PBDB-T with PFBDB-T and ITIC with C8-ITIC, reaching a minimum of 0.33 V for the PFBDB-T/C8-ITIC system.",
+      "evidence": "The second voltage loss, ΔVOC,nr, is lower for the devices made with PFBDB-T than those made with PBDB-T, and is lowest of all for the PBDB-T/C8-ITIC devices at 0.33 V.",
+      "complexity": "single-hop",
+      "keywords": [
+        "nonradiative recombination",
+        "voltage loss",
+        "PFBDB-T",
+        "C8-ITIC"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 10169,
+    "completion_tokens": 3001,
+    "total_tokens": 13170
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "paper_id": "Advanced_Materials_-_2013_-_Dong_-_25th_Anniversary_Article_Key_Points_for_HighMobility_Organic_Fiel",
+  "paper_title": "25th Anniversary Article: Key Points for High-Mobility Organic Field-Effect Transistors",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Materials - 2013 - Dong - 25th Anniversary Article  Key Points for High‐Mobility Organic Field‐Effect Transistors/auto/Advanced Materials - 2013 - Dong - 25th Anniversary Article  Key Points for High‐Mobility Organic Field‐Effect Transistors.md",
+  "knowledge_points": [
+    {
+      "category": "Performance Metrics",
+      "content": "State-of-the-art charge-carrier mobilities in OFETs have reached 40 cm²/Vs for holes and 11 cm²/Vs for electrons, approaching the performance of polycrystalline silicon.",
+      "evidence": "charge-carrier mobility... has experienced significant increase from the initial value of 10^-5 cm² V^-1 s^-1... to the state-of-the-art value of 40 cm² V^-1 s^-1 for hole mobilities and 11 cm² V^-1 s^-1 for electron mobilities.",
+      "complexity": "single-hop",
+      "keywords": [
+        "mobility",
+        "hole mobility",
+        "electron mobility",
+        "OFET"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "At room temperature, the charge carrier mobility of organic materials is primarily determined by a thermally activated polaronic hopping process, which is governed by the transfer integral (t) and the internal reorganization energy (λ).",
+      "evidence": "At higher temperatures (e.g. near room temperature), the charge carrier mobility of organic materials is often determined by a thermally activated polaronic hopping transport process... there are two key parameters critically determining the self-exchange rates... the transfer integral (t)... and the reorganization energy (λ).",
+      "complexity": "single-hop",
+      "keywords": [
+        "hopping transport",
+        "transfer integral",
+        "reorganization energy",
+        "charge transport mechanism"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The transfer integral (t) is highly sensitive to molecular packing; specifically, it increases when atomic orbitals are in bonding or antibonding interactions (displacements of integral benzene rings) and decreases when cancellation occurs (displacements of approximately three-quarter benzene rings).",
+      "evidence": "the transfer integral is increased when both are bonding or antibonding interactions between the π atomic orbitals (with a displacement of one, two or three benzene rings) and decreased when there occurs a cancellation between them (with a displacement of about threequarter benzene ring).",
+      "complexity": "single-hop",
+      "keywords": [
+        "transfer integral",
+        "molecular packing",
+        "orbital overlap",
+        "displacement"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Four basic molecular packing motifs exist in organic solids: typical herringbone (aromatic edge-to-face), cofacial herringbone (enhanced face-to-face), 1D 'slipped-stacked' (anisotropic), and 2D 'bricklayer' (ideal for high mobility due to maximized transfer integrals).",
+      "evidence": "Currently, there are four basic packing motifs adopted by organic molecules: (i) Classical herringbone packing... (ii) Cofacial herringbone packing... (iii) 1-D 'slipped-stacked' arrangement... (iv) 2-D bricklayer' arrangement... Theoretically speaking... the cofacial lamellar packing (Figure 3d) is the most ideal molecular packing mode for high mobility.",
+      "complexity": "single-hop",
+      "keywords": [
+        "packing motifs",
+        "herringbone",
+        "bricklayer",
+        "lamellar packing"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Extending the π-conjugation of acenes from anthracene to hexacene improves mobility by increasing the transfer integral (from 19 meV to 60 meV) and lowering the reorganization energy (from 138 meV to 79 meV) while maintaining a herringbone arrangement.",
+      "evidence": "on going from anthracene to hexacene, the extension of π conjugation for acenes does not change the original molecular packing mode... but effectively improve the intermolecular interactions for increased transfer integrals (from 19 meV for molecule 1 to 60 meV for molecule 4) and lowered reorganization energy (from 138 meV for molecule 1 to 79 meV for molecule 4).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "acenes",
+        "hexacene",
+        "conjugation extension",
+        "reorganization energy"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Peri-substitution with bulky groups like triisopropylsilylethynyl (TIPS) is used to shift acene packing from herringbone to a 2D bricklayer arrangement, as demonstrated by TIPS-PEN.",
+      "evidence": "introducing appropriate bulky solubilizing groups at the peri-positions of pentacene... TIPS-PEN is one of the most representative examples with a typical 2D 'bricklayer' arrangement in solid state.",
+      "complexity": "single-hop",
+      "keywords": [
+        "TIPS-PEN",
+        "peri-substitution",
+        "molecular packing",
+        "bricklayer"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "TIPS-PEN strained films produced by solution-shearing can achieve a mobility of 4.6 cm²/Vs due to a reduced π-π stacking distance of 3.08 Å in a metastable state.",
+      "evidence": "further increased to 4.6 cm²/V s for the strained film due to more condensed molecular packing with a smaller π-π distance of 3.08 Å in a metastable state.",
+      "complexity": "single-hop",
+      "keywords": [
+        "TIPS-PEN",
+        "solution-shearing",
+        "strained film",
+        "pi-pi distance"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Heteroacenes with central fused thiophene rings and end-capped benzene rings (e.g., BTBT, DNTT) exhibit high mobilities and superior stability due to large energy band gaps (> 3.0 eV) and low HOMO levels (< -5.3 eV).",
+      "evidence": "heteroacenes with heterocycle in the center and benzene as end-capped rings are novel molecular structures... exhibit significantly enhanced charge carrier mobility and a large energy band gap (> 3.0 eV)... and lower HOMO levels (< -5.3 eV) compared to their corresponding acene counterparts.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "heteroacenes",
+        "BTBT",
+        "DNTT",
+        "stability",
+        "HOMO level"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Alkyl side chain engineering in BTBT derivatives exhibits an 'odd-even' effect on mobility, with even-numbered derivatives typically outperforming odd-numbered ones, although the trend reverses for chains longer than C10.",
+      "evidence": "For a series of Cn-BTBT the charge carrier mobility exhibited large fluctuations correlated with odd and even-numbered derivatives. The even-numbered derivatives demonstrated higher field-effect performance... while from C10 – C14 this variation trend was reversed.",
+      "complexity": "single-hop",
+      "keywords": [
+        "alkyl side chain",
+        "odd-even effect",
+        "BTBT",
+        "side chain engineering"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Asymmetric side chain design, such as in C13'-BTBT, can lead to significantly higher mobility (17.2 cm²/Vs) compared to symmetric counterparts by reducing alkyl chain density and increasing grain size at the interface.",
+      "evidence": "A charge carrier mobility of 17.2 cm²/V s was observed for asymmetric C13-BTBT... much higher than that of symmetric C13-BTBT due to the reduced density of alkyl side chains for more densed packing with large gain sizes at the channel interface.",
+      "complexity": "single-hop",
+      "keywords": [
+        "asymmetric side chain",
+        "BTBT",
+        "grain size",
+        "molecular packing"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Dinaphtho[2,3-b:2',3'-f]thieno[3,2-b]thiophene (DNTT) has demonstrated mobilities of 2.9 cm²/Vs in vacuum-deposited films, 8.3 cm²/Vs in single crystals, and up to 11 cm²/Vs in solution-dipped thin films.",
+      "evidence": "High carrier mobility of 2.9 cm²/V s for DNTT... An increased mobility of 8.3 cm²/V s was further obtained for DNTT single crystal... and a carrier mobility of 11 cm²/V s was further achieved for its solution-dipped thin films.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "DNTT",
+        "vacuum deposition",
+        "single crystal",
+        "solution processing"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Incorporating nitrogen into heteroacene backbones, such as in indolo[3,2-b]carbazole (ICZ), enables N-H...π interactions that provide bidirectional electronic coupling, supporting a hole mobility of 1.0 cm²/Vs in single crystals.",
+      "evidence": "ICZ... exhibits typical herringbone arrangement but with amount of N-H...π interactions, suggesting a bidirectional electronic couplings... A carrier mobility of 0.1 cm²/V s and 1.0 cm²/V s was observed for ICZ thin films and single crystals, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "nitrogen heterocycle",
+        "ICZ",
+        "hydrogen bonding",
+        "electronic coupling"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 12861,
+    "completion_tokens": 4618,
+    "total_tokens": 17479
+  }
+}

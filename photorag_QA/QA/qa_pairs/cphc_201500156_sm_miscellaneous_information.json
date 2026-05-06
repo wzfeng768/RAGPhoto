@@ -1,0 +1,75 @@
+{
+  "paper_id": "cphc_201500156_sm_miscellaneous_information",
+  "paper_title": "Folding-Induced Modulation of Excited-State Dynamics in an Oligophenylene–Ethynylene-Tethered Spiral Perylene Bisimide Aggregate",
+  "qa_pairs": [
+    {
+      "question": "What synthetic route and catalytic system are employed to produce the oligophenylene–ethynylene (OPE) backbone B?",
+      "answer": "The OPE backbone B (4,5-di-n-hexyl-1,2-(phenylethynylene)benzene) is synthesized via a Sonogashira coupling reaction between 4,5-di-n-hexyl-1,2-ethynylbenzene and iodobenzene. This reaction utilizes Pd(PPh3)2Cl2 and CuI as catalysts in a diisopropylamine solvent, followed by purification using recycling gel permeation chromatography (GPC).",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Folding-Induced Modulation of Excited-State Dynamics in an Oligophenylene–Ethynylene-Tethered Spiral Perylene Bisimide Aggregate",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the folding process of the F8 aggregate affect the spatial arrangement of the perylene bisimide (PBI) units?",
+      "answer": "Folding significantly compacts the structure of the F8 aggregate. The average center-to-center distance between neighboring PBI units decreases from 16.3 Å in the unfolded state to 3.38 Å in the folded state, while the average azimuth angle (α) between their transition dipole moments shifts from 117.2° to 47.9°.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Folding-Induced Modulation of Excited-State Dynamics in an Oligophenylene–Ethynylene-Tethered Spiral Perylene Bisimide Aggregate",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What are the photophysical properties, specifically the absorption maximum, emission maximum, and quantum yield, of the OPE backbone reference compound B in dichloromethane?",
+      "answer": "In dichloromethane, the OPE backbone B exhibits an absorption maximum at 281 nm (with a molar extinction coefficient of 67,000 M⁻¹cm⁻¹), a fluorescence emission maximum at 368 nm, and a fluorescence quantum yield (φfl) of 0.30.",
+      "category": "Performance Metrics",
+      "source_title": "Folding-Induced Modulation of Excited-State Dynamics in an Oligophenylene–Ethynylene-Tethered Spiral Perylene Bisimide Aggregate",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Compare the fluorescence characteristics of the backbone-free PBI monomer M with the decay behavior of the folded F8 aggregate in chloroform.",
+      "answer": "The backbone-free PBI monomer M has a fluorescence lifetime of 3.9 ns and a high quantum yield of 0.89. In contrast, the folded F8 aggregate in chloroform exhibits complex, wavelength-dependent decay; at 700 nm, it is characterized by two components: a dominant 3.0 ns component (66%) and a longer 20.1 ns component (34%).",
+      "category": "Performance Metrics",
+      "source_title": "Folding-Induced Modulation of Excited-State Dynamics in an Oligophenylene–Ethynylene-Tethered Spiral Perylene Bisimide Aggregate",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "How is electronic excitation transfer (EET) modeled in the unfolded conformation of the F8 aggregate?",
+      "answer": "EET in the unfolded form of F8 is modeled using a Förster-type incoherent energy hopping model based on the point-dipole approximation. This model assumes homotransfer between identical PBI units, utilizing a calculated orientation factor (κ²) of 1.96 and a spectral overlap integral (J) of 2.26 × 10¹⁵ M⁻¹cm⁻¹nm⁴.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Folding-Induced Modulation of Excited-State Dynamics in an Oligophenylene–Ethynylene-Tethered Spiral Perylene Bisimide Aggregate",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Which computational methods were used to simulate the folded and unfolded states of the OPE-PBI subunits?",
+      "answer": "Geometry optimizations for the F2 subunit were performed using dispersion-corrected density functional theory (DFT-D) with the B97D functional and the STO-3G basis set. These simulations were designed to mimic the different conformational states observed in various solvent environments.",
+      "category": "Computational & Machine Learning",
+      "source_title": "Folding-Induced Modulation of Excited-State Dynamics in an Oligophenylene–Ethynylene-Tethered Spiral Perylene Bisimide Aggregate",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Explain the role of solvent selection in controlling the conformational state of OPE-tethered PBI aggregates.",
+      "answer": "The folding of these aggregates is highly sensitive to the solvent environment. Chloroform (CHCl3) promotes the formation of a folded state, whereas solvents like tetrahydrofuran (THF) or methylcyclohexane (MCH) result in either unfolded conformations or different types of aggregate structures.",
+      "category": "Processing & Fabrication",
+      "source_title": "Folding-Induced Modulation of Excited-State Dynamics in an Oligophenylene–Ethynylene-Tethered Spiral Perylene Bisimide Aggregate",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Why does the backbone of the F2 subunit exhibit out-of-plane distortion while the larger F8 system does not show the same behavior?",
+      "answer": "In the smaller F2 system, the backbone undergoes out-of-plane distortion to reach a minimum energy state that is approximately 4 kJ/mol lower than the non-distorted form. However, in the F8 system, the larger size of the scaffold makes it more 'ponderous' and rigid, making such conformational reorientations energetically unlikely.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Folding-Induced Modulation of Excited-State Dynamics in an Oligophenylene–Ethynylene-Tethered Spiral Perylene Bisimide Aggregate",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2735,
+    "completion_tokens": 2322,
+    "total_tokens": 5057
+  }
+}

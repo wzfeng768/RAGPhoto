@@ -1,0 +1,156 @@
+{
+  "paper_id": "Progressive_evolutions_of_non-fused_ring_electron_acceptors_toward_efficient_organic_solar_cells_wit",
+  "paper_title": "Progressive evolutions of non-fused ring electron acceptors toward efficient organic solar cells with improved photocurrent and reduced energy loss",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Progressive evolutions of non-fused ring electron acceptors toward efficient organic solar cells with improved photocurrent and reduced energy loss/auto/Progressive evolutions of non-fused ring electron acceptors toward efficient organic solar cells with improved photocurrent and reduced energy loss.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The molecular evolution from DF-PCIC to O-PC-EH involves terminal fluorination to form HF-PCIC, followed by replacing core fluorine atoms with alkoxy groups (linear O-PC-OC or branched O-PC-EH) to tune optoelectronic properties.",
+      "evidence": "HF-PCIC was obtained by fluorinating the end groups of DF-PCIC, and O-PC-X series NFREAs was designed and synthesized by further replacing the fluorine atoms on the core of HF-PCIC with different alkoxy groups: linear alkyl chain for O-PC-OC and branched alkyl chain for O-PC-EH.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "NFREA",
+        "molecular evolution",
+        "terminal fluorination",
+        "alkoxy side chains"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Intramolecular noncovalent interactions, specifically F...H and O...S, are utilized in NFREAs to lock the molecular geometry into a planar configuration, which is confirmed by DFT calculations showing small dihedral angles.",
+      "evidence": "all the molecules bear planar configurations with relatively small dihedral angles due to the formation of intramolecular F...H or O...S noncovalent interactions, which help lock the molecular geometry.",
+      "complexity": "single-hop",
+      "keywords": [
+        "noncovalent interactions",
+        "planarity",
+        "DFT",
+        "dihedral angles"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The organic solar cell based on the J52:O-PC-EH blend achieved a peak power conversion efficiency (PCE) of 14.43%, with a certified value of 14.1%.",
+      "evidence": "the J52:O-PC-EH-based OSC achieved the best efficiency of 14.4% (certified: 14.1%) with benefits in all the three device parameters.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "J52",
+        "O-PC-EH",
+        "certified efficiency"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Introducing electron-donating alkoxy groups onto the core of NFREAs effectively up-shifts the HOMO levels, narrowing the donor/acceptor energetic offset and reducing energy loss.",
+      "evidence": "After replacing the fluorine atoms in the core with alkoxy groups, the HOMO levels of O-PC-X molecules were up shifted effectively, owing to the strong electron-donating property of alkoxy chains, thus narrowing the donor/acceptor energetic offset.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "HOMO level",
+        "alkoxy groups",
+        "energetic offset",
+        "energy loss"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "J52:O-PC-EH-based devices exhibit a low non-radiative voltage loss (ΔVnon-rad) of 0.301 V and a small energetic offset (ΔECT) of 0.090 eV, contributing to a total voltage loss of 0.679 V.",
+      "evidence": "device based on O-PC-EH exhibited... the lowest ΔVnon-rad of 0.301 V... ΔECT values for... J52:O-PC-EH-based devices were calculated as... 0.090 eV.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "non-radiative loss",
+        "voltage loss",
+        "energetic offset",
+        "ECT"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The J52:O-PC-EH optimal device parameters include an open-circuit voltage (Voc) of 0.819 V, a short-circuit current density (Jsc) of 24.44 mA cm-2, and a fill factor (FF) of 72.2%.",
+      "evidence": "the OSCs based on J52:O-PC-EH achieved an optimal PCE of 14.43%... with a much higher FF of 72.2%, a Voc of 0.819 V and Jsc of 24.44 mA cm-2.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Voc",
+        "Jsc",
+        "FF",
+        "photovoltaic parameters"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Grazing-incidence wide-angle X-ray scattering (GIWAXS) reveals that O-PC-EH has a significantly higher crystal coherence length (CCL) of 250.06 Å in the in-plane (IP) direction compared to DF-PCIC, HF-PCIC, and O-PC-OC.",
+      "evidence": "The CCLs of DF-PCIC, HF-PCIC and O-PC-OC in the IP direction were in the range of 20~40 Å while O-PC-EH shown a much larger CCL of 250.06 Å.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "crystal coherence length",
+        "CCL",
+        "crystallinity"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The J52:O-PC-EH device demonstrates superior carrier dynamics with an exciton-dissociation efficiency (Pdiss) of 96.03% and a charge-collection efficiency (Pcoll) of 81.86%.",
+      "evidence": "the J52:O-PC-EH-based device performed the best with Pdiss and Pcoll of 96.03% and 81.86%, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "exciton dissociation",
+        "charge collection",
+        "Pdiss",
+        "Pcoll"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The devices utilized a conventional structure consisting of ITO/PEDOT:PSS/active layer/PDINN/Ag, where PDINN serves as the cathode interlayer.",
+      "evidence": "The photovoltaic properties of the NFREAs were investigated by fabricating OSCs with the device configuration of ITO/PEDOT:PSS/ active layer/PDINN/Ag.",
+      "complexity": "single-hop",
+      "keywords": [
+        "device structure",
+        "PDINN",
+        "PEDOT:PSS",
+        "interlayer"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Branched side chains in O-PC-EH, compared to linear chains in O-PC-OC, promote a larger proportion of face-on orientation and stronger crystallinity, leading to improved electron mobility and fill factor.",
+      "evidence": "O-PC-EH shows... a much stronger π-π stacking peak at qz = 1.72 Å-1... implying a large proportion of face-on orientation... the CCL of J52:O-PC-EH blend was the largest... contributing to the highest FF.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "branched side chains",
+        "face-on orientation",
+        "electron mobility",
+        "FF"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Atomic force microscopy (AFM) images show that the J52:O-PC-EH blend forms a fiber-like interpenetrating network with appropriate phase separation, which facilitates exciton dissociation and charge transfer.",
+      "evidence": "When it comes to J52:O-PC-EH blend film, fiber-like domains with appropriate size could be observed, indicating the formation of interpenetrating network.",
+      "complexity": "single-hop",
+      "keywords": [
+        "AFM",
+        "morphology",
+        "phase separation",
+        "interpenetrating network"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The O-PC-X series of NFREAs exhibit red-shifted absorption with peaks centered around 820 nm, extending the external quantum efficiency (EQE) response range up to 900 nm.",
+      "evidence": "O-PC-X series NFREAs exhibit red-shifted absorption with absorption peaks centered at around 820 nm... devices based on O-PC-X series NFREAs showed the broadest photo-response ranging from 300 to 900 nm.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "absorption spectrum",
+        "EQE response",
+        "near-infrared",
+        "red-shift"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 16835,
+    "completion_tokens": 3336,
+    "total_tokens": 20171
+  }
+}

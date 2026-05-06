@@ -1,0 +1,131 @@
+{
+  "paper_id": "upreti-et-al-2022-can-organic-solar-cells-beat-the-near-equilibrium-thermodynamic-limit",
+  "paper_title": "Can Organic Solar Cells Beat the Near-Equilibrium Thermodynamic Limit?",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/upreti-et-al-2022-can-organic-solar-cells-beat-the-near-equilibrium-thermodynamic-limit/auto/upreti-et-al-2022-can-organic-solar-cells-beat-the-near-equilibrium-thermodynamic-limit.md",
+  "knowledge_points": [
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Organic solar cells can operate far from thermodynamic equilibrium because the thermalization time of photogenerated charge carriers within the density of states (DOS) tails can exceed their total lifetime in the device.",
+      "evidence": "Since even in state-of-the-art OPV systems the energetic disorder amounts to several times the kBT value, the associated thermalization times are in the microsecond range and exceed the charge carrier lifetime in the device.",
+      "complexity": "single-hop",
+      "keywords": [
+        "nonequilibrium",
+        "thermalization time",
+        "energetic disorder",
+        "charge carrier lifetime"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Funnel-shaped donor- and acceptor-rich domains in a phase-separated bulk heterojunction morphology promote the directed transport of positive and negative charge carriers toward their respective electrodes, mitigating thermalization losses.",
+      "evidence": "Specifically, we show how funnel-shaped donor- and acceptor-rich domains in the phase-separated morphology... can promote directed transport of positive and negative charge carriers toward the anode and cathode, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "funnel morphology",
+        "directed transport",
+        "phase separation",
+        "thermalization loss"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "A simulated 10-3 funnel morphology device achieved a power conversion efficiency (PCE) of 7.3%, which is higher than the PCE of a standard 10-7 pillar morphology (6.2%) and a homogeneous 90:10 gradient device (5.8%).",
+      "evidence": "Clearly, the resulting (simulated) device (PCE 7.3%) outperforms both the pillar morphology (PCE 6.2%) as well as the gradient device without phase separation.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "funnel morphology",
+        "pillar morphology",
+        "composition gradient"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The open-circuit voltage (Voc) of an optimized 10-3 funnel morphology (1.09 V) exceeds the calculated near-equilibrium limit for the same material (0.92 V) by approximately 0.17 V due to kinetic, nonequilibrium effects.",
+      "evidence": "Applying this methodology to the 10-3 funnel device leads to a near-equilibrium Voc value of 0.92 V, which is indeed below the kMC value of 1.09 V; the 0.17 V difference highlights the importance of nonequilibrium effects.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Voc",
+        "nonequilibrium limit",
+        "funnel morphology",
+        "kMC"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Kinetic Monte Carlo (kMC) simulations of the organic solar cells utilized an extended Gaussian disorder model with a disorder parameter (sigma) of 75 meV and an attempt-to-hop frequency (nu0) of 3 x 10^11 s^-1.",
+      "evidence": "In simulations, we used realistic and symmetric hopping parameters for both electrons and holes, viz. a Gaussian disorder sigma = 75 meV; an attempt-to-hop frequency nu0 = 3 x 10^11 s^-1",
+      "complexity": "single-hop",
+      "keywords": [
+        "kMC",
+        "Gaussian disorder model",
+        "hopping frequency",
+        "sigma"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The funnel morphology enhances performance primarily by suppressing 'diffusion loss,' which occurs when charge carriers migrate toward the incorrect contact and undergo recombination.",
+      "evidence": "A detailed analysis of the yields of the various processes in Figure 1b shows that the improvement over the pillar device is mostly due to a much-suppressed diffusion loss, i.e., charge carriers ending up at the wrong contact and recombining.",
+      "complexity": "single-hop",
+      "keywords": [
+        "diffusion loss",
+        "recombination",
+        "charge extraction",
+        "funnel morphology"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The effectiveness of a funnel-shaped morphology is dependent on the lateral unit cell size being smaller than the typical diffusion distance of photogenerated charges, which is estimated to be around 40 nm for these systems.",
+      "evidence": "A very rough estimate of this diffusion distance... gives 40 nm, which is consistent with the observed reduction in Voc when the unit cell size grows from 6 x 1.8 = 10.8 nm to 15 x 1.8 = 27 nm.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "diffusion distance",
+        "unit cell size",
+        "Voc",
+        "morphology optimization"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Sequential deposition of donor and acceptor compounds is a robust processing technique that naturally creates strong vertical composition gradients, potentially forming funnel-like networks in the active layer.",
+      "evidence": "The topic of composition gradients gained additional urgency with the very recent advances in OPV performance made through sequential deposition... this processing technique is prone to lead to strong composition gradients",
+      "complexity": "single-hop",
+      "keywords": [
+        "sequential deposition",
+        "composition gradient",
+        "stratified films",
+        "active layer"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The simulated device system featured an effective bandgap of 1.6 eV, with donor HOMO/LUMO levels at 5.3 eV / 3.3 eV and acceptor HOMO/LUMO levels at 5.7 eV / 3.7 eV.",
+      "evidence": "The highest occupied molecular orbital (HOMO) and lowest unoccupied molecular orbital (LUMO) energy levels of the donor (acceptor) were taken 5.3 eV/3.3 eV (5.7 eV/3.7 eV), giving the system an effective band gap of 1.6 eV.",
+      "complexity": "single-hop",
+      "keywords": [
+        "energy levels",
+        "HOMO",
+        "LUMO",
+        "bandgap"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The charge transfer (CT) state binding energy in the simulation was set to approximately 0.22 eV, based on a nearest neighbor distance (aNN) of 1.8 nm.",
+      "evidence": "a nearest neighbor distance of aNN = 1.8 nm that also determines the CT binding energy as Eb,CT = q / 4πε0εr aNN ≈ 0.22 eV.",
+      "complexity": "single-hop",
+      "keywords": [
+        "CT state",
+        "binding energy",
+        "nearest neighbor distance"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 11620,
+    "completion_tokens": 3521,
+    "total_tokens": 15141
+  }
+}

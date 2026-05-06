@@ -1,0 +1,155 @@
+{
+  "paper_id": "Energy_Tech_-_2020_-_Han_-_BuiltIn_Potential_and_Operational_Stability_of_Nonfullerene_Organic_Solar",
+  "paper_title": "Built-In Potential and Operational Stability of Nonfullerene Organic Solar Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Energy Tech - 2020 - Han - Built‐In Potential and Operational Stability of Nonfullerene Organic Solar Cells/auto/Energy Tech - 2020 - Han - Built‐In Potential and Operational Stability of Nonfullerene Organic Solar Cells.md",
+  "knowledge_points": [
+    {
+      "category": "Characterization Methods",
+      "content": "The built-in potential (V0) in organic solar cells can be accurately measured using the Transient Photocurrent (TPC) method by identifying the external bias at which the photocurrent (ITPC) approaches zero.",
+      "evidence": "The V0 in the OSCs can be measured using TPC method. The TPC, ITPC approaches zero when the V0 across the cell is compensated by an offset external bias.",
+      "complexity": "single-hop",
+      "keywords": [
+        "built-in potential",
+        "Transient Photocurrent",
+        "V0 measurement"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Inverted configuration PTB7-Th:ITIC organic solar cells exhibit a higher built-in potential (1.0 V) compared to regular configuration cells (0.84 V), facilitating more efficient charge extraction and reduced recombination.",
+      "evidence": "the ITPC of a PTB7-Th:ITIC-based regular configuration OsC approaches zero under a Va of ≈0.84 V corresponding to the V0... a higher V0 of 1.0 V was obtained for a reverse configuration PTB7-Th:ITIC OSC",
+      "complexity": "multi-hop",
+      "keywords": [
+        "inverted configuration",
+        "regular configuration",
+        "PTB7-Th:ITIC",
+        "built-in potential"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Vertical stratification in PTB7-Th:ITIC bulk heterojunction films results in a polymer-rich region near the top surface and an acceptor-rich zone toward the bottom.",
+      "evidence": "The GIWAXS measurements reveal that a polymer-rich region exists near the top surface of the BHJ layer... leading to an acceptor-rich zone toward the bottom part and a polymer-rich region appeared on the top surface in the BHJ.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "vertical stratification",
+        "phase separation",
+        "GIWAXS",
+        "PTB7-Th:ITIC"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The degradation of built-in potential in ITIC-based OSCs is primarily caused by an interfacial chemical reaction between the INCN moieties of ITIC and the PEDOT units in the PEDOT:PSS hole extraction layer.",
+      "evidence": "The combination of the Raman spectrum and UV-vis absorption measurements reveals that the interfacial reaction between the INCN moieties in ITIC and PEDOT chains in PEDOT:PSS HEL at the BHJ/PEDOT:PSS HEL interface is the main reason responsible for the gradual reduction in the V0",
+      "complexity": "multi-hop",
+      "keywords": [
+        "ITIC",
+        "PEDOT:PSS",
+        "interfacial reaction",
+        "V0 degradation"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "A high-performance ternary OSC system utilizes a blend of PBDB-T-2F (donor), Y6 (nonfullerene acceptor), and PC70BM (fullerene acceptor) in a weight ratio of 1:0.96:0.24.",
+      "evidence": "prepared using a weight ratio of PBDB-T-2F to Y6 to PC70BM of 1:0.96:0.24.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ternary blend",
+        "PBDB-T-2F",
+        "Y6",
+        "PC70BM"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "A hybrid electron extraction layer (EEL) composed of PDINO and ZnO in a 1:1 volume ratio improves both the power conversion efficiency and the stability of V0 in ternary OSCs.",
+      "evidence": "ternary nonfullerene OsCs with a high V0 have been attempted by applying a solution-processed PDINO:ZnO hybrid EEL, prepared using a mixed precursor solution with a volume ratio of PDION to ZnO of 1:1.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PDINO",
+        "ZnO",
+        "hybrid EEL",
+        "interfacial engineering"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Ternary OSCs with a structure of ITO/PEDOT:PSS/PBDB-T-2F:Y6:PC70BM/PDINO:ZnO/Ag achieved a PCE of 16.4%, which is 14% higher than control devices using a pure ZnO EEL (14.3%).",
+      "evidence": "A PCE of 16.4% has obtained for the ternary OSCs... PCE of the OSCs with a hybrid PDINO:ZnO EEL is 14% higher than that of a control OsC made with a pure ZnO EEL (14.3%)",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "ternary OSC",
+        "PDINO:ZnO",
+        "efficiency enhancement"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Under accelerated aging, the V0 of ternary OSCs using a PDINO:ZnO hybrid EEL dropped by only approximately 13%, whereas the V0 of devices with a pure ZnO EEL dropped by approximately 27% over 10 days.",
+      "evidence": "V0 of the hybrid PDINO:ZnO EEL-based ternary nonfullerene OsCs only dropped by ≈13% from its initial value while that of control OsC with a ZnO EEL dropped by ≈27%",
+      "complexity": "single-hop",
+      "keywords": [
+        "accelerated aging",
+        "V0 stability",
+        "PDINO:ZnO",
+        "ZnO"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis of PTB7-Th and ITIC films shows that both materials predominantly adopt a face-on orientation, with PTB7-Th having a pi-pi stacking peak (010) at 17.38 nm⁻¹ and ITIC at 16.86 nm⁻¹.",
+      "evidence": "suggesting a preferred face-on orientation is dominated in the packing of the ITIC and PTB7-Th molecules... the π-π stacking peak of (010) is located at 17.38 nm−1. For the neat ITIc film, the (100) and (010) peaks are located at 6 and 16.86 nm−1",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "face-on orientation",
+        "pi-pi stacking",
+        "PTB7-Th",
+        "ITIC"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The effective internal electric field (Eeff) in an organic solar cell is determined by the formula Eeff = (V0 - Va)/d, where V0 is the built-in potential, Va is the external bias, and d is the active layer thickness.",
+      "evidence": "The internal effective field in the cells is a result of a combination of the V0 and an external bias... Eeff ≈ (V0 − Va)/d",
+      "complexity": "single-hop",
+      "keywords": [
+        "effective electric field",
+        "V0",
+        "active layer thickness",
+        "device physics"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Hole mobility in P3HT:PC70BM blend layers measured via PhotoCELIV is typically on the order of 10⁻⁴ cm² V⁻¹ s⁻¹.",
+      "evidence": "The charge mobility with an order of 10−4 cm2 V−1 s−1 thus obtained over the electric field range is assigned to the hole mobility.",
+      "complexity": "single-hop",
+      "keywords": [
+        "hole mobility",
+        "PhotoCELIV",
+        "P3HT:PCBM"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Inverted PTB7-Th:ITIC OSCs demonstrate superior long-term stability over 120 days, showing only an 11% reduction in PCE compared to a 29% drop in regular configuration devices.",
+      "evidence": "an 11% reduction in overall efficiency were observed in inverted PTB7-Th:ITIC OSCs after a 120 day aging test. A rapid reduction in the PCE... was observed for the regular structure of OsCs in the same aging test (i.e., a 29% drop in PCE)",
+      "complexity": "multi-hop",
+      "keywords": [
+        "long-term stability",
+        "PCE degradation",
+        "inverted configuration",
+        "aging test"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 13759,
+    "completion_tokens": 3462,
+    "total_tokens": 17221
+  }
+}

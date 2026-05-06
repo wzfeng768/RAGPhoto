@@ -1,0 +1,75 @@
+{
+  "paper_id": "Energy_Tech_-_2020_-_Han_-_BuiltIn_Potential_and_Operational_Stability_of_Nonfullerene_Organic_Solar",
+  "paper_title": "Built-In Potential and Operational Stability of Nonfullerene Organic Solar Cells",
+  "qa_pairs": [
+    {
+      "question": "How is the built-in potential (V0) of an organic solar cell determined using the Transient Photocurrent (TPC) method?",
+      "answer": "The built-in potential (V0) is measured by applying an offset external bias to the organic solar cell. The V0 is identified as the specific external bias voltage at which the transient photocurrent (ITPC) approaches zero, effectively compensating for the internal potential across the cell.",
+      "category": "Characterization Methods",
+      "source_title": "Built-In Potential and Operational Stability of Nonfullerene Organic Solar Cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Compare the built-in potential (V0) of PTB7-Th:ITIC organic solar cells in regular and inverted configurations.",
+      "answer": "Inverted configuration PTB7-Th:ITIC organic solar cells exhibit a higher built-in potential of 1.0 V, whereas the regular configuration cells show a lower V0 of approximately 0.84 V. This higher V0 in the inverted structure facilitates more efficient charge extraction and reduces recombination within the device.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Built-In Potential and Operational Stability of Nonfullerene Organic Solar Cells",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What vertical stratification pattern is observed in PTB7-Th:ITIC bulk heterojunction films according to GIWAXS measurements?",
+      "answer": "GIWAXS measurements reveal that PTB7-Th:ITIC bulk heterojunction films undergo vertical phase separation, resulting in a polymer-rich region near the top surface of the film and an acceptor-rich zone localized toward the bottom part of the active layer.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Built-In Potential and Operational Stability of Nonfullerene Organic Solar Cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What is the chemical mechanism behind the degradation of the built-in potential in ITIC-based organic solar cells using PEDOT:PSS?",
+      "answer": "The degradation of V0 is primarily caused by an interfacial chemical reaction occurring at the bulk heterojunction/PEDOT:PSS interface. Specifically, the reaction takes place between the INCN moieties of the ITIC acceptor and the PEDOT units within the PEDOT:PSS hole extraction layer, as confirmed by Raman and UV-vis absorption spectroscopy.",
+      "category": "Stability & Degradation",
+      "source_title": "Built-In Potential and Operational Stability of Nonfullerene Organic Solar Cells",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "What is the specific composition and weight ratio of the ternary blend used to achieve high performance in this study?",
+      "answer": "The high-performance ternary organic solar cell utilizes a blend of the donor polymer PBDB-T-2F, the nonfullerene acceptor Y6, and the fullerene acceptor PC70BM in a specific weight ratio of 1:0.96:0.24.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Built-In Potential and Operational Stability of Nonfullerene Organic Solar Cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the implementation of a hybrid PDINO:ZnO electron extraction layer (EEL) affect the performance and stability of ternary organic solar cells compared to a pure ZnO EEL?",
+      "answer": "The hybrid PDINO:ZnO EEL (1:1 volume ratio) increases the power conversion efficiency to 16.4%, which is 14% higher than the 14.3% achieved with a pure ZnO EEL. Furthermore, it significantly improves stability; after 10 days of accelerated aging, the V0 of devices with the hybrid EEL dropped by only 13%, compared to a 27% drop in devices using a pure ZnO EEL.",
+      "category": "Performance Metrics",
+      "source_title": "Built-In Potential and Operational Stability of Nonfullerene Organic Solar Cells",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "According to GIWAXS analysis, what are the preferred molecular orientations and pi-pi stacking distances for PTB7-Th and ITIC?",
+      "answer": "Both PTB7-Th and ITIC predominantly adopt a face-on molecular orientation. PTB7-Th exhibits a pi-pi stacking (010) peak at 17.38 nm⁻¹, while the ITIC neat film shows a (010) peak at 16.86 nm⁻¹ and a (100) peak at 6 nm⁻¹.",
+      "category": "Characterization Methods",
+      "source_title": "Built-In Potential and Operational Stability of Nonfullerene Organic Solar Cells",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Define the mathematical relationship used to calculate the effective internal electric field (Eeff) in an organic solar cell.",
+      "answer": "The effective internal electric field (Eeff) is defined by the formula Eeff ≈ (V0 − Va)/d, where V0 represents the built-in potential, Va is the applied external bias, and d is the thickness of the active layer.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Built-In Potential and Operational Stability of Nonfullerene Organic Solar Cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2887,
+    "completion_tokens": 2457,
+    "total_tokens": 5344
+  }
+}

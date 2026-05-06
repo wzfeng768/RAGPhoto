@@ -1,0 +1,155 @@
+{
+  "paper_id": "Angew_Chem_Int_Ed_-_2023_-_Yang_-_Optimized_Crystal_Framework_by_Asymmetric_Core_Isomerization_in_Se",
+  "paper_title": "Optimized Crystal Framework by Asymmetric Core Isomerization in Selenium-Substituted Acceptor for Efficient Binary Organic Solar Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Angew Chem Int Ed - 2023 - Yang - Optimized Crystal Framework by Asymmetric Core Isomerization in Selenium‐Substituted/auto/Angew Chem Int Ed - 2023 - Yang - Optimized Crystal Framework by Asymmetric Core Isomerization in Selenium‐Substituted.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Three isomeric small molecular acceptors (SMAs) named SCSeF, A-ISeF, and A-OSeF were synthesized by varying the mono-selenium substitution position to central, inner, and outer locations on the central core, respectively.",
+      "evidence": "we developed three isomeric SMAs (SCSeF, A-ISeF, and A-OSeF) via subtly manipulating the mono-selenium substituted position (central, inner, or outer) and type of heteroaromatic ring on the central core",
+      "complexity": "single-hop",
+      "keywords": [
+        "isomeric SMAs",
+        "selenium substitution",
+        "regional isomerization",
+        "molecular design"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The binary organic solar cell based on the donor polymer PM1 and the acceptor A-OSeF achieved a champion power conversion efficiency (PCE) of 18.5%, with a Voc of 0.880 V, a Jsc of 27.2 mA/cm², and a fill factor (FF) of 77.3%.",
+      "evidence": "Consequently, the A-OSeF-based devices achieve a champion efficiency of 18.5%... along with a higher Voc of 0.880 V... an excellent FF of 77.3%, and a minor larger Jsc of 27.2 mA cm−2",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "A-OSeF",
+        "PM1",
+        "binary organic solar cells"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Asymmetric A-OSeF exhibits enhanced molecular planarity and rigidity compared to its isomers due to a unique intramolecular Se...O=C conformational lock, resulting in small D-A dihedral angles of 0.1°/8.3°.",
+      "evidence": "A-OSeF with selenium atom at the outermost position of core exhibits... rather smaller D-A dihedral angles (4.3°/8.7° and 0.1°/8.3°) due to the unique and shorter Se...O=C conformational lock, which helps to enhance the molecular conjugated backbone planarity and rigidity.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "molecular planarity",
+        "Se...O interaction",
+        "conformational lock",
+        "dihedral angle"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Moving the mono-selenium substitution from the center to the outer position leads to a gradual decrease in average π–π stacking distances in the crystal, from 3.46 Å (S-CSeF) to 3.45 Å (A-ISeF) and finally 3.42 Å (A-OSeF).",
+      "evidence": "With the out-shift of the mono-selenium substitution in the central core, the average π-π stacking spaces gradually decrease from S-CSeF (ca. 3.46 Å) to A-ISeF (ca. 3.45 Å), and then to A-OSeF (ca. 3.42 Å)",
+      "complexity": "single-hop",
+      "keywords": [
+        "π–π stacking",
+        "crystal packing",
+        "selenium position",
+        "intermolecular interaction"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "A-OSeF forms a 3D interpenetrating network with elliptical orthorhombic frame structures (28.6 Å x 23.3 Å) that are more compact than those of A-ISeF and S-CSeF, providing more efficient charge-transport channels.",
+      "evidence": "A-OSeF forms elliptical orthorhombic frame structures with a length of 28.6 Å and a width of 23.3 Å, much smaller than those of A-ISeF (28.7 × 23.8 Å) and S-CSeF (28.8 × 23.8 Å)",
+      "complexity": "single-hop",
+      "keywords": [
+        "3D network packing",
+        "single-crystal analysis",
+        "charge transport",
+        "A-OSeF"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The A-OSeF-based device demonstrates a low total energy loss (Eloss) of 0.520 eV, characterized by a non-radiative recombination loss (ΔE3) of 0.203 eV and an electroluminescence external quantum efficiency (EQE_EL) of 2.01 × 10⁻⁴.",
+      "evidence": "the A-OSeF-based device delivered the smallest Eloss value of 0.52 eV... The ΔE3 are 0.214, 0.194, and 0.203 eV for S-CSeF-based, A-ISeF-based, and A-OSeF-based OSCs... A-OSeF-based OSCs show larger EQEL values (2.01 × 10−4)",
+      "complexity": "multi-hop",
+      "keywords": [
+        "energy loss",
+        "non-radiative recombination",
+        "EQE_EL",
+        "Eloss"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "PM1:A-OSeF blend films exhibit an optimized nanofibrous morphology with a proper fibril width of 12.3 nm, which facilitates efficient exciton dissociation and charge transport.",
+      "evidence": "PM1:A-OSeF films exhibit more regular fiber-like aggregates with proper fibril widths of 12.3 nm (Figure S15), which is conducive to charge generation and transport.",
+      "complexity": "single-hop",
+      "keywords": [
+        "nanofibrous morphology",
+        "phase separation",
+        "fibril width",
+        "AFM"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis reveals that PM1:A-OSeF blend films maintain a characteristic diffraction peak at 0.46 Å⁻¹ in the in-plane direction, suggesting the existence of pure microdomains that help restrain charge recombination.",
+      "evidence": "the characteristic diffraction peak of A-OSeF at ca. 0.46 Å−1 in the IP direction can be maintained in GIWAXS patterns of PM1:A-OSeF films, suggesting the existence of pure microdomain for A-OSeF.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "microdomain",
+        "molecular orientation",
+        "crystallinity"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "DFT simulations indicate that the asymmetric A-OSeF possesses a significantly larger dipole moment (1.63 Debye) compared to A-ISeF (0.41 Debye) and symmetric S-CSeF (0.24 Debye), facilitating stronger molecular aggregation.",
+      "evidence": "resulting in a larger dipole moment of 0.41 Debye for A-ISeF and 1.63 Debye for A-OSeF than that of 0.24 Debye for S-CSeF, which can facilitate the molecular aggregation",
+      "complexity": "single-hop",
+      "keywords": [
+        "DFT",
+        "dipole moment",
+        "asymmetric structure",
+        "molecular aggregation"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Organic solar cells based on the PM1:A-OSeF blend show good thermal stability, retaining over 85% of their initial PCE after 250 hours of aging at 60 °C in a nitrogen atmosphere.",
+      "evidence": "the devices based on PM1:S-CSeF, PM1:A-ISeF, and PM1:A-OSeF exhibited over 85% of their initial PCE after 250 h under 60 °C in N2 filled glove box",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "device lifetime",
+        "PCE retention"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The A-OSeF-based devices exhibit the highest and most balanced carrier mobilities among the three isomers, with a photo-CELIV mobility of 1.44 × 10⁻⁴ cm² V⁻¹ s⁻¹.",
+      "evidence": "The μ of A-OSeF-based OSCs is 1.44 × 10−4 cm2 V−1 s−1... The A-OSeF-based OSCs exhibit the highest and most balanced μe and μh values",
+      "complexity": "single-hop",
+      "keywords": [
+        "charge mobility",
+        "photo-CELIV",
+        "SCLC",
+        "balanced transport"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The exciton dissociation probability (Pdiss) and charge collection efficiency (Pcoll) for the PM1:A-OSeF device are 97.5% and 89.2%, respectively, outperforming the S-CSeF and A-ISeF counterparts.",
+      "evidence": "The Pdiss and Pcoll of PM1:A-OSeF devices are 97.5% and 89.2%, respectively, which are much higher than those of PM1:S-CSeF (94.6% and 84.0%) and PM1:AISeF (95.3% and 85.8%) devices.",
+      "complexity": "single-hop",
+      "keywords": [
+        "exciton dissociation",
+        "charge collection efficiency",
+        "Pdiss",
+        "Pcoll"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 14693,
+    "completion_tokens": 3797,
+    "total_tokens": 18490
+  }
+}

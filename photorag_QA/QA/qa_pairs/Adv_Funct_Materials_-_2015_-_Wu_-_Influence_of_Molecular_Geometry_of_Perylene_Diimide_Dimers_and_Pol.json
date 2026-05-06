@@ -1,0 +1,75 @@
+{
+  "paper_id": "Adv_Funct_Materials_-_2015_-_Wu_-_Influence_of_Molecular_Geometry_of_Perylene_Diimide_Dimers_and_Pol",
+  "paper_title": "Influence of Molecular Geometry of Perylene Diimide Dimers and Polymers on Bulk Heterojunction Morphology Toward High-Performance Nonfullerene Polymer Solar Cells",
+  "qa_pairs": [
+    {
+      "question": "What are the primary structural differences between the bay-linked B-di-PDI and the hydrazine-linked H-di-PDI dimers?",
+      "answer": "B-di-PDI is characterized by a flexible structure with a 70° torsion angle between the two perylene diimide (PDI) units. In contrast, H-di-PDI features a rigid structure with a larger torsion angle of 90°.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "Influence of Molecular Geometry of Perylene Diimide Dimers and Polymers on Bulk Heterojunction Morphology Toward High-Performance Nonfullerene Polymer Solar Cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What are the photovoltaic performance metrics for the top-performing solar cell based on the PTB7-Th:H-di-PDI blend?",
+      "answer": "The PTB7-Th:H-di-PDI based device achieved a maximum power conversion efficiency (PCE) of 6.41%, a short-circuit current (Jsc) of 13.12 mA cm⁻², an open-circuit voltage (Voc) of 0.79 V, and a fill factor (FF) of 0.60.",
+      "category": "Performance Metrics",
+      "source_title": "Influence of Molecular Geometry of Perylene Diimide Dimers and Polymers on Bulk Heterojunction Morphology Toward High-Performance Nonfullerene Polymer Solar Cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Why does the pseudo 2D conjugated polymer PTB7-Th exhibit superior miscibility with PDI-based acceptors compared to its 1D analog PTB7?",
+      "answer": "The presence of conjugated side chains in the pseudo 2D structure of PTB7-Th facilitates more effective donor-acceptor interactions, leading to better compatibility and miscibility with both B-di-PDI and H-di-PDI acceptors compared to the 1D PTB7 polymer.",
+      "category": "Structure-Property Relationships",
+      "source_title": "Influence of Molecular Geometry of Perylene Diimide Dimers and Polymers on Bulk Heterojunction Morphology Toward High-Performance Nonfullerene Polymer Solar Cells",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the molecular flexibility of B-di-PDI impact the microstructural packing of the PTB7-Th:B-di-PDI blend film compared to H-di-PDI?",
+      "answer": "According to GIWAXS analysis, the flexible and twisted structure of B-di-PDI severely disrupts the face-on oriented π-π stacking of the PTB7-Th polymer. Conversely, the rigid H-di-PDI allows the blend to maintain a π-π stacking intensity comparable to that of neat PTB7-Th, which is more favorable for charge transport.",
+      "category": "Characterization Methods",
+      "source_title": "Influence of Molecular Geometry of Perylene Diimide Dimers and Polymers on Bulk Heterojunction Morphology Toward High-Performance Nonfullerene Polymer Solar Cells",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "Which specific charge carrier mobility is identified as the limiting factor for performance in PTB7-Th:di-PDI solar cells, and why?",
+      "answer": "The electron mobility (μe) is the performance-limiting factor. This is because all studied PTB7-Th:di-PDI bulk heterojunction films exhibit hole mobilities (μh) that are consistently higher than their electron mobilities, which restricts the achievement of higher short-circuit currents and fill factors.",
+      "category": "Device Architecture & Physics",
+      "source_title": "Influence of Molecular Geometry of Perylene Diimide Dimers and Polymers on Bulk Heterojunction Morphology Toward High-Performance Nonfullerene Polymer Solar Cells",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What optimized processing conditions, including donor-to-acceptor ratio and solvent additives, were used for the di-PDI based devices?",
+      "answer": "The devices were optimized using a 1:1 donor-to-acceptor (D/A) ratio. The bulk heterojunction morphology was promoted using a solvent mixture containing 1 vol% 1,8-diiodooctane (DIO) and 2 vol% 1-chloronaphthalene (CN).",
+      "category": "Processing & Fabrication",
+      "source_title": "Influence of Molecular Geometry of Perylene Diimide Dimers and Polymers on Bulk Heterojunction Morphology Toward High-Performance Nonfullerene Polymer Solar Cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What is the peak external quantum efficiency (EQE) value for the PTB7-Th:H-di-PDI device, and at what wavelength is it observed?",
+      "answer": "The top-performing PTB7-Th:H-di-PDI device reached a peak external quantum efficiency (EQE) of 70% at a wavelength of 540 nm.",
+      "category": "Performance Metrics",
+      "source_title": "Influence of Molecular Geometry of Perylene Diimide Dimers and Polymers on Bulk Heterojunction Morphology Toward High-Performance Nonfullerene Polymer Solar Cells",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the surface roughness of the PTB7:H-di-PDI blend compare to PTB7-Th blends, and what does this indicate about the film morphology?",
+      "answer": "The PTB7:H-di-PDI blend film has a high root mean square roughness (Rrms) of 3.22 nm, which is significantly rougher than the PTB7-Th blends. This high roughness indicates excessive phase separation and poor intermixing between the 1D PTB7 polymer and the H-di-PDI acceptor.",
+      "category": "Characterization Methods",
+      "source_title": "Influence of Molecular Geometry of Perylene Diimide Dimers and Polymers on Bulk Heterojunction Morphology Toward High-Performance Nonfullerene Polymer Solar Cells",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2620,
+    "completion_tokens": 2445,
+    "total_tokens": 5065
+  }
+}

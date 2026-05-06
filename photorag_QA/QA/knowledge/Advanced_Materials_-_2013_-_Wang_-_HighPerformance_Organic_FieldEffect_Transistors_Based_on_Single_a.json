@@ -1,0 +1,156 @@
+{
+  "paper_id": "Advanced_Materials_-_2013_-_Wang_-_HighPerformance_Organic_FieldEffect_Transistors_Based_on_Single_a",
+  "paper_title": "High-Performance Organic Field-Effect Transistors Based on Single and Large-Area Aligned Crystalline Microribbons of 6,13-Dichloropentacene",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Advanced Materials - 2013 - Wang - High‐Performance Organic Field‐Effect Transistors Based on Single and Large‐Area Aligned/auto/Advanced Materials - 2013 - Wang - High‐Performance Organic Field‐Effect Transistors Based on Single and Large‐Area Aligned.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "6,13-dichloropentacene (DCP) is a pentacene derivative where the introduction of chlorine substituents promotes a slipped π–π stacking model with large intermolecular overlap and C–H···Cl interactions.",
+      "evidence": "Single crystals revealed, due to the introduction of chlorine substituents, DCP adopted slipped π-π stacking model with large intermolecular overlap, and C–H···Cl interactions between neighboring DCP molecules were observed.",
+      "complexity": "single-hop",
+      "keywords": [
+        "6,13-dichloropentacene",
+        "chlorine substituents",
+        "π–π stacking",
+        "molecular design"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Single-crystalline microribbon transistors based on 6,13-dichloropentacene (DCP) grown by physical vapor transport (PVT) exhibit a maximum hole mobility of 9.0 cm²/V·s.",
+      "evidence": "The single crystalline ribbon transistors displayed extremely high mobility up to 9.0 cm²/V·s.",
+      "complexity": "single-hop",
+      "keywords": [
+        "mobility",
+        "DCP",
+        "PVT",
+        "hole transport"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The average field-effect mobility for 14 independent 6,13-dichloropentacene (DCP) microribbon devices is 5.71 cm²/V·s, with threshold voltages between -8 V and 1 V and on/off ratios exceeding 10^4.",
+      "evidence": "the averaged mobility of 14 independent devices was 5.71 cm²/V·s with threshold voltage (VT) between -8 to 1 V and on-to-off current ratios (Ion/Ioff) > 10^4.",
+      "complexity": "single-hop",
+      "keywords": [
+        "average mobility",
+        "threshold voltage",
+        "on/off ratio",
+        "DCP"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "6,13-dichloropentacene (DCP) maintains a consistent molecular packing arrangement regardless of whether it is deposited on octadecyltrichlorosilane (OTS)-modified or bare SiO2/Si substrates, or via different deposition methods (PVT vs. solution processing).",
+      "evidence": "DCP adopted the same molecular packing upon the change of deposition conditions... This demonstrated DCP molecules had a strong tendency to adopt slipped π-π stacking regardless of the changes of substrates (OTS-modified or bare SiO2/Si) and deposition conditions.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "molecular packing",
+        "substrate independence",
+        "DCP",
+        "polymorphism"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "In 6,13-dichloropentacene (DCP) microribbons, the b-axis of the unit cell is oriented perpendicular to the substrate surface, while the π–π stacking direction ([100] direction) is parallel to the substrate and aligned with the ribbon's growth direction.",
+      "evidence": "Thus, we inferred the b axis of unit cell was perpendicular to the substrate surface in ribbons... the π-π stacking direction was parallel to the substrate surface... In the ribbons, the π-π stacking was along the ribbon's growth direction ([100]).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "crystal orientation",
+        "π–π stacking",
+        "b-axis",
+        "growth direction"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Crystalline ribbons of 6,13-dichloropentacene (DCP) can be grown using the physical vapor transport (PVT) technique at a sublimation temperature of 175 °C with argon as a carrier gas at a flow rate of 500 mL/min.",
+      "evidence": "For ribbons obtained by PVT technique, the DCP materials were kept at 175 °C for sublimation... the speed of carrier gas (high-purity argon) was around 500 mL/min.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PVT",
+        "sublimation",
+        "processing conditions",
+        "DCP"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Large-area well-aligned microribbons of 6,13-dichloropentacene (DCP) are achievable via solution processing by drop-casting a 1.0–1.5 mg/mL o-dichlorobenzene solution onto a substrate at 140 °C.",
+      "evidence": "When a 15 μL solution of DCP (1.0–1.5 mg/mL in o-dichlorobenzene) was drop-cast on bare SiO2/Si substrates... uniaxially orientated crystals were formed on the substrate after the substrate was put on a hot plate at 140 °C for several minutes.",
+      "complexity": "single-hop",
+      "keywords": [
+        "solution processing",
+        "drop-casting",
+        "o-dichlorobenzene",
+        "aligned microribbons"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Solution-processed aligned microribbons of 6,13-dichloropentacene (DCP) show a mobility of 0.19 cm²/V·s, which is significantly lower than PVT-grown ribbons due to lower crystallinity, higher trap density, and lower purity.",
+      "evidence": "The transistors displayed a mobility of 0.19 cm²/V·s... comparing with the crystalline ribbons prepared from PVT technique, the mobility of ribbons grown from solution was much poorer. We reckoned this was caused by... lower crystalline quality... more traps... purity of the DCP ribbons grown from solution was lower.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "solution-processed mobility",
+        "trap density",
+        "crystallinity",
+        "purity"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "6,13-dichloropentacene (DCP) ribbon transistors demonstrate high environmental stability, maintaining performance without significant degradation after two months of storage in ambient conditions.",
+      "evidence": "The transistors exhibited good stability and showed no obvious degradation after storing in ambient conditions for two months.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ambient stability",
+        "environmental stability",
+        "DCP",
+        "lifetime"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The d-spacing of 6,13-dichloropentacene (DCP) crystalline ribbons determined by XRD is 18.64 Å, which corresponds to the b-axis length (18.718 Å) of the single crystal unit cell.",
+      "evidence": "The d spacing determined from these peaks were 18.64 Å. This value is almost the same as the b axis of the unit cell (18.718 Å).",
+      "complexity": "single-hop",
+      "keywords": [
+        "XRD",
+        "d-spacing",
+        "unit cell",
+        "DCP"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Single-ribbon FETs were fabricated using a top-contact, bottom-gate configuration where gold source and drain electrodes were defined using a specialized 'Au stripe mask' technique to avoid damaging the crystals.",
+      "evidence": "The crystalline ribbons grown on the substrates were fabricated into top-contact, bottom-gate configuration transistors... The gold source and drain electrodes were deposited through Au stripe mask.",
+      "complexity": "single-hop",
+      "keywords": [
+        "device configuration",
+        "top-contact",
+        "Au stripe mask",
+        "bottom-gate"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Theoretical calculations using the Bravais-Friedel-Donnay-Harker (BFDH) method predict that 6,13-dichloropentacene (DCP) tends to form one-dimensional ribbons elongated in the [100] direction due to strong π–π and C–H···Cl interactions.",
+      "evidence": "Theoretical calculation based on the Bravais-Friesdel-Donnay-Harker (BFDH) method showed, because of the strong π-π and C-H···Cl interactions, DCP was strongly tended to form one dimensional ribbons... elongated in the [100] direction.",
+      "complexity": "single-hop",
+      "keywords": [
+        "BFDH method",
+        "theoretical calculation",
+        "growth direction",
+        "intermolecular interactions"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 6723,
+    "completion_tokens": 3091,
+    "total_tokens": 9814
+  }
+}

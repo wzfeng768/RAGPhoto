@@ -1,0 +1,155 @@
+{
+  "paper_id": "zhou-et-al-2019-hierarchical-morphology-stability-under-multiple-stresses-in-organic-solar-cells",
+  "paper_title": "Hierarchical Morphology Stability under Multiple Stresses in Organic Solar Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/zhou-et-al-2019-hierarchical-morphology-stability-under-multiple-stresses-in-organic-solar-cells/auto/zhou-et-al-2019-hierarchical-morphology-stability-under-multiple-stresses-in-organic-solar-cells.md",
+  "knowledge_points": [
+    {
+      "category": "Stability & Degradation",
+      "content": "Organic solar cells often experience a 'burn-in' loss, which is a rapid efficiency degradation ranging from 20% to 60% during the initial hours of operation before reaching a steady state of slower degradation.",
+      "evidence": "This degradation process is typically called 'burn in' loss, probably leading to an efficiency loss ranging from 20 up to 60% in the different active layers.",
+      "complexity": "single-hop",
+      "keywords": [
+        "burn-in loss",
+        "efficiency degradation",
+        "operational stability"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Increased molecular order in organic blend films enhances thermal and photostability by inhibiting the diffusion of adjacent molecules and excluding oxygen from domains, which reduces the photooxidation rate.",
+      "evidence": "Improving molecular order probably freezes the optimal morphology by inhibiting the diffusion of adjacent molecules... increased molecular order has been found to successfully exclude oxygen from the domains and thus decrease the photooxidation rate.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "molecular order",
+        "thermal stability",
+        "photostability",
+        "photooxidation"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Nonfullerene-based organic solar cells have demonstrated a potential device lifetime of up to 10 years under illumination, while fullerene-based blends have shown thermal stability for over 160 hours at high temperatures.",
+      "evidence": "an excellent lifetime of 10 years under illumination in a nonfullerene-based blend... good thermal stability for more than 160 h at high temperature in fullerene-based blends was also reported.",
+      "complexity": "single-hop",
+      "keywords": [
+        "device lifetime",
+        "nonfullerene acceptor",
+        "thermal stability",
+        "illumination"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "There is a mechanical-optoelectronic trade-off in organic semiconductors where crystalline domains are necessary for efficient charge transport, but amorphous regions are required to dissipate stress and improve ductility.",
+      "evidence": "To realize efficient charge collection, crystalline domains are needed to construct interconnected electron/hole transport paths... Extra amorphous domains inevitably hinder charge transport, though beneficial ductility may be available.",
+      "complexity": "single-hop",
+      "keywords": [
+        "crystalline domains",
+        "amorphous aggregation",
+        "charge transport",
+        "ductility"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "Illumination can induce a shift in molecular orientation from face-on to edge-on in certain polymer/nonfullerene systems like PBDB-T/ITIC, which is linked to inferior photostability.",
+      "evidence": "Brabec et al. found that the PBDB-T/ITIC device showed inferior photostability, and the reason was attributed to the transformation of the ITIC molecular orientation from more face-on to edge-on after illumination.",
+      "complexity": "single-hop",
+      "keywords": [
+        "molecular orientation",
+        "face-on",
+        "edge-on",
+        "PBDB-T/ITIC"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The 'molecular lock' strategy utilizes hydrogen bonding between additives and polymer donors (specifically those with fluorine atoms) to freeze the morphology of the active layer and enhance thermal stability.",
+      "evidence": "They found that the formation of a hydrogen bond between the additive and donors could effectively freeze the morphology of active layers, which dramatically improved device thermal stability.",
+      "complexity": "single-hop",
+      "keywords": [
+        "molecular lock",
+        "hydrogen bond",
+        "thermal stability",
+        "fluorinated polymers"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Interfacial stabilizers such as PCB-C8oc can be used to construct robust donor/acceptor interfaces by distributing between components and preventing severe phase separation during thermal annealing.",
+      "evidence": "interfacial stabilizer PCB-C8oc to construct a stable D/A interface was also reported, in which PCB-C8oc could distribute between donor and acceptor molecules and thus prevent severe phase separation upon thermal annealing.",
+      "complexity": "single-hop",
+      "keywords": [
+        "interfacial stabilizer",
+        "PCB-C8oc",
+        "phase separation",
+        "compatibilizer"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "All-polymer solar cells typically exhibit superior mechanical robustness and fracture resistance compared to polymer:fullerene blends because polymer bridging chains create a larger plastic zone at the crack tip.",
+      "evidence": "A large plastic conformation and flexible polymer bridging chains during crack growth contribute to a large plastic zone at the crack tip, which leads to a ductile all-polymer blend film. However, a weak interaction between polymer-rich and PCBM-rich domains results in a small plastic zone... and a brittle PTB7-Th:PCBM blend film.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "all-polymer solar cells",
+        "mechanical stability",
+        "fracture resistance",
+        "plastic zone"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Residual solvent additives like DIO can negatively impact device stability by acting as chemical degradation sites or inducing light-induced vertical phase separation in fullerene-based blends.",
+      "evidence": "residual additives within the BHJ morphology either exhibit unstable chemical structure or induce phase demixing upon illumination, which inevitably lead to device degradation.",
+      "complexity": "single-hop",
+      "keywords": [
+        "solvent additives",
+        "DIO",
+        "vertical phase separation",
+        "morphology stability"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Dynamic secondary ion mass spectroscopy (SIMS) depth profiling can be used to track the light-induced vertical migration of components, such as PC71BM diffusing to the surface and donor molecules aggregating toward the ZnO substrate.",
+      "evidence": "As shown in Figure Sa,b, donor molecules tended to aggregate toward the ZnO interface, and PC71BM molecules diffused to the surface in the PBDTTT-EFT:PC71BM blend film after 24 h of irradiation.",
+      "complexity": "single-hop",
+      "keywords": [
+        "SIMS",
+        "depth profiling",
+        "vertical phase separation",
+        "PC71BM"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Ternary blend strategies combining polymer and fullerene/nonfullerene acceptors (e.g., PTB7-Th:P(ND12HD-T2):PC71BM) are effective for achieving a balance between high power conversion efficiency and mechanical robustness.",
+      "evidence": "A ternary blend of PTB7-Th:P(ND12HD-T2):PC71BM is a good example to demonstrate this strategy... ternary strategy combining polymer and nonfullerene acceptors will potentially further obtain compatible mechanical and optoelectrical properties.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "ternary blends",
+        "mechanical robustness",
+        "acceptor engineering",
+        "PCE"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The Flory-Huggins interaction parameter (χ) is a critical thermodynamic factor used to evaluate the miscibility and potential for morphological evolution toward a more stable state in bulk heterojunction blends.",
+      "evidence": "A classical thermodynamic parameter, the Flory-Huggins interaction parameter χ (representation of miscibility), was recently introduced to evaluate the stability of the original morphology and the following evolution trend of mixed phases.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Flory-Huggins parameter",
+        "miscibility",
+        "thermodynamics",
+        "morphology stability"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 11588,
+    "completion_tokens": 3783,
+    "total_tokens": 15371
+  }
+}

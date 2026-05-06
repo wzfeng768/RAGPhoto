@@ -1,0 +1,153 @@
+{
+  "paper_id": "c2cc35333d",
+  "paper_title": "A star-shaped oligothiophene end-capped with alkyl cyanoacetate groups for solution-processed organic solar cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/c2cc35333d/auto/c2cc35333d.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "S(TPA-3T-CA) is a star-shaped donor-acceptor molecule consisting of a triphenylamine (TPA) core, three terthiophene (3T) arms, and 2-ethylhexyl cyanoacetate (CA) acceptor end groups.",
+      "evidence": "Here we design and synthesize a star-shaped, donor–acceptor molecule (S(TPA-3T-CA)) with TPA as a core, oligothiophene as arms, and alkyl CA as acceptor end groups.",
+      "complexity": "single-hop",
+      "keywords": [
+        "S(TPA-3T-CA)",
+        "triphenylamine",
+        "terthiophene",
+        "cyanoacetate",
+        "star-shaped molecule"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The synthesis of S(TPA-3T-CA) involves a Suzuki coupling reaction to form the aldehyde-functionalized intermediate S(TPA-3T-CHO), followed by a condensation reaction with 2-ethylhexyl cyanoacetate.",
+      "evidence": "The intermediate compound S(TPA-3TCHO) was synthesized through Suzuki coupling reaction... A straightforward reaction of S(TPA-3T-CHO) with 2-ethylhexyl cyanoacetate afforded S(TPA-3T-CA).",
+      "complexity": "single-hop",
+      "keywords": [
+        "synthesis",
+        "Suzuki coupling",
+        "condensation",
+        "S(TPA-3T-CHO)"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The introduction of alkyl cyanoacetate (CA) end groups in S(TPA-3T-CA) simultaneously induces intramolecular charge-transfer (ICT) to broaden absorption and improves solubility due to the attached 2-ethylhexyl chains.",
+      "evidence": "Alkyl cyanoacetate (CA) is a kind of electron withdrawing group with both cyano moiety and alkyl chain which can simultaneously induce ICT and improve solubility.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "cyanoacetate",
+        "intramolecular charge-transfer",
+        "solubility",
+        "ICT"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "S(TPA-3T-CA) exhibits a high molar extinction coefficient of 7.3 x 10^4 L mol^-1 cm^-1 at 494 nm in dichloromethane solution.",
+      "evidence": "S(TPA-3T-CA) in solution exhibits strong absorption; the extinction coefficient is as large as 7.3 x 10^4 L mol^-1 cm^-1 (at 494 nm).",
+      "complexity": "single-hop",
+      "keywords": [
+        "extinction coefficient",
+        "absorption",
+        "UV-vis"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The optical bandgap of S(TPA-3T-CA) estimated from the film absorption edge is 1.95 eV, which is comparable to the bandgap of regioregular poly(3-hexylthiophene) (P3HT).",
+      "evidence": "The optical band gap estimated from the absorption edge of the thin film is 1.95 eV, similar to that of the widely used electron donor regioregular poly(3-hexylthiophene) (P3HT).",
+      "complexity": "single-hop",
+      "keywords": [
+        "optical bandgap",
+        "P3HT",
+        "absorption edge"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "S(TPA-3T-CA) possesses a HOMO energy level of -5.28 eV and a LUMO energy level of -3.43 eV, determined via cyclic voltammetry.",
+      "evidence": "The HOMO and LUMO energies were estimated to be -5.28 and -3.43 eV from the onset oxidation and reduction potentials, respectively",
+      "complexity": "single-hop",
+      "keywords": [
+        "HOMO",
+        "LUMO",
+        "cyclic voltammetry",
+        "energy levels"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The pristine film of S(TPA-3T-CA) demonstrates a relatively high hole mobility of 1.5 x 10^-3 cm^2 V^-1 s^-1 as measured by the space charge limited current (SCLC) method.",
+      "evidence": "A relatively high hole mobility of 1.5 x 10^-3 cm^2 V^-1 s^-1 was obtained from the pristine S(TPA-3T-CA) film.",
+      "complexity": "single-hop",
+      "keywords": [
+        "hole mobility",
+        "SCLC",
+        "charge transport"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Organic solar cells using S(TPA-3T-CA):PC71BM at a 1:2 weight ratio achieved a power conversion efficiency (PCE) of 3.60%, with a VOC of 0.88 V, JSC of 7.30 mA cm^-2, and a fill factor (FF) of 0.56.",
+      "evidence": "The BHJ blend at a donor/acceptor weight ratio of 1 : 2 gives the best performance: VOC, JSC, FF and PCE reaches 0.88 V, 7.30 mA cm^-2, 0.56 and 3.60%, respectively",
+      "complexity": "multi-hop",
+      "keywords": [
+        "PCE",
+        "PC71BM",
+        "fill factor",
+        "open-circuit voltage",
+        "short-circuit current"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The incident photon to converted current efficiency (IPCE) spectrum of the S(TPA-3T-CA):PC71BM (1:2) device shows a maximum value of 52% at 505 nm.",
+      "evidence": "This blend film shows broad IPCE spectra from 300 to 700 nm with a maximum of 52% at 505 nm",
+      "complexity": "single-hop",
+      "keywords": [
+        "IPCE",
+        "quantum efficiency",
+        "spectral response"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "AFM and TEM characterization of the S(TPA-3T-CA):PC71BM (1:2) blend film reveals nanoscale phase separation with domain sizes of approximately 30-40 nm and an RMS roughness of 1.55 nm.",
+      "evidence": "The film exhibits a good interpenetrating network and has a relatively smooth surface with a root-mean-square (RMS) roughness of 1.55 nm. The domain sizes estimated by cross-section profiles are about 30-40 nm",
+      "complexity": "multi-hop",
+      "keywords": [
+        "AFM",
+        "TEM",
+        "morphology",
+        "domain size",
+        "phase separation"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "S(TPA-3T-CA) exhibits high thermal stability with a decomposition temperature (5% weight loss) of 350 °C under nitrogen.",
+      "evidence": "This star-shaped molecule exhibits good thermal stability with decomposition temperature (5% weight loss) at 350 °C in nitrogen",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal stability",
+        "TGA",
+        "decomposition temperature"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The S(TPA-3T-CA):PC71BM based solar cells achieve their peak performance of 3.60% PCE without the need for any post-treatments like thermal or solvent annealing.",
+      "evidence": "Solution-processed BHJ OSCs based on S(TPA-3TCA):PC71BM without any post-treatments exhibit PCEs as high as 3.60%",
+      "complexity": "single-hop",
+      "keywords": [
+        "post-treatment",
+        "solution processing",
+        "device fabrication"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 7047,
+    "completion_tokens": 3093,
+    "total_tokens": 10140
+  }
+}

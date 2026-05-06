@@ -1,0 +1,128 @@
+{
+  "paper_id": "d2tc02232j",
+  "paper_title": "Realizing the efficiency-stability balance for all-polymer photovoltaic blends",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/d2tc02232j/auto/d2tc02232j.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "PM6-b-PY-IT is a one-pot synthesized multicomponent system consisting of PM6, PY-IT, and a block copolymer where donor (PM6) and acceptor (PY-IT) blocks are chemically bonded.",
+      "evidence": "In this work, we report a comparison... between the standout all-polymer blend PM6:PY-IT, and its counterpart PM6-b-PY-IT, a one-pot synthesized multicomponent system which could include: PM6, PY-IT and a co-polymer with donor and acceptor blocks chemically bonding together.",
+      "complexity": "single-hop",
+      "keywords": [
+        "one-pot synthesis",
+        "block copolymer",
+        "PM6-b-PY-IT",
+        "multicomponent system"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The binary PM6:PY-IT all-polymer solar cell achieves a power conversion efficiency (PCE) of 15.24%, while the one-pot synthesized PM6-b-PY-IT system reaches a PCE of 13.63%.",
+      "evidence": "Consequently, the PCEs for PM6:PY-IT and PM6-b-PY-IT were 15.24% and 13.63%, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "PM6:PY-IT",
+        "PM6-b-PY-IT",
+        "efficiency"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The PM6-b-PY-IT system exhibits lower short-circuit current density (JSC of 21.51 mA cm-2) and fill factor (FF of 68.2%) compared to the binary PM6:PY-IT blend (JSC of 22.60 mA cm-2 and FF of 72.2%).",
+      "evidence": "The efficiency drop was due to the decreased JSC and FF... JSC (mA cm-2) 22.60... FF (%) 72.2 [for PM6:PY-IT]... JSC (mA cm-2) 21.51... FF (%) 68.2 [for PM6-b-PY-IT].",
+      "complexity": "single-hop",
+      "keywords": [
+        "short-circuit current density",
+        "fill factor",
+        "photovoltaic parameters"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "PM6-b-PY-IT based devices experience higher levels of trap-assisted bimolecular recombination, indicated by an ideality factor (n) of 1.20 compared to 1.13 for the binary PM6:PY-IT blend.",
+      "evidence": "the fitted s (bimolecular recombination index) and n (ideal factor) values were 0.97 and 1.13 for PM6:PY-IT, and 0.93 and 1.20 for PM6-b-PY-IT, respectively. These results indicated that the PM6-b-PY-IT-based devices suffer higher levels of trap-assisted bimolecular recombination",
+      "complexity": "single-hop",
+      "keywords": [
+        "trap-assisted recombination",
+        "ideality factor",
+        "recombination mechanisms"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The PM6-b-PY-IT system shows lower charge carrier mobilities (hole mobility of 8.18 × 10^-4 and electron mobility of 4.67 × 10^-4 cm^2 V^-1 s^-1) than the PM6:PY-IT blend, likely due to limited bi-continuity and phase purity from the block structure.",
+      "evidence": "the PM6-b-PY-IT-based system showed smaller μh and μe values of 8.18 × 10^-4 and 4.67 × 10^-4 cm^2 V^-1 s^-1... The block copolymer containing film had a lower mobility, which might be caused by... the donor–acceptor alternatively connected structure, prompts limited bi-continuity and phase purity",
+      "complexity": "multi-hop",
+      "keywords": [
+        "charge carrier mobility",
+        "SCLC",
+        "bi-continuity",
+        "phase purity"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The devices in this study utilized a conventional structure with the configuration: ITO/PEDOT:PSS/active layer/PDINN/Ag.",
+      "evidence": "Then we fabricated devices with the configuration ITO/PEDOT:PSS/polymers/PDINN/Ag to determine the PCE differences between the two systems.",
+      "complexity": "single-hop",
+      "keywords": [
+        "device architecture",
+        "PDINN",
+        "PEDOT:PSS",
+        "conventional structure"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis reveals that PM6-b-PY-IT has lower crystallinity and shorter crystalline coherence lengths (CCLs) for π-π packing compared to the PM6:PY-IT binary blend.",
+      "evidence": "The peak areas and crystalline coherence lengths (CCLs) of the π-π packing showed a decreasing trend from PM6:PY-IT to PM6-b-PY-IT, in both directions",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "crystallinity",
+        "crystalline coherence length",
+        "CCL"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The PM6-b-PY-IT system demonstrates superior operational stability with a T80 value of 681 hours under 1 sun illumination, compared to 416 hours for the PM6:PY-IT blend.",
+      "evidence": "The estimated T80 value of the one pot synthesized multicomponent system was significantly higher than that of its binary counterpart (681 h > 416 h).",
+      "complexity": "single-hop",
+      "keywords": [
+        "operational stability",
+        "T80",
+        "1 sun illumination"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "PM6-b-PY-IT shows enhanced thermostability, retaining 89.8% of its initial PCE after 200 hours of baking at 80 °C, while PM6:PY-IT retains only 71.3% under the same conditions.",
+      "evidence": "after 200 h in a N2 glovebox baked at 80 °C, the unencapsulated devices of PM6:PY-IT retained an initial PCE of 71.3%, whereas the PCE value for PM6-b-PY-IT was 89.8%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermostability",
+        "thermal degradation",
+        "PCE retention"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The enhanced morphological stability of PM6-b-PY-IT is attributed to the chemical bonds between donor and acceptor blocks, which resist external stress-induced excessive phase segregation and surface roughness enlargement.",
+      "evidence": "These phenomena indicated that the existence of chemically bonded donor-acceptor blocks can resist external stress induced over phase segregation... the block copolymer will reduce such a tendency. Therefore, its morphology stability might be better than that of the traditional donor/acceptor binary system.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "morphological stability",
+        "phase segregation",
+        "chemical bonding",
+        "AFM"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 10481,
+    "completion_tokens": 3078,
+    "total_tokens": 13559
+  }
+}

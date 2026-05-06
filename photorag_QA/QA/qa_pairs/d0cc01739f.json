@@ -1,0 +1,75 @@
+{
+  "paper_id": "d0cc01739f",
+  "paper_title": "An asymmetric end-capping strategy enables a new non-fullerene acceptor for organic solar cells with efficiency over 10%",
+  "qa_pairs": [
+    {
+      "question": "What is the chemical composition and structural design of the asymmetric non-fullerene acceptor IDTBF?",
+      "answer": "IDTBF is designed as an asymmetric non-fullerene acceptor (NFA) featuring an indaceno[1,2-b:5,6-b']dithiophene (IDT) core. This core is connected to two distinct terminal groups: a rhodanine-flanked benzo[c][1,2,5]thiadiazole (BR) group and a 2-(5,6-difluoro-3-oxo-2,3-dihydro-1H-inden-1-ylidene)malononitrile (IM2F) group.",
+      "category": "Materials Design & Synthesis",
+      "source_title": "An asymmetric end-capping strategy enables a new non-fullerene acceptor for organic solar cells with efficiency over 10%",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Describe the multi-step synthetic route required to produce the asymmetric IDTBF molecule.",
+      "answer": "The synthesis begins with the lithium-halogen exchange of di-brominated IDT, followed by the protection of the resulting aldehyde group using 1,3-propanediol acetal. A Stille coupling reaction is then performed to attach the brominated BR group, followed by de-protection and a final Knoevenagel condensation to attach the IM2F terminal group.",
+      "category": "Processing & Fabrication",
+      "source_title": "An asymmetric end-capping strategy enables a new non-fullerene acceptor for organic solar cells with efficiency over 10%",
+      "difficulty": "medium",
+      "reasoning_type": "multi-hop"
+    },
+    {
+      "question": "How does the absorption spectrum of IDTBF change when transitioning from chloroform solution to a thin film, and what does this suggest about its molecular packing?",
+      "answer": "In thin film, IDTBF exhibits a significant red-shift in its absorption peak to 723 nm compared to 675 nm in chloroform solution. The absorption band also broadens to cover the range of 600 nm to 800 nm, which indicates the formation of ordered molecular aggregation in the solid state.",
+      "category": "Structure-Property Relationships",
+      "source_title": "An asymmetric end-capping strategy enables a new non-fullerene acceptor for organic solar cells with efficiency over 10%",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What are the specific energy levels of IDTBF and how do they relate to the polymer donor PM6?",
+      "answer": "IDTBF has a HOMO energy level of -5.64 eV and a LUMO energy level of -3.80 eV. These levels provide suitable energy alignment with the polymer donor PM6, facilitating efficient charge transfer in the organic solar cell device.",
+      "category": "Structure-Property Relationships",
+      "source_title": "An asymmetric end-capping strategy enables a new non-fullerene acceptor for organic solar cells with efficiency over 10%",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What are the photovoltaic performance parameters for the champion PM6:IDTBF-based organic solar cell?",
+      "answer": "The champion PM6:IDTBF device achieved a power conversion efficiency (PCE) of 10.43%. The supporting photovoltaic parameters included an open-circuit voltage (Voc) of 0.94 V, a short-circuit current (Jsc) of 16.98 mA/cm², and a fill factor (FF) of 65.14%.",
+      "category": "Performance Metrics",
+      "source_title": "An asymmetric end-capping strategy enables a new non-fullerene acceptor for organic solar cells with efficiency over 10%",
+      "difficulty": "easy",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "Evaluate the charge transport balance in PM6:IDTBF devices based on their carrier mobilities.",
+      "answer": "The PM6:IDTBF blend shows well-balanced charge transport, with a hole mobility (μh) of 3.02 × 10⁻⁴ cm² V⁻¹ s⁻¹ and an electron mobility (μe) of 2.53 × 10⁻⁴ cm² V⁻¹ s⁻¹. This results in a μh/μe ratio of 1.19, which supports efficient charge collection in the device.",
+      "category": "Device Architecture & Physics",
+      "source_title": "An asymmetric end-capping strategy enables a new non-fullerene acceptor for organic solar cells with efficiency over 10%",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "What does the diode ideality factor indicate about the recombination mechanisms in PM6:IDTBF solar cells?",
+      "answer": "The PM6:IDTBF solar cell has a diode ideality factor (n) of 1.89, derived from light intensity dependence measurements. This value indicates that trap-assisted recombination is the dominant recombination channel within the device.",
+      "category": "Device Architecture & Physics",
+      "source_title": "An asymmetric end-capping strategy enables a new non-fullerene acceptor for organic solar cells with efficiency over 10%",
+      "difficulty": "medium",
+      "reasoning_type": "single-hop"
+    },
+    {
+      "question": "How does the surface roughness of the PM6:IDTBF blend compare to its pristine components, and what does this imply about the film morphology?",
+      "answer": "The optimized PM6:IDTBF blend film has a root-mean-square (RMS) roughness of 6.23 nm, which is significantly higher than the pristine PM6 (1.40 nm) or pristine IDTBF (0.68 nm) films. This increased roughness suggests the presence of large domain sizes and suboptimal miscibility between the donor and acceptor phases.",
+      "category": "Characterization Methods",
+      "source_title": "An asymmetric end-capping strategy enables a new non-fullerene acceptor for organic solar cells with efficiency over 10%",
+      "difficulty": "hard",
+      "reasoning_type": "multi-hop"
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 2935,
+    "completion_tokens": 2495,
+    "total_tokens": 5430
+  }
+}

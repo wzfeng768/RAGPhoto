@@ -1,0 +1,143 @@
+{
+  "paper_id": "Solar_RRL_-_2020_-_Xue_-_HighPerformance_Nonfullerene_Organic_Solar_Cells_with_Unusual_Inverted_Stru",
+  "paper_title": "High-Performance Nonfullerene Organic Solar Cells with Unusual Inverted Structure",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Solar RRL - 2020 - Xue - High‐Performance Nonfullerene Organic Solar Cells with Unusual Inverted Structure/auto/Solar RRL - 2020 - Xue - High‐Performance Nonfullerene Organic Solar Cells with Unusual Inverted Structure.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "FOIC1 is a fused-ring electron acceptor (FREA) designed by introducing fluorine (F) atoms onto the side phenyl groups of the FOIC core to enhance solubility in 2-methyltetrahydrofuran (2-MeTHF) via F...O and F...H interactions.",
+      "evidence": "We introduced F atoms onto the side phenyl groups in FOIC and synthesized FOIC1... The solubility of FOIC1 in 2-MeTHF is improved due to enhanced solute-solvent interaction via F...O and F...H interactions.",
+      "complexity": "single-hop",
+      "keywords": [
+        "FOIC1",
+        "fluorination",
+        "solubility",
+        "2-MeTHF"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "FOIC1 exhibits HOMO and LUMO energy levels of -5.39 eV and -3.99 eV, respectively, and an electron mobility of 1.8 × 10⁻³ cm² V⁻¹ s⁻¹.",
+      "evidence": "The highest occupied molecular orbital (HOMO) and the lowest unoccupied molecular orbital (LUMO) energy levels of FOIC1 were calculated to be −5.39 and −3.99 eV... The electron mobility (μe) of FOIC1 is 1.8 × 10⁻³ cm² V⁻¹ s⁻¹.",
+      "complexity": "single-hop",
+      "keywords": [
+        "HOMO",
+        "LUMO",
+        "electron mobility",
+        "SCLC"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Optimized sequentially processed heterojunction (SHJ) devices using PTB7-Th and FOIC1 achieved a power conversion efficiency (PCE) of 12.0%, with a Voc of 0.699 V, Jsc of 23.8 mA cm⁻², and FF of 72.2%.",
+      "evidence": "the optimized SHJ devices deliver a better photovoltaic performance compared with the BHJ counterpart, with an improved VOC of 0.699 V; a JSC of 23.8 mAcm⁻²; an FF of 72.2% and a PCE of 12.0%",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "PTB7-Th",
+        "FOIC1",
+        "SHJ"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The SHJ device architecture achieves a more balanced charge transport with a hole-to-electron mobility ratio (μh/μe) of 0.96, whereas the BHJ counterpart has a significantly higher ratio of 5.59.",
+      "evidence": "The μh/μe ratio is 5.59. As for SHJ device, the μh and μe are 1.24 × 10⁻³ and 1.29 × 10⁻³ cm² V⁻¹ s⁻¹, respectively. The μh/μe ratio is 0.96.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "charge transport balance",
+        "mobility ratio",
+        "SCLC",
+        "FF"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The 'unusual inverted SHJ' structure consists of a polymer donor (PTB7-Th) spin-coated as the bottom layer on the cathode (ZnO/ITO) and a nonfullerene acceptor (FOIC1) spin-coated as the top layer.",
+      "evidence": "we reported the sequentially processed heterojunction (SHJ) with an unusual inverted structure (Figure 1b), where a polymer donor is spin-coated on the cathode as the bottom layer and a nonfullerene acceptor is spin-coated as the top layer",
+      "complexity": "single-hop",
+      "keywords": [
+        "inverted structure",
+        "SHJ",
+        "device architecture",
+        "PTB7-Th"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Sequential processing of FOIC1 over PTB7-Th is enabled by using a cosolvent of 2-MeTHF with 5 vol% o-DCB, which dissolves the acceptor but only swells the donor layer, allowing intermixing without destroying the bottom layer.",
+      "evidence": "The cosolvent of 2-MeTHF with 5 vol% o-DCB can dissolve the small-molecule acceptor FOIC1 (top layer) but cannot dissolve the polymer donor PTB7-Th (bottom layer). Because the top cosolvent can swell the bottom polymer network, FOIC1 can penetrate into the swollen network",
+      "complexity": "single-hop",
+      "keywords": [
+        "sequential processing",
+        "solvent orthogonality",
+        "cosolvent",
+        "swelling"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GISAXS measurements indicate that SHJ films possess smaller intermixing regions (20.2 nm) and pure acceptor domains (19.1 nm) compared to BHJ films (40.4 nm and 27.5 nm, respectively).",
+      "evidence": "The intermixing region (ξ) and pure acceptor (2Rg) domains (in the in-plane direction) in the BHJ are 40.4 and 27.5 nm, respectively, whereas those of SHJ are 20.2 and 19.1 nm, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GISAXS",
+        "domain size",
+        "intermixing region",
+        "morphology"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "SHJ films exhibit more uniform charge transport levels along the film-depth direction compared to BHJ films, which reduces energetic disorder and local traps, thereby improving charge transport and Voc.",
+      "evidence": "SHJ film is featured with a well-distributed interpenetrated structure... uniform charge transport levels of SHJ film along film-depth direction would provide a flat and smooth pathway, definitely contributing to the efficient charge transport of holes toward the anode.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "energetic disorder",
+        "film-depth-dependent absorption",
+        "vertical phase separation",
+        "Voc"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The SHJ device demonstrates suppressed bimolecular recombination compared to the BHJ, evidenced by a lower ideality factor (n = 1.163 vs 1.172) and a higher light-intensity power-law exponent (α = 0.945 vs 0.939).",
+      "evidence": "The n values for BHJ and SHJ are 1.172 and 1.163... α are 0.939 and 0.945 for BHJ and SHJ devices, respectively, indicating relatively weaker bimolecular recombination in SHJ compared with BHJ",
+      "complexity": "multi-hop",
+      "keywords": [
+        "bimolecular recombination",
+        "ideality factor",
+        "light intensity dependence",
+        "charge recombination"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Time-resolved photoluminescence (TRPL) measurements show that the average PL lifetime of SHJ films (529 ps) is shorter than that of BHJ films (555 ps), suggesting more efficient exciton dissociation in the SHJ structure.",
+      "evidence": "the average PL lifetime (τ) of pure PTB7-Th, BHJ, and SHJ films are 652, 555, and 529ps, respectively... the τ of SHJ is slightly shorter than that of BHJ, suggesting a more efficient exciton dissociation in SHJ.",
+      "complexity": "single-hop",
+      "keywords": [
+        "TRPL",
+        "exciton dissociation",
+        "photoluminescence lifetime"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "In the SHJ structure, the accumulation of the acceptor FOIC1 at the bottom interface (near the ZnO cathode) enhances exciton generation in the region where light interference is most intense.",
+      "evidence": "the excitons are located mainly at the bottom and middle parts of the film... a higher acceptor content at the bottom half of the SHJ facilitates the generation of excitons.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "exciton generation",
+        "vertical distribution",
+        "light interference",
+        "transfer-matrix method"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 10915,
+    "completion_tokens": 4144,
+    "total_tokens": 15059
+  }
+}

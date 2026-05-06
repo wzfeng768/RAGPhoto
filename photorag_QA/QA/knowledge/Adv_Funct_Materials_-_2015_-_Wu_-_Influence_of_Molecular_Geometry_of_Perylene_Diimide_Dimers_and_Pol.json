@@ -1,0 +1,130 @@
+{
+  "paper_id": "Adv_Funct_Materials_-_2015_-_Wu_-_Influence_of_Molecular_Geometry_of_Perylene_Diimide_Dimers_and_Pol",
+  "paper_title": "Influence of Molecular Geometry of Perylene Diimide Dimers and Polymers on Bulk Heterojunction Morphology Toward High-Performance Nonfullerene Polymer Solar Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Adv Funct Materials - 2015 - Wu - Influence of Molecular Geometry of Perylene Diimide Dimers and Polymers on Bulk/auto/Adv Funct Materials - 2015 - Wu - Influence of Molecular Geometry of Perylene Diimide Dimers and Polymers on Bulk.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "B-di-PDI is a bay-linked perylene diimide dimer characterized by a flexible structure with a 70° torsion angle between the two PDI units, whereas H-di-PDI is a hydrazine-linked dimer with a rigid structure and a 90° torsion angle.",
+      "evidence": "In this study, the relatively flexible B-di-PDI acceptor having a 70° torsion angle between the two constituent PDI units was used to compare with the rigid H-di-PDI acceptor which has a 90° torsion angle.",
+      "complexity": "single-hop",
+      "keywords": [
+        "B-di-PDI",
+        "H-di-PDI",
+        "torsion angle",
+        "molecular geometry"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The polymer solar cell based on the PTB7-Th:H-di-PDI blend achieved a maximum power conversion efficiency (PCE) of 6.41%, with a short-circuit current (Jsc) of 13.12 mA cm⁻², an open-circuit voltage (Voc) of 0.79 V, and a fill factor (FF) of 0.60.",
+      "evidence": "the PTB7-Th:H-di-PDI device delivered an even higher PCEMAX of 6.41% with a Jsc of 13.12 mA cm−2, a Voc of 0.79 V, and an FF of 0.60.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "PTB7-Th",
+        "H-di-PDI",
+        "photovoltaic parameters"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The pseudo 2D conjugated polymer PTB7-Th exhibits better miscibility with both B-di-PDI and H-di-PDI acceptors compared to its 1D analog PTB7, due to the presence of conjugated side chains that facilitate effective donor-acceptor interactions.",
+      "evidence": "The results reveal that the pseudo 2D conjugated poly... (PTB7-Th) has better miscibility with both bay-linked di-PDI (B-di-PDI) and hydrazine-linked di-PDI (H-di-PDI) compared to its 1D analog... (PTB7) ...conjugated side chains of these polymers can facilitate better compatibility.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "PTB7-Th",
+        "miscibility",
+        "2D conjugated polymer",
+        "side chain engineering"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis indicates that the flexible and twisted structure of B-di-PDI severely disrupts the face-on oriented π-π stacking of PTB7-Th, while the rigid H-di-PDI maintains the polymer's stacking intensity, facilitating better charge transport.",
+      "evidence": "The PTB7-Th:H-di-PDI film shows a comparable peak intensity of the face-on oriented π-π stacking to that of the neat PTB7-Th film, whereas the PTB7-Th:B-di-PDI film exhibits a lower peak intensity of the face-on oriented π-π stacking.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "GIWAXS",
+        "π-π stacking",
+        "face-on orientation",
+        "molecular packing"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "In PTB7-Th:di-PDI nonfullerene solar cells, the electron mobility (μe) is the performance-limiting factor because the hole mobility (μh) is consistently higher across the studied blend films.",
+      "evidence": "As shown, all the BHJ films exhibited higher μh than μe, indicating that μe is the limiting factor for achieving high Jsc and FF.",
+      "complexity": "single-hop",
+      "keywords": [
+        "carrier mobility",
+        "SCLC",
+        "charge transport",
+        "limiting factor"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The optimal bulk heterojunction morphology for di-PDI based devices was achieved using a 1:1 donor-to-acceptor ratio and a solvent mixture containing 1 vol% 1,8-diiodooctane (DIO) and 2 vol% 1-chloronaphthalene (CN).",
+      "evidence": "The optimized donor/acceptor (D/A) ratio for all nonfullerene BHJs is 1:1 with 1,8-diiodooctane (DIO) (1 vol%) and 1-chloronaphthalene (CN) (2 vol%) as solvent additives to promote optimal BHJ morphology.",
+      "complexity": "single-hop",
+      "keywords": [
+        "solvent additives",
+        "DIO",
+        "CN",
+        "D/A ratio"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The external quantum efficiency (EQE) of the top-performing PTB7-Th:H-di-PDI device reached a peak value of 70% at 540 nm.",
+      "evidence": "Impressively, the highest EQE value of the top-performing PTB7-Th:H-di-PDI device reaches 70% at 540 nm.",
+      "complexity": "single-hop",
+      "keywords": [
+        "EQE",
+        "spectral response",
+        "quantum efficiency"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Atomic force microscopy (AFM) revealed that the PTB7:H-di-PDI blend film has a high root mean square roughness (Rrms) of 3.22 nm, indicating excessive phase separation and poor intermixing compared to PTB7-Th blends.",
+      "evidence": "It was revealed that the PTB7:H-di-PDI film possesses the roughest surface with a root mean square roughness (Rrms) of 3.22 nm... indicating that inferior intermixing between H-di-PDI and 1D PTB7.",
+      "complexity": "single-hop",
+      "keywords": [
+        "AFM",
+        "surface roughness",
+        "phase separation",
+        "morphology"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The rigid geometry of H-di-PDI allows it to maintain appropriate aggregation domains within the PTB7-Th matrix, which provides suitable percolation pathways for charge transport while still enabling efficient exciton dissociation.",
+      "evidence": "The H-di-PDI acceptor could not only mix well with PTB7-Th but also maintained appropriate aggregation domains to facilitate efficient exciton dissociation and suitable percolation pathways for charge transport.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "H-di-PDI",
+        "percolation pathways",
+        "aggregation",
+        "charge transport"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Steady-state photoluminescence (PL) quenching measurements show that the PTB7-Th:H-di-PDI blend achieved 95% hole transfer quenching and 92% electron transfer quenching, signifying high exciton dissociation efficiency.",
+      "evidence": "Table 2. PL quenching efficiency of the studied blend films. ... PTB7-Th:H-di-PDI: Hole transfer 95%, Electron transfer 92%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PL quenching",
+        "exciton dissociation",
+        "charge transfer"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 10512,
+    "completion_tokens": 3677,
+    "total_tokens": 14189
+  }
+}

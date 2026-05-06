@@ -1,0 +1,146 @@
+{
+  "paper_id": "tamai-et-al-2017-ultrafast-long-range-charge-separation-in-nonfullerene-organic-solar-cells",
+  "paper_title": "Ultrafast Long-Range Charge Separation in Nonfullerene Organic Solar Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/tamai-et-al-2017-ultrafast-long-range-charge-separation-in-nonfullerene-organic-solar-cells/auto/tamai-et-al-2017-ultrafast-long-range-charge-separation-in-nonfullerene-organic-solar-cells.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The study utilizes a twisted bay-to-bay-linked perylene diimide (PDI) dimer, known as bay-di-PDI, as a model non-fullerene acceptor (NFA) to compare with the fullerene acceptor PC71BM.",
+      "evidence": "We investigate here a set of model nonfullerene systems based on perylene diimide (PDI) dimers... the twisted bay to-bay-linked PDI dimer (bay-di-PDI), in particular, offers a combination of a reasonably straightforward synthesis and moderate PCEs.",
+      "complexity": "single-hop",
+      "keywords": [
+        "bay-di-PDI",
+        "non-fullerene acceptor",
+        "perylene diimide dimer"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The internal quantum yield for free charge carrier generation in the PTB7-Th:bay-di-PDI blend is approximately 90%, which is comparable to state-of-the-art fullerene-based solar cells.",
+      "evidence": "We show that charges separate rapidly ( < 1 ps ) and that free charge carriers are generated very efficiently ( ~ 90% quantum yield).",
+      "complexity": "single-hop",
+      "keywords": [
+        "quantum yield",
+        "charge carrier generation",
+        "PTB7-Th"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The power conversion efficiency (PCE) of the PTB7-Th:bay-di-PDI blend reaches up to 5.90%, while the PTB7-Th:PC71BM blend reaches up to 10.95%.",
+      "evidence": "PTB7-Th shows a high PCE when paired with fullerene acceptors, up to 10.95%, and up to 5.90% with the particular PDI dimer used here.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "PTB7-Th",
+        "bay-di-PDI",
+        "PC71BM"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The bay-di-PDI acceptor exhibits a lowest unoccupied molecular orbital (LUMO) energy level of approximately 3.8 eV, which is nearly identical to that of PC71BM.",
+      "evidence": "the particular PDI dimer used here... exhibit a lowest unoccupied molecular orbital (LUMO) energy similar to PC71BM ( ~ 3.8 eV for both bay-di-PDI and PC71BM).",
+      "complexity": "single-hop",
+      "keywords": [
+        "LUMO",
+        "energy level engineering",
+        "bay-di-PDI"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Ultrafast charge separation in both PDI-based and PC71BM-based blends occurs within 500 fs, allowing carriers to move out of Coulomb energy wells as large as 300 meV.",
+      "evidence": "we find very rapid separation and measure these carriers to move out of Coulomb energy wells as large as 300 meV... the EA amplitude is already large at 200 fs... and reaches its maximum by ~ 400 - 500 fs.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "charge separation",
+        "Coulomb capture radius",
+        "electroabsorption"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The efficiency of PDI-based OSCs is limited by nongeminate recombination to the ground state and lower-lying triplet states, rather than geminate recombination of bound charge-transfer (CT) excitons.",
+      "evidence": "In the PDI-based OSC, external charge extraction is impaired by faster nongeminate decay to the ground state and to lower-lying triplet states... geminate recombination is negligible.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "nongeminate recombination",
+        "triplet states",
+        "geminate recombination"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Ballistic charge separation in non-fullerene systems occurs through delocalized states despite a lower coordination number (n=2 for pi-stacking) compared to fullerene aggregates (n=12).",
+      "evidence": "For the planar donor and acceptor molecules or polymers used here, pi stacking gives n = 2... it was far from clear that this would allow sufficient pi bandwidth to allow the ballistic charge separation that we observe here.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "ballistic charge separation",
+        "delocalization",
+        "pi-stacking"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The PTB7-Th:bay-di-PDI blend films are spin-coated from chlorobenzene using 1 vol% 1,8-diiodooctane (DIO) and 2 vol% 1-chloronaphthalene (CN) as additives.",
+      "evidence": "Films were spin-coated onto quartz substrates from chlorobenzene solution with additives of 1,8- diiodooctane (DIO) (1 vol % ) and 1-chloronaphthalene (CN) (2 vol % ) for the bay-di-PDI blend.",
+      "complexity": "single-hop",
+      "keywords": [
+        "solvent additives",
+        "DIO",
+        "1-chloronaphthalene",
+        "spin-coating"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Transient absorption (TA) spectroscopy is used to track the time evolution of electroabsorption (EA), which quantifies the spatial separation of electron-hole pairs via the Stark shift of the absorption spectrum.",
+      "evidence": "We use transient absorption spectroscopy to track the time evolution of electroabsorption caused by the dipolar electric field generated between electron-hole pairs as they separate... we can directly quantify the separation of charges from the DA interface by modeling the dynamics of the EA component.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "transient absorption",
+        "electroabsorption",
+        "Stark shift"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "A genetic algorithm (GA) is employed to decompose complex 3D transient absorption data into individual principal spectra and kinetic traces for singlets, charges, and electroabsorption.",
+      "evidence": "In order to obtain the EA amplitude, we performed a global analysis based on a genetic algorithm (GA), which enables us to decompose a 3D surface of the TA data into its principal spectra and kinetic traces.",
+      "complexity": "single-hop",
+      "keywords": [
+        "genetic algorithm",
+        "global analysis",
+        "data decomposition"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The electron mobility of PDI dimers is reported to be between 10^-5 and 10^-4 cm^2 V^-1 s^-1, which is one to two orders of magnitude lower than that of PCBM.",
+      "evidence": "The electron mobility of PDI dimers are reported to be ~ 10^-5 - 10^-4 cm^2 V^-1 s^-1 which is one or 2 orders of magnitude lower than that of PCBM.",
+      "complexity": "single-hop",
+      "keywords": [
+        "electron mobility",
+        "PDI dimer",
+        "charge transport"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Nongeminate recombination in PC71BM blends is characterized by the formation of polymer triplet excitons, observed as a photoinduced absorption (PIA) band at approximately 1300 nm.",
+      "evidence": "An additional PIA band was observed at 1300 nm at later times only for the PC71BM blend, which we attribute to absorption from triplet excitons on the polymer formed through bimolecular recombination.",
+      "complexity": "single-hop",
+      "keywords": [
+        "triplet excitons",
+        "bimolecular recombination",
+        "photoinduced absorption"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 14860,
+    "completion_tokens": 3016,
+    "total_tokens": 17876
+  }
+}

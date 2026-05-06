@@ -1,0 +1,154 @@
+{
+  "paper_id": "upama-et-al-2017-high-efficiency-semitransparent-organic-solar-cells-with-non-fullerene-acceptor-for",
+  "paper_title": "High-Efficiency Semitransparent Organic Solar Cells with NonFullerene Acceptor for Window Application",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/upama-et-al-2017-high-efficiency-semitransparent-organic-solar-cells-with-non-fullerene-acceptor-for-window-application/auto/upama-et-al-2017-high-efficiency-semitransparent-organic-solar-cells-with-non-fullerene-acceptor-for-window-application.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The non-fullerene acceptor ITIC (3,9-bis(2-methylene-(3-(1,1-dicyanomethylene)indanone))-5,5,11,11-tetrakis(4-hexylphenyl)dithieno[2,3-d;2',3'-d']s-indaceno[1,2-b:5,6-b']dithiophene) features a high-lying LUMO level of -3.78 eV, which facilitates high open-circuit voltage in organic solar cells.",
+      "evidence": "The non-fullerene acceptor... (ITIC) has shown particularly promising results... This novel small-molecule material has a high-lying LUMO level (-3.78 eV) which leads to high open-circuit voltage (Voc).",
+      "complexity": "single-hop",
+      "keywords": [
+        "ITIC",
+        "non-fullerene acceptor",
+        "LUMO",
+        "Voc"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Optimized semitransparent organic solar cells based on the PBDB-T:ITIC material system achieved a maximum power conversion efficiency (PCE) of 7.4% with an average visible transmittance (AVT) of 25.2%.",
+      "evidence": "The optimum PCE is obtained at 100 nm active layer thickness (2000 rpm) with a maximum PCE value of 7.4%... An AVT of 25% is the benchmark for window applications... which was achieved at the optimum active layer thickness (100 nm).",
+      "complexity": "multi-hop",
+      "keywords": [
+        "PCE",
+        "AVT",
+        "PBDB-T:ITIC",
+        "semitransparent"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The device uses an inverted structure consisting of ITO/ZnO/PBDB-T:ITIC/MoO3/Ag/MoO3, where the MoO3/Ag/MoO3 stack (6/10/40 nm) functions as a transparent dielectric/metal/dielectric (DMD) top anode.",
+      "evidence": "The inverted device structure used for this study was ITO/ZnO/PBDB-T:ITIC/MoO3/Ag/MoO3... MoO3/Ag/MoO3 (6/10/40 nm) acts as a transparent top electrode; the inner MoO3 layer also acts as the hole transport layer.",
+      "complexity": "single-hop",
+      "keywords": [
+        "inverted structure",
+        "DMD electrode",
+        "anode",
+        "MoO3/Ag/MoO3"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The Voc of the PBDB-T:ITIC semitransparent cells is approximately 0.9 V, which is roughly 0.2 V higher than comparable devices using traditional fullerene acceptors due to the high-lying LUMO of the ITIC acceptor.",
+      "evidence": "all the ST devices have a similar Voc which is close to 0.9 V. The value is ~0.2 V higher than that of devices containing traditional fullerene acceptors, due to the high-lying LUMO of non-fullerene acceptors.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Voc",
+        "LUMO",
+        "fullerene-free",
+        "ITIC"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "As the PBDB-T:ITIC active layer thickness increases from 53 nm to 143 nm, the short-circuit current density (Jsc) increases from 6.85 mA/cm² to 13.82 mA/cm², while the fill factor (FF) decreases from 66.4% to 49.6%.",
+      "evidence": "As the active layer thickness was increased from 53 nm to 143 nm, the Jsc almost doubled; it increased from 6.85 mA/cm² to 13.82 mA/cm²... In contrast, the fill factor (FF) declined with the increment in active layer thickness... at 143 nm, the FF is at a minimum value of 49.6%.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "thickness optimization",
+        "Jsc",
+        "Fill Factor",
+        "trade-off"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The MoO3/Ag/MoO3 transparent top electrode demonstrates a sheet resistance of 37.3 Ω/sq, which is comparable to commercial indium tin oxide (ITO) thin films (36 Ω/sq).",
+      "evidence": "The sheet resistance is 37.3 Ω/sq, which is on the same order as that of commercial indium tin oxide (ITO) thin films (36 Ω/sq).",
+      "complexity": "single-hop",
+      "keywords": [
+        "sheet resistance",
+        "transparent electrode",
+        "MoO3/Ag/MoO3",
+        "ITO"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Under top illumination (through the DMD electrode), the Jsc is lower than under bottom illumination because the maximum optical field intensity is concentrated near the anode/active layer interface, leading to an exponential reduction in exciton generation per the Beer-Lambert law.",
+      "evidence": "When light enters through the D/M/D electrode under top illumination, the maximum optical field intensity is located close to the anode/active layer interface... causing an exponential reduction in exciton generation rate, which explains the drastic reduction in device Jsc compared to that under bottom illumination.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "top illumination",
+        "optical field",
+        "exciton generation",
+        "Beer-Lambert law"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The color rendering index (CRI) of the ST-OSCs is sensitive to active layer thickness, ranging from a low of 14 for a 143 nm film to a high of 76-77 for a 59 nm film.",
+      "evidence": "The CRI value for the 1200 rpm device (143 nm) is very low (14%)... The CRI increases up to a maximum value of 76% for bottom illumination... devices with a 59 nm thick active layer exhibited the highest CRI of 76.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "CRI",
+        "color rendering index",
+        "thickness",
+        "transmittance"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Semitransparent devices with active layer thicknesses below 100 nm maintain color coordinates close to the achromatic 'white point' on the CIE 1931 chromaticity diagram, providing neutral color perception.",
+      "evidence": "The color coordinates of the semitransparent OPV devices with thin active layer thicknesses (t < 100 nm) are located close to the achromatic or so-called 'white point' on the CIE chromaticity diagram.",
+      "complexity": "single-hop",
+      "keywords": [
+        "CIE 1931",
+        "color coordinates",
+        "white point",
+        "neutral color"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The PBDB-T:ITIC active layer (1:1 weight ratio) was processed from a chlorobenzene solution using 0.5% 1,8-diiodooctane (DIO) as a processing additive.",
+      "evidence": "An active layer solution of PBDB-T:ITIC (1:1 weight ratio) was prepared... by blending in chlorobenzene/DIO (99.5:0.5 volume ratio).",
+      "complexity": "single-hop",
+      "keywords": [
+        "chlorobenzene",
+        "DIO",
+        "additive",
+        "active layer processing"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The best-performing semitransparent cell (7.4% PCE) retains approximately 67% of the efficiency of an equivalent opaque device (11% PCE), primarily due to reduced Jsc from the lack of a reflective back electrode.",
+      "evidence": "The efficiency of the ST cell (7.4%) is 67% of the efficiency of the opaque cell (11%)... The main difference in the efficiency comes from the reduced Jsc for the ST cell, caused by the transparent top electrode, which reduces the path length of incident light.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "PCE retention",
+        "opaque vs semitransparent",
+        "Jsc loss"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Average visible transmittance (AVT) for the ST-OSCs is calculated by averaging the device transmittance over the wavelength range of 370 to 740 nm.",
+      "evidence": "The AVTs, which is the average of the transmittance of the solar cells in the visible region (370-740 nm), of the ST devices are presented in Table 1.",
+      "complexity": "single-hop",
+      "keywords": [
+        "AVT calculation",
+        "visible region",
+        "transmittance"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 15107,
+    "completion_tokens": 3998,
+    "total_tokens": 19105
+  }
+}

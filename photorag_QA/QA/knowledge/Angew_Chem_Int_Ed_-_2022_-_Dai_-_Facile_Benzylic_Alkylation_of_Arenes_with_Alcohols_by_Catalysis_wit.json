@@ -1,0 +1,143 @@
+{
+  "paper_id": "Angew_Chem_Int_Ed_-_2022_-_Dai_-_Facile_Benzylic_Alkylation_of_Arenes_with_Alcohols_by_Catalysis_wit",
+  "paper_title": "Facile Benzylic Alkylation of Arenes with Alcohols by Catalysis with Spirocyclic NHC IrIII Pincer Complex",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Angew Chem Int Ed - 2022 - Dai - Facile Benzylic Alkylation of Arenes with Alcohols by Catalysis with Spirocyclic NHC IrIII/auto/Angew Chem Int Ed - 2022 - Dai - Facile Benzylic Alkylation of Arenes with Alcohols by Catalysis with Spirocyclic NHC IrIII.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The catalyst SNIr-H is a spirocyclic N-heterocyclic carbene (SNHC)-based CCC pincer iridium(III) complex designed to facilitate the borrowing hydrogen alkylation of unactivated arenes.",
+      "evidence": "Due to the successful C-H silylation and olefin isomerization reactions that were catalyzed by our recently developed spirocyclic N-heterocyclic carbene (SNHC)-based IrIII CCC pincer complexes (SNIr-Cl)... Once the stable IrIII-H complex (SNIr-H) had been isolated, we began investigating the possible formation of IrIII dihydride.",
+      "complexity": "single-hop",
+      "keywords": [
+        "SNIr-H",
+        "CCC pincer complex",
+        "iridium catalyst",
+        "SNHC"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The synthesis of indeno[2,1-a]indene, a template for functional material molecules, was achieved in a 63% yield at a 1 mmol scale using indene and bromobenzyl alcohol via the SNIr-H catalyzed alkylation followed by Herrmann-Beller catalysis.",
+      "evidence": "Under similar conditions, compound 11 could be easily prepared in 63% yield at a 1 mmol scale using 1a and bromobenzyl alcohol 10; compound 11 was further converted to indeno[2,1-a] indene 12 via the Herrmann-Beller catalysis and is a versatile template for functional material molecules.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "indeno[2,1-a]indene",
+        "Herrmann-Beller catalysis",
+        "functional materials",
+        "indene"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The SNIr-H catalyzed benzylic alkylation of xanthene with benzyl alcohol achieved a maximum isolated yield of 89% for the product 7a.",
+      "evidence": "The reaction of xanthene (6a) and benzyl alcohol furnished the alkylation product 7a... the yield of 7a increased to 85% [later 89% in Table 4] in the presence of Cat A (5 mol%), KOtBu (1.5 equiv), and 18-crown-6 (1.0 equiv) at 140 °C.",
+      "complexity": "single-hop",
+      "keywords": [
+        "yield",
+        "xanthene",
+        "alkylation",
+        "7a"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The hemilabile nature of the CCC pincer iridium complex provides sufficient coordination space around the metal center to activate sterically hindered, unactivated tetrasubstituted olefin intermediates.",
+      "evidence": "Furthermore, we envision that the hemilabile nature of the pincer complex may provide sufficient space around the metal center, thereby enabling the coordination/activation of the sterically hindered olefin intermediates.",
+      "complexity": "single-hop",
+      "keywords": [
+        "hemilabile",
+        "steric hindrance",
+        "coordination",
+        "olefin intermediates"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "In the alkylation of substituted indenes, electron-donating groups (e.g., -Me, -OMe) on the aryl ring lead to higher yields (78-85%) compared to electron-withdrawing groups (e.g., -Br, -F), which result in lower yields (51-75%).",
+      "evidence": "The results indicated that using electron-donating groups (5e, 5f, 5h, 5k), as substituents, led to higher yields than those obtained when the substituents were electron-withdrawing groups (5g, 5i, 5j).",
+      "complexity": "single-hop",
+      "keywords": [
+        "substituent effects",
+        "electron-donating groups",
+        "electron-withdrawing groups",
+        "indene"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The borrowing hydrogen (BH) strategy enables atom-economical alkylation using alcohols as the alkylating agent, producing water as the sole byproduct through a sequence of metal-catalyzed dehydrogenation, condensation, and hydrogenation.",
+      "evidence": "The BH strategy uses readily available alcohols, is an atom-economical and green alkylation method, and water is the only byproduct. A metal-catalyzed dehydrogenation, condensation, and hydrogenation sequence could realize the alkylation.",
+      "complexity": "single-hop",
+      "keywords": [
+        "borrowing hydrogen",
+        "atom economy",
+        "dehydrogenation",
+        "hydrogenation"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "Optimal reaction conditions for the C3-alkylation of indenes involve 1.5 equivalents of alcohol, 15 mol% of KOtBu base, and 1 mol% of the SNIr-H catalyst in toluene at 100 °C for 10 hours.",
+      "evidence": "The isolated yield of 3a increased to 85% upon increasing the loading of 2a and KOtBu to 1.5 equiv and 15 mol%, respectively (entry 15). Thus, the optimal condition was chosen as 2a (1.5 equiv) and KOtBu (15 mol%).",
+      "complexity": "single-hop",
+      "keywords": [
+        "optimization",
+        "KOtBu",
+        "toluene",
+        "catalyst loading"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "For the alkylation of relatively inert sp3 C-H bonds in arenes like xanthene or thioxanthene, the addition of 1.0 equivalent of 18-crown-6 and an increased temperature of 140 °C are required to improve yields.",
+      "evidence": "Fortunately, the yield of 7a increased to 85% in the presence of Cat A (5 mol%), KOtBu (1.5 equiv), and 18-crown-6 (1.0 equiv) at 140 °C. These conditions were used for the reactions of the S- or N-containing cyclic substrates (7b-7e).",
+      "complexity": "single-hop",
+      "keywords": [
+        "18-crown-6",
+        "sp3 C-H alkylation",
+        "xanthene",
+        "inert bonds"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Deuterium-labeling experiments using alcohol-D confirmed the mechanism by showing 84% deuterium retention at the C1 position of the alcohol-generated chain and 7% incorporation at the sp3 C1 of indene.",
+      "evidence": "Deuterium-labeling experiments were performed... compound 3a-D was isolated in 74% yield; with 7% deuterium being incorporated at the sp3 C1 of indene and 84% retained at C1 of the alcohol-generated chain.",
+      "complexity": "single-hop",
+      "keywords": [
+        "deuterium-labeling",
+        "reaction mechanism",
+        "indene",
+        "NMR"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Density functional theory (DFT) calculations were utilized to propose a catalytic cycle involving a hemilabile IrIII dihydride intermediate that selectively inserts into the exo double bond of a 1,3-diene intermediate.",
+      "evidence": "A hemilabile IrIII dihydride intermediate was proposed based on control experiments and previous density functional theory (DFT) calculations for the borrowing hydrogen mechanism... The selective migratory insertion of the Ir-hydride bond to the exo double bond is favored.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "DFT",
+        "catalytic cycle",
+        "migratory insertion",
+        "iridium dihydride"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The SNIr-H catalyst enables the synthesis of alkylated fluorene derivatives (5l-5o), which are widely applied in functional materials and optoelectronics.",
+      "evidence": "In addition to indenes, we also studied the alkylation of fluorenes because of their wide application in functional materials. Fluorene and its derivatives reacted successfully, affording the expected products (5l-5o) in high yields.",
+      "complexity": "single-hop",
+      "keywords": [
+        "fluorene",
+        "functional materials",
+        "C-H alkylation"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 9362,
+    "completion_tokens": 3366,
+    "total_tokens": 12728
+  }
+}

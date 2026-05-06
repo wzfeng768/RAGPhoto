@@ -1,0 +1,129 @@
+{
+  "paper_id": "Adv_Funct_Materials_-_2023_-_Zhang_-_DiffusionLimited_Accepter_Alloy_Enables_Highly_Efficient_and_St",
+  "paper_title": "Diffusion-Limited Accepter Alloy Enables Highly Efficient and Stable Organic Solar Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Adv Funct Materials - 2023 - Zhang - Diffusion‐Limited Accepter Alloy Enables Highly Efficient and Stable Organic Solar/auto/Adv Funct Materials - 2023 - Zhang - Diffusion‐Limited Accepter Alloy Enables Highly Efficient and Stable Organic Solar.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "ZCCF3 is designed by replacing the thiadiazole group in the Y6 core with a trifluoromethyl-substituted diazepine unit to increase the glass transition temperature and tune energy levels.",
+      "evidence": "ZCCF3 (Figure 1) with a diazepine unit in the A'' π-core... the trifluoromethyl substituted diazepine in ZCCF3 enables a high Tg of 115 °C and suitable energy levels in comparison with that of typical Y6 acceptor.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ZCCF3",
+        "diazepine",
+        "molecular design",
+        "Y6 derivative"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The ternary PM6:Y6:ZCCF3 organic solar cell achieves a champion power conversion efficiency (PCE) of 18.54%, with a VOC of 0.86 V, JSC of 26.95 mA cm^-2, and a fill factor of 80.01%.",
+      "evidence": "In the given PM6:Y6:ZCCF3 ternary platform, a champion PCE of 18.54% was achieved with a decent open-circuit voltage (VOC) of 0.86 V and short-circuit current density (JSC) of 26.95 mA cm^-2... 80.01% for FF.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "ternary OSC",
+        "PM6:Y6:ZCCF3",
+        "efficiency"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "ZCCF3 exhibits a higher glass transition temperature (Tg) of 115 °C compared to Y6 (101 °C), which helps stabilize the bulk heterojunction morphology against thermal stress.",
+      "evidence": "the estimated Tg (Figure 2e) of Y6, Y6: ZCCF3 and ZCCF3 specimens are 101, 110, and 115 °C, respectively... ZCCF3 component can enable a relatively diffusion-limited demixing of the morphology.",
+      "complexity": "single-hop",
+      "keywords": [
+        "glass transition temperature",
+        "Tg",
+        "thermal stability",
+        "diffusion-limited"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The introduction of the diazepine group in ZCCF3 results in a blue-shifted absorption (peak at 780 nm) and an upshifted LUMO energy level (-3.86 eV) compared to Y6 (-4.00 eV).",
+      "evidence": "the maximum absorption peak (λmax) of ZCCF3 neat film is significantly blue-shifted with a location at 780 nm... its diazepine group can raise LUMO energy level to help boost the VOC output... yielding their corresponding EHOMO/ELUMO of -5.65 eV/-4.00 eV [for Y6]... -5.63 eV/-3.86 eV [for ZCCF3].",
+      "complexity": "multi-hop",
+      "keywords": [
+        "LUMO",
+        "absorption spectra",
+        "energy level engineering",
+        "diazepine"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The PM6:Y6:ZCCF3 ternary system shows improved charge carrier mobilities, with hole mobility (μh) reaching 4.66 × 10^-4 cm^2 V^-1 s^-1 and electron mobility (μe) reaching 4.44 × 10^-4 cm^2 V^-1 s^-1.",
+      "evidence": "for the PM6: Y6: ZCCF3 system, the μh and μe values are increased to 4.66 × 10^-4 and 4.44 × 10^-4 cm^2 V^-1 s^-1, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "carrier mobility",
+        "charge transport",
+        "ternary blend"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "19F NMR diffusion-ordered spectroscopy (DOSY) was used to confirm the formation of a supramolecular complex between Y6 and ZCCF3 in solution, evidenced by a decrease in the diffusion coefficient from 5.5 × 10^-10 to 5.6 × 10^-12 m^2 s^-1.",
+      "evidence": "ZCCF3 exhibits the diffusion coefficient (D) value of 5.5 × 10^-10 m^2 s^-1. Upon blending with Y6, a significantly decreased D value of 5.6 × 10^-12 m^2 s^-1 was recorded... suggesting the formation of a complex between ZCCF3 and Y6 in solution.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DOSY NMR",
+        "diffusion coefficient",
+        "molecular association",
+        "acceptor alloy"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The Flory-Huggins interaction parameter (χ) between Y6 and ZCCF3 is calculated to be as low as 0.03 to 0.04, indicating hyper-miscibility and the formation of a glass-forming acceptor alloy.",
+      "evidence": "the estimated Flory-Huggins interaction parameter (χ) between ZCCF3 and Y6 is as low as 0.03... further confirmed by the extra small χ parameter of 0.04.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Flory-Huggins parameter",
+        "miscibility",
+        "acceptor alloy"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The PM6:Y6:ZCCF3 ternary device demonstrates significantly enhanced stability, maintaining 80% of its initial efficiency for up to 360 hours (T80 lifetime) under light stress, compared to only 40 hours for the PM6:Y6 binary system.",
+      "evidence": "the PM6: Y6 system exhibits a T80 lifetime of only 40 h aging, while the PM6: Y6: ZCCF3 system exhibits much better thermal stability with a prolonged T80 lifetime of up to 360 h.",
+      "complexity": "single-hop",
+      "keywords": [
+        "T80 lifetime",
+        "photostability",
+        "operational stability",
+        "burn-in degradation"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The addition of ZCCF3 reduces trap-assisted recombination in the device, as indicated by the decrease in the ideality factor (n) from 1.206 in the PM6:Y6 system to 1.030 in the ternary system.",
+      "evidence": "the n value of the PM6: Y6 system is 1.206 and then sharply drops to 1.030 upon adding ZCCF3 in blend. The result confirms the addition of ZCCF3 effectively reduces the degree of trap composition.",
+      "complexity": "single-hop",
+      "keywords": [
+        "ideality factor",
+        "recombination",
+        "trap-assisted recombination"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis reveals that the PM6:Y6:ZCCF3 ternary blend possesses a significantly higher π-π stacking coherence length (CCL) of 43.02 Å compared to 23.34 Å for the PM6:Y6 binary blend.",
+      "evidence": "compared with the CCL(010) value (23.34 Å) of PM6: Y6 blend, a nearly 2-fold CCL(010) value up to 43.02 Å is obtained in the PM6: Y6: ZCCF3 blend.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "coherence length",
+        "CCL",
+        "molecular packing"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 12481,
+    "completion_tokens": 2803,
+    "total_tokens": 15284
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "paper_id": "Adv_Funct_Materials_-_2024_-_Huang_-_18_63_Efficiency_of_Ternary_Organic_Solar_Cells_Achieved_via_No",
+  "paper_title": "18.63% Efficiency of Ternary Organic Solar Cells Achieved via Nonhalogenated Solvent and Hot Spin-Coating Process",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Adv Funct Materials - 2024 - Huang - 18 63  Efficiency of Ternary Organic Solar Cells Achieved via Nonhalogenated Solvent/auto/Adv Funct Materials - 2024 - Huang - 18 63  Efficiency of Ternary Organic Solar Cells Achieved via Nonhalogenated Solvent.md",
+  "knowledge_points": [
+    {
+      "category": "Performance Metrics",
+      "content": "The ternary PM6:BTP-BO-4F:GS-ISO organic solar cell achieved a maximum power conversion efficiency (PCE) of 18.63% when processed with o-xylene, featuring an open-circuit voltage (VOC) of 0.865 V, a short-circuit current density (JSC) of 27.55 mA cm⁻², and a fill factor (FF) of 78.19%.",
+      "evidence": "At this point, the VOC of PM6:BTP-BO-4F:GS-ISO is 0.865 V, the JSC is 27.55 mA cm⁻², and the FF is 78.19%, resulting in the highest PCE of 18.63%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "ternary OSC",
+        "o-xylene",
+        "PM6",
+        "BTP-BO-4F",
+        "GS-ISO"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "A hot spin-coating process at 100 °C was employed to overcome the low solubility of organic photovoltaic materials in the nonhalogenated green solvent o-xylene.",
+      "evidence": "In order to increase the solubility of O-XY to organic materials and to improve the morphology of the active layer, hot spin-coating is performed at 100 °C in this work.",
+      "complexity": "single-hop",
+      "keywords": [
+        "hot spin-coating",
+        "o-xylene",
+        "solubility",
+        "nonhalogenated solvent"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The addition of 10 wt% GS-ISO to the PM6:BTP-BO-4F host system facilitates the formation of an alloy acceptor model due to the high compatibility between BTP-BO-4F and GS-ISO, indicated by a low interfacial energy of 0.62 mN m⁻¹.",
+      "evidence": "The lower interfacial energy between the materials shows that they have good compatibility... the interface energies of BTP-BO-4F/GS-ISO are only 0.62 mN m⁻¹... the relationship between the change in VOC and GS-ISO content shows a linear increase, indicating the formation of an alloy acceptor.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "alloy acceptor",
+        "interfacial energy",
+        "compatibility",
+        "BTP-BO-4F",
+        "GS-ISO"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Photoluminescence (PL) quenching and overlapping spectra indicate efficient energy transfer from the GS-ISO acceptor to the BTP-BO-4F host acceptor in the ternary active layer.",
+      "evidence": "In the blended film, the emission peak of GS-ISO is fully quenched at 705 nm... indicating the existence of energy transfer from GS-ISO to BTP-BO-4F in the active layer.",
+      "complexity": "single-hop",
+      "keywords": [
+        "energy transfer",
+        "PL quenching",
+        "ternary system",
+        "GS-ISO"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Ternary organic solar cells processed in air (50% relative humidity) using o-xylene achieved a power conversion efficiency of 14.13%, which is over 75% of the efficiency achieved in a nitrogen environment.",
+      "evidence": "In contrast, the ternary OSCs with 10 wt% GS-ISO content had a VOC of 0.823 V, JSC of 24.49 mA cm⁻², and an FF of 70.09%, resulting in a final efficiency of 14.13%. This efficiency is more than 75% of the efficiency of ternary OSCs (N2).",
+      "complexity": "single-hop",
+      "keywords": [
+        "air-processed",
+        "PCE",
+        "stability",
+        "green solvent"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The introduction of GS-ISO into the PM6:BTP-BO-4F system reduces trap-assisted recombination, as evidenced by the ideality factor (n) decreasing from 1.24 in binary cells to 1.11 in optimized ternary cells.",
+      "evidence": "In the VOC · Plight relationship curves, the slopes (n) based on PM6:BTP-BO-4F... are 1.24... whereas the n value for ternary OSCs is 1.11. The lower n values (more closer to 1) indicate that trap-assisted recombination is effectively suppressed.",
+      "complexity": "single-hop",
+      "keywords": [
+        "trap-assisted recombination",
+        "ideality factor",
+        "VOC",
+        "light intensity"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The optimized ternary blend exhibits more balanced charge transport, with hole and electron mobilities of 5.57 × 10⁻⁴ and 6.94 × 10⁻⁴ cm² V⁻¹ s⁻¹ respectively, resulting in a mobility ratio of 1.25.",
+      "evidence": "When the GS-ISO content is 10 wt%, both μe and μh reach maximum values of 6.94 × 10⁻⁴ and 5.57 × 10⁻⁴, respectively. And the ratio between μe and μh reaches its minimum value (1.25) at this point.",
+      "complexity": "single-hop",
+      "keywords": [
+        "charge mobility",
+        "SCLC",
+        "balanced transport",
+        "electron mobility",
+        "hole mobility"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "GIWAXS analysis shows that the addition of GS-ISO improves molecular stacking in the active layer, increasing the crystal coherence length (CCL) in the out-of-plane direction to 20.41 Å compared to 17.92 Å for the binary PM6:BTP-BO-4F film.",
+      "evidence": "In the OP direction, the π-π stacking distances of PM6:BTP-BO-4F and ternary blended films are 3.70 and 3.64 Å and the CCLs values are 17.92 and 20.41 Å, respectively.",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIWAXS",
+        "CCL",
+        "crystal coherence length",
+        "molecular stacking"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "The non-radiative voltage loss (ΔVnr) for the ternary OSCs processed in nitrogen was 0.236 V, which increased to 0.246 V for devices fabricated in air, contributing to the lower VOC in air-processed devices.",
+      "evidence": "The EQEEL value of ternary OSCs (N2) is 10.1 × 10⁻⁵... higher than that of ternary OSCs (air) (6.67 × 10⁻⁵)... Their corresponding ΔVnr values are 0.236 and 0.246 V, respectively.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "non-radiative voltage loss",
+        "EQEEL",
+        "energy loss",
+        "air processing"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The ternary OSCs demonstrated enhanced charge extraction and longer carrier lifetimes compared to binary cells, with a charge extraction time (trec) of 1.873 μs and a carrier lifetime (tpho) of 11.596 μs.",
+      "evidence": "the charge extraction times (trec) based on PM6:BTP-BO-4F... is higher than the value of the trec based on PM6:BTP-BO-4F:GS-ISO (1.873 us)... the carrier lifetime (tpho) of 11.596 us for the ternary OSCs can be observed through the decay curves in the TPV.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "TPC",
+        "TPV",
+        "charge extraction",
+        "carrier lifetime"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 14918,
+    "completion_tokens": 3201,
+    "total_tokens": 18119
+  }
+}

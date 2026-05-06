@@ -1,0 +1,147 @@
+{
+  "paper_id": "Supplemental_material_Power-law_density_of_states_in_organic_solar_cells_revealed_by_the_open-circui",
+  "paper_title": "Power-law density of states in organic solar cells revealed by the open-circuit voltage dependence of the ideality factor",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Supplemental material Power-law density of states in organic solar cells revealed by the open-circuit voltage dependence of the ideality factor/auto/Supplemental material Power-law density of states in organic solar cells revealed by the open-circuit voltage dependence of the ideality factor.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "DCV-V-Fu-Ind-Fu-V is a proprietary A-D-A (acceptor-donor-acceptor) type oligomeric absorber material, structurally similar to dicyanovinyl-substituted oligothiophenes like DCV5T.",
+      "evidence": "DCV-V-Fu-Ind-Fu-V is a proprietary, oligomeric absorber material of Heliatek GmbH... It belongs to the class of A-D-A (acceptor - donor - acceptor) type molecules, similar to the well-known DCV-oligothiophenes like DCV5T.",
+      "complexity": "single-hop",
+      "keywords": [
+        "A-D-A molecule",
+        "oligomeric absorber",
+        "DCV-V-Fu-Ind-Fu-V"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "DCV-V-Fu-Ind-Fu-V:C60 active layers are fabricated via thermal co-evaporation in an ultra-high vacuum with a 2:1 weight ratio onto a substrate maintained at 50 °C.",
+      "evidence": "The active layer composed of DCV-V-Fu-Ind-Fu-V:C60 (2:1 w/w) was co-evaporated onto a 50 °C hot substrate, which was subsequently cooled down for 60 min.",
+      "complexity": "single-hop",
+      "keywords": [
+        "thermal evaporation",
+        "co-evaporation",
+        "active layer processing"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The DCV-V-Fu-Ind-Fu-V:C60 solar cell architecture utilizes n-doped C60 (20%) as part of the electron transport layer and p-doped BPAPF (10%) within the hole transport layer.",
+      "evidence": "An electron transport layer consisted of 5 nm of n-doped (20%) C60 and 15 nm of C60... the substrate was covered with a hole transport layer consisting of 10 nm of BPAPF (Lumtec, Taiwan) and 20 nm of p-doped (10%) BPAPF.",
+      "complexity": "single-hop",
+      "keywords": [
+        "n-doped C60",
+        "BPAPF",
+        "transport layers",
+        "doping"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "In a purely Gaussian density of states (DOS) model where disorder parameters for electrons and holes are equal, the recombination rate yields a temperature-independent ideality factor of 1.",
+      "evidence": "If the recombination rate R is expressed by Eqs. (S11) or (S12), the ideality factor nid = 1, independent of temperature.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Gaussian DOS",
+        "ideality factor",
+        "recombination rate"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "A mixed DOS model assumes one charge carrier type follows an exponential distribution while the other follows a Gaussian distribution, which can result in ideality factors greater than unity.",
+      "evidence": "For the mixed DOS, where the DOS distributions of electrons and holes are different, we assume that electrons are described by the exponential and holes by the gaussian DOS... this channel has a larger share of mobile charge carriers leading, for the same kr, to a larger effective recombination prefactor.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "mixed DOS",
+        "exponential DOS",
+        "Gaussian DOS",
+        "recombination mechanism"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "The Urbach energy (EU) can be extracted from the ideality factor (nid) using specific recombination models; for the mixed DOS model, EU is calculated using the relation nid = 2kBT / (EU + kBT).",
+      "evidence": "The Urbach energy EU is calculated from nid using Eq. (3) for mixed DOS, and Eq. (4) for exponential DOS models.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Urbach energy",
+        "ideality factor",
+        "Suns-Voc"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "PM6:Y6 solar cells are processed using a 1:1.2 weight ratio blend in chloroform with 0.5 vol.-% of 1-chloronaphthalene as a processing additive.",
+      "evidence": "The active layer blend solution (1:1.2 w/w, 10 mg ml−1 in chloroform with 0.5 vol.-% of 1-chloronaphthalene) was stirred overnight at room temperature.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PM6:Y6",
+        "1-chloronaphthalene",
+        "chloroform",
+        "solvent additive"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The ideality factor of organic solar cells can drop below unity at high illumination intensities due to surface recombination effects.",
+      "evidence": "At higher illumination intensities the ideality factor decreases below unity due to surface recombination.",
+      "complexity": "single-hop",
+      "keywords": [
+        "surface recombination",
+        "ideality factor",
+        "illumination intensity"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Low shunt resistance in organic photovoltaic devices causes the ideality factor to reach unphysically high values at low light intensities.",
+      "evidence": "At lower light intensities low shunt resistance leads to unphysically high values of the ideality factor.",
+      "complexity": "single-hop",
+      "keywords": [
+        "shunt resistance",
+        "leakage current",
+        "ideality factor"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Suns-Voc measurements are performed by exciting the sample with a 515 nm continuous wave laser and varying intensity using motorized filter wheels while the sample is held in a cryostat.",
+      "evidence": "Samples were excited by an Omicron LDM A350 continuous wave laser at a wavelength of 515 nm. The illumination intensity was varied by the laser output power and Standa motorised filter wheels... sample was held in a Linkam Scientific LTS420 cryostat.",
+      "complexity": "single-hop",
+      "keywords": [
+        "Suns-Voc",
+        "cryostat",
+        "intensity-dependent measurement"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "In the DCV-V-Fu-Ind-Fu-V:C60 system, the ideality factors converge and follow the mixed DOS recombination model only at lower temperatures (below 240 K).",
+      "evidence": "The same mismatch between the models and the apparent temperature dependence of nid is observed for DCV-V-Fu-Ind-Fu-V:C60 between 240 K and 300 K... Only at lower temperatures do the ideality factors of this system converge for different light intensities and follow the mixed DOS recombination model.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "temperature dependence",
+        "DCV-V-Fu-Ind-Fu-V",
+        "mixed DOS"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "For P3HT:PC61BM, the ideality factor at a fixed light intensity shows an inverse correlation with 1/T between 180 K and 300 K, which deviates from standard recombination model predictions.",
+      "evidence": "The ideality factor of P3HT:PC61BM at a given light intensity in Figure S05(a) is inversely correlated to 1/T between 180 K and 300 K.",
+      "complexity": "single-hop",
+      "keywords": [
+        "P3HT:PC61BM",
+        "temperature dependence",
+        "ideality factor"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 7436,
+    "completion_tokens": 4137,
+    "total_tokens": 11573
+  }
+}

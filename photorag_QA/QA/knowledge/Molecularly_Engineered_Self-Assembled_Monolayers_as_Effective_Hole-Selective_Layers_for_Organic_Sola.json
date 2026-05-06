@@ -1,0 +1,156 @@
+{
+  "paper_id": "Molecularly_Engineered_Self-Assembled_Monolayers_as_Effective_Hole-Selective_Layers_for_Organic_Sola",
+  "paper_title": "Molecularly Engineered Self-Assembled Monolayers as Effective Hole-Selective Layers for Organic Solar Cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Molecularly Engineered Self-Assembled Monolayers as Effective Hole-Selective Layers for Organic Solar Cells/auto/Molecularly Engineered Self-Assembled Monolayers as Effective Hole-Selective Layers for Organic Solar Cells.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The study designed a series of hole-selective self-assembled monolayers (SAMs) using a carbazole scaffold, a phosphonic acid anchoring group, and varied halogen substituents (F, Cl, Br, I) at the 3,6-positions with different alkyl linker lengths (C2, C3, C4).",
+      "evidence": "In this work, we designed a series of carbazole-derived SAMs by engineering the halogen substituents and the alkyl linker lengths... the inset is the chemical structure of Cz-I-2, Cz-I-3, and Cz-X-4 (X = F, Cl, Br, and I).",
+      "complexity": "single-hop",
+      "keywords": [
+        "carbazole",
+        "phosphonic acid",
+        "halogenation",
+        "side chain engineering"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Organic solar cells utilizing the Cz-I-2 SAM as a hole-selective layer achieved a power conversion efficiency (PCE) of 17.6% in the PM6:Y6 system and 18.1% in the D18:Y6 system.",
+      "evidence": "Consequently, the iodinated carbazole SAM with C2 spacer (Cz-I-2) showed... a power conversion efficiency (PCE) of 18.1% in the D18:Y6 system... Cz-I-2-based OSCs delivered a significantly increased PCE of 17.6% [in the PM6:Y6 system].",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "Cz-I-2",
+        "PM6:Y6",
+        "D18:Y6"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "A semiquantitative analysis using X-ray photoelectron spectroscopy (XPS) was employed to evaluate SAM regularity by calculating the difference coefficient between the atomic-sensitivity-factor-weighted C/P element ratio and the stoichiometric ratio (RASF/Rnumber).",
+      "evidence": "Since a highly regular layer can shield the photoelectron from the bottom layer and attenuate the XPS signal, the difference coefficient between the atomic-sensitivity-factor-weighted C/P element ratio and the stoichiometric one (RASF/Rnumber)... is selected as an indicator of the molecular regularity in SAMs.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "XPS",
+        "molecular regularity",
+        "RASF/Rnumber",
+        "characterization"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Shortening the alkyl linker length from C4 to C2 in iodinated carbazole SAMs increases molecular density and packing regularity, which reduces carrier hopping barriers and enhances the fill factor (FF) of organic solar cells.",
+      "evidence": "the regularity could be further improved by reducing the alkyl chain length, giving Cz-I-2 the most ordered SAM... shorter alkyl linkers in iodinated SAMs owing to the deeper electrode Fermi level with higher molecular density and regularity... a shorter alkyl chain can also reduce the carrier hopping barriers.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "alkyl linker",
+        "packing regularity",
+        "carrier hopping",
+        "fill factor"
+      ]
+    },
+    {
+      "category": "Computational & Machine Learning",
+      "content": "Density functional theory (DFT) calculations show that the binding energy between the SAM molecules and the ITO substrate increases as the atomic size of the halogen substituent decreases (F > Cl > Br > I).",
+      "evidence": "The density functional theory (DFT) calculation in Figure 3b and Table S3 shows that the binding energies of SAM and the substrate increase as the halogen atoms shrink.",
+      "complexity": "single-hop",
+      "keywords": [
+        "DFT",
+        "binding energy",
+        "halogen size",
+        "ITO"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Iodinated carbazole SAMs exhibit better energy level alignment with the PM6 donor polymer compared to fluorinated, chlorinated, or brominated analogs, contributing to higher open-circuit voltage (Voc) and overall performance.",
+      "evidence": "The ones based on iodinated SAM show well-matching energy levels with PM6... Cz-I-2-based OSCs delivered... a Voc of 0.865 V... much higher than the previously reported Cz-Br-2 devices.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "energy level alignment",
+        "iodinated SAM",
+        "Voc",
+        "PM6"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "SAM-modified ITO substrates were prepared by spin-coating a 2 mM methanol solution of the SAM molecules onto plasma-cleaned ITO, followed by annealing at 80 °C for 10 minutes and subsequent solvent rinsing.",
+      "evidence": "The SAM-modified ITO substrates were fabricated by spin coating a 2 mM methanol solution of SAMs on plasma-cleaned ITO, followed by 80 °C annealing for 10 min and additional solvent cleaning.",
+      "complexity": "single-hop",
+      "keywords": [
+        "spin coating",
+        "annealing",
+        "ITO modification",
+        "fabrication"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Despite having lower binding energy than fluorinated versions, iodinated SAMs achieve high regularity due to the large atomic radius of iodine and strong halogen bonds that promote upright molecular orientations.",
+      "evidence": "Unexpectedly, Cz-I-4 shows an unusual trend of a high regularity... attributed to the iodine's big atomic radius and the strong halogen bonds... The large atomic radius can modulate the intermolecular distance and directly enhance the molecular interactions... strengthened interactions can even keep iodinated carbazoles standing up straight.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "iodine",
+        "halogen bonding",
+        "atomic radius",
+        "molecular orientation"
+      ]
+    },
+    {
+      "category": "Characterization Methods",
+      "content": "Grazing incidence X-ray diffraction (GIXD) confirmed the high regularity of the Cz-I-2 SAM through a distinct diffraction peak at q = 2.03 Å⁻¹.",
+      "evidence": "The top regularity of Cz-I-2 was further validated by GIXD with a diffraction peak at q = 2.03 Å⁻¹ (Figure 2e).",
+      "complexity": "single-hop",
+      "keywords": [
+        "GIXD",
+        "diffraction peak",
+        "Cz-I-2",
+        "crystallinity"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The Cz-I-2 based organic solar cell using the D18:Y6 active layer achieved a short-circuit current (Jsc) of 27.3 mA/cm², an open-circuit voltage (Voc) of 0.854 V, and a fill factor (FF) of 77.5%.",
+      "evidence": "Cz-I-2 showed good universality with another active system consisting of D18:Y6, delivering a good PCE of 18.1% with an FF of 77.5%, a Voc of 0.854 V, and a Jsc of 27.3 mA/cm².",
+      "complexity": "single-hop",
+      "keywords": [
+        "D18:Y6",
+        "Jsc",
+        "Voc",
+        "fill factor"
+      ]
+    },
+    {
+      "category": "Stability & Degradation",
+      "content": "SAMs are identified as superior alternatives to the conventional hole-selective material PEDOT:PSS because they mitigate issues such as acidity-induced corrosion and hygroscopicity that limit device stability.",
+      "evidence": "PEDOT:PSS has been one of the very few solution-processable p-type materials used as the hole-selective layer (HSL) in OSCs. However, there are certain drawbacks to this material, such as corrosivity, hygroscopicity... These limit the performance of OSCs and compromise the long-term stability.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PEDOT:PSS",
+        "corrosivity",
+        "hygroscopicity",
+        "stability"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The molecular coverage of the SAM on the ITO surface, measured via UV-vis spectroscopy, decreases as the atomic number of the halogen substituent increases and as the alkyl chain length increases.",
+      "evidence": "it was demonstrated that as the halogen atomic number increases, the molecular concentration of the SAM decreases. On the other hand, shorter alkyl chains resulted in higher concentrations among the iodinated SAM molecules. The exact SAM coverages (Γ) were revealed by ultraviolet–visible spectroscopy-based method.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "molecular coverage",
+        "UV-vis",
+        "halogen effect",
+        "alkyl chain"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 13049,
+    "completion_tokens": 3274,
+    "total_tokens": 16323
+  }
+}

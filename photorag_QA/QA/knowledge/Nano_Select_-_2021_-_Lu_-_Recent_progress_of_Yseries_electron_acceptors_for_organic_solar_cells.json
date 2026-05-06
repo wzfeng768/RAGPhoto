@@ -1,0 +1,157 @@
+{
+  "paper_id": "Nano_Select_-_2021_-_Lu_-_Recent_progress_of_Yseries_electron_acceptors_for_organic_solar_cells",
+  "paper_title": "Recent progress of Y-series electron acceptors for organic solar cells",
+  "source_file": "/home/wzfeng/MySearch/PhotoRag/MD/Nano Select - 2021 - Lu - Recent progress of Y‐series electron acceptors for organic solar cells/auto/Nano Select - 2021 - Lu - Recent progress of Y‐series electron acceptors for organic solar cells.md",
+  "knowledge_points": [
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "Y-series acceptors are characterized by an A-DA'D-A type fused-ring structure, which differs from ITIC-type acceptors by incorporating an electron-deficient aromatic ring into the central core and replacing cyclopentadienyls with pyrrole rings.",
+      "evidence": "Relative to IT1C derivatives, the most prominent differences of chemical structures of Y6 are the introduction of electron-deficient aromatic rings into the middle of the central cores and the replacement of the cyclopentadienyls with pyrrole rings... Zou proposed A-DA'D-A type fused-ring electron acceptor design strategy.",
+      "complexity": "single-hop",
+      "keywords": [
+        "A-DA'D-A",
+        "Y6",
+        "fused-ring",
+        "pyrrole rings"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Single-junction organic solar cells based on the Y6 acceptor have achieved power conversion efficiencies (PCE) exceeding 18%, with a specific report of 18.22% for the binary D18/Y6 system.",
+      "evidence": "Nowadays the PCE of single-junction PSCs devices based on Y6 has achieved exceed 18%... Ding groups obtained 18.22% efficiency for binary OSCs based on D18/Y6.",
+      "complexity": "single-hop",
+      "keywords": [
+        "PCE",
+        "18.22%",
+        "D18",
+        "Y6",
+        "binary OSCs"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Replacing the sulfur atom in the central benzothiadiazole (BT) unit with selenium (forming Y6Se) results in a narrower optical bandgap of 1.32 eV and an increased short-circuit current (Jsc) of 27.98 mA cm⁻².",
+      "evidence": "Lin chose D18 as donor to blend with Y6Se to obtain higher PCE of 17.7% due to the increase of Jsc... Y6Se [has] Eg of 1.32 eV and Jsc of 27.98 mA cm-2.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "Y6Se",
+        "selenium substitution",
+        "bandgap",
+        "Jsc"
+      ]
+    },
+    {
+      "category": "Processing & Fabrication",
+      "content": "The solubility of Y-series acceptors is significantly influenced by the alkyl chains on the nitrogen atoms of the pyrrole rings; while straight-chain N-C11 shows poor solubility, branched chains like those in N3 and N4 enhance solubility.",
+      "evidence": "It seems that the alkyl chains connected with nitrogen atoms play a decisive role in solubility of molecules. For example N-C11 with straight alkyl chains on the N atoms showed poor solubility, while the solubility is significantly enhanced form Y6 to N3 to N4.",
+      "complexity": "single-hop",
+      "keywords": [
+        "solubility",
+        "side chain engineering",
+        "pyrrole nitrogen",
+        "alkyl chains"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The length of branched side chains affects molecular packing; in the BTP-4Cl series, the C12 side chain (BTP-4Cl-12) yields the shortest π-π stacking distance and the best device performance compared to C8 or C16 chains.",
+      "evidence": "Among these molecules of BTP-4Cl-8, BTP-4Cl-12, and BTP-4Cl-16, BTP-4Cl-12 has the shortest π-π stacking distance, and showed the best performance whether in spin-coated OSCs or in blade-coated OsCs.",
+      "complexity": "single-hop",
+      "keywords": [
+        "π-π stacking",
+        "side chain length",
+        "BTP-4Cl-12",
+        "molecular packing"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "Y-series acceptors facilitate efficient charge transport through a 3D network formed by two distinct π-π stacking modes: one between the end groups and another through the interaction of the fused-ring cores (D' units).",
+      "evidence": "There are two π-π stacking modes for Y-series acceptor. One is similar with ITIC class NFAs, and another is the π-π stacking through the interaction of the D' units, which construct 3D network that facilitate charge transport.",
+      "complexity": "single-hop",
+      "keywords": [
+        "3D network",
+        "charge transport",
+        "π-π stacking",
+        "D' units"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "The introduction of trifluoromethyl (CF3) groups on the end groups of Y-series acceptors, as seen in BTIC-CF3-γ, results in a smaller molecular dihedral angle, which promotes intermolecular charge transfer and leads to a PCE of 15.59%.",
+      "evidence": "The new NFA BTIC-CF3–γ exhibited the smallest dihedral angle... which contributes to the intermolecular charge transfer for high Jsc and FF. The devices based on PBDB-TF/BTIC-CF3–γ yielded a PCE of 15.59%.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "CF3 substitution",
+        "dihedral angle",
+        "BTIC-CF3-γ",
+        "end group engineering"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "The Y-series acceptor BTP-e9, featuring optimized side chain lengths on the edge of the core, achieved a high PCE of 17.8% with a high fill factor (FF) of 81.1% when blended with PBDB-TF.",
+      "evidence": "BTP-e9 [has] Voc of 0.839 V, Jsc of 26.2 mA cm-2, FF of 81.1%, and PCE of 17.8%.",
+      "complexity": "single-hop",
+      "keywords": [
+        "BTP-e9",
+        "PCE",
+        "81.1% FF",
+        "side chain engineering"
+      ]
+    },
+    {
+      "category": "Device Architecture & Physics",
+      "content": "The success of Y-series acceptors is attributed to reduced non-radiative energy losses, high electroluminescence quantum efficiency, and a sharp absorption tail, all of which contribute to higher open-circuit voltage (Voc).",
+      "evidence": "The energy losses especially the nonradiative energy losses were reduced in OSCs based on Y-series acceptors, which is beneficial for the high Voc. Sharp absorption tail and high electroluminescence quantum efficiency are the main factors.",
+      "complexity": "single-hop",
+      "keywords": [
+        "non-radiative energy loss",
+        "Voc",
+        "electroluminescence",
+        "absorption tail"
+      ]
+    },
+    {
+      "category": "Materials Design & Synthesis",
+      "content": "The molecule BZIC, reported in 2017, was a precursor to Y6 that utilized a dithieno[3,2-b]pyrrolobenzotriazole core, though it only achieved a PCE of 6.3% due to low Jsc and FF.",
+      "evidence": "Zou pioneered the use of dithieno[3,2-b]pyrrolobenzotriazole as cores to construct a new type NFA BzIc... the devices based on HFQx-T/BZIC only gave a PCE of 6.3% due to the low short-circuit current density (Jsc) and fill factor (FF).",
+      "complexity": "single-hop",
+      "keywords": [
+        "BZIC",
+        "benzotriazole",
+        "molecular evolution",
+        "early NFA"
+      ]
+    },
+    {
+      "category": "Structure-Property Relationships",
+      "content": "Substitution of the outer thiophene units with thieno[3,2-b]furan (BPF-4F) increases molecular twisting compared to thieno[3,2-b]thiophene (BTP-4F) due to oxygen-oxygen repulsion, affecting charge transfer properties.",
+      "evidence": "BPF-4F is even more twisted than BPT-4F and BPS-4F due to the two O atoms that repulse each other... Different O...O, S...O, and Se...O noncovalent interactions endow them with different molecule geometries.",
+      "complexity": "multi-hop",
+      "keywords": [
+        "thieno[3,2-b]furan",
+        "molecular twist",
+        "noncovalent interactions",
+        "BPF-4F"
+      ]
+    },
+    {
+      "category": "Performance Metrics",
+      "content": "Asymmetric end-group engineering using both Cl and Br atoms (BTP-ClBr) resulted in a PCE of 16.82% and an exceptionally high fill factor (FF) of 79% due to balanced charge mobilities.",
+      "evidence": "BTP-ClBr based devices gave the highest PCE of 16.82% with the highest FF of 79% due to the balanced hole and electron mobilities.",
+      "complexity": "single-hop",
+      "keywords": [
+        "BTP-ClBr",
+        "asymmetric end groups",
+        "16.82% PCE",
+        "balanced mobility"
+      ]
+    }
+  ],
+  "token_usage": {
+    "prompt_tokens": 15731,
+    "completion_tokens": 3620,
+    "total_tokens": 19351
+  }
+}
