@@ -231,7 +231,7 @@ The following large data files are **not included** in this Git repository due t
 | `data_pipeline/config/milvus_data/` | `milvus_data.zip` | ~1.1 GB |
 | `evaluation/results/` | `evaluation_results.zip` | ~81 MB |
 
-**Download**: [https://doi.org/10.6084/m9.figshare.XXXXXXX](https://doi.org/10.6084/m9.figshare.XXXXXXX)
+**Download**: [https://doi.org/10.6084/m9.figshare.32194434](https://doi.org/10.6084/m9.figshare.32194434)
 
 After downloading, extract the archives into the corresponding directories:
 
