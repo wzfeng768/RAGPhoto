@@ -91,7 +91,7 @@ The pre-built database files (~2.7 GB) are hosted on Figshare (see [Data Availab
 
 ```bash
 # Download from Figshare, then extract
-tar -xzf milvus_data.tar.gz -C data_pipeline/config/
+unzip milvus_data.zip -d data_pipeline/config/
 ```
 
 Then start the Docker services:
@@ -226,10 +226,10 @@ python run_pipeline.py --vector --kg
 
 The following large data files are **not included** in this Git repository due to size constraints. They are archived at Figshare and must be downloaded separately before running the system:
 
-| Data | Description | Size |
-|------|-------------|------|
-| `data_pipeline/config/milvus_data/` | Pre-built Milvus vector index, Neo4j knowledge graph, etcd, and MinIO data | ~2.7 GB |
-| `evaluation/results/` | Full evaluation results for all six LLM backends | ~440 MB |
+| Data | File | Size (zip) |
+|------|------|------------|
+| `data_pipeline/config/milvus_data/` | `milvus_data.zip` | ~1.1 GB |
+| `evaluation/results/` | `evaluation_results.zip` | ~81 MB |
 
 **Download**: [https://doi.org/10.6084/m9.figshare.XXXXXXX](https://doi.org/10.6084/m9.figshare.XXXXXXX)
 
@@ -237,10 +237,10 @@ After downloading, extract the archives into the corresponding directories:
 
 ```bash
 # Place database files
-tar -xzf milvus_data.tar.gz -C data_pipeline/config/
+unzip milvus_data.zip -d data_pipeline/config/
 
 # Place evaluation results
-tar -xzf evaluation_results.tar.gz -C evaluation/
+unzip evaluation_results.zip -d evaluation/
 ```
 
 Alternatively, you can rebuild the databases from source documents using the pipeline scripts (see [Rebuilding the Databases](#rebuilding-the-databases-optional)).
