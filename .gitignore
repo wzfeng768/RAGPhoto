@@ -52,3 +52,12 @@ evaluation/results/
 kg_export.json
 kg_export_full.json
 pm6_relations_report.txt
+
+# LaTeX manuscript (not for public repo)
+RAGPhoto_CCS.tex
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.synctex.gz

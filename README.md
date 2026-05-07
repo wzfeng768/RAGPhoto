@@ -85,9 +85,16 @@ pip install -r data_pipeline/config/requirements.txt
 pip install -r agentic_rag/requirements.txt
 ```
 
-### 3. Start database services
+### 3. Download database files and start services
 
-The project uses Docker Compose to run Milvus (vector DB), Neo4j (knowledge graph), etcd, and MinIO. Pre-built database files are included under `data_pipeline/config/milvus_data/`.
+The pre-built database files (~2.7 GB) are hosted on Figshare (see [Data Availability](#data-availability)). Download and extract them first:
+
+```bash
+# Download from Figshare, then extract
+tar -xzf milvus_data.tar.gz -C data_pipeline/config/
+```
+
+Then start the Docker services:
 
 ```bash
 cd data_pipeline/config
@@ -186,7 +193,7 @@ python run_agentic.py --evaluate --sample-size 5
 
 ## Rebuilding the Databases (Optional)
 
-The repository ships with pre-built databases. To rebuild from source documents:
+Instead of downloading the pre-built databases from Figshare, you can rebuild them from source documents:
 
 ```bash
 cd data_pipeline
@@ -212,3 +219,29 @@ python run_pipeline.py --vector --kg
 | Frontend | Streamlit |
 | Visualization | Plotly, NetworkX |
 | Orchestration | Docker Compose |
+
+---
+
+## Data Availability
+
+The following large data files are **not included** in this Git repository due to size constraints. They are archived at Figshare and must be downloaded separately before running the system:
+
+| Data | Description | Size |
+|------|-------------|------|
+| `data_pipeline/config/milvus_data/` | Pre-built Milvus vector index, Neo4j knowledge graph, etcd, and MinIO data | ~2.7 GB |
+| `evaluation/results/` | Full evaluation results for all six LLM backends | ~440 MB |
+
+**Download**: [https://doi.org/10.6084/m9.figshare.XXXXXXX](https://doi.org/10.6084/m9.figshare.XXXXXXX)
+
+After downloading, extract the archives into the corresponding directories:
+
+```bash
+# Place database files
+tar -xzf milvus_data.tar.gz -C data_pipeline/config/
+
+# Place evaluation results
+tar -xzf evaluation_results.tar.gz -C evaluation/
+```
+
+Alternatively, you can rebuild the databases from source documents using the pipeline scripts (see [Rebuilding the Databases](#rebuilding-the-databases-optional)).
+
