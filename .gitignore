@@ -35,6 +35,18 @@ logs/
 data_pipeline/config/milvus_data/
 data_pipeline/milvus_data/
 
+# Archives and exported bundles (too large for git)
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+*.gz
+*.bz2
+*.xz
+*.7z
+*.rar
+ziDn4N69
+
 # Evaluation result data (large JSON files)
 evaluation/results/
 
@@ -43,6 +55,10 @@ evaluation/results/
 .claude/
 **/codex.sqlite3*
 **/secret_key
+
+# Local command notes (may contain credentials or machine-specific commands)
+**/命令指南.md
+**/命令.md
 
 # Cache and log directories (any location)
 **/cache/
@@ -54,6 +70,8 @@ kg_export_full.json
 pm6_relations_report.txt
 
 # LaTeX manuscript (not for public repo)
+docs/
+manu/
 RAGPhoto_CCS.tex
 *.aux
 *.bbl
