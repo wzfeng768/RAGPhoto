@@ -963,7 +963,7 @@ def main():
                             **To build the knowledge graph:**
                             
                             ```bash
-                            cd /home/wzfeng/RAGPhoto/RAGPhoto_5
+                            cd /data/wzfeng/RAGPhoto/RAGPhoto_5
                             python run_pipeline_parallel.py --kg --force-rebuild --num-workers 10
                             ```
                             

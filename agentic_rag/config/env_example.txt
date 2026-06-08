@@ -110,7 +110,7 @@ PARALLEL_TOOL_EXECUTION=true
 # ========================================
 # Data Source (Reuse RAGPhoto_5)
 # ========================================
-DATA_SOURCE=/home/wzfeng/RAGPhoto/Data/AI_MDs
+DATA_SOURCE=/data/wzfeng/RAGPhoto/Data/AI_MDs
 
 # ========================================
 # Logging

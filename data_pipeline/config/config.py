@@ -12,10 +12,10 @@ class Config:
     """系统配置类"""
     
     # 基础路径配置
-    project_root: str = "/home/wzfeng/RAGPhoto/Data_Agentic_RAG/data_pipeline"
-    # test_mds_path: str = "/home/wzfeng/RAGPhoto/Data/Test_MDs"
-    # test_mds_path: str = "/home/wzfeng/RAGPhoto/Data/AI_MDs"
-    test_mds_path: str = "/home/wzfeng/RAGPhoto/MDs"  # 使用完整数据
+    project_root: str = "/data/wzfeng/RAGPhoto/Data_Agentic_RAG/data_pipeline"
+    # test_mds_path: str = "/data/wzfeng/RAGPhoto/Data/Test_MDs"
+    # test_mds_path: str = "/data/wzfeng/RAGPhoto/Data/AI_MDs"
+    test_mds_path: str = "/data/wzfeng/RAGPhoto/MDs"  # 使用完整数据
     
     # Milvus配置
     milvus_host: str = "localhost"

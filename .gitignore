@@ -49,6 +49,7 @@ ziDn4N69
 
 # Evaluation result data (large JSON files)
 evaluation/results/
+evaluation/Vis/
 
 # Codex / Claude local state
 .codex

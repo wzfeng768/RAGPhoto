@@ -149,7 +149,7 @@ def load_evaluation_questions(sample_size: int = 0):
     print_step(1, "加载评估问题", f"从Question.csv加载问题")
     
     try:
-        question_loader = QuestionLoader("/home/wzfeng/RAGPhoto/Data/Question.csv")
+        question_loader = QuestionLoader("/data/wzfeng/RAGPhoto/Data/Question.csv")
         
         if sample_size > 0:
             questions = question_loader.get_sample_questions(n=sample_size)
@@ -291,7 +291,7 @@ def run_ragas_evaluation(eval_data: List[Dict]):
     
     try:
         # 初始化RAGAS评估器
-        csv_path = "/home/wzfeng/RAGPhoto/Data/Question.csv"
+        csv_path = "/data/wzfeng/RAGPhoto/Data/Question.csv"
         evaluator = RAGASEvaluator(questions_csv_path=csv_path)
         
         print(f"✓ RAGAS评估器初始化完成")

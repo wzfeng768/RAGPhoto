@@ -14,7 +14,7 @@ from pathlib import Path
 class RAGPhoto5Loader:
     """Loader for RAGPhoto_5 components"""
     
-    RAGPHOTO5_PATH = '/home/wzfeng/RAGPhoto/Data_Agentic_RAG/data_pipeline'
+    RAGPHOTO5_PATH = '/data/wzfeng/RAGPhoto/Data_Agentic_RAG/data_pipeline'
     _components_loaded = False
     _cached_components = None
     

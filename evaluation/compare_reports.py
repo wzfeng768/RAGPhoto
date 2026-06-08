@@ -540,7 +540,7 @@ def save_common_qa_to_file(common_data, output_path):
 
 def main():
     # 定义文件路径
-    base_dir = Path("/home/wzfeng/RAGPhoto/Data_Agentic_RAG/evaluation/results")
+    base_dir = Path("/data/wzfeng/RAGPhoto/Data_Agentic_RAG/evaluation/results")
     
     # 自动发现所有报告文件
     print("=" * 100)

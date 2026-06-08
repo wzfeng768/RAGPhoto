@@ -266,7 +266,7 @@ def main():
         args.model = None
     
     # 配置路径
-    base_dir = Path('/home/wzfeng/RAGPhoto/Data_Agentic_RAG/evaluation')
+    base_dir = Path('/data/wzfeng/RAGPhoto/Data_Agentic_RAG/evaluation')
     results_dir = base_dir / 'results'
     output_base = base_dir / 'results_filtered'
     # 确定执行模式

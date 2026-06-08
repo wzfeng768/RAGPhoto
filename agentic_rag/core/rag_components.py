@@ -43,7 +43,7 @@ class RAGComponents:
         
         try:
             # Strategy: Use absolute imports with fully qualified names
-            ragphoto5_path = '/home/wzfeng/RAGPhoto/Data_Agentic_RAG/data_pipeline'
+            ragphoto5_path = '/data/wzfeng/RAGPhoto/Data_Agentic_RAG/data_pipeline'
             
             # Save original state
             original_path = sys.path.copy()
@@ -108,7 +108,7 @@ class RAGComponents:
                             del sys.modules[k]
                     
                     # Temporarily set path
-                    ragphoto5_path = '/home/wzfeng/RAGPhoto/Data_Agentic_RAG/data_pipeline'
+                    ragphoto5_path = '/data/wzfeng/RAGPhoto/Data_Agentic_RAG/data_pipeline'
                     temp_path = sys.path.copy()
                     sys.path.clear()
                     sys.path.append(ragphoto5_path)
@@ -312,7 +312,7 @@ class RAGComponents:
         try:
             # Use data_pipeline's RerankerModel which has proper /rerank API
             import sys
-            ragphoto5_path = '/home/wzfeng/RAGPhoto/Data_Agentic_RAG/data_pipeline'
+            ragphoto5_path = '/data/wzfeng/RAGPhoto/Data_Agentic_RAG/data_pipeline'
             if ragphoto5_path not in sys.path:
                 sys.path.insert(0, ragphoto5_path)
             

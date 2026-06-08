@@ -7,7 +7,7 @@ import sys
 from pathlib import Path
 
 # Add data_pipeline to path BEFORE any other imports
-RAGPHOTO5_PATH = '/home/wzfeng/RAGPhoto/Data_Agentic_RAG/data_pipeline'
+RAGPHOTO5_PATH = '/data/wzfeng/RAGPhoto/Data_Agentic_RAG/data_pipeline'
 if RAGPHOTO5_PATH not in sys.path:
     sys.path.insert(0, RAGPHOTO5_PATH)
 

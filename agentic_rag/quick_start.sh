@@ -5,8 +5,8 @@
 
 set -e
 
-PROJECT_ROOT="/home/wzfeng/RAGPhoto/Data_Agentic_RAG/agentic_rag"
-RAGPHOTO5_ROOT="/home/wzfeng/RAGPhoto/Data_Agentic_RAG/data_pipeline"
+PROJECT_ROOT="/data/wzfeng/RAGPhoto/Data_Agentic_RAG/agentic_rag"
+RAGPHOTO5_ROOT="/data/wzfeng/RAGPhoto/Data_Agentic_RAG/data_pipeline"
 
 # Colors
 GREEN='\033[0;32m'

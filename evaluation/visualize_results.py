@@ -518,9 +518,9 @@ def create_simple_correctness_chart(data: dict, output_path: str):
     fig, ax = plt.subplots(figsize=(8, 6))
 
     # Define mode order - collect values properly
-    x_labels = ['Direct LLM', 'Agentic No KG', 'Agentic With KG']
+    x_labels = ['RAGPhoto_LLM', 'RAGPhoto_no_kg', 'RAGPhoto_kg']
     values = []
-    
+
     # Direct LLM
     direct_value = 0
     for key in ['direct_llm (non-zero)', 'direct_llm']:
@@ -530,7 +530,7 @@ def create_simple_correctness_chart(data: dict, output_path: str):
                 direct_value = v
             break
     values.append(direct_value)
-    
+
     # Agentic No KG
     no_kg_value = 0
     for key in ['agentic_no_kg (non-zero)', 'agentic_no_kg']:
@@ -540,7 +540,7 @@ def create_simple_correctness_chart(data: dict, output_path: str):
                 no_kg_value = v
             break
     values.append(no_kg_value)
-    
+
     # Agentic With KG
     with_kg_value = 0
     for key in ['agentic_with_kg (non-zero)', 'agentic_with_kg']:
@@ -638,10 +638,10 @@ def create_nonzero_count_chart(data: dict, output_path: str):
     
     fig, ax = plt.subplots(figsize=(8, 6))
     
-    x_labels = ['Direct LLM', 'Agentic No KG', 'Agentic With KG']
+    x_labels = ['RAGPhoto_LLM', 'RAGPhoto_no_kg', 'RAGPhoto_kg']
     counts = []
     total_counts = []
-    
+
     # Direct LLM - 真实计算非零问题数
     for key in ['direct_llm (non-zero)', 'direct_llm']:
         if key in data:

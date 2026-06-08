@@ -367,7 +367,7 @@ def main():
     model_name = args.model
     
     # 动态定义路径
-    base_dir = Path(f"/home/wzfeng/RAGPhoto/Data_Agentic_RAG/evaluation/results/{model_name}")
+    base_dir = Path(f"/data/wzfeng/RAGPhoto/Data_Agentic_RAG/evaluation/results/{model_name}")
     output_file = base_dir / "dual_condition_report.txt"
     
     if not base_dir.exists():

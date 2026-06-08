@@ -61,7 +61,7 @@ def print_help():
 def load_example_questions() -> List[str]:
     """加载示例问题"""
     try:
-        question_loader = QuestionLoader("/home/wzfeng/RAGPhoto/Data/Question.csv")
+        question_loader = QuestionLoader("/data/wzfeng/RAGPhoto/Data/Question.csv")
         questions = question_loader.get_sample_questions(n=10)
         return [q['question'] for q in questions]
     except:

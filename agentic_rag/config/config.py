@@ -148,8 +148,8 @@ class Config:
         # ========================================
         # Data Source and Text Processing
         # ========================================
-        self.data_source = os.getenv("DATA_SOURCE", "/home/wzfeng/RAGPhoto/Data/AI_MDs")
-        self.project_root = os.getenv("PROJECT_ROOT", "/home/wzfeng/RAGPhoto/Data_Agentic_RAG/agentic_rag")
+        self.data_source = os.getenv("DATA_SOURCE", "/data/wzfeng/RAGPhoto/Data/AI_MDs")
+        self.project_root = os.getenv("PROJECT_ROOT", "/data/wzfeng/RAGPhoto/Data_Agentic_RAG/agentic_rag")
         self.test_mds_path = self.data_source
         
         # Text Splitting Configuration (for RAGPhoto_5 compatibility)
@@ -173,7 +173,7 @@ class Config:
         # ========================================
         self.ragphoto5_path = os.getenv(
             "RAGPHOTO5_PATH", 
-            "/home/wzfeng/RAGPhoto/Data_Agentic_RAG/data_pipeline"
+            "/data/wzfeng/RAGPhoto/Data_Agentic_RAG/data_pipeline"
         )
     
     def to_dict(self) -> dict:

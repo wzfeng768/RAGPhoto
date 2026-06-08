@@ -1541,7 +1541,7 @@ def main():
     if args.min_models is not None:
         args.common_qa = True
         
-    base_dir = Path('/home/wzfeng/RAGPhoto/Data_Agentic_RAG/evaluation')
+    base_dir = Path('/data/wzfeng/RAGPhoto/Data_Agentic_RAG/evaluation')
     results_dir = base_dir / 'results'
     visualize_dir = results_dir / 'visualize_results'
     
